@@ -1,0 +1,190 @@
+console, load, StartupContest2021/twoday/Collapsing Canyon
+   1
+
+#lvl_a-01
+  76
+   6,R,Z
+   1,R,J
+   7,R
+   1,R,J
+  14,R,D,X
+   1,R,J
+  14,R,D,X
+   1,R,J
+  14,R,D,X
+   1,R,J
+   7,R,D,X
+  40
+
+#lvl_a-01watchroom (1)
+   7,R
+   1,R,J
+   7,R
+  42,R,J
+   4,L
+   1,J
+  30,R,J
+   4,R,K,G
+  12,L,J
+   2,R,J
+  15,R,U,X
+  24,R,D
+  10,D
+   8,L,D
+  40
+
+#lvl_a-03
+   6,U,X
+  40
+
+#lvl_a-01watchroom (2)
+   2,L
+  72,O
+   4,D,X
+   1,R,J
+   7,R
+   7,R,J
+  40
+
+#lvl_d-01
+  12,R,J
+  12,U,X
+  10,R,J
+  29,R
+   1,R,G
+  12,R,J,G
+  22,G
+   5,R,K,G
+   2,R,J,G
+  15,R,Z
+  24,R,D
+  29,R,X
+   8,R,Z
+  61
+
+#lvl_d-02 (1)
+   2,R
+   3,R,J
+   1,R,K,G
+  10,R
+   1,R,J
+   1,R
+  14,R,D,X
+   1,R,J
+  20,L,D,C
+  20,R,D
+   5,L,D
+  40
+
+#lvl_d-03
+  11,L,D
+   1,L,J
+  21,L
+  13,L,D
+  25,L,Z
+  15,L,X
+   1,G
+   1
+   1,K
+  24,L,K
+   8,L,J,G
+   1,L,K,G
+  27,L,D
+  21,U,X
+  15,L,U,C
+  15,L,D,X
+  18,D,C
+  22,L,X
+  12,U,C
+   1,S
+   1,D,J
+  69,O
+   6,R,J
+  15,U,X
+  40
+
+#lvl_d-02 (2)
+  11,R,J
+  11,U,X
+  18,L,J
+   7,R,K
+   6,R,J
+   1,R,K,G
+   4,R,J,G
+   7,R
+   4,D,X
+   1,R,J
+   7,R
+   1,R,J
+   3,R
+  14,R,D,X
+   4,R,J
+   7,R,D,X
+   3,R,J,G
+  14,R
+   2,R,J
+   7,R,Z
+  16,L,J
+  19,D
+   8,L
+  30,R,D
+  40
+
+#lvl_d-04
+   2,R,D
+  15,D
+   2,L,D
+   1,J
+  18,L,D
+   1,J
+  21,L,D,X
+  19,L,C
+  24,D,X
+   7,R,D
+  15,L,X
+  40,R,D
+  20,R,X
+  15,R,D,C
+  35,L
+   7,L,D
+   1,S
+   1,D,J
+  69,O
+  17,R,J
+  15,U,X
+  40
+
+#lvl_d-02 (3)
+   1
+   6,L,J
+  12,R,J
+  14,U,X
+  11,R,J
+  11,R
+  12,R,Z
+   1,R,J
+   7,R
+   4,R,J
+   1,R,K,G
+  11,R,D,X
+  33,L,J
+  57,D,X
+   3,L,K
+   2,L
+  10,R,D,X
+   7,R,J
+   8,R,D,X
+   2,R,J,G
+   5,R
+   1,R,J,G
+  12,R
+   1,R,J
+  14,R
+   1,R,J
+   8,R
+  61
+
+#lvl_d-05
+   6,R
+   2,R,J
+  90,R,D
