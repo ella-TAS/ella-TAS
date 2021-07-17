@@ -532,5 +532,89 @@ console load dsides/4-Ridge
   10,R,X
   11,L,J
    7,L
+  14,U,X
+   8,R,J
+  40
+
+#lvl_c01
+  14,R
+  14,R,X
+   8,L,J
+  14,R,Z
+  10,R,J
+  10,R
+  22,R,D,X
+  19,R,J
+  30,R,X
+  10,R,Z
+   8,R,J
+  15,U,X
+  17,R
+   2,L
+   4,L,J
+   8
+  14,R,Z
+  18,R,J
+  19,R,D,X
+  12,R,J
+  10,R,Z
+   1,R,J
+   4,R
+   8,R,D,X
+  40
+
+#lvl_c02
+   6,R
+   1,R,J
+  15,R,D,X
+  12,R,J,G
+  11,R,K,G
+   1,R,J,G
+   1,R,K,G
+   9,R
+   4,D,X
+   1,R,J
+  20,R,D
+  15,D,X
+   2,L,D
+  28,L,X
+   1,G
+   1,J,G
+  13
+  58,G
+   5
+   7,G
+   1,R,J
+  30,R,D
   16,U,X
-  90,L,J
+  22,R,J
+  15,R,X
+ 130,R,G
+   1,L,J
+   5,R,J
+  11,R,Z
+  11,R,J,G
+   1,R,K,G
+   1,R,J,G
+   1,R,K,G
+  10,R
+   1,R,J
+  11,R,D,X
+   1,L,J
+   7,L
+  14,L,D,X
+   2,L,J
+  14,R,D,X
+   1,R,J
+  14,L,D,X
+   1,R,J
+  15,R,D,X
+  14,L,D,C
+   1,R,J
+   6,R
+  11,L,D,X
+   1,R,J
+   7,R
+  40,R,J
+  15,R,X
+  15,R,D
