@@ -1,0 +1,38 @@
+console load dsides/5-Temple
+   1
+
+#Start
+#lvl_a01
+  78
+#-2f w/o archie
+#   4,R
+#   9,R,J
+  15,R,U,Z
+  17,U,X
+   9,R,Z
+   8,R,J,G
+  32,R,D
+  23,R,U,X
+   9,R,C
+  10,R,J,G
+  25,R,D,X
+   8,R,Z
+   1,R,J,G
+   1,R,K,G
+   7,R
+  16,R,X
+  15,D,C
+  29,U,X
+   7,R,Z
+   1,R,J,G
+  26,R,D
+  15,R,X
+  15,R,U,C
+  16,R,D,X
+  15,R,Z
+  38,R,X
+  15,U,C
+  18,R,J
+  40
+
+#lvl_a02
