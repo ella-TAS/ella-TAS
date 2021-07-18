@@ -3,41 +3,43 @@ console load dsides/0-Prologue
 
 #Start
 #lvl_a01
- 190
+ 144
    1,R,J
   14,R
    1,R,J
   14,R
    1,R,J
   16,R
-   9,R,J
+   6,R,J
    1,R
-   7,R,K
-   3,R
-   1,R,J
-  14,R
-   5,R,J
-   1,R,K,G
+   5,R,K
+   5,R
    1,R,J,G
+   1,R,K,G
+  10,R
+   2,R,J
+   4,R
+   2,L
+   1,R,J,G
+   1,R,K,G
   10,R
    1,R,J
   14,R
    1,R,J
-   2,R
   40
 
 #lvl_a02
-  12,R
-   1,R,J
   14,R
    1,R,J
   14,R
    1,R,J
   14,R
-   6,R,J
+   1,R,J
+  14,R
+   2,R,J
    1,R
    6,R,K
-  13,R
+  10,R
    1,R,J
   14,R
    7,R,J
@@ -51,17 +53,16 @@ console load dsides/0-Prologue
    1,R,J,G
    1,R,K,G
    9,R
-   6,R,J
+   5,R,J
    1,R
    5,R,K
-   1
    1,R
-   2,L
-  10,R
+   1,L
+  12,R
    1,R,J,G
    1,R,K,G
   45,R
-  14,D
+  13,D
   50,R,D
    1,R,J
   14,R
@@ -79,5 +80,5 @@ console load dsides/0-Prologue
    1,S
    1,D,J
  200
-#13.413(789)
+#13.209(777)
   31
