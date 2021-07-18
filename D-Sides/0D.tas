@@ -67,13 +67,13 @@ console load dsides/0-Prologue
    1,R,K,G
   13,R
   31
-  13,R,D
-  50,R,D
+  63,R,D
    1,R,J
   14,R
-  12,R,J
-  13,R
-   5,L,K
+  19,R,J
+   4,R
+   2,L
+   4,L,K
   52,R,D
    1,R,J
    1
@@ -83,5 +83,5 @@ console load dsides/0-Prologue
    1,S
    1,D,J
  200
-#13.073(769)
+#13.056(768)
   31
