@@ -1,0 +1,261 @@
+console load DreamBlockContest2021/1-Submissions/quinnigan
+   1
+
+#Start
+#lvl_Quinnigan0
+ 190
+  10,R,D,X
+   4,R,J
+  12,R,K,G
+  27,U,X
+  35,U,C
+  15,L,U,X
+   4,L,J
+   4,L,K
+  16,U,X
+  20,R,J
+
+#lvl_Quinnigan1
+  40
+   3
+   8,R
+  31,U,X
+  33,R,C
+   5,R,J
+  23,R,K
+  28,U,X
+   5,R
+  35,R,X
+   5,R,J
+   3,R,K
+  20,R,D
+   4,D
+  47,D,X
+  10,R,D,C
+   1,R,J
+   4,R
+  13,R,D,X
+
+#lvl_Quinnigan2
+  40
+   1,R
+   1,R,J
+  14,R,D,X
+   1,R,J
+   5,R
+  17,R,U,X
+   5,R,J
+   2,R,K
+  27,U,X
+  25,L,C
+   5,L,J
+  24,R,X
+   5,R,J
+   4,R
+  28,D,X
+  23,D,C
+  37,D,X
+  22,R,U,C
+  22,L,X
+  16,L,K
+  21,U,X
+   2,R,J,G
+  49,R,X
+   5,R,J
+  20,R,K
+  35,U,X
+   5,R
+  22,R,X
+  36,D,C
+   1,R,D
+  29,R,Z
+   5,R,J
+   1,R,K
+   6,R,D
+  18,R,D,X
+   1,R,J
+  12,R,D,X
+
+#lvl_Quinnigan3
+  40
+   2,R
+   1,R,J
+  11,R,D,X
+  11,R,J
+  87,U,X
+   7,L,D
+  41,D
+  32,R,Z
+  43,L,D,X
+  27,R,Z
+   5,R,K
+   1,R,J
+  28,R,D
+  25,D,X
+  26,L,C
+  18,R,X
+   5,R,J
+   1,R,K
+  27,R,Z
+   5,R,J
+   1,R,K
+  19,R,D
+   4,J
+  39,R
+  28,D,X
+  43,L,Z
+   5,L,J
+   1,L,K
+  29,U,X
+  33,U,C
+   6
+   4,R
+  44,U,X
+  16,L,U,C
+   8,R,J
+  16,R,X
+   5,R,J
+  11,R,K
+  11,R
+  20,R,D,X
+   1,R,J
+  14,R,D,X
+   1,R,J
+   9,R,X
+
+#lvl_Quinnigan4
+  40
+   4,R
+  10,R,J
+  31,R,X
+   5,R,J
+   8,R,K
+  23,R,U,X
+   4,R,J
+  11,R,K
+   1,R
+  13,R,K
+  11,R
+  55,R,Z
+   7,R,J
+  20,R,K
+   1,R
+   4,R,K
+  15,R
+   2,R,D
+  17,R,U,Z
+  40
+
+#lvl_Quinnigan7
+   8,R
+   3,L
+  15,U,Z
+   8,L
+   1,J,G
+   2,R,J
+   5,L,J
+   5,L,K,G
+  11,R,J
+  11,L,K
+  11,R,J
+  11,L,K
+  11,R,J
+   3,R,K,G
+  15,R
+   3,R,J
+  10,R
+  29,R,X
+   4,R,J
+   1,R,K
+  19,R,D
+  30,D,X
+  31,R,C
+  12,R
+  15,R,Z
+  40
+
+#lvl_Quinnigan6 (1)
+   5,D,X
+  72,O
+   5,R,J
+   2,R
+  31,R,X
+   5,L,J
+  16,L,U,Z
+   5,L,J
+  49,U,X
+   3,D
+  32,L,D
+  27,R,D,X
+   1,R,K
+   9,R,D
+  27,R,Z
+   1,R,J
+  12,R,D
+  17,R,U,Z
+   9,L,J
+  18,L
+   1,L,J
+   2,L
+  45,D,X
+   2,R,D
+  52,R,Z
+   5,R,J
+  22,L,D,X
+  19,U,C
+  43,U,X
+  19,L,D,C
+   8,R,D
+  18,R,Z
+   4,R,J
+  17,R,K
+   1,R
+  17,R
+  10,R,U,X
+  40
+
+#lvl_Quinnigan5
+   5,R
+   6,R
+  13,L,U,Z
+  40
+
+#lvl_Quinnigan6 (2)
+   3,L
+  18,U,X
+   3,L,J,G
+  40
+
+#lvl_Quinnigan5s
+  73,O
+   4,D,X
+   2,R,J
+   6,R
+  40
+
+#lvl_Quinnigan5
+   2,R
+   1,R,J
+  15,R,D,X
+   4,R,J
+   3,R,K
+  63,R,X
+   4,R,J
+   3,R,K
+   2,R
+  14,R,D,X
+   1,R,J
+  12,R,D,X
+
+#lvl_Quinnigan8
+  40
+   2,R
+   1,R,J
+  14,R,D,X
+   2,R,J
+  14,R,U,X
+  83,R,D
+   1,D,X
+   1,L,J
+  50,L
+#56.423(3319)

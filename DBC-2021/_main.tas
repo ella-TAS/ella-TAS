@@ -1,0 +1,63 @@
+unsafe
+read, start
+read, lobby-0, Start
+   1
+read, forsaken_site, Start
+ 128
+read, lobby-1, Start
+   1
+read, falling-conscience, Start
+ 128
+read, lobby-2, Start
+   1
+read, dream-dimenison, Start
+ 128
+read, lobby-3, Start
+   1
+read, minerva, Start
+ 128
+read, lobby-4, Start
+   1
+read, Warped_Trail, Start
+ 128
+read, lobby-5, Start
+   1
+read, dreamy-bubbles, Start
+ 128
+read, lobby-6, Start
+   1
+read, Floating_Parachute, Start
+ 128
+read, lobby-7, Start
+   1
+read, Into_The_Castle, Start
+ 128
+read, lobby-8, Start
+ 124
+   1,J
+ 320
+   1,J
+ 136
+read, galaxy-burst, Start
+ 128
+read, lobby-9, Start
+   1
+read, Floating_City, Start
+ 128
+read, lobby-10, Start
+   1
+read, powernap, Start
+ 128
+read, lobby-11, Start
+   1
+read, lucid-cliffside, Start
+ 128
+read, lobby-end, Start
+  58
+   1,J
+ 360
+   1,J
+ 194
+   1,J
+  46
+read, lobby-reenter, Start

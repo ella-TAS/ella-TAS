@@ -1,0 +1,196 @@
+console load DreamBlockContest2021/1-Submissions/phrog
+   1
+
+#Start
+#lvl_phrog-1
+ 190
+   4,D,X
+   1,R,J
+   8,R
+   2,R,J
+  27,U,X
+   7,L,D
+  12,R,D
+  18,R,X
+   4,R,J
+   1,R,K
+   1,R
+   2,R,K
+  40
+
+#lvl_phrog-2
+   2,R,K
+   1,R
+  13,R,K
+  16,R,X
+  10,R,D,C
+  15,R,X
+   4,R,J
+   1,R,K
+   2,R
+  15,R,D,X
+   2,R,D
+   2,R,J
+   7,R
+  40
+
+#lvl_phrog-3
+  14,R,X
+  65,R,X
+  26,D,C
+  12,R,X
+   5,R,J
+  22,R,K
+  15,U,X
+   2,R
+  13,L,J
+   6,R,J
+  12,K,G
+   2,J,G
+  40
+
+#lvl_phrog-4
+  11,R
+   5,U,X
+  14,R,J
+   1,R,K
+   9,R
+   2,R,J
+  31,R,X
+  24,R
+  43,U,X
+  39,R,D,C
+  21,U,X
+   9,R,C
+   5,R,J
+   7,R,K
+  18,R,D
+  25,L,D
+  16,R,D
+  10,R,Z
+   1,R,J
+   3,R
+  40
+
+#lvl_phrog-5
+   4,R
+   1,R,J
+  38,R,X
+  21,D,C
+  23,L,X
+  19,R,C
+  21,D,X
+  16,R,C
+  12,U,X
+  18,D,C
+  18,L,X
+   5,L,J
+   1,L,K
+   5,L
+  15,L,D,X
+   2,L,J
+   3,L,K,G
+   9,L,Z
+  40
+
+#lvl_phrog-6
+  67,L
+  19,D,X
+  42,L,C
+  18,L,D,X
+   4,L,J
+   1,L,K
+  12,L
+  14,L,Z
+   1,L,J
+  10,L,D,X
+  40
+
+#lvl_phrog-7
+   4,L
+   1,L,J
+  39,L,D,X
+  22,D,C
+  29,L,X
+   4,L,J
+   4,L,K
+  13,L
+  16,L,X
+  24,U,C
+  39,L,D,X
+  26,U,C
+   6,L,X
+   4,L,J
+   4,D,X
+   1,L,J
+   9,L
+   1,L,J
+  11,L,D,X
+   1,L,J
+  40
+#lvl_phrog-8
+   3,L,J
+   3,L,K,G
+  53,L,Z
+  13,L,D
+  31,L,U,Z
+  43,L,X
+  37,L,U,C
+  13,D,X
+   5,L,C
+   4,L,J
+   1,L,K
+  22,L,D,X
+   1,L,J
+   1,L
+  40
+
+#lvl_phrog-end?
+  13,L
+  14,L,J
+  51,U,X
+
+#lvl_phrog-9
+  20,R,D
+   1,G
+  71,R,Z
+   4,R,J
+  10,R,K
+  28,U,X
+  32,R,C
+  44,D,X
+  34,L,C
+  23,R,U,X
+   5,R,J
+  17,R,D,X
+  24,R,U,C
+   5,R,J
+   2,R
+  25,R,G
+   4,L
+   1,R,J,G
+   3,R,K,G
+   3,R,J,G
+   1,R,K,G
+  23,R,D
+  11,R,Z
+   1,R,J
+   3,R
+   6,R,D,X
+  40
+
+#lvl_phrog-9
+   8,R
+   7,R,J
+   5,R,K,G
+  27,U,X
+  45,R,C
+   4,R,J
+   1,R,K
+  28,R,U,X
+   1,R,J,G
+   1,R,K,G
+   1,R,J,G
+   1,R,K,G
+ 110,J
+#39.797(2341)
