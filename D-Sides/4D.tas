@@ -554,25 +554,30 @@ console load dsides/4-Ridge
   14,R,Z
   18,R,J
   19,R,D,X
+   1,R
   12,R,J
-  10,R,Z
+   1,R
+   9,R,Z
    1,R,J
-   4,R
-   8,R,D,X
+   6,R
+   1,R,J
+   5,R,D,X
   40
 
 #lvl_c02
-   6,R
+   9,R,D,X
    1,R,J
-  15,R,D,X
+   7,R
+   1,G
   12,R,J,G
   11,R,K,G
    1,R,J,G
    1,R,K,G
-   9,R
-   4,D,X
+  11,R
+   4,R,Z
    1,R,J
-  20,R,D
+  10,R,D
+  10,L,D
   15,D,X
    2,L,D
   28,L,X
@@ -587,58 +592,56 @@ console load dsides/4-Ridge
   16,U,X
   22,R,J
   15,R,X
- 130,R,G
-   1,L,J
-   5,R,J
-  11,R,Z
-  11,R,J,G
+  90,G
+  28,U,G
+   1,U,G
+   1
+   1,J
+   6,R
+   6,R,J
+  14,R,Z
+   1,R,J,G
+   5,K,G
+   7,R,J,G
+   5,L,J
+  21,L,D
+   1,L
+   2,R,D
+   5,R,Z
+   1,R,J
    1,R,K,G
    1,R,J,G
-   1,R,K,G
-  10,R
-   1,R,J
-  11,R,D,X
-   1,L,J
-   7,L
-  14,L,D,X
-   2,L,J
-  14,R,D,X
-   1,R,J
-  14,L,D,X
-   1,R,J
-  15,R,D,X
-  14,L,D,C
-   1,R,J
-   6,R
-  11,L,D,X
-   1,R,J
-   7,R
-  40,R,J
-  15,R,X
-  15,R,D
-   4,D,X
-   1,R,J
-   6,R
+   9,R
+   4,R,D
+  24,R,J
+  21,R,D,X
+   1,R
   40
 
 #lvl_c03
-   5,R,J
-  16,R,D,X
-   1,L,J
-   1,R
-  23,D,X
-   4,R,D
-   3,R,J,G
-   1,R
-  13,R,K
-   6,R
+   1,R,D,J
+   5,R
+   2,R,J
+  15,D,X
    1,R,J
-  18,R
-  25,D
-   5,J
-  12,R,J
+  15,D,X
+   9,R,D
+   1,R
+   1,R,J,G
+   3,R,K,G
+   5,R
+  14,R
+  15
+  12,R
+   3,R,J
+   4,J
+   4,R,J
+   3,R
+   2
   15,U,X
-  34,R,D
+   1,R
+   1,R,J,G
+  28,R,D
   15,R,X
   11,U,C
   42,R,J
@@ -1137,4 +1140,4 @@ console load dsides/4-Ridge
   14,R,X
 
  135
-#170.068(10004)
+#168.079(9887)
