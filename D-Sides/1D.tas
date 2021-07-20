@@ -139,80 +139,91 @@ console load dsides/1-ForsakenCity
   19,R,J,G
   10,R,K,G
    7,R
-   4,R,J
-  12,U,X
-   5,R,J
+   1,R,J
+  14,U,X
+   5,J
   40
 
 #lvl_a05
-  12,R
-  15,U,X
-  11,L,G
-  19,R,D
-   1,R,J
-   8,R
-  12,U,X
-  18,R,J
-   6,R
-  10,R,J
-  10,R
-  10,J,G
-   9,R,G
-   9,D
-   3,L,D
-   8,L,J
-  10,L
-  10,U,X
-  42,L,J
-   2,L,K,G
-  10,L
-   1,J
-   2,L,J
-  15,U,X
-   6
-   4,L
-   1,L,G
-  11,J,G
-   1,R,J,G
-   8,L,G
-   4,R,J
-   8,R,G
-   8,R,J,G
-  25,R,G
-   2,R,U,G
-   1,J,G
-   1,R,K,G
-  27,R,K
-  15,R,G
-   6,J,G
-   1,L
-  17,R,G
-  10,L,J
-  15,L,G
-   6,J,G
-  23,R,K
-   8,L,G
-   1,J
-   8,L,J
-  13,L
-  31,R,J
-  16,R,U,Z
+  12,L
+   5,R,U,X
+  10,L,G
    1,L,J,G
    1,L,K,G
-   4,K
+   7,L
+   1,L,G
+  15,R,D
+  12,J
+   7
+   1,L,G
+   1,J,G
+   1,L,K,G
+   1,L,J,G
+   7,R,J
+  17,R
+  15,R,U,X
+   3,R,J,G
+   1,L,J,G
+   5,R,J,G
+   8,R,G
+   6,L
+   1
+   2,L
+  11,J
+   1,R,J
+   5,K,G
+   8,R,G
+   1,J,G
+   1,R,K,G
+   1,R,J,G
+   7,L,J
+   5,L
+   3,L,J
+  10,L
+  15,L,U,X
+   9,L
+   3,L,J
+  15,U,X
+  11,L,G
+  10,J,G
+   1,R,J
+   1,L,J
+   8,R,K
+   7,R
+   1,R,G
+  11,R,J,G
+  25,R,G
+   2,R,J,G
+  12,R,K,G
+  11,R
+  35,R,G
+  22,L,J
+   1,L
+  18,L,G
+   3,L,J,G
+   1,R
+  16,R,K
+   1,L,J,G
+  31,R,K
+  15,R,U,Z
+   3,R
+   1,L,J,G
+   3,L,K,G
+   1,J
   40
 
 #lvl_b01
-   1,R,K
-  10,R
-   4,Z
+   2,L
    1,R,J
-  12,R
-  14,R,J
+  10,R
+   6,R,D,X
+   1,R,J
+  11,R
+  13,R,J
   17,U,X
    2,R,J,G
    7,R
-  13,R,Z
+  14,R,Z
    9,R,J
   12,R
    8,R,Z
@@ -338,7 +349,6 @@ console load dsides/1-ForsakenCity
   26,R,J
   14,U,X
    7,R,J
-
   40
 
 #lvl_c01
@@ -410,7 +420,6 @@ console load dsides/1-ForsakenCity
    1,R,J,G
   10,R
    4,R,J
-
   40
 
 #lvl_c02
@@ -445,7 +454,6 @@ console load dsides/1-ForsakenCity
   18,U,X
   15,R,U,Z
   16,R,J
-
   40
 
 #lvl_c03
@@ -472,7 +480,6 @@ console load dsides/1-ForsakenCity
    7,R,Z
    1,R,J
   13,R,D
-
   40
 
 #lvl_c04
@@ -531,7 +538,6 @@ console load dsides/1-ForsakenCity
   10,R,D,X
    1,R,J
    3,R
-
   40
 
 #lvl_d01
@@ -647,5 +653,4 @@ console load dsides/1-ForsakenCity
   84,R,D
   15,U,X
   36
-#87.822
-#86.581(5093)
+#85.748(5044)
