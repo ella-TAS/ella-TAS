@@ -3,12 +3,15 @@ console load dsides/1-ForsakenCity
 
 #Start
 #lvl_a01
-  76
-  14,Z
-   5,R,J
-   7,U,X
+  99
+   4,Z
+   1,R,J
+   7,R
+   5,R,D,J
+   6,U,X
    9,R
-   5,L,J
+   1,L,J
+   4,L
   15,U,X
    3,R
    2,R,J,G
@@ -25,41 +28,38 @@ console load dsides/1-ForsakenCity
    2,L,D
   12,R
   15,U,X
-   2,R
-   2,R,J
-  19,R
-  12,R,J,G
-  11,R
-   1
    1,R
-   3
-  10,L
-  15,D,X
-  10,D
-  10,R,D
-   2,D
-  15,R,U,Z
-   8,L,J,G
-  22,R
-  14,R,D,X
-   1,R,J,G
-  14,R
+   2,R,J
+   5,R
+   1,L
+   3,R
+   2,R,J
+   9,R
+  11,R,J,G
+   5,R
+   2,R,J
+  24,R
+   9
+   1,R
    1,R,J
-
-  14,R,D,X
+   9,D,X
+  28,R
+  15,R,D,X
+   7,R
+   6,R,Z
    1,R,J
-
+   7,R
+   1,R,J
+   5,R,D,X
   40
 
 #lvl_a02
-  12,R,D,X
-   7,R,J
-   1,K,G
-   6
+   1,R,J
+   3,R
+   4,L
+   9,R,D,J
    1,L
-   7
-   3,J,G
-   6,R,J,G
+   8,L,J
   12,R,K
   11,J,G
    1,L,J
@@ -78,9 +78,8 @@ console load dsides/1-ForsakenCity
    1,K,G
    1,J,G
   25,R,K,G
-  14,U,X
+  14,U,Z
   11,R,J
-
   40
 
 #lvl_a03
@@ -125,31 +124,24 @@ console load dsides/1-ForsakenCity
    2,R,K
    2,L,J
    1,R,K,G
-
   40
 
 #lvl_a04
    1,L,J
   10,L
-   5,L,Z
+   4,L,Z
    1,R,J
    7,R
   27,R,J
-
   11,R,U,Z
-  12,R,J
-   5,R
-   1,R,J
+   8,R,J
    4,R
-   4
-   1,L,J,G
-  13,R,J
-  11,R,K,G
-   8,R
-   1,R,J
-  14,U,X
+  19,R,J,G
+  10,R,K,G
+   7,R
+   4,R,J
+  12,U,X
    5,R,J
-
   40
 
 #lvl_a05
@@ -204,41 +196,40 @@ console load dsides/1-ForsakenCity
    8,L,J
   13,L
   31,R,J
-  15,R,U,Z
-   6,R,J
-
+  16,R,U,Z
+   1,L,J,G
+   1,L,K,G
+   4,K
   40
 
 #lvl_b01
-  11,R
-  10,R,D,X
+   1,R,K
+  10,R
+   4,Z
    1,R,J
-   6,R
-   2
-  10,R,Z
-   7,R,J,G
-   8,R
-  15,U,X
-   5,L,J,G
-   8,L
-   9,R,Z
+  12,R
+  14,R,J
+  17,U,X
+   2,R,J,G
+   7,R
+  13,R,Z
    9,R,J
   12,R
-  13,R,D,X
-   9,R,J
-   7,R
-  15,D,X
-  11,L
-   5,R,Z
+   8,R,Z
+  12,R,J
+   5,R
+  13,L
+  14,L,D,X
    1,R,J
+   1,R
+   7,R,D,X
+   1,R,J,G
    7,R
    1,R,J
    1,R
-  15,R,D,X
-  11,R
+  25,R,D,X
    2,R,J
    5,R,U,Z
-
   40
 
 #lvl_b02
@@ -250,43 +241,39 @@ console load dsides/1-ForsakenCity
    5,R
    4,R,J
   17,R
-   8,L,D,Z
+   8,L,D,X
   11,R
-   4,J,G
-  15,R
-   2,R,G
-   7,L
-   3
-   2,D
-   2,L,D
-   2,D
+   4,R,J,G
+  24,L,D
+   1,D
+   1,L,D
+   1,D
    1,L,D
    1,D
    1,L,D
    1,D
-   9,R,D
-   3,R
+   7,R,D
+   5,R
   11,R,U,Z
    9,R,J
    7,R
    2
   13,R
   11,Z
-
   40
 
 #lvl_b03
    3,R,Z
    1,R,J
   15,R,D
-   4,D
+   2,D
    1,R,G
-  19,D
+  20,D
    8,R,D
   15,R,Z
    4,R
   15,U,X
-   9,U,C
+   8,U,C
    9,R,J
    4,R,K,G
    1,R,J,G
@@ -311,7 +298,6 @@ console load dsides/1-ForsakenCity
    6,L,K
   15,U,X
   11,R,J
-
   40
 
 #lvl_b04
@@ -320,7 +306,6 @@ console load dsides/1-ForsakenCity
   14,R,D,X
    6,R,J
   10,R
-
   22,R,J
   11,U,X
   14,L,J
@@ -663,3 +648,4 @@ console load dsides/1-ForsakenCity
   15,U,X
   36
 #87.822
+#86.581(5093)
