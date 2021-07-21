@@ -206,13 +206,13 @@ console load dsides/5-Temple
    2,R,J
   28,R,D
   15,R,Z
- 106
+  93
+  14,L
   14,L,Z
-   1,L,J
-  14,R,Z
    1,R,J
-   2,R,K,G
-  14,R,D,X
+  15,R,D,X
+   1,R,J
+  12,R,D,X
   40
 
 #lvl_b02
@@ -303,7 +303,7 @@ console load dsides/5-Temple
    3,R,D
   32,R,X
   15,R,D,C
-   5,R
+   6,R
    1,R,J
   15,D,X
    1,R,D
@@ -343,9 +343,10 @@ console load dsides/5-Temple
   69,O
    9,L,J
   13,U,X
-  18,L,J
-   1,L,K,G
+  19,L,J
   40
+
+\
 
 #lvl_b05 (2)
   12,L,J,G
@@ -353,24 +354,47 @@ console load dsides/5-Temple
   10,L,X
    5,L,J
   14,U,X
-   9,L,J
-   1,L,K,G
-   1,L,J,G
-   1,L,K,G
-   1,L,J,G
+  11,L,J
    7,R,K
-  22,R
-  71,D
-   4,L
-  10,L,D,X
-   1,R,J
-   3,R
-   1,R,K,G
-  12,R,D,X
-  40
+   1,R,J,G
+   5,R,K,G
+  90,R
+  11,L,D,X
+   6,R,J
+  10,R,D,X
+   5,R,J
 
-#lvl_c01
-   2,R
-   8,R,J
-  14,U,X
- 900,R,J
+  58,R,U,Z
+  15,U,X
+  17,R,J
+   1,R,K
+  18,R,J
+   3,R
+   2,J
+  15,R,U,X
+  19,R,J
+   3
+  18,U,X
+   8,R
+   4,D,X
+   1,R,J
+   7,R
+  13,R,J
+  11,R,X
+   3,R,K,G
+   1,R
+   5,R,J
+  10,R,D
+   9,L,D
+   4,D,X
+   1,R,J
+   7,R
+  10,R,J
+  18,R
+  14,R,Z
+   1,R,J
+  15,R,D,X
+
+
+
+ 999,D
