@@ -611,4 +611,45 @@ console load dsides/2-OldSite
 
 #lvl_d03
    8,L,J
-  90,L,X
+  22,L,X
+   4,L,J
+   8,L,K
+  17,L,U,X
+   4,L,J
+  10,L,K
+  17,R,U,X
+   4,L,J
+   4,L,K
+   5,R,K
+   7,J,G
+   7,L,J
+  12,R,U,Z
+   7,R,J,G
+   3,R
+   3,L
+   3,R,J
+  11,R,K
+   3,R,J,G
+   5
+   3,J
+  25,R,D
+  24,L,Z
+   6,L,J
+  12,L,K
+  12,L,J,G
+   7,L,K,G
+   4,R,K
+  26,R,J
+   1,L,J
+   1,K
+   4,L,K
+   6,R,K
+  20,R,U,Z
+   4,L,J
+  10,L,K
+   1,L
+  15,L,K
+  65,U,X
+  40
+
+#lvl_e01
