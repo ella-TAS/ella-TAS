@@ -5,7 +5,6 @@ console load dsides/7-Summit
  250
 #lvl_a01
   74
-***s
    6,R,Z
    1,R,J
    7,R
@@ -44,11 +43,35 @@ console load dsides/7-Summit
    5,R
   19,R,X
   25,R,C
-***
   14,R,D,X
   38,R
   20,R,X
-***
   20,R,C
-   4,D,X
+  13,R,Z
    1,R,J
+   7,R
+  40
+
+#lvl_a02
+  21,R,J
+  16,U,X
+  17,R,J
+  15,R,U,X
+  16,R
+  14,L
+  22,R
+  15,U,X
+  15,L,U,C
+  10,G
+  12,L,J,G
+  12,L,K,G
+  11,J,G
+   1,R,J,G
+   1,K
+  24,L,K
+   5,L,D
+   2,L,J,G
+  37,L
+   8,R
+  15,R,Z
+  90,L,G
