@@ -650,9 +650,10 @@ console load dsides/2-OldSite
   65,U,X
   40
 
+***s
 #lvl_e01
-   3,K
-   9,R
+   1,K
+  10,R
   10,R,X
    6,R,J
   19,U,X
@@ -661,7 +662,7 @@ console load dsides/2-OldSite
   15,D,C
   15,D,X
   15,D,C
-   4
+   5
    6,R,J
   28,R,Z
    4,L,G
