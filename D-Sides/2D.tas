@@ -417,7 +417,8 @@ console load dsides/2-OldSite
    7,L
    1,L,J
   14,L,D,X
-   6,L,J
+   1,J
+   6,R,J
   31,U,X
    6,R,D,C
    1,R,J
@@ -552,19 +553,17 @@ console load dsides/2-OldSite
    1,L,J
   39,L,D
   10,L,D,X
-   1,L,J
-   7,L
-   3,L,J
-   4,R,J
-   4,L,K,G
+   9,L,J
+   3,R,J
+   5,L,K,G
  115,U,X
   15,U,C
   14,L
   22,D
   15,L,D,X
    8,R,J
-  11,K
-   2,L,K
+  10,K
+   3,L,K
    3,R,K
   12,R,J,G
    4,R,K,G
@@ -650,7 +649,6 @@ console load dsides/2-OldSite
   65,U,X
   40
 
-***s
 #lvl_e01
    1,K
   10,R
