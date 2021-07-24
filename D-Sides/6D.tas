@@ -45,7 +45,7 @@ console load dsides/6-Reflection
    3,R,J
    4,R
    4
-  43
+  40
 
 #lvl_a03
    1,J,G
@@ -135,7 +135,6 @@ console load dsides/6-Reflection
   14,R
   11,L,D
   13,L,D,X
-
    7,R
   39,L,D
   13,R,D
