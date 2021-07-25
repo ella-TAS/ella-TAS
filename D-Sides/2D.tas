@@ -700,13 +700,13 @@ console load dsides/2-OldSite
    5,D
    6,L,D
   13,R,D
-  12,R,D,C
-   1,R,J
-  14,R
+  13,R,D,C
+   2,R,J
   15,D,X
   15,D,C
   15,D,X
-  22,R,C
+  15,D,C
+  22,R,X
   37,R
   12,R,D
    2,D
@@ -717,7 +717,7 @@ console load dsides/2-OldSite
    1,L,J,G
   10,L,K,G
    4,R,K
-  17,R
+  15,R
   17,U,X
    1,R
    8,R,D,C
@@ -744,18 +744,54 @@ console load dsides/2-OldSite
    1,R,J
   29,R,D
    5
-   6,L
+   5,L
    5,R,X
    9,R,J,G
-  11,R
+   1,R
+   9,R,K
+   1,R
+   1,R,K
+   4,R
   15,R,U,Z
    2,R
    4
-   4,L
+   1,L
+   3,R
   10,R,D,X
    1,R,J
    4,R
   19,R,D,X
-   7,R,J
-   2,R
-  19,R,J,G
+   1,R,J
+   1,R
+   5,L
+  15,D,X
+  15,D,C
+  15,D,X
+  15,D,C
+  15,D,X
+  15,D,C
+  15,D,X
+   1,R
+  25,R,X
+   4,R,J
+   5,R,K
+  15,R
+  32,R,X
+   4,L,G
+  22,L,X
+   4,R,G
+  22,R,X
+   4,L,G
+  22,L,X
+   4,R,G
+  22,R,X
+   4,R,J
+   5,R,K
+  15,R
+  32,R,X
+   4,R,J
+   3,R,K
+  11,R
+  14,R,X
+ 136,D
+#126.191(7423)
