@@ -379,21 +379,22 @@ console load dsides/3-Resort
    4,L,J
    9,U,X
   11,J
-   2,R,J
-   3,R
-   1,R,J,G
-  14,R
-   7,R,Z
-   1,R,J
+   2
+   9,R
+   8,R,Z
+   3,R,J
+   1,R
   40
 
 #lvl_c01
-  10,R,D
+   4,R
+   2,R,J
+   4,R
   15,D,X
-  18,D
-  10,R,D
-   7,L,D
-   4
+  17,D
+  12,R,D
+   6,D
+   3
   10,L,D,X
    5,R,J
   15,R,D,X
