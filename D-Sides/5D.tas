@@ -96,49 +96,28 @@ console load dsides/5-Temple
   13,R,U,Z
 #attempt at skip
 #but no dash
-#   2,K,G
-#   1
-#   8,R,J
-#   1,K,G
-#   3,K
-##  9,R,K
-#  12,J,G
-#  38,L
-#   7,L,Z
-#  90,R,J
-  14,L,J
-   1,L,K,G
-  13,J
-   4,K
-   5
-  22,R,D
-   7,D
-   7,R,J
-   1,R
-  14,R,J
-  13,U,X
-   9,R,J
-   2,R
-  40,L
-   5,D,X
-  27,R,J
+#zap: i think i did it due to 
+#map update
+   2,K,G
+   1
+   8,R,J
+   1,K,G
+   3,K
+   9,R,K
+  12,J,G
+  38,L
+   7,L,D,Z
+  26,R,J
   15,U,X
-  15
-  16,L
-  36,L,G
+  21
+  23,L,G
    5,L,X
-   1,K
-   1,L,J,G
-   1,R
-  60,R,U,J,G
-   5,R,K,G
-   6,R
-   5
-   2,J
-   7
-  12,J
-   1,L,J
-  12,L,K
+  44,R,J
+  15,R,X
+  16,R
+  65,U,G
+   4,J
+  13,L,J
   40
 
 #lvl_b01 (1)
@@ -156,11 +135,11 @@ console load dsides/5-Temple
    7,L,D,X
    1,L,J
   14,L,D,X
-  22,L,J
+  24,L,J
   10,L
-  14,L,Z
+  13,L,Z
    3,L,J,G
-   5,L
+   4,L
   40
 
 #lvl_b04
@@ -192,13 +171,14 @@ console load dsides/5-Temple
   14,L,J
   14,L,U,X
   17,U,C
+
  128,R,X
   40
 
+
 #lvl_b03 (2)
-   4,R
-  72,R,X
-   8,R,D,C
+  76,R
+   7,R,D,C
   40
 
 #lvl_b01 (2)
@@ -212,6 +192,8 @@ console load dsides/5-Temple
   28,R,D
   15,R,Z
   93
+
+
   14,L
   14,L,Z
    1,R,J
