@@ -27,88 +27,52 @@ console load dsides/4-Ridge
   21,R,D
   15,R,X
   15,R,D
-   4,R,X
-   2,R,J
+   4,D,X
+   1,R,J
+   1,R
   40
 
-#all these rooms
-#a02 through a04
-#have been changed
-#you gonna have to redo them
-
 #lvl_a02
-#  11,R,J
-#  15,R,D,X
-#  10,R,J
-#  13,R
-#  15,R,X
-#  12,R
-#   7,R,K
-#   5,R
-#   1,R,J
-#   7,R
-#   4,R,Z
-#  10,R,J
-#   6,R
-#  17,R,C
-#  11,U,Z
-#  10,R,J
-#   1,J
-#   1,R,J
-#  23,R
-#   3,R,D
-#   1,R
-#  15,R,D
-#  18,R,X
-#  14,U,C
-#  15,R,J
-#   4,R
-#   1
-#   4,R
-#   5,R,J
-#  10,R
-#   5,R
-#   3,R,D
-#   1,D
-#   1,R
-#   1,J,G
-#   5,R,J
-#  18,R
-#   1,R,J
-#   6,R,D,X
-#  23,R,J
-
-#maybe if earlier cycle 
-#  15,R,X
-#  14,R,Z
-# 100,R,J
-
-#  23,R,X
-#  37,R,U,C
-#   5,R
-#   4,R,Z
-#   9,R,J
-#   2,J
-#   9,R,J
-#   1,R
-#   1,R,K,G
-#   9,R
-#   6,R,Z
-#   1,R,J
-#   7,R
-#   1,R,J
-#   6,R,D,X
-#  40
+   6,R
+   3,R,J
+  37,D,X
+   1
+  10,R,U,C
+  12,R,D,X
+  14,R,J
+   4,R
+  43,R,U,X
+   4,D,C
+   5,R,J
+  11,R
+  17,R,X
+  14,U,C
+  11,R,J
+  43,R,D
+  17,R,X
+  15,U,C
+  12,L,J,G
+   7,L,K,G
+  49,R,J
+  13,R
+  10,L,D,X
+  39,R,J
+  14,R,U,X
+   4
+  21,R,C
+  10,R,Z
+  20,R,J
+  12,R,Z
+   1,R,J
+   7,R
+   1,R,J
+  13,R,D,X
+  40
 
 #lvl_a03
-#   8,R,D,X
-#   1,R,J
-
-console load dsides/4-Ridge 650 80
-   1
-  36
-   6,R,D,C
-  15,D,X
+   6,R,J
+   9,R,D,X
+  15,D,C
    1,R,D
   13,R,Z
   16,R,X
@@ -140,15 +104,14 @@ console load dsides/4-Ridge 650 80
   15,R,X
   19,R,D
   15,U,X
-#this is not at all
-#optimal now
-   3,R
-   3,R,J
-   2,R
+   7,R,J,G
+   1,L,J
+   1,R,J
+   1,R
   15,R,Z
    6,R
-   4,R,Z
-   3,R,J
+   4,D,X
+   1,R,J
   13,R,Z
    3,R,J
    6,R
@@ -165,85 +128,16 @@ console load dsides/4-Ridge 650 80
   40
 
 #lvl_a04
-#   3,R,D,X
-#   2,R,D
-#   3,R,J
-#  17,R
-#   5,R,D
-#   1,D
-#   1,R,D
-#   1,D
-#  15,R,U,Z
-#  14,L
-#   1,G
-#   1,L,J
-#   3,L,J
-#   1,L
-#   4,R
-#   1,R,D
-#   1,R,J
-#   4,R
-#   1
-#   3,R,J
-#   3,R
-#   5,U,X
-#   1,R,J
-#   1,J
-#  13,R,J
-#  13,R
-#   1,R,J
-#   8,R
-#   2,R,D
-#   6,R,K
-#   7,R
-#   8,R,J
-#   4,R
-#   1
-#   5,R,J
-#   5,R,K,G
-#   5,R
-#  17,R,J
-#   1,R,K
-#   5,R
-#  18,R,K
-#   2,R
-#   3,R,D
-#  15,R,Z
-#   6,R
-#   7,L,Z
-#   1,R,J
-#   6,R
-#   1,R,D,J
-#   1,R,J
-#  10,R,J
-#   1,R
-#  15,R,D,X
-#   6,R
-#   1,R
-#   4,R
-#   1,R,J,G
-#   1,J
-#   1
-#   8,R
-#  19,R,J,G
-#   5,R
-#   4,R,Z
-#   1,R,J
-#   2,R
-#  40
-
-#lvl_a05
-#   1,R,J
-#   1,R
-#   2,R
-#  11,R,K
-
+   5,R,D
+   4,R,J
+   1,R
+   6,R,K
+  21,R
+  90,R,U,X
+  40
 
 console load dsides/4-Ridge 2720 50
-   1
-  36
-
-
+  37
   11,R,Z
    9,R,D,C
   30
@@ -838,44 +732,15 @@ Set, Invincible, false
    5,R,X
    4,R,J
    3,R
-   1,R,K,G
-  10,R
-   5,R,J
+   5,R,J,G
+   9,R
+   4,D,X
+   1,R,J
   40
 
-
-#this room has been removed
-#lvl_c04
-#   1,R,J
-#  15,R,U,X
-#  15,R,U,C
-#  38,R
-#   9,R,J,G
-#  12,R,K,G
-#  32,R
-#   2,L
-#  14,R,J,G
-#  47,R,K,G
-#  37,R,U,X
-#   1,L,J
-#  12,R,J
-#  12,R,K
-#  31,R
-#  10,R,Z
-#   7,R,J
-#  14,R,D,X
-#   5,R,J
-#  14,R,D,X
-#   5,R,J
-#   9,R,Z
-#   1,R,J
-#   7,R
-#   1,R,J
-#   8,R,D,X
-#  40
-
 #lvl_d01
-   6,R
+   1,R,J
+   8,R
    1,R,J
   14,R,D,X
    1,R,J
@@ -1036,50 +901,33 @@ Set, Invincible, false
    1,L,J
    1,R,J
   22,R,K,G
-
-#frame tied, better pixel
-#but doesn't look as cool
-#  14,R,Z
-#   5,R,J
-#   1,R
-#   1,R,K
-#  22,R
-#   1,G
-#   4,R,J,G
-#  21,R,X
-#   4,D,C
-#   1,R,J
-#   7,R
-#   1,R,J
-#   1,R
-
+***s
   14,R,Z
    5,R,J
-  15,R,D,X
-   5,L
    1,R
-   3,J,G
-   3,R
-   1,J,G
-   4,R,J
-   1,R
-   6,R,K
-  11,R
-   4,R,Z
-   1,R,J
-   7,R
-   1,R,J
-   1,R
+   1,R,K
+  22,R
+   1,G
+   7,R,J,G
+  26,R,X
+   4,D,C
+   6,R,J
   40
 
 #lvl_d04
-  15,R,D
+***
+   1,R,J
+   1,R
+   2,R,K
+  12,R,D
    1,G
-   6,R,D
+   3,R,D
+***
    1,G
   16,R,J,G
   15,R,X
-   8
+  11
+***
   15,U,C
    5,R
   30,R,J
