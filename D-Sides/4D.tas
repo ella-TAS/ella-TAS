@@ -63,19 +63,16 @@ console load dsides/4-Ridge
   10,R,Z
   20,R,J
   12,R,Z
-***s
    1,R,J
    7,R
    1,R,J
   13,R,D,X
   40
-***
 
 #lvl_a03
    6,R,J
    9,R,D,X
   15,D,C
-***
    1,R,D
   13,R,Z
   16,R,X
@@ -123,14 +120,12 @@ console load dsides/4-Ridge
    5,R
    2,R
   14,R,Z
-***s
    1,R,J
   14,R,D,X
    2,R,J
    1,R
   12,R,D,X
   40
-***
 
 #lvl_a04
    5,R,D
@@ -153,7 +148,6 @@ console load dsides/4-Ridge
   15,R,U,X
   21,R
    1,R,K
-***
   18,R
   10,L,D,X
   23,R,J
@@ -202,7 +196,6 @@ console load dsides/4-Ridge
    2,R
    1,L
    1,J
-***s
   11,R,J
    1,R
   12,U,X
@@ -244,14 +237,12 @@ console load dsides/4-Ridge
   15,R,U,C
   28,R,U,X
   15,D,C
-***s
   16,R,X
   35,R,U,C
   14,D,X
    4,R,Z
   21,R,J
   12,U,X
-***
   36,R,U,C
   16,D,X
   15,R,C
@@ -266,7 +257,6 @@ console load dsides/4-Ridge
   40
 
 #lvl_b02
-***s
    7,R
    3,R,D
    1,R,D,J
@@ -278,7 +268,6 @@ console load dsides/4-Ridge
   15,R,Z
   14,R
   11,R,D
-***
    4,R,Z
   13,R,J
   13,L,U,X
@@ -291,7 +280,6 @@ console load dsides/4-Ridge
   30,R,D
    8,R,Z
   34,R,J
-***s
   14,R,U,X
    5,R,J,G
    1,R
@@ -586,29 +574,28 @@ console load dsides/4-Ridge
    9,R
    5,J
   10,R,J
-Set, Invincible, true
-  14,R,Z
-   2,L,J
-  15,D,X
-   2,L
-  14,L,Z
+  14,D,Z
+   1
+  13,L,D,X
    1,R,J
-Set, Invincible, false
+   3
   15,D,X
+   2,R
+  11,D
    8,L,J
   15,R,U,C
   18,L
    4
-   4,R,J
-   5,R
+   3,R,J
+   6,R
   15,L,Z
-   6,D
-  10,R
+   5,D
+  11,R
    5,R
-   4,R
-  10,R,X
-  14,L,J
    2,R
+   2,L
+  10,R,X
+  16,L,J
   14,U,Z
    8,R,J
   40
