@@ -409,20 +409,17 @@ console load dsides/2-OldSite
    5,L,Z
    1,L,J
    7,L
-   1,L,J
-   9,L
-   1,L,J
-   1,R,K
-   2
-   7,R,D,X
-   2,R,J
-   8,R
+   3,L,D,J
+   6,L
+   8,R,D,X
    1,R,J
-   5,R
-  16,U,X
-  18,J
-   7,R,K,G
    7,R
+   3,R,D,J
+   4,R
+  15,U,X
+  18,J
+   6,R,K,G
+   8,R
   30,L,X
   25,R,C
    4,R,J
@@ -440,13 +437,15 @@ console load dsides/2-OldSite
    1,L,J
   10,L,D,X
    7,L,J
-   5,L,K,G
-  12,R,J
-  12,L,K
-  12,R,J
-   9,K
-#could be faster
-#without badeline
+# Not sure how
+# optimal this 
+# movement is
+   6,L,K,G
+  12,J,G
+  12,R,K
+  12,L,J
+   3,R,K
+   5,J
   16,U,X
    9,J
   11,R
@@ -809,4 +808,4 @@ console load dsides/2-OldSite
   10,R
    3,R,D
  100,R
-#123.131(7243)
+#123.029(7237)
