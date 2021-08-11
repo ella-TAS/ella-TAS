@@ -71,7 +71,90 @@ console load dsides/7-Summit
   24,L,K
    5,L,D
    2,L,J,G
-  37,L
-   8,R
+  32,L,D
+  32,R,D
+  28,R,U,Z
+  17,R,U,X
+   1,L,J,G
+   9,L,J
+   6,L,K,G
+   7,L,J,G
+  14,R
+  12,R,J,G
+  15,R,K,G
+  46,R,G
+  20,L,D
+  15,D
+  11,R,Z
+   1,R,K,G
+  34,R
+  14,R,Z
+   1,R,J
+  14,R,D,X
+   1,R,J
+  10,R,D,X
+  40
+
+#lvl_a03
+   4,R,D,X
+   1,R,J
+  11,R,D,X
+  11,R,J
+  10,R,U,X
+   7,L,J
+  17,R,U,X
+  15,R,C
+  12,R
+   2,R,D
+   8,L,D
+  10,L
+  17,L,D,X
+  12,L
+  20,L,D,X
+  20,R,D
+  12,L,D
+   1,R
   15,R,Z
-  90,L,G
+  10,L,D,X
+   3,R,J
+  15,R,D
+  14,R,Z
+   1,R
+  15,R,Z
+   4,R,D
+  14,L,D
+  46,R,D,J
+  16,R,U,X
+  15,R,U,Z
+   2,R
+   7,L
+  11,R,J
+  22,R,X
+  14,R,Z
+   1,R,J
+  14,R,D,X
+   1,R,J
+   6,R,D,X
+   1,R,J
+   7,R
+  40
+
+#lvl_a04
+#   8,R,J
+#  15,R,U,Z
+#   6,R,D
+#  15,R,D,X
+#   2,R
+#  15,D,C
+#   2
+#  11,L,X
+#   2,R,D,J
+#   8,L,D,J
+#   2,R,D
+#  15,R,Z
+#   3,R
+#  15,R,U,X
+#  50,R
+#couldn't get
+#this to work
+   
