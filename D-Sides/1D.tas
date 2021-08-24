@@ -494,7 +494,6 @@ console load dsides/1-ForsakenCity
    1,R,J
   13,R,D
   40
-
 #lvl_c04
    2,R
    1,R,G
@@ -544,10 +543,19 @@ console load dsides/1-ForsakenCity
    3,J
    2,L,J
    1,J
-   1,R,J
+   4,R,J
   16,R,K
-  12,U,X
+  13,U,X
    8,R,J
+  # 1,D,J
+  # 1,R,J
+  # 3,J
+  # 2,L,J
+  # 1,J
+  # 1,R,J
+  #16,R,K
+  #12,U,X
+  # 8,R,J
   11,R
    1,L,J
    1,L
@@ -688,8 +696,11 @@ console load dsides/1-ForsakenCity
    3,R,J
    8,R
   14,R,X
-  27,R,J,G
+   6,R,J,G
+  28,L,D
+  12,R,J
+  20,U,X
 #heart
   15,L,D,X
  124,L,D
-#75.208(4424)
+#75.871(4463)
