@@ -3,7 +3,6 @@ console load dsides/2-OldSite
 
 #Start
  190
-
 #lvl_a01
    4,R,J
   19,R,Z
@@ -11,7 +10,7 @@ console load dsides/2-OldSite
   22,R,K
   14,R,U,X
    1,R,K,G
-  21,R,D
+  22,R,D
    3
   24,R,Z
    8,R,J
@@ -59,20 +58,19 @@ console load dsides/2-OldSite
   18,R,Z
    4,R,J
    1,R,K
-   6,R
-   1,R,J
+   5,R
+   3,R,J
    7,R
-  18,R,U,Z
+  17,R,U,Z
    4,R,J
    1
-   1,R
-   1,R,K
+   2,R,K,G
    8,R
-   1,R,K
+   2,R,K
    2,R,J,G
-   6,R
-   2,R,J
-  16,R
+   7,R
+   5,R,J
+  13,R
   20,R,Z
    4,L,G
    3,J,G
@@ -81,15 +79,16 @@ console load dsides/2-OldSite
    1,J
   14,R,X
    4,R,J
-   8,R,K
+  10,R,K
   12,R,Z
    1,R,J
    6,R
    2,R,J
   40
+#lvl_a03
   11,R,J
   20,U,X
-  37,R,D
+  38,R,D
    5,D
   12,R,D,X
    5,R,J
@@ -802,10 +801,13 @@ console load dsides/2-OldSite
   15,R
   32,R,X
    4,R,J
-   1,R,K
+   3,R,K
   13,R
-  37,R,D,X
-  10,R
-   3,R,D
- 100,R
-#123.029(7237)
+  15,R,D,X
+   4,R,J
+  45,R,U,X
+   1
+   4,R,D,X
+   1,R,J
+  96,R
+#123.233(7249)
