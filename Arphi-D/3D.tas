@@ -1283,6 +1283,7 @@ console load dsides/3-Resort
    5,R
   40
 
+
 #lvl_e05
    1,R
    8,R,J
@@ -1296,14 +1297,19 @@ console load dsides/3-Resort
   14,R
   12,R,Z
    1,R,J
-   4
-   3,R
+   3
+   5,R
    1,R,J
    6,R
    2,R,J
-   6,R
+   6,L
   15,R,Z
-  14,R
+   6,R
+   1,L
+   2,L
+   1,R
+   3,L
+   1,R
    4,Z
    2,R,J
    1,R,K,G
