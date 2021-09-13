@@ -330,15 +330,17 @@ console load dsides/6-Reflection
    5,R
   15,R,X
   10,R
-  15,R,D,X
-  28,F,143
-  36,F,90
-  14,F,45
-  14,F,95
-  21,F,90
-  15,F,180
-  15,L,D,X
-  20,L
+   5,R,D,X
+  27,R,D
+   5,F,143
+   1,F,140
+  36,F,89
+  16,F,44.6
+  35,F,95
+   8,F,150
+   2,F,180
+  12,L,D,X
+  25,L
   10
    6,R
   17,D
@@ -402,17 +404,35 @@ console load dsides/6-Reflection
   40
 
 #lvl_c03
-   5,L,D
+
+   4,L,D
   15,L,Z
-   6,L
+   2,L,J
+   4,L
   13,L,D,X
    1,L,J
    7,L
    4,L,J
    8,L
    1,L,J
-  13,L
+   8,L
+   5
   15,D,X
+
+
+
+#   5,L,D
+#  15,L,Z
+#   6,L
+#  13,L,D,X
+#   1,L,J
+#   7,L
+#   4,L,J
+#   8,L
+#   1,L,J
+#  13,L
+#  15,D,X
+
   18,R,C
    5,R
   18,R,Z
@@ -476,9 +496,9 @@ console load dsides/6-Reflection
   18,L,D
   18,L,X
   15,L,D,C
-   3,L,D
-  38,R,D
-   7,R,Z
+   1,L,D
+  40,R,D
+   6,R,Z
    1,R,J
    1,R,K
    1,R,J
@@ -488,17 +508,22 @@ console load dsides/6-Reflection
    1,R,J
    1,R,K
    1,R,J
-   3,R,K
-   7,R,J,G
+   1,R,K
+   1,R,J
+   3,R,K,G
+   4,R
   40
 
 #lvl_c05
-  16,R
+   1,R
+   1,R,J
+   8,R
+   4,L
   15,D,X
-   6,L,D
+   2,L,D
    3
   18,L,X
-   4,L,D
+   5,L,D
   18,D,X
    8,R,D
   11,D
@@ -558,6 +583,24 @@ console load dsides/6-Reflection
    1,L,D
   33,D
   21,R,D
+
+
+#   1,R,J
+#   1,J
+#  12,R,D,X
+#   1,R,J
+#   1,R,K
+#   1,R,J
+#   1,R,K
+#   1,R,J
+#   1,R,K
+#   1,R,J
+#   1,R,K
+#   1,R,J
+#   1,R,K
+#   1,R,J
+#   1,R,K
+
    2,R,J
   13,R,D,X
    1,R,J
@@ -1209,4 +1252,4 @@ console load dsides/6-Reflection
   86,F,90
   15,R,X
  135
-#4:01.247(14191)
+#4:01.009(14177)
