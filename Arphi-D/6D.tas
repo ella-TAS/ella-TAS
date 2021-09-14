@@ -46,7 +46,6 @@ console load dsides/6-Reflection
    4,R
    4
   40
-
 #lvl_a03
    1,J,G
    8
@@ -86,28 +85,26 @@ console load dsides/6-Reflection
 
 #lvl_a04
    1,J,G
-   9,R
-   1,R,J
-   9,R,Z
    1,L,J
-   7,L
-  11,L,J
-   3,R
-   1,L
-  18,L,X
-  10,U,C
-  28,F,295
-  15,R,Z
+   8,L
+   1,L,J
+   6,L,X
+  33,L,J
+  10,U,X
+  27,F,10
+  10,R,Z
   27,L,U
-  31,F,359
-  34,F,0.2
-  59,F,18
-   6
-  16,U,X
-  12,L,J,G
-   9,R,K
+  35,F,350
+   1,F,349
+  29,F,0
+  50,F,20
+   4,F,0
+   1
+   7,R
+   5
+  14,U,X
+   9,L,J
   40
-
 #lvl_b01
   12,R
   15,R,U,X
@@ -199,55 +196,56 @@ console load dsides/6-Reflection
    1,R
   27,R,D
   59,F,111
-  34,F,61.7
-  32,F,109.8
+  31,F,64
+  32,F,103.4
    1,F,107
   22,F,87
-  71,F,89.2
-   7,R,D,X
+  71,F,88.5
+   8,R,D,X
    1,R,J
    7,R
   40
-
 #lvl_b03
    4,R,J
    6,R
   15,R,Z
-  13,R,D
+  12,R,D
   15,D,X
-  24,D
-   5
-  10,R,D,X
-   8,R,J
-   9,R,Z
-  11,R,D
-  11,L,D
-   6
-   1,L,D
-  22,R,D
-   8,U,Z
-   6,L,J
-   1,R
-  26,L,D
-   4,R,D
-   6
-  11,R,D
-  14,R,D,X
-  11,L,D
+  22,D
    9
-  12,L,Z
+  10,R,Z
+  37,R,J
+  13,R,U,Z
+   1,L
+   5,L,J
+  29,L,D
+   1,L
+  18,R
+  15,R,D,X
+  17
+   4,R
+   1
+  10,L,Z
    1,R,J
-   8,R
-  21,R,J
-  20,R,X
+   6,R
+  20,R,J
+  15,R,X
+   3,R
   14,R,U,C
-  15,R
+  12,R
   15,R,U,X
-  15
-  10,L,D,X
-  43
-  16,L,G
-   9,L,C,G
+   1,L,J,G
+  23,L,G
+#you can hit this kevin
+#one frame earlier but
+#I couldn't get the 
+#next room to sync like 
+#that and I'm too sleepy
+#to do it now
+   5,L,X
+  39
+  26,L,G
+   3,L,D,G
    1,J
    1,K
    1,L,J,G
@@ -256,6 +254,7 @@ console load dsides/6-Reflection
   40
 
 #lvl_b04
+
    1,R
   14,R,U,X
    1,L,J,G
@@ -279,16 +278,6 @@ console load dsides/6-Reflection
    1
    6,L
    6
-
-#  20,R
-#  14,R,U,X
-#  35,L
-#  15,U,X
-# 100,L
-#1:00.265(3544)
-
-
-
   29,R
   15,U,X
    5,R
@@ -316,15 +305,19 @@ console load dsides/6-Reflection
    2
    1,L,J,G
    1,R,J
-  12,J
-  20,R
-  21,R,D
+   9,J
+   2,R,J
+   1,J
+   9,R
+   4,R,J,G
+  15,R,D
+   7,D
   15,R,Z
   13,R
-   7,R,X
-   5,R,J,G
-   3,R,K,G
-   8,R
+   6,R,X
+   4,R,J,G
+   1,R,K,G
+   6,R
   13,L,D
   11,R,U,Z
    5,R
@@ -1023,12 +1016,14 @@ console load dsides/6-Reflection
   15,U,X
   27,R,D
   32,F,103
-  99,R
-  15,R,Z
-  18,D
-   1,R,J
-  15,U,X
+  60,F,92
+  26,F,97
+  17,R
+  15,R,X
   10,R
+   3,L,J
+  14,U,X
+   2,R
   30,L
    1,R,J
   11,D
@@ -1252,4 +1247,4 @@ console load dsides/6-Reflection
   86,F,90
   15,R,X
  135
-#4:01.009(14177)
+#3:59.819(14107)
