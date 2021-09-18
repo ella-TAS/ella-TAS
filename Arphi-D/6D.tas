@@ -1047,8 +1047,8 @@ console load dsides/6-Reflection
   14,D
    5,R,D
   15,R,X
-  15,R,U,C
-  21,R
+  12,R,U,C
+  24,R
    5,L,J
   34,L
   17,L,X
@@ -1234,7 +1234,7 @@ console load dsides/6-Reflection
   36,R,D
    5,R,X
   27,R,D
-  86,F,90
-  15,R,X
+  87,F,90
+  14,R,X
  135
 #3:59.377(14081)
