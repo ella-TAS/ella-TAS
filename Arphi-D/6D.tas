@@ -470,7 +470,6 @@ console load dsides/6-Reflection
    6,R,D
    8,D
   40
-
 #lvl_c04
   13,D
   15,R,D,X
@@ -549,7 +548,6 @@ console load dsides/6-Reflection
    4,D,X
   10,R,J
   40
-
 #lvl_c06
    1
   15,R,D,X
@@ -654,7 +652,6 @@ console load dsides/6-Reflection
    7,R,D,X
    4,R,J
   40
-
 #lvl_d01
   18,R,J
   10,R,Z
@@ -727,7 +724,6 @@ console load dsides/6-Reflection
    1,R,J
    3,R
   40
-
 #lvl_d04
    4,R
   15,R,J
@@ -809,7 +805,6 @@ console load dsides/6-Reflection
   14,R,Z
    2,R,J
   40
-
 #lvl_e01
    3,R,J
    1,L,K,G
@@ -979,7 +974,6 @@ console load dsides/6-Reflection
    1,R,J
    7,R,D,X
   40
-
 #lvl_e05
    7,R,D,X
    1,R,J
@@ -1030,7 +1024,6 @@ console load dsides/6-Reflection
   15,D,X
   33,R,D
   40
-
 #lvl_e06
    6,D
   22,R,D
@@ -1064,11 +1057,9 @@ console load dsides/6-Reflection
   14,L
   27,R,D
    5,D
-  18,F,150
-  32,F,170
-  30,D
-  30,F,170
-  17,D,X
+   2,F,150
+  17,R,D,X
+  85,D
   44,R
   21,D,X
   14,R,D,C
@@ -1151,9 +1142,9 @@ console load dsides/6-Reflection
   72,R
   15,R,X
   15,R
-
 #flag_03
-  21
+   6
+  15,D,X
   14,R,Z
   14,R,J
   10,R,D,X
@@ -1247,4 +1238,4 @@ console load dsides/6-Reflection
   86,F,90
   15,R,X
  135
-#3:59.819(14107)
+#3:59.377(14081)
