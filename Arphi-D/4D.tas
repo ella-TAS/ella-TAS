@@ -126,6 +126,7 @@ console load dsides/4-Ridge
    1,R
   12,R,D,X
   40
+
 #lvl_a04
    5,R,D
    4,R,J
@@ -762,8 +763,6 @@ Set, Invincible, false
    1,R,J
   40
 
-#Cp3
-
 #lvl_d01
    1,R,J
    8,R
@@ -1133,5 +1132,3 @@ Set, Invincible, false
   19,R,J
    4,X
  135,L,D,X
-#149.192(8776)
-
