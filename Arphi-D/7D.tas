@@ -1,11 +1,10 @@
-RecordCount: 761
+RecordCount: 812
 console load dsides/7-Summit
    1
 
 #Start
- 250
 #lvl_a01
-  74
+ 324
    6,R,Z
    1,R,J
    7,R
@@ -51,7 +50,6 @@ console load dsides/7-Summit
   13,R,Z
    1,R,J
    7,R
-#0:14.535(855)
   40
 
 #lvl_a02
@@ -102,7 +100,6 @@ console load dsides/7-Summit
    7,R
    1,R,J
   13,R,D,X
-#0:24.378(1434)
   40
 
 #lvl_a03
@@ -173,9 +170,6 @@ console load dsides/7-Summit
 #   3,R
 #  15,R,U,X
 #  50,R
-#couldn't get
-#this to work
-
    8,R,U,C
   24,R,J
   15,R,U,X
@@ -211,11 +205,6 @@ console load dsides/7-Summit
    2,R,J
   13,R,Z
    5,R,J,G
-###
-#  13,R,Z
-#  21,R,J
-#  15,R,Z
-#... almost
   13,R,Z
   10,R,J
    7,L
@@ -233,14 +222,8 @@ console load dsides/7-Summit
    1,R,J
    8,R,D,X
   40
+
 #lvl_a05
-#totally betrayed
-#   4,R,D,X
-#   1,R,J
-#  15,R,U,X
-#  17,R
-#  15,R,Z
-#...
    1,R,J
    7,R
    5,R,J
@@ -258,11 +241,11 @@ console load dsides/7-Summit
   11,U,X
   38
   15,L,Z
-  15,D
-   2,R,D
-   4,D
-  15,L,D
-  14,L,Z
+  16,R,D
+   3,D
+   1,R,D
+  17,L,D
+  13,L,Z
   43
    5,R
   15,R,Z
@@ -270,7 +253,6 @@ console load dsides/7-Summit
  443
 
 #lvl_b01
-
   12,R,Z
    6,R,J
    5,R
@@ -384,6 +366,7 @@ console load dsides/7-Summit
    1,R,J
    5,R
   40
+
 #lvl_b03
    1,R
    1,R,J
@@ -488,7 +471,6 @@ console load dsides/7-Summit
 #  12,R,K,G
 #   3,J
 #   3
-#...
    3,R,D
    5,L,D
    7,L
@@ -497,10 +479,6 @@ console load dsides/7-Summit
    1,R,J
    6,R
    1,R,J
-
-
-
-
    9,R,K
   15,R,U,X
   18,R,C
@@ -566,7 +544,6 @@ console load dsides/7-Summit
 #   9
 #   1,L
 #   3
-#...
    3,L,J,G
    1,L
   12,L,J
@@ -609,13 +586,7 @@ console load dsides/7-Summit
 #   5,K
 #  20,J,G
 #  15,U,X
-#...
-   2
-#unfortunately, we need to wait a bit here,
-#as we don't have enough speed to make it past
-#the spikes w/o anything else, and we need
-#to save the dash
-  13
+  15
   10,L
    1
    5,L
@@ -649,6 +620,7 @@ console load dsides/7-Summit
   15,U,X
   15,U,C
  385
+
 #lvl_c01
    5,R,X
   14,R,J
@@ -722,7 +694,6 @@ console load dsides/7-Summit
   13,U,X
   40
 
-
 #lvl_c02
    2,U,X
   12,R,J
@@ -782,7 +753,6 @@ console load dsides/7-Summit
    1,R,K
    7
   10,R,J
-
   15,U,X
   10,L,J,G
    1,L,K,G
@@ -823,36 +793,48 @@ console load dsides/7-Summit
   34
    1,R,J
    3
-   4,R,Z
-   8,R,J
-  26,R,D
-  23,R,D,X
-  24,U,C
-  30,R,D,X
-   5,R,Z
-   9,R,J
-  19,R,U,C
-  18,L,U,Z
-  30,L,D,X
-  27,U,C
-  15,U,X
-  14,R,Z
-   1,R,J
-   7,R
-  14,R,D,J
-  26,G
-   9,U,Z
-   2,R,J
-  40
-#lvl_c04
-   2,L
+   6,R,Z
+   4,R,J
+   1,R,D
    1,R,J,G
-   1,R,K,G
-   7,R
-   6,R,D,X
+  31,R,D
+  12,R,U,X
    1,R,J
-   3,R
-   4,L
+   3
+   2,R,J
+  15,D,X
+   9
+  15,R,X
+   5,R
+  15,R,U,X
+  13
+   3
+  18,R,D,X
+  16,L,D,C
+   3
+  15,L,U,X
+  15
+   1,L,J
+   3
+   3,L,J
+  12,U,X
+   9,R,J
+  15,R,Z
+  32,D,X
+  14,R,D,C
+   1,R,J
+   7,R
+  15,R,U,C
+  11,U,X
+  40
+
+#lvl_c04
+   2
+   1,R,J,G
+   8,L
+   8,R,D,X
+   1,R,J
+   7,L
   16,R,J
   16,U,X
   15,L,C
@@ -862,8 +844,8 @@ console load dsides/7-Summit
    1,L,J
    3
    9,L,J
-  19,U,X
-  20,U,C
+  18,U,X
+  21,U,C
   19
    9,R
   12,R,X
@@ -874,48 +856,49 @@ console load dsides/7-Summit
   19,R,X
   12
    1,R,J
+   1
+   1,R,J
    3
-   9,R,J
-  16,R
-  13,R,Z
-   1,R,J,G
-   4,R,D
-  12,L,D
-  18,R,D,Z
-   5,R
-   1,L,J
-  15,R,U,Z
-   4
+  27,R,J
+   6,R
+  15,R,Z
+  12,L
+  27,R
+  16,R,U,Z
+   6
+   1,R,J
+   3
   15,U,X
-  10,R,U,C
-   3,R,J,G
-   7,R
-  14,R,Z
+  15,R,U,C
+  18,R,D
+   7,R,Z
    1,R,J
    5,R
   40
 
 #lvl_c05
    2,R
-   4,R,J
-   4,R
+   6,R,J
   15,R,U,X
   20,R,Z
-   6
+   7
+   1,R,J
+   1
    1,R,J
    3
    7,R,J
   15,U,X
-  16,U,C
+  21,U,C
   25
   22,L
   16,L,X
-  12
+  10
+   1,L,J
+   1
    1,L,J
    3
-   6,L,J
-  15,L,U,X
-  12,U,C
+  17,L,J
+  16,U,X
   25
   16,R
   13,R,X
@@ -935,25 +918,23 @@ console load dsides/7-Summit
    1
    1,L,J
    3
-   5,L,D,J
-   3,L
-  10,L,Z
-  13,L,J,G
+  16,L,D,J
+  15,L,X
   14,U,C
-   1
-   3,R
+   3
+   2,R
    7,R,X
-   7
+   8
    1,R,J
    1
    1,R,J
    3
-  21,R,J
-  16,R,U,Z
+  20,R,J
+  18,R,U,Z
   12,R,J,G
    3,R,K,G
-   1,L,J
-   7,L,X
+   4,L,J
+   6,L,X
   20,L,J,G
  461
 
@@ -1152,13 +1133,13 @@ console load dsides/7-Summit
   28,L
   15,L,Z
    6,L
-  25
-  13,R
+  38
   15,D,X
    2,R,D
   15,R,Z
    3,R,D
  435
+
 #lvl_e01
   15,R,U,C
   12,R,X
@@ -1330,7 +1311,6 @@ console load dsides/7-Summit
    8,R,U,C
   15,L,U,X
   12,U,C
-
  405
 
 #lvl_f01
@@ -1403,7 +1383,6 @@ console load dsides/7-Summit
    3,R,J
    3,R,K,G
   10,R,D,X
-#4:05.344(14432)
   40
 
 #lvl_f03
@@ -1441,7 +1420,6 @@ console load dsides/7-Summit
   24,R,J
   15,R,Z
   27,R
-
    6,R,J,G
    7,R
    4,R,X
@@ -1463,7 +1441,6 @@ console load dsides/7-Summit
   14,U,X
   14,R,J
   40
-#4:13.317(14901)
 
 #lvl_f04
    7,R
@@ -1507,7 +1484,6 @@ console load dsides/7-Summit
    1,R,J
    2,R
   40
-#4:18.502(15206)
 
 #lvl_f05
    2,R
@@ -1525,10 +1501,6 @@ console load dsides/7-Summit
   15,U,X
   17,R
   15,R,U,X
-
-
-
-
   37
   17,L,X
   12,L,U,Z
@@ -1564,8 +1536,9 @@ console load dsides/7-Summit
   26,J
   21,U,X
   22,U,C
-#4:29.484(15852)
  458
+
+#lvl_g01
 #flag_15
   15,R,U,X
    1,R
@@ -1741,16 +1714,13 @@ console load dsides/7-Summit
    3,L,J
   15,U,X
   11,L,U,C
-  27,U
-  11,F,0
+  38,U
   15,U,X
   15,U,C
  300
-#5:04.198(17894)
 
-
+#lvl_g02
 #flag_10
-#41 dash up
 #  41,U,X
   15,R,U,X
    2,R
@@ -1916,7 +1886,6 @@ console load dsides/7-Summit
   15,U,X
    5
  310
-
 #flag_5
   20,J
   10,U,X
@@ -1953,12 +1922,13 @@ console load dsides/7-Summit
   12,J,G
   12,K,G
   16,L,J
-  10,U,X
-  34,R,J
-   7,R,K,G
+  16,U,Z
+  11,R,J,G
+   1,R
+  11,K,G
    7,R
 #flag_4
-   4,R,D,C
+   4,D,C
    1,R,J
    7,R
   12,R,J
@@ -1969,13 +1939,11 @@ console load dsides/7-Summit
   14,U,X
   37,R,J
   10,R,U,X
-   3,R,J
-   8,R,J
+  11,R,J
    9,R
    4
    9,R,D
-  10,R,Z
-   5,L
+  15,R,Z
    8,U,X
   19,R,J
   12,R
@@ -2045,7 +2013,6 @@ console load dsides/7-Summit
   15,U,X
   13,J
   18,L
-
 #flag_2
   11,R,X
    1,R,J,G
@@ -2108,8 +2075,6 @@ console load dsides/7-Summit
    5
   10,R,U,X
   27
-
-#Tomfoolery
    2,D
    2
    2,D
@@ -2121,14 +2086,12 @@ console load dsides/7-Summit
    2,D
    2
    3,D
-#End-Of-Tomfoolery
   27,R,J
   15,U,X
   22,J
   10,U,X
   15,L,J
    5,L
-
 
 #flag_1
    1,L,J
@@ -2207,8 +2170,8 @@ console load dsides/7-Summit
  150
   12,L,X
    8,L,J
-  10,L,U,X
-   8
-#end
- 135
-#6:26.648(22744)
+  18,L,U,X
+  98,L,D
+   1,D,X
+  36,L,J
+#6:27.413(22789)
