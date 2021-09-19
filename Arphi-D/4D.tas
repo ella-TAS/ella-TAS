@@ -159,14 +159,16 @@ console load dsides/4-Ridge
    4,R,J
    4,R,Z
   10,R,J
-   4,L
-  14,R,Z
+   4,R
+   1,R,J
+   9,R,D,X
    3,R,J
-  40,R,J
+  40
 
 #lvl_a05
-  19,R,J
-  11,R,U,Z
+   9,R,J
+   8,R
+  12,R,U,Z
    9,R,D,C
   30
    9,R
