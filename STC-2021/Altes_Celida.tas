@@ -1,4 +1,4 @@
-console load StartupContest2021/xolimono/HauntedHalls
+console load StartupContest2021/1-Submissions/xolimono
    1
 
 #Start
@@ -291,7 +291,6 @@ console load StartupContest2021/xolimono/HauntedHalls
    7,R
   17,R,J
   15,R,U,X
-
  109,L,D
    1,D,X
   25,L,J
