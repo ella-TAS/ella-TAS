@@ -1,4 +1,4 @@
-RecordCount: 3021
+RecordCount: 3631
 console load dsides/7-Summit
    1
 
@@ -458,50 +458,52 @@ console load dsides/7-Summit
   40
 
 #lvl_b05
-   7
-   3,R
-  15,R,J
-  16,U,X
+  13,J
+   3,R,J
+  15,U,X
   14,R,U,C
    1,R,J,G
-  10,R
-   8
-   3,D
-   7,R,D
-   1,R
-   3,R,D
-   1,R
-   1,R,D
-   1,R
+   5,R,D
+   4,D
+  20,R,D
+   6,R
    1,R,J,G
    1,R,K,G
    7,R
   37
    8,R
    1,J,G
-   7
-   1
+   8
   12,J,G
-  19,G
-   1
-   1,L,J
-  31,L,K
-   2,L,G
-   1,L,J,G
-  12
-   5,L
-  15,L,U,X
+  18,G
+   2,D,G
+   1,R
+   1,K
+   1,R,J,G
+   8,L,J
+  13,G
+   3,L,G
+   7,D,G
+   5,L,J,G
    2,L
-  12,U,X
-  13,R,J
-   1,R,K,G
-   3,R
-   4
-   9,R,Z
-   8,R,J
-   3,R,K,G
+  15,U,Z
+   2,L
+   8,J
+   3
+  14,R,U,X
+   1,J
+   1,L
+   5
+   1,J
+   1
+   4,D,X
+   1,R,J
+   7,R
+   1,R,J
    6,R
-   9,R,D,X
+   4,R,J,G
+   3,R
+  10,R,D,X
   42
    3,R
    5,L,X
@@ -921,24 +923,23 @@ console load dsides/7-Summit
    1,R
   28,R,J
   15,R,Z
-   1
+   1,R
   18,U,X
-  15,R,J
-  10,L,K
-  11,U,X
-  26,L,J
-   2,L,K,G
+  16,R,J
+   1,K
+   5,L,J
+  12,U,X
+  27,L,J
+   1,L,K,G
+   2,R,K
    1,J
    1,K
    9,L,K
-   2,R,K
-   2,R,K
-   7,L,K
-  15,R,U,X
-  22,R,J,G
-   2,R,K,G
-   2
-   2,R,J,G
+   6,R,K
+   2,L,K
+  14,R,U,X
+  15,R,J,G
+   7,R,K,G
    7,R
    4,R,Z
    1,R,J
@@ -989,6 +990,8 @@ console load dsides/7-Summit
    4,R,Z
    1,R,J
    3,R
+#2:33.323(9019)
+
   40
 
 #lvl_d03
@@ -1069,37 +1072,45 @@ console load dsides/7-Summit
   15,U,C
   20,R,J
    2,R,K,G
-   8,R
-  14,R,D,X
+   7,R
+   6,R,Z
+   1,R,J
+   7,R
    1,R,J
   14,R,D,X
-   1,R,J
-   6,R,D,X
   40
 
 #lvl_d05
-   1
    1,R,J
    7,R
-   9,R,J
+   8,R,J
+   2,R
   14,R,D,X
   25
-  35,L
-  12,L,J,G
-   8,L,K,G
-  12,U,X
-  25,R,J
-  15,R,U,X
-  17,R
-  38,L
-  15,L,Z
-  28,L
+  34,R
+   1,R,J,G
+   3,R
+   8,R,J,G
+   2,K
+  15,U,X
+   6,L,J
+   9,J
+  10,L,Z
+   2,R,J
+   1,J
+   5,R,J
+   1,R
+  15,R,U,Z
+   9,R,X
+  44,R
+  15,L,X
+  32,L,D
   15,L,Z
    6,L
   25
-  13,R
+  12,R
   15,D,X
-   2,R,D
+   1,R,D
   15,R,Z
    3,R,D
  435
@@ -1139,29 +1150,31 @@ console load dsides/7-Summit
   40
 
 #lvl_e02
-  11,R
+  12,R
   15,L,U,X
   15,D,C
-  12,R
-   2
-   5,J
-  14,R,J
-   5,R
-  18,R,X
-  15,R,D,Z
-  23,D
-   3,R
+  13,R
+   3
+   4,J
+  16,R,J
+   1,R
+  15,R,X
+  15,R,D,C
+  24,D
+   4,R
    8
    3,R
   11,L,X
    1,R,J
-  14,L,J
+  10,L,J
   37,R,D
+   2,D
+   1
   15,R,X
   15,R,U,Z
-  13,L
-   5
-  10,L,D,X
+   9,L
+   4
+  10,L,D,Z
   29,R,J
   15,R,X
   15,R,D,C
@@ -1173,33 +1186,40 @@ console load dsides/7-Summit
    8,R,J
   13,R,U,X
    1,R,J,G
-  10,R,K,G
+   1,R
+   4,R,Z
+   2,R,J
+   4,R
   40
 
 #lvl_e03
-  15,R,X
-  15,R,C
-   1,G
-   5,R,J,G
-  10,R
-  49,U
-   2,R
+   4,R
    1,R,J
-  18,R
+  14,R,D,X
+   2,R,G
+  12,R,J,G
+   3,R,K,G
+   2,R,J,G
+  10,R
+  40,U
+  10,R,U
+   1
+  10,R
   15,R,Z
   15,U,X
-  31,D
+  32
   85,U
-  25
+  23
    8,R
-  23,L
+  22,L
+   1
   15,R,Z
   13,R
   10,L,J
    7,L
   58,L,G
    7
- 175,L,G
+ 173,L,G
    7,L,J,G
    7
   10,L
@@ -1210,10 +1230,10 @@ console load dsides/7-Summit
    1,R,J
   14,R,D,Z
    1,R
-  15,R,U,Z
+  14,R,U,Z
   12,L,J
   12,R,K
-   6,R,J,G
+   7,R,J,G
   40
 
 #lvl_e04
@@ -2145,4 +2165,4 @@ console load dsides/7-Summit
   10,L,J
   14,L,U,X
  136
-#6:17.655(22215)
+#6:16.788(22164)
