@@ -41,8 +41,7 @@ console load dsides/0-Prologue
    1,R
    1
   13,R
-   1,R,J
-   2,R,J
+   3,R,J
    7,R
    1,R,J
   14,R

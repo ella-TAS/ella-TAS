@@ -563,8 +563,7 @@ console load dsides/3-Resort
    3,R
    5,R,J
   10,R,D,X
-  12
-  91
+ 103
    4,L,J
   10,L,D,X
    1,L,J
@@ -840,8 +839,7 @@ console load dsides/3-Resort
   25,R
    5,L,J
   15,U,X
-  60
-   5
+  65
    6,R
    9
    5,L,Z
@@ -1136,8 +1134,7 @@ console load dsides/3-Resort
   10,R,X
    6,R,J
   17,U,X
-   3
-   7
+  10
    1,R
    7,R,J
    6,L,K
@@ -1266,8 +1263,7 @@ console load dsides/3-Resort
   12
    5,R
   15,R,X
-  14,R
-  11,R
+  25,R
    5,R,D
    1,G
    6,R,J,G
@@ -1300,8 +1296,7 @@ console load dsides/3-Resort
    6,L
   15,R,Z
    6,R
-   1,L
-   2,L
+   3,L
    1,R
    3,L
    1,R
@@ -1328,8 +1323,7 @@ console load dsides/3-Resort
    3
    7,U,X
   11,R,J
-   8,R
-   3,R
+  11,R
    1,R,J
    1,R
    9,L,Z
@@ -1351,8 +1345,7 @@ console load dsides/3-Resort
   14
   16,R,Z
   11,R,J
-  18,R
-  10,R
+  28,R
    6,R,D
    1,R,J
    4,R,Z

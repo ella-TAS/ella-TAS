@@ -126,8 +126,7 @@ console load dsides/7-Summit
    7,R,D
    9,L,D
    1,R,D
-   2,R
-  47,R
+  49,R
   15,R,U,X
    3,R
   15,R,U,X
@@ -1049,8 +1048,7 @@ console load dsides/7-Summit
   23,R
   15,U,Z
   15,L,U,C
-  25,L
-  11,L
+  36,L
   15,U,X
   10,L,C
    6,R
@@ -1550,8 +1548,7 @@ console load dsides/7-Summit
   14,U,C
    8,L,J
   12,L
-   1,L,J
-   5,L,J
+   6,L,J
   14,L,U,X
    1,J,G
    1,L,J
@@ -1867,8 +1864,7 @@ console load dsides/7-Summit
   15,U,X
    4
   15,U,X
-   5
- 310
+ 315
 #flag_5
   14,J
   15,U,X
@@ -2054,8 +2050,7 @@ console load dsides/7-Summit
   15,U,X
   23,R
   15,R,X
-   8,R
-  15,R
+  23,R
   15,U,X
   18,R,U,C
    5,R

@@ -295,8 +295,7 @@ console load dsides/6-Reflection
    7,R
   13,L
   15,U,X
-  26,R
-  15,R
+  41,R
   18,U,X
   10,R,U,C
   40
@@ -351,8 +350,7 @@ console load dsides/6-Reflection
    1,D
    1,R
    1,D
-   1,R
-   1,R
+   2,R
    1,D
    1,R
    1,D
@@ -1084,8 +1082,7 @@ console load dsides/6-Reflection
   10,F,140
   24,R
   10,F,100
-  33,R
-  21,R
+  54,R
   39,D
   12,L,D
   16,L,J,G
