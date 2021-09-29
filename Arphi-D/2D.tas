@@ -439,7 +439,7 @@ console load dsides/2-OldSite
   18,D,C
   18,D,X
   19,D,C
-   4,D,X
+   4,Z
    1,R,J
    7,R
    4,R,J
@@ -546,7 +546,7 @@ console load dsides/2-OldSite
   13,L
   10,D
   19,R,D
-   4,D,X
+   4,Z
    1,R,J
    7,R
    3,R,J
@@ -587,7 +587,7 @@ console load dsides/2-OldSite
   16,R,J
    6,R,K,G
    7,R
-   4,D,X
+   4,Z
    1,R,J
    2,R
   40

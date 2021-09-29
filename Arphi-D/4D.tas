@@ -39,7 +39,7 @@ console load dsides/4-Ridge
   14,R,J
    4,R
   43,R,U,X
-   4,D,C
+   4,Z
    5,R,J
   11,R
   17,R,X
@@ -107,7 +107,7 @@ console load dsides/4-Ridge
    1,R
   15,R,Z
    6,R
-   4,D,X
+   4,Z
    1,R,J
   13,R,Z
    3,R,J
@@ -177,7 +177,7 @@ console load dsides/4-Ridge
    1,L,J
    3,R,J
   20,R,Z
-   4,D,X
+   4,V
    1,R,J
   18,R,D
   11,R,X
@@ -680,7 +680,7 @@ console load dsides/4-Ridge
    3,R
    5,R,J,G
    9,R
-   4,D,X
+   4,Z
    1,R,J
   40
 
@@ -724,7 +724,7 @@ console load dsides/4-Ridge
   15,R,Z
   15,L,D
   16,R,D
-   4,D,X
+   4,Z
    2,R,J
    8,R
    1,R,J
@@ -865,7 +865,7 @@ console load dsides/4-Ridge
    1,G
    7,R,J,G
   26,R,X
-   4,D,C
+   4,Z
    6,R,J
   40
 
