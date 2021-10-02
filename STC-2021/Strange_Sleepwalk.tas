@@ -1,4 +1,4 @@
-RecordCount: 362
+RecordCount: 429
 console load StartupContest2021/1-Submissions/augustusargento
    1
 
@@ -140,18 +140,23 @@ console load StartupContest2021/1-Submissions/augustusargento
   17,R,X
   21,R,D
    1,J
-   4,L,D
-  23,R,D
+   1,L
+   3,R
+   2,L
+   8,R
+   1
+   6,R,D
+   1,D
+   5,R,D
   40
 
 #lvl_augustus-5
-   4,D
+   7,R,D
+   3,D
+   1,R,D
+   1,D
    4,R,D
-   2,D
-   6,R,D
-#could enter 1f earlier
-#with subp manip
-   2,R,D,J
+   1,R,D,J
   34,R,D,X
   23,D,C
   18,R,X
@@ -172,4 +177,4 @@ console load StartupContest2021/1-Submissions/augustusargento
    5,R,J
    9,U,X
  135
-#0:26.996(1588)
+#0:26.979(1587)
