@@ -1,4 +1,4 @@
-RecordCount:100
+RecordCount: 135
 console load StartupContest2021/1-Submissions/mika
    1
 
@@ -48,21 +48,39 @@ console load StartupContest2021/1-Submissions/mika
    1,L,J
    8,L
    1,L,J
-   1,L,K
-   3,L,D
+   4,L
   40
 
 #lvl_a02
+  14,L
+   2,L,J
+  37,L
    1,L,D
-  16,R,D
-   3,L,J
-  36,L
-   5,L,D
-   5,L,J
-   1,L
   13,L,K
-  46,L,X
+  45,L,X
    4,L,J
    1,L,K
   75,L,J
-  50,L,G
+   1,G
+   2,L,K,G
+  13,L
+  15,R
+  74,R,J
+  22,R,K
+  10,R
+  52,R,X
+   4,R,J
+   9,R,K
+  54,R
+  65,R,J
+  10,R,K
+  26,R,D
+  24,R
+   3,R,J
+  12,R,K
+  40
+
+#lvl_a03
+   1,R,J,G
+   1,R,K,G
+  22,R
