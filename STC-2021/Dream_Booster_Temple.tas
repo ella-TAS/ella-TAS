@@ -1,4 +1,4 @@
-RecordCount: 497
+RecordCount: 503
 console load StartupContest2021/1-Submissions/earthwise
    1
 
@@ -153,10 +153,8 @@ console load StartupContest2021/1-Submissions/earthwise
   22,R,D,X
   32,C
   18,U,X
-  15,U,Z
-   5,L,J
-   4,J
-   9,R,J
+  15,U,C
+  18,L,J
    8,R,K,G
    4,L,K
   40
