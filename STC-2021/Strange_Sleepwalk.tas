@@ -1,23 +1,22 @@
-RecordCount: 497
+RecordCount: 509
 console load StartupContest2021/1-Submissions/augustusargento
    1
 
 #Start
 #lvl_intro
  190
+   2,R
    1,R,J
   14,R
-   4,R,J
-   1,J
+   6,R,J
+   6,R
    2,R,J
    1,R
-   6,R,K
-   6,R
+   3,R,J
    1,R,J,G
    1,R,K,G
   12,R
    2,R,J
-#almost saving 1f here
 #  16,R
    4,R
    2
