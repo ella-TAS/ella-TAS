@@ -1221,16 +1221,14 @@ console load dsides/6-Reflection
    1,L,J,G
    3,J
    3,R,J
-  11,R
-  10,R,D,X
-  33,R
-   4
-   8,R,X
+  47,R
+  11,R,X
   11,R,J,G
-  36,R,D
-   5,R,X
+  28,R,D
+   8,R
+   6,R,X
   27,R,D
   87,F,90
   14,R,X
  135
-#3:59.377(14081)
+#3:59.309(14077)
