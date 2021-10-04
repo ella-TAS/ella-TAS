@@ -1,4 +1,4 @@
-RecordCount: 545
+RecordCount: 977
 
 console load StartupContest2021/1-Submissions/jadeturtle
    1
@@ -75,14 +75,14 @@ console load StartupContest2021/1-Submissions/jadeturtle
   15,R,U,X
   39,U,C
   15,L,X
-  41,L,G
-   1
+  35,L,G
+   6
    1,J
    2,K,G
   38,R,K
   31,R,J
-  15,G
-   1
+  14,G
+   2,J
    1,K
    2,J,G
   42,L,J
@@ -112,15 +112,15 @@ console load StartupContest2021/1-Submissions/jadeturtle
    7,R
    6,R,J
    7,R
-  27,R,G
-   1,R
+  23,R,G
+   4,R
    1,J
    2,K,G
    7,L,K
   12,L
    1,L,J
-  29,G
-   1
+  25,G
+   4
    1,K
    2,J,G
   14,R,K
@@ -157,24 +157,183 @@ console load StartupContest2021/1-Submissions/jadeturtle
   31,R,K
   50,R,C
   15,R,U,X
-   4,R,J,G
+   1,R,J,G
+   3,L,J
    7,R
    4,Z
    1,R,J
    7,R
-   8,R,J
+   3,R,J
+   8,R,D,X
   40
 
 #lvl_a-07
-   4,R,J
-  10,R,D,X
-
-   5,R,D,X
+   4,R
+   5,R,J
+   2,R,K,G
+  14,R,U,X
+  25,R,C
+  15,R,U,X
+  25,R,D
+  43,R,X
+  68,U,C
+  15,U,Z
+  34,R,C
+  10,R,X
+  37,R,J,G
+   6,K
+   1,J
+   2,K,G
+  31,L,K
+  39,L,U,X
+  16,L,D
+  14,L,X
+  83,R,C
+  11,R,D,X
    1,R,J
-  
+   3,R
+   1,R,J
+   3,R
+   1,R,D,J
+   6,R,D,X
+   9,R,J,G
+   6,R
+  40
 
+#lvl_a-08
+   1,R
+   1,R,J
+   4,R
+   1,R,J
+  10,R,K,G
+   1,R
+   1,R,J,G
+   3,R
+   1,R,K,G
+  10,R
+   1,R,J
+  14,R,D,X
+  41,U,C
+  24,L,X
+  54,R,D
+  17,R,Z
+   2,R,J
+  16,R
+  15,D,X
+  15,R,D,C
+   6,R
+   6,R,D
+   8,R,J
+   6,R
+   4,R,J
+  11,R
+  32,R,J
+  25,R,G
+   4
+   2,J,G
+   1,R,J
+   1,K
+   2,J,G
+  41,L,J
+  34,G
+   5,R
+   1,L,J,G
+   1,L,K,G
+   6,L,J,G
+  31,R,X
+  19,R,D,C
+  29,R,D,X
+  14,R,Z
+  20,R,J
+  18,G
+   1
+   1,L
+   1,R
+   3,J,G
+   1,K
+   1,J,G
+  27,L,J
+  17,R,U,X
+  10,R,Z
+   1,R,J
+   7,R
+   1,R,J
+   1,R
+  10,R,D,X
+   6,R,J,G
+   5,R
+   1,R,J
+   2,R
+  40
 
+#lvl_a-09
+   4,R
+   4,R,J
+   3,R,K,G
+  10,R,J,G
+  14,R,Z
+  21,R,C
+  11,U,X
+   3,R,J
+  20,R
+  15,R,D,X
+   7,R
+  21,D,X
+  17,R,Z
+   5,R,J
+   4,R
+  26,R,G
+   3,L
+   1,R,J,G
+   1,R,K,G
+  28,R,D
+  15,U,X
+  22,R,C
+  33,R,X
+  15,U,C
+  20,R,J
+   1,R
+   1,R,K,G
+   6,R,J,G
+  21,R
+   1,R,J
+   4,J
+   1,R,J
+  15,U,X
+   1,R
+  11,R,J
+  40
 
-
-
- 100
+#lvl_a-10end
+  16,R
+  15,R,U,X
+   4,R
+   1,R,J,G
+   3,L,J
+   5,R,J
+   1,R,K,G
+   7,R
+  13,R,U,X
+   5,R,J,G
+   7,R
+   1,J
+   1,R,J
+   1,J
+  11,R,J
+   9,R,K,G
+   9,R,J,G
+  12,R,K,G
+   9,R,J,G
+  10,R,X
+   6,R,J
+   1,R
+   9,U,X
+  53,R
+   1
+   1,R
+   6,L,J
+   1,L
+  11,L,J
+  61,L,K
+   1,R,K
+#1:01.115(3595)
