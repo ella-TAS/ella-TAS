@@ -1,31 +1,26 @@
-RecordCount: 609
-
+RecordCount: 638
 console load StartupContest2021/1-Submissions/quadchunks
    1
 
 #Start
+#lvl_intro
  190
-   8,L,Z
+   5,L,Z
    1,R,J
-   3,R
-   1,R,J
-   3,R
-   1,R,J
-   1,R
-   5,R,D,X
-   3,R,J,G
-   5,R
-   1,J
    7,R
    1,R,J
-   1,R
-   1,R,K,G
-  11,R
-  12,R,J
+   3,R,K,G
+  12,R
+   1,R,J
+   2,R
+   1,R,J,G
+  12,R
+   9,R,J
+   4,R
   40
 
 #lvl_1
-   2,R,J
+   5,R
   35,R,X
   19,R,D,C
    8,R,J
@@ -273,5 +268,4 @@ console load StartupContest2021/1-Submissions/quadchunks
    1,L,J
   10,J
   40,L,J
-#0:37.264(2192)
-   1
+#0:37.247(2191)
