@@ -1,4 +1,4 @@
-RecordCount: 267
+RecordCount: 283
 console load StartupContest2021/1-Submissions/twoday
    1
 
@@ -243,12 +243,13 @@ console load StartupContest2021/1-Submissions/twoday
   14,R,D
   15,R,X
    1,G
-   4,R,J,G
-  35,R,G
-   6,R,D,G
+   1,L
+   5,K
+  20,R
    1,R,J,G
-  10,R
-  14,R,D,X
+   2,R
+   3,L
+  14,R,Z
    1,R,J
   15,R,X
   28,D
@@ -292,4 +293,4 @@ console load StartupContest2021/1-Submissions/twoday
    2,R,K
   14,R,U,X
  135,L,D
-#0:54.145(3185)
+#0:53.737(3161)
