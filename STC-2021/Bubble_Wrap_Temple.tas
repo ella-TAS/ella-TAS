@@ -1,45 +1,44 @@
-RecordCount: 100
+RecordCount: 471
 console load StartupContest2021/1-Submissions/potatolucy
    1
 
 #Start
 #lvl_a-01
  190
-   2,R,J
-  10,R,Z
-   3,R,J
-   8,R
-   1
+   5,L,D,X
    1,R,J
-   2,R,J
-   2,R,K,G
+   5,R,K,G
+  11,R
+   3
+   6,R,J
    7,R,D,X
    1,S
    1,D,J
   34
-  15,R,D
-   5,R,X
+   4
+   4,R,J
+  13,R,D,X
+   1,K
+   1,R
+   7,R,D,X
    1,R,J
-  15,R
-   7,Z
-   1,R,J
-   6,R
-   1,R,J
+   7,R
+   2,R,J
   40
 
-#lvl_a-02
-   4,R,J
+#lvl_a-02(1)
+   2,R,J
+   2,R
    6,R,D,X
    1,R,J,G
    1,R
    3,R,J,G
-   1
-  10,R
+  11,R
    3,R,J
    3,R,K,G
    4,R,J,G
-   5,R,K,G
-   4,R
+   4,R,K,G
+   5,R
   18,R,D,X
    4,R,J
   40
@@ -47,13 +46,13 @@ console load StartupContest2021/1-Submissions/potatolucy
 #lvl_a-03
    3,R,J
    5,R
-   3,J
+   3,R,K
    1,R,J,G
    5,R
    2,R,J
    8,R
    2,R,J
-  46,R,K,G
+  49,R,K,G
   15,U,X
    3,R
   10,R,J
@@ -61,6 +60,7 @@ console load StartupContest2021/1-Submissions/potatolucy
    4
    2,R
    1
+   1,R
    1,K
   13,L,K
   40
@@ -68,21 +68,27 @@ console load StartupContest2021/1-Submissions/potatolucy
 #lvl_a-04
    8,L
    6,R,K
-  13,U,X
-   1,L
+  14,U,X
   23,U,C
   15,L,Z
-  40,L,D
-  44,U,X
-  14,L,C
-  15,R,D
-  59,D
-  43,U,X
-  13,L,C
-   9,L,J,G
-   5,L
-   1,L,J
-  11,L
+  10,L,D
+  29,D
+   2
+   7,R,D
+   2,R,J,G
+  11,R
+   3
+  10,L,J
+   8,L
+  15,L,Z
+  42,U,X
+  14,L,Z
+   1,L,J,G
+   2,L
+   5,L,K
+   5,K
+  21,L,J
+  13,L
   12,L,J
    8,L,K,G
    1,L
@@ -168,7 +174,7 @@ console load StartupContest2021/1-Submissions/potatolucy
   38,L,D
   40
 
-#lvl_a-02
+#lvl_a-02(2)
   15,D,X
   97,D,C
   15,U,X
@@ -296,6 +302,21 @@ console load StartupContest2021/1-Submissions/potatolucy
   15,U,Z
    1,R,J,G
    7,R
+#coin skip attempt
+#very close to working
+#   4,D,X
+#   1,R,J
+#   7,R
+#   4,R,J
+#  14,U,X
+#   1,R
+#   4,K
+#  31,L
+#   4
+#  10,L,X
+#  18,R,J
+#  21,U,X
+#  21,U,C
    1,R,J
    1,R
   15,U,X
@@ -360,4 +381,4 @@ console load StartupContest2021/1-Submissions/potatolucy
   34
   12,L
  135
-#0:55.947(3291)
+#0:54.995(3235)
