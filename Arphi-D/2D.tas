@@ -83,10 +83,8 @@ console load dsides/2-OldSite
   14,R
   20,R,Z
    4,L,G
-   2,J,G
    1,R,J
-   1,K
-   1,J
+   4,R,K
   14,R,X
    4,R,J
    8,R,K
@@ -97,11 +95,15 @@ console load dsides/2-OldSite
    3,R,J
   40
 
+
 #lvl_a03
   11,R,J
   20,U,X
-  37,R,D
-   5,D
+  10,R
+   6,R,X
+   1,J,G
+  10,D
+  13,R,D
   12,R,D,X
    5,R,J
   14,R
@@ -147,6 +149,7 @@ console load dsides/2-OldSite
    8,R
    4,R,J,G
   36,R,X
+
    4,R,J
    3,R,K
   18,U,X
@@ -156,7 +159,7 @@ console load dsides/2-OldSite
   40
 
 #lvl_a05
-  11,R
+  10,R
   16,R,Z
    4,R,J
   18,R,K
@@ -167,63 +170,75 @@ console load dsides/2-OldSite
    5,L,J
    7,R,J
    7,R
-   9,R,J,G
-  21,L,K
+   6,R,J,G
+   3,J
+  20,L,K
    5,L
   11,U,X
   17,L,J
   11,R,K,G
-   8,L,J
-  11,R,K
-   6,R
-  15,L,X
-  16,L,D
-   2,L,J
-  12,L
-   3,R
+   1,J
+   6,L,J
+   1,J
+   1,K
+   9,R,K
+  10
+   8,L,D
+   9,L,X
+   1,L,J,G
+  10,L,D
+   9,L
+   4
   12,L,J,G
   12,L,K,G
   15,L,J,G
-   6,L,K,G
-   3,R,J
-   2,R,K,G
+  10,L,K,G
+   5,R,J
   26,R,X
    4,R,J
   12,R,K
    4,R
-  15,R,D,X
+  14,R,D,X
    1,R,J
-   8,R,D,X
+   7,R,D,X
+   1,R,J
   40
 
 #lvl_b01
-   6,R
    1,R,J
-  40,R,X
-  14,R,D
+   1,R
+   1,R,J
+  16,R,D
   20,R,X
-   4,R,J
-  11,R,K
-   5,R
-   5,R,J
-   ,R
-  29,R,X
    4,R,J
    1,R,K
   28,R,X
    4,R,J
-   1,R,K
-  18,R
-  23,R,X
-  17,R
-  36,R,X
+  20,R,K
+  30,R,X
    4,R,J
+   2,R,K
+   9,R
+   1,R,J
+   7,R
+   1,R,J
+  20,R,D
+   2,R
+  26,R,Z
+   4,R,J
+   1,R,K
    5,R
-   7,R,K
+  10,R,J
+  13,R,G
+   1,R,D,G
+  24,R,Z
+   4,R,J
+   1,R,K
+   8,R
   34,R,X
    4,R,J
    5,R,K
-  15,U,Z
+  14,U,X
   16,R,J
   40
 
@@ -316,33 +331,34 @@ console load dsides/2-OldSite
   15,R,U,X
    9,R
   10,R,Z
+   1,R,J
+  16,R
+  16,R,U,X
+   4,R,J
+  11,R,K
+  22,R,X
+   4,R,J
+   4,R,K
+  16,R
+  22,R,X
+   4,R,J
+   9,R,K
+  15,R,D,X
+  11,R,D
+   4,R
+   4,D,X
+   1,R,J
+   6,R
+   7,R,J
+   2,R
+   3,R,K,G
+   5,R
+   5,R,J
+   8,R,D,K
+   5,R
    2,R,J
-  20,R
-  13,R,U,Z
-   8,R,J
-  16,R,K
-   3,R,J,G
-  14,R,X
-   4,R,J
-   1,R,K
-  17,R
-  23,R,X
-   4,R,J
-  10,R,K
-  32,R
-  15,R,U,Z
-   4,J
-   4,R,J
-   1,K
-   1,L,K
-   5,R,K
-   1,L,K
-  13,R,K
-  10,R,U,X
-   4,R,J
-  65,R,K
-   9,R,D
-  19,R,U,Z
+  16,R,D
+  17,R,U,Z
    4,R,J
    5,R,D,X
    1,R,J
@@ -361,6 +377,15 @@ console load dsides/2-OldSite
   18,L,C
    4,R,G
   17,D,X
+#   1,R
+#   4,R,Z
+#   1,R,J
+#   7,R
+#   4,R,J
+#   6,R
+#   4,J
+
+
    1,R
    6,R,Z
    1,R,J
@@ -420,20 +445,27 @@ console load dsides/2-OldSite
    8,L,J
    5,L,Z
    1,L,J
-   7,L
-   3,L,D,J
-   6,L
-   8,R,D,X
+   5,L
+   1,L,J
+   1,L
+   3,L,D,K
+   5,L
+   9,R,D,X
    1,R,J
    7,R
-   3,R,D,J
-   4,R
+   4,R,D,J
+   3,R
   15,U,X
   18,J
-   6,R,K,G
-   8,R
-  30,L,X
-  25,R,C
+   1,R,K,G
+   1
+   1,R,J,G
+   4
+   2,R
+   1
+  24,L,X
+   4,R,G
+  22,R,C
    4,R,J
   15,R,D,X
   18,D,C
@@ -444,34 +476,33 @@ console load dsides/2-OldSite
    7,R
    4,R,J
    7,L,D,X
-   1,L,J
-   7,L
-   1,L,J
-  10,L,D,X
-   7,L,J
-# Not sure how
-# optimal this 
-# movement is
-   6,L,K,G
-  12,J,G
-  12,R,K
-  12,L,J
-   3,R,K
-   5,J
-  16,U,X
-   9,J
-  11,R
-   7,R,Z
-   1,R,J
+   3,L,J
+   1,L
+  10,L,J
+   3,L
+  12,L,D,K
+  12,R,J
+  15,U,X
+  18,L,J
+  12,L,K,G
+  10,R,J
+   7,R
+   4,R,Z
+   2,R,J
    6,R
-   4,R,J
+   1,R,J
+   1,R
+   3,R,J
    7,L,D,X
    1,L,J
    7,L
    1,L,J
   14,L,D,X
-   1,J
-   6,R,J
+   1,L,J
+   6,J
+#can dash 1f earlier
+#but you get a liftboost
+#from the coin block
   31,U,X
    6,R,D,C
    1,R,J
@@ -479,9 +510,10 @@ console load dsides/2-OldSite
    1,R,J
   14,R,D,X
    1,R,J
-  14,R,D,X
-   3,R,J
-  10,U,X
+   7,R
+   4,R,D,J
+   4,R
+   8,U,X
   40
 
 #lvl_c03
@@ -819,4 +851,4 @@ console load dsides/2-OldSite
    4,R,J
    1,R,K
  104,R,D,X
-#2:02.740(7220)
+#2:00.938(7114)
