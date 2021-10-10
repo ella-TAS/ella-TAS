@@ -1,4 +1,4 @@
-RecordCount: 341
+RecordCount: 1184
 console load StartupContest2021/1-Submissions/powerav
    1
 
@@ -54,16 +54,13 @@ console load StartupContest2021/1-Submissions/powerav
   16,U,X
   18,L,J
    9,K
-   1,R,J,G
-   3,L,J
-   3,R,J
+   6,R,J,G
+   1,K,G
    7,R
-   8,L,Z
-   1,R,J
-   2,R
-   4
-   3,K
-  11,R,K
+   3,L
+   1,J
+  10,R,X
+  13,R,K
    1,J,G
    3,R,J
    5,J
@@ -81,9 +78,8 @@ console load StartupContest2021/1-Submissions/powerav
    1,J,G
    3,R,J
    5,J
-   1,R,J
+   3,R,J
    1,L,J
-   1,R,J
   16,U,X
   13,L,J
    5,R,J
@@ -91,22 +87,27 @@ console load StartupContest2021/1-Submissions/powerav
    2,L,K
    1,R,K
    7,R
-   6,R,Z
-   1,R,J
-   7,R
+   1,J
+   6,R,J
+   6,J
+  15,U,X
+  32,R,D
+   6,D
+   1
+   1,D
+   4,D,X
   10,R,J
-   6,R,D,X
-   4,R,J,G
-  10,R
-   8,R,U,X
-   1,R,J,G
-   8,R
+   5,R,K,G
+   5,R
+   4,R,K
+   6,R,J
+   4,R,K,G
+  10,R,D,X
   40
 
 #lvl_b-2(1)
-   3,R
-   6,R,J
-   2,R
+   4,R
+   9,R,J
   13,R,D,X
    2,L,J
   15,D,C
@@ -116,9 +117,9 @@ console load StartupContest2021/1-Submissions/powerav
   11,R,J
   15,R,D,X
   10,D
-   2,R,D
+   1,R,D
    1,D
-   4,R,D
+   5,R,D
   20,R,J
   27,R,U,X
   40
@@ -157,7 +158,257 @@ console load StartupContest2021/1-Submissions/powerav
   14,R,D,X
   40
 
-#lvl_b-4
+#lvl_b-4(1)
    1,S
    1,D,J
   69,O
+   3,L,J
+  15,U,X
+  11,L,G
+  12,L,J,G
+  12,L,K,G
+   3,L,J,G
+   3
+  17,D,X
+  43,R,G
+  84,R,J,G
+  12,R
+  15,U,X
+  45,L,U,G
+   2,L
+   1,K
+   1,L,J,G
+  21,R,J
+#conserving a crouch
+#state up the left wall
+#would skip the next room
+  24,R,G
+   1,L,J
+  15,L,K
+  14
+  24,R,D,X
+   4,D,C
+   1,R,J
+   7,R
+   7,R,J
+  16,U,X
+  18,L,J
+  12,L,K,G
+  11,J,G
+   1,R,J
+   1,R,K
+  11,R,J
+  11,K
+   1,S
+   1,D,J
+  69,O
+   6,R,Z
+   1,R,J
+   7,R
+   1,R,J
+  40
+
+#lvl_b-5(1)
+  14,R,D,X
+   1,R,J
+  12,R,D,X
+   1,R,J
+  14,R,D
+   4,L,D
+  14,R,D
+  10,R,Z
+   5,L,J
+  16,U,Z
+   3,R,J,G
+   3,L,J
+   3,R,J
+   7,R
+  11,R,Z
+   1,L,J
+   8,L
+   1,L,J
+  10,L,D,X
+   1,L,J
+  13,L,D
+   3,R,D
+   4,L,D
+   5,L
+   2,L,G
+   3,L,D
+  10,L
+   4,L,D
+   7,L,Z
+   1,L,J
+   6,L
+  43
+
+#lvl_b-4(2)
+   1,L,J
+  14,L,D,X
+   1,L,J
+  15,L,D,X
+  43,L,D
+  10,L,D,X
+   1,R,J
+   7,R
+   1,R,D,J
+   1,R,K
+   1,R,J
+   3,R,K
+   2,K
+   4
+   3,R,K
+   2,J
+   2,K
+   3,R,J,G
+   5,R,Z
+   1,R,J
+   5,R
+  40
+
+#lvl_b-5(2)
+   1,R
+  11,R,J
+  11,U,Z
+   4,R,J
+  11,R
+   4,D,X
+   5,R,J
+   6,R,D
+   1,R,K
+  10,R,D
+   4,L,D
+   6,R,D
+  13,R,D,X
+   1,R,J
+   1,R
+  14,R,D,X
+   2,R,J
+   4,R
+   5,L,D
+  22,L,D,X
+   1,K
+   7,L,J,G
+  15,L,X
+  14,D
+   1,L,J
+  11,L
+  15,L,X
+  17,L,D
+  75,O
+   6,L,Z
+   1,L,J
+   7,L
+   1,L,J
+  10,L,D,X
+   8,L,J
+  16,U,Z
+   1,R,J,G
+   4,L,J
+   2,R,J
+   7,R
+   6,R,Z
+   1,R,J
+   7,R
+   1,R,J
+  11,R,D,X
+   8,R,J
+  15,U,X
+   6,L
+  17,L,U,C
+  64,R,G
+   6,R,J,G
+  25,R,K,G
+  13,R,D,X
+   1,S
+   1,D,J
+  72,O
+   6,L,Z
+   1,L,J
+   7,L
+   1,L,J
+  14,L,D,X
+   1,L,J
+   7,L
+  14,L,J
+  19,R,K
+   1,R
+  10,R,J
+   5,U,X
+   8,R,J
+  11,R
+   3,R,J
+   8,U,Z
+   7,R,J
+  11,R
+   2,R,J
+  14,R,U,X
+   1,R,J,G
+  83
+   1,L,J
+   8,L
+   2,L,J
+   5,L
+  14,L,Z
+   1,R,J
+   6,R
+   1,R,J
+   7,R,D,X
+   1,R,J
+   7,R
+   1,R,J
+  14,R,D,C
+   1,L,J
+   4,L
+  15,D,X
+   4
+  14,R,C
+  14,R,J
+  17,U,X
+  27,L,G
+  11,U,G
+   2,L
+   1,K
+   1,L,J,G
+  10,R,J
+  13,R
+  38,U,G
+  14,U,X
+   3,R
+  27,R,U,C
+  11
+   6,L
+  19,R
+  15,U,X
+  15,R
+   6,R,Z
+   1,R,J
+   7,R
+   1,R,J
+  12,R,D,X
+   1,R,J
+  43
+
+#lvl_finale
+   2,R,J
+   8,R,U,X
+   9
+   1,J
+  14,L
+  79
+   1,L,J
+   8,L
+   2,L,J
+   1,L
+   4
+  10,L,Z
+   1,R,J
+   6,R
+   1,R,J
+   9,R,D,X
+   5,R,J
+  10,R
+  25,R,J
+  18,U,X
+ 135,R,D
+#1:01.506(3618)
