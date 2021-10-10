@@ -1,4 +1,4 @@
-RecordCount: 1184
+RecordCount: 1280
 console load StartupContest2021/1-Submissions/powerav
    1
 
@@ -27,14 +27,14 @@ console load StartupContest2021/1-Submissions/powerav
    4,D,X
    1,R,J
    5,R
-  13
+  14
   30,U,X
 
 #lvl_b-1
    8,L,D
-  13,D
-   2
-   1,D
+  10,D
+   3
+   3,D
    4,D,X
    2,R,J
    7,R
@@ -170,11 +170,14 @@ console load StartupContest2021/1-Submissions/powerav
    3,L,J,G
    3
   17,D,X
-  43,R,G
-  84,R,J,G
-  12,R
+  23,R
+  11,R,G
+   7
+  24,R,J,G
+  61,R,G
   15,U,X
-  45,L,U,G
+   2,R
+  43,L,U,G
    2,L
    1,K
    1,L,J,G
@@ -182,7 +185,8 @@ console load StartupContest2021/1-Submissions/powerav
 #conserving a crouch
 #state up the left wall
 #would skip the next room
-  24,R,G
+  19,R,G
+   5,K
    1,L,J
   15,L,K
   14
@@ -370,20 +374,21 @@ console load StartupContest2021/1-Submissions/powerav
    2,L
    1,K
    1,L,J,G
-  10,R,J
-  13,R
-  38,U,G
-  14,U,X
-   3,R
-  27,R,U,C
-  11
-   6,L
-  19,R
+   8,R,J
+  13,L
+  15,R,Z
+   4,L
+   6,L,J,G
+  14,L
+  28,L,U,G
   15,U,X
-  15,R
-   6,R,Z
-   1,R,J
-   7,R
+   6,L,U,C
+  18,R
+  15,U,X
+  16,R
+   4,R,Z
+   2,R,J
+   8,R
    1,R,J
   12,R,D,X
    1,R,J
@@ -411,4 +416,4 @@ console load StartupContest2021/1-Submissions/powerav
   25,R,J
   18,U,X
  135,R,D
-#1:01.506(3618)
+#1:00.979(3587)
