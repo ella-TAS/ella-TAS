@@ -1,4 +1,4 @@
-RecordCount: 977
+RecordCount: 1191
 
 console load StartupContest2021/1-Submissions/jadeturtle
    1
@@ -185,23 +185,27 @@ console load StartupContest2021/1-Submissions/jadeturtle
    1,J
    2,K,G
   31,L,K
-  39,L,U,X
-  16,L,D
-  14,L,X
-  83,R,C
-  11,R,D,X
+  28,R,D,X
+  23,R,G
+   3
+   3,J,G
+   1
+   9,J,G
+  24,R,J
+  15,R,U,X
+  28,R,D
+   1,L
+   7,R,D,X
    1,R,J
-   3,R
+   6,R
    1,R,J
-   3,R
-   1,R,D,J
    6,R,D,X
    9,R,J,G
    6,R
   40
 
 #lvl_a-08
-   1,R
+   1
    1,R,J
    4,R
    1,R,J
@@ -335,5 +339,6 @@ console load StartupContest2021/1-Submissions/jadeturtle
    1,L
   11,L,J
   61,L,K
+***
    1,R,K
-#1:01.115(3595)
+#1:00.792(3576)
