@@ -1,4 +1,4 @@
-RecordCount: 100
+RecordCount: 111
 console load StartupContest2021/1-Submissions/toneblock
    1
 
@@ -81,8 +81,6 @@ console load StartupContest2021/1-Submissions/toneblock
   18
    1,R,J
   14
-
-
    3,R,J
   16,R
    5,R,J
@@ -141,12 +139,14 @@ console load StartupContest2021/1-Submissions/toneblock
   17,L
    1,L,J
   14,L
-   1,L,J
-  16,L
+   5,L,J
+  12,L
   40
 
 #lvl_heart
- 112
-  13,R,X
+ 104
+   4,J
+   8,R,K,G
+  14,R,U,X
  135
-#0:27.778(1634)
+#0:27.863(1639)
