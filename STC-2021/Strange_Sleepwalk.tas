@@ -1,4 +1,4 @@
-RecordCount: 509
+RecordCount: 524
 console load StartupContest2021/1-Submissions/augustusargento
    1
 
@@ -54,10 +54,10 @@ console load StartupContest2021/1-Submissions/augustusargento
   19,R,X
    4,R,J
    1,R,K
-  19,R,X
+  19,R,Z
    4,R,J
    1,R,K
-  19,U,X
+  18,U,X
   25,R,C
   40
 
@@ -76,13 +76,13 @@ console load StartupContest2021/1-Submissions/augustusargento
   21,R,D,X
   17,L,D
    4,L,J
-  17,L,X
+  17,L,Z
    4,L,J
    4,L,K
    5,L
    7,L,J,G
   22,L,D,X
-   5,L,J
+   4,L,J
   21,R,D,X
    4,R,J
    1,R,K
@@ -119,10 +119,10 @@ console load StartupContest2021/1-Submissions/augustusargento
    5,R
   17,R,U,Z
   17,R,D,C
-  15,R,U,X
-  20,R,C
+  18,R,U,X
+  17,R,C
    4,L,G
-   8,R,D
+   8,R
    1,S
    1,D,J
   69,O
@@ -158,7 +158,8 @@ console load StartupContest2021/1-Submissions/augustusargento
    1,D
    4,R,D
    1,R,D,J
-  34,R,D,X
+  32,R,D,X
+   2,R,J
   23,D,C
   18,R,X
    4,R,J
@@ -167,6 +168,7 @@ console load StartupContest2021/1-Submissions/augustusargento
    9,R,J,G
   22,D,X
   21,R,D,C
+#we die in slo mo here
  168,O
 
 #lvl_outro
@@ -178,4 +180,4 @@ console load StartupContest2021/1-Submissions/augustusargento
    5,R,J
    9,U,X
  135
-#0:26.979(1587)
+#0:26.945(1585)
