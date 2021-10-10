@@ -149,7 +149,6 @@ console load dsides/2-OldSite
    8,R
    4,R,J,G
   36,R,X
-
    4,R,J
    3,R,K
   18,U,X
@@ -377,15 +376,6 @@ console load dsides/2-OldSite
   18,L,C
    4,R,G
   17,D,X
-#   1,R
-#   4,R,Z
-#   1,R,J
-#   7,R
-#   4,R,J
-#   6,R
-#   4,J
-
-
    1,R
    6,R,Z
    1,R,J
@@ -561,65 +551,61 @@ console load dsides/2-OldSite
    4,R,J,G
    7,R
    6,R,J
-   6,R,K,G
-  14,R
-   7,R,X
-   5,R,J
+   5,R,K,G
+   5,R
+   4,R,J
+   6,R
+   4,R,Z
+   1,R,J
+   5,R
   40
 
 #lvl_c04
-   3,R,J
-   9,U,X
-   9,R,J
-   4,L,J
-  10,L,K
-   6,L
-   3,J
-  13,L
-  10,D
-  19,R,D
-   4,Z
-   1,R,J
-   7,R
-   3,R,J
-  16,U,X
+   2
+   7,R,J
+  15,U,X
+   1,R
   12,L,J
-   4,R,J
-   1,L,K,G
+   1,L
+   1,R
    2,K
-   2
-  10,L,D
-  30,R,D
-  16,R,J
-  14,U,X
-  12,J
-   2
-   1,K
-  20,D
-  18,R,D
-   4,D
+  23,D
+  16,R,D
+   1,R
+   1,R,D
+   1,R
+   4,D,X
+   1,R,J
+   6,R
+   4,R,J
+  15,U,X
+  15,L,J
+   3,R
+  15,D
+  28,R,D
   10,R,X
-   1,R,J
-   1,L,J
-   3,L
+   5,R,J
   14,U,X
-   6,L,J
-   9,R,J
-   4
-   1,K
-  17,D
-  13,R,D
-  12,D
-   9,L,D,X
-   1,R,J
-   7,R
-   1,R,J
-   5,R,K,G
-  16,U,X
-  16,R,J
+  15,J
+  28,D
+  18,R,D
+  10,R,X
+   2,J
+   3
+  14,U,X
+  15,J
+   3
+   2,J
+  42,D
+  10,R,X
+   5,R,J
    6,R,K,G
+  15,U,Z
+  14,J
+   3,R
+   1,R,J,G
    7,R
-   4,Z
+   4,D,X
    1,R,J
    2,R
   40
@@ -628,25 +614,31 @@ console load dsides/2-OldSite
    5,R
   20,R,J
   35,L,U,X
-   8,L,J
-  12,L,K
-  12,L,J,G
-  10,L,K,G
-  11,L,Z
+   8,L
+  15,U,Z
+   6,L,J,G
+   1,L
+   1,L,J,G
+   7,L
+  10,L,Z
   40
 
 #lvl_d02
-   5,L
+   5,L,Z
    1,L,J
-  39,L,D
-  10,L,D,X
-   9,L,J
-   3,R,J
-   5,L,K,G
+   3,L,D
+  15,D,X
+  17,L,D
+   7,L
+   4,D,X
+   1,L,J
+   6,L
+   7,L,J
+   4,L,K,G
  115,U,X
   15,U,C
-  14,L
-  22,D
+  13,L
+  23,D
   15,L,D,X
    8,R,J
   10,K
@@ -656,13 +648,17 @@ console load dsides/2-OldSite
    4,R,K,G
    1
   11,L,J
-   2
+   2,L
    1,K,G
-   5
+   5,L
+   2,R
+  12,D
+  20,L,D
+   8,R,D
+   1,L,D
+   4,R
+   1,R,D
    1,R
-  19,L
-  18,L,D
-  13,R,D
   18,R,X
   31,R,Z
    4,R,J
@@ -685,17 +681,16 @@ console load dsides/2-OldSite
    4,L,J
    1,L,K
    2,L
-  22,L,D,X
-   1,L,J
-  10,L,D,X
+  15,L,D,X
+   7,L,D
+   4,L,Z
    1,L,J
    7,L
-   4,L,J
+  12,L,J
   40
 
 #lvl_d03
-   8,L,J
-  22,L,X
+  30,L,X
    4,L,J
    8,L,K
   17,L,U,X
@@ -722,12 +717,16 @@ console load dsides/2-OldSite
   12,L,K
   12,L,J,G
    7,L,K,G
-   4,R,K
-  26,R,J
+   1,L,K,G
+   1,J,G
+   1,R,J
    1,L,J
+   1,K,G
+  25,R,K
    1,K
-   4,L,K
-   6,R,K
+   1,J
+   4,L,J
+   6,R,J
   20,R,U,Z
    4,L,J
   10,L,K
@@ -841,14 +840,15 @@ console load dsides/2-OldSite
    4,R,G
   22,R,X
    4,R,J
-   5,R,K
-  15,R
+   1,R,K
+  19,R
   32,R,X
    4,R,J
-  16,R
-  18,R,X
+   1,R,K
+   6,R
+  24,R,X
   37,R,Z
    4,R,J
    1,R,K
- 104,R,D,X
-#2:00.938(7114)
+ 105,R,D,X
+#2:00.428(7084)
