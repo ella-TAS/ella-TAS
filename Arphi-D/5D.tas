@@ -850,45 +850,77 @@ console load dsides/5-Temple
   25,R,C
   12,R,D,X
 
+   3,R,D,X
+  17,D,C
+  15,D,X
+  15,D,C
+  15,D,X
+  15,R,D,C
+   6,R,J
+   6,L,D
+  13,L,D
+  15,L
+   2,L,G
+   5,U,X
+   1,R,J
+  10,R
+  11,R,J,G
+  14,R
+  11,R,U,X
+   1,R,K,G
+   7,R
+   1,R,J
+   9,R
+   4,R,J
+   2,L,J
+   0,L,J
+   9,L
+   5,L
+  12,L
+   0,L,G
+   0,L,G
+
 #flag_1
 
 #Almost able to skip
 #another cycle here
-#   3,R,D,X
-#   2,J
-#  14,R,U,X
-#   1,L,J,G
-#   2,L,K,G
-#   7,L
-#  10,L,Z
-#   2,R,J
-#  13,J
-#  15,R,U,X
-#  20,R
+   #3,R,D,X
+   #2,J
+  #14,R,U,X
+   #1,L,J,G
+   #2,L,K,G
+   #7,L
+  #10,L,Z
+   #2,R,J
+  #13,J
+  #15,R,U,X
+  #20,R
+#Alternative strat (+3f)
+#   2,R,D,X
+#   1,R,J
+#   6,R
+#  15,U,X
+#  19
+#  15,D,C
+#  15,D,Z
+#  15,D,C
+#  15,D,Z
+#  10,L,D,C
+#  21,R,J
+#  14,U,X
+#   9,R
+#  14,R,D,X
+#   1,R,J
+#  15,R,D,X
+#   1,R
+#   8,R,D
+#   6,L,D
+#   6,R,J
+#   4,L,D
+#   1,R,D
+#  20,L,D
 
-   2,R,D,X
-   1,R,J
-   6,R
-  15,U,X
-  19
-  15,D,C
-  15,D,Z
-  15,D,C
-  15,D,Z
-  10,L,D,C
-  21,R,J
-  14,U,X
-   9,R
-  14,R,D,X
-   1,R,J
-  15,R,D,X
-   1,R
-   8,R,D
-   6,L,D
-   6,R,J
-   4,L,D
-   1,R,D
-  20,L,D
+
    5,U,X
   22,R,J,G
   14,R,U,Z
@@ -896,4 +928,4 @@ console load dsides/5-Temple
   55,R
    5,L,U,X
  135
-#2:16.323(8019)
+#2:16.272(8016)
