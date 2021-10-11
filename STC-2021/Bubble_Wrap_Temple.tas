@@ -1,4 +1,4 @@
-RecordCount: 603
+RecordCount: 763
 console load StartupContest2021/1-Submissions/potatolucy
    1
 
@@ -182,8 +182,10 @@ console load StartupContest2021/1-Submissions/potatolucy
    1,D
    1,L,D
    1,L,J,G
-   6,L,K,G
-  39,L,D
+   5,L,K,G
+   5,L
+   2,L,J
+  32,L,D
   40
 
 #lvl_a-02(2)
@@ -278,7 +280,7 @@ console load StartupContest2021/1-Submissions/potatolucy
   12,L,J
   10,L,K,G
    2,L
-  15,L,X
+  14,L,X
    1,K
    2,R,J
    5,R
@@ -313,83 +315,54 @@ console load StartupContest2021/1-Submissions/potatolucy
   15,U,Z
    1,R,J,G
    7,R
-#coin skip attempt
-#very close to working
-#   4,D,X
-#   1,R,J
-#   7,R
-#   4,R,J
-#  14,U,X
-#   1,R
-#   4,K
-#  31,L
-#   4
-#  10,L,X
-#  18,R,J
-#  21,U,X
-#  21,U,C
+   4,D,X
    1,R,J
-   1,R
-  15,U,X
-   1,R
-  13,L,J
-  37,D
-   7,R,D
-   2,D
-   5,R,Z
+   7,R
    4,R,J
-   9,R
-   2,R,J
-   9,R
-  15,R,Z
-   3,R
-   8,K
-  15,U,X
-   5
-  25,L,U,G
-  70,G
-  15,X
-   2,R
-  26,D
-   5
-  15,L,Z
-   9
-   3,L
-   1,L,J,G
-   2,L,K,G
-   5,L
-  25,L,J,G
-   1,R,J
-   9,U,X
+  14,U,X
    1,R
+   4,K
+  32,L
+   5,R
+   3,R
+   1
+   1,R
+  11
+  15,D,X
+   4,R,J
    1,J
-   8,R
-   2,R,J
-   6,R
-   1,G
    1,R,J
-  21,R,D
-  16,D
-   7,R,D
-  22,L,D
-  15,L,U,Z
-   9,K
-  63,U,X
-  14,U,C
+   8,J
+   1,R,J
+   1,J
+   1,R,J
+   1,J
+   1,R,J
+   1,J
+   1,R,J
+   1,J
+   1,R,J
+   1,J
+  16,R,K
+  19,U,X
   40
 
 #lvl_end
-  21,R
-  12,R,U,Z
+   4,R
+   1,R,J,G
+   1,R,K,G
+   5,K
+  14,R,U,Z
    9,L
   12,L,J,G
    1,L,K,G
    7,L
-   2,J
-   7,L,U,X
+   2,L,J
+   6,L,U,X
    1,S
    1,D,J
   34
-  12,L
- 135
-#0:54.621(3213)
+  12,L,J
+ 134
+   4,Z
+#0:48.416(2848)
