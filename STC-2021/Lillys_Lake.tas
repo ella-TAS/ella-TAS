@@ -1,4 +1,4 @@
-RecordCount: 475
+RecordCount: 478
 console load StartupContest2021/1-Submissions/flamecrafter113
    1
 
@@ -83,9 +83,10 @@ console load StartupContest2021/1-Submissions/flamecrafter113
    1,R,K
    1,R,J
   20,R,K
-   9,R,J,G
-   5,R
-   3
+   7,R,J,G
+   1
+   1,R,J,G
+   7,R
    4,D,X
    1,R,J
    6,R,K,G
@@ -122,4 +123,4 @@ console load StartupContest2021/1-Submissions/flamecrafter113
   13,R
   14,R,U,X
  135,D
-#0:16.847(991)
+#0:16.830(990)
