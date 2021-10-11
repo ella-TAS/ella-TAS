@@ -1,4 +1,4 @@
-RecordCount: 309
+RecordCount: 335
 console load StartupContest2021/1-Submissions/twoday
    1
 
@@ -51,15 +51,15 @@ console load StartupContest2021/1-Submissions/twoday
 #lvl_d-01
   12,R,J
   12,U,X
-  10,R,J
-  29,R
-   1,R,G
-  12,R,J,G
-  22,G
-   5,R,K,G
+  28,R,J
+  11,R
+   1,G
+   1
+   1,K
    2,R,J,G
-  15,R,Z
-  24,R,D
+   9,R
+   5,R,K
+  40,R,Z
   29,R,X
    8,R,Z
   61
@@ -204,11 +204,6 @@ console load StartupContest2021/1-Submissions/twoday
    1,R,J
   14,R,D,X
    1,R,J
-#  34,R,D
-#   6,R,D,X
-#   1,R,J
-#   7,R
-#   1,R,J
   14,R,D,X
    1,R,J
   14,R,D,X
@@ -295,4 +290,4 @@ console load StartupContest2021/1-Submissions/twoday
    2,R,K
   14,R,U,X
  135,L,D
-#0:53.635(3155)
+#0:53.261(3133)
