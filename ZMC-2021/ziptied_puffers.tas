@@ -1,4 +1,4 @@
-RecordCount: 414
+RecordCount: 520
 
 console load ZipMoverContest2021/1-Lobby/circumplex
    1
@@ -85,7 +85,7 @@ console load ZipMoverContest2021/1-Lobby/circumplex
    2,J,G
   15,R,J
    2,R
-   6,Z
+   6,R,Z
    1,R,J
    2,R
   40
@@ -97,11 +97,17 @@ console load ZipMoverContest2021/1-Lobby/circumplex
    1,R,J
    9,R
   11,R,X
-  28,R
-  15,R,X
-  34,R,D
-  30
-   2,R
+   7,R,J
+  15,R,D,X
+   2,R,D
+   7,R
+   1,R,J,G
+  28,R,D
+   2,D
+  24
+   4,L
+   1
+   1,L
   12,R,Z
   25,R,J
   14,R,Z
@@ -321,4 +327,4 @@ console load ZipMoverContest2021/1-Lobby/circumplex
    1,K
    1,J
    1,K
-#0:38.641(2273)
+#0:38.352(2256)
