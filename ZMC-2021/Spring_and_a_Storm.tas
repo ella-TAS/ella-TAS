@@ -1,4 +1,4 @@
-RecordCount: 626
+RecordCount: 689
 console load ZipMoverContest2021/1-Lobby/xolimono 
    1
 #Start
@@ -119,7 +119,6 @@ console load ZipMoverContest2021/1-Lobby/xolimono
   37,R
    2,L
    1,R
-
    2,J,G
    1,L,J,G
    1,K
@@ -190,33 +189,33 @@ console load ZipMoverContest2021/1-Lobby/xolimono
    5,L,Z
    1,R,J
   22,R,D
-  13,R,J
+   4,R,J
+   5,R
+   6,R,J
    1,K
-   3,R,K
-   7,R
+   9,R,K
+  12,R
+   1,R,J,G
+   1,R,K,G
+  13,R
    1,R,J
-  14,R
-   1,R,J
-  14,R
-   1,R,J
-  19,R
-   1,R,J
-   1,J
-   5,R,J
+  16,R,D
+   2
+   1,R
+   7,R,J
    1,R,K,G
    1,R,J,G
   13,R
-   1,R,J
-   8,R,J
-   5,R
+  10,R,J
+   2,R
   40
 
 #lvl_a-05
   15,R,X
   15,R,D,C
    5,R,D
-  14,R,J
-  21,R,G
+  12,R,J
+  23,R,G
    1,R,J,G
   16,R,K,G
    1,R
@@ -225,18 +224,27 @@ console load ZipMoverContest2021/1-Lobby/xolimono
    9,L,D
   31,R
   25,R,G
-  46,R,J,G
+  35,R,J,G
+   9,R,D
+   2,R
    6,R,K
-  39,R,D
-   1,J
-   6,K
+   5,R
+   1,R,J
+  33,R,D
+   6,R,K
   51,R,D
    1,J
   25,R,J
    1,K
-  25,R,K
-  18,R,U,G
-   7,R,D,G
+  24,R,K
+   1,R
+  13,R,U,G
+   6,R,D,G
+   1,R,G
+   1,R,D,G
+   1,R,G
+   1,R,D,G
+   2,R,G
    1,R,J,G
    1,R,J
    3,R
@@ -269,6 +277,9 @@ console load ZipMoverContest2021/1-Lobby/xolimono
   32,R,D,X
   57,R,J
 
-#0:39.066(2298)
+
+#0:38.981(2293)
+
+
 
 
