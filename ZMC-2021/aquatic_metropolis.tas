@@ -1,4 +1,4 @@
-RecordCount: 1358
+RecordCount: 1401
 
 console load ZipMoverContest2021/1-Lobby/iago
    1
@@ -110,9 +110,10 @@ console load ZipMoverContest2021/1-Lobby/iago
    6,R,D
   21,R
   15,R,U,X
-  11,L,J,G
-  34,L,G
-   7,L,U,G
+   1,L,J,G
+   1,L,K,G
+   8,L,G
+  33,L,U,G
    3
    1,J
    1,L,K,G
@@ -135,7 +136,7 @@ console load ZipMoverContest2021/1-Lobby/iago
    9,R,J,G
    1,R
   40
-   
+
 #lvl_a_04
   12,R
    1,R,G
@@ -156,37 +157,25 @@ console load ZipMoverContest2021/1-Lobby/iago
   17,J
   23,R,J
    1,K
-   3,L
-  25,D
-   6,R,D
-
-  12,R,J
-   2,R
-   3
-  15,L,X
-   6,L
-   1
-   2,L
-  13,D,G
-   7,G
-   3,D,G
-   1,G
-   3,G
-   1,G
-   3,G
+   7
+  28,L
+  10,L,U,G
+  27,L,G
    1,J
-   1,K,G
-   1,R,J,G
-   1,R
-   3
-   2,R
-  14,R,U,X
-  25,R
+   1,L,K,G
+   1,L,J,G
+   5,R,G
+   1
+  12,R,U,X
+  24,R
   15,R,D,X
-   1,R
+   2,R,D
   12,R,J,G
-  10,R
-   5
+   5,R
+   2,R,J
+   2,R
+   1,R,J
+   6,R
    9,L,Z
    1,R,J
    6,R
@@ -282,4 +271,4 @@ console load ZipMoverContest2021/1-Lobby/iago
    1,J,G
    1,K,G
    1,J,G
-#0:32.674(1922)
+#0:32.028(1884)
