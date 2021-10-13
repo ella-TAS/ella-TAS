@@ -1,0 +1,157 @@
+RecordCount: 468
+console load ZipMoverContest2021/1-Lobby/SkillshareKirby
+   1
+
+#Start
+  88
+  14,R,Z
+   9,R,J
+   5,R
+  14,R,Z
+   1,R,J
+  11,R,D,X
+   1,R,J
+   2,R,K,G
+   1,R,J,G
+   2,R,K,G
+   3,R,J,G
+   6,R
+  12,R,U,X
+   1,R,J,G
+   2,R
+  17,R,K,G
+   4,R,J,G
+  40
+  
+#lvl_2
+   5,J,G
+  14,R,J
+  15,R,D,X
+   5,L,D
+   1,R,D
+   1,L,J
+  18,L,D
+  37,R,D
+   1,R,J,G
+   1
+  14,R,J
+  15,U,X
+   5,R,J
+  18,R
+  10,R,Z
+  40
+  
+#lvl_3
+   1,R,J
+  11,R,D
+   6,L,D
+  36,R,G
+   2,R,D,G
+   1,R,J
+   1,R
+  10,R,K,G
+   6,R
+   8,R,J,G
+  11,R
+  14,R,X
+  29
+   1,R,J
+   3
+   1,R,K
+   5,R,D,X
+  30,R
+  10,R,D
+  14,R,U,X
+   1,R,K,G
+  10,R
+   1
+   1,R
+  14,R,D,Z
+  40
+  
+#lvl_4
+   1,R,J
+  14,R,D,X
+   1,R,J
+  22,R,D
+  14,R,Z
+  25,R
+   1,R,J
+   7,R
+   7,R,K
+  27,R,G
+  16,R,U,G
+   3,R,D,G
+   1,R,J,G
+   1,R,K,G
+   1,J,G
+   6
+  14,R,Z
+   1,R,J,G
+   1,R
+   3,L
+  15,R,D,X
+  15,L,D
+   4,D
+  15,R,U,X
+   9,R
+   1,R,J
+   3
+   7,R,K
+  22,R,D
+  40,L,G
+   1,J
+   1,L,K,G
+   1,J,G
+   2,K,G
+  15,R,D,X
+   5,R
+   1,R,J
+  40
+  
+#lvl_5
+  10,R
+  15,R,D,X
+  14
+   9,L
+  10,L,X
+  24,L,J
+  29,L,X
+   1,R,G
+   3
+  12,R,K,G
+   7,L,J
+  18,U,X
+  24,R,J
+  15,U,X
+   4,R
+  12,L,J
+  10,L,D
+  26,L
+   4
+   1,L,J
+  12,L
+   1,L,J
+  10,L
+  12,R,Z
+  12,R,J
+   4,R,K,G
+  22,R
+  14,R,U,X
+  12,R,D
+   3,D
+   6,L,Z
+   1,R,J
+   1,R
+   1,L
+   5,R
+  40
+  
+#lvl_Heart
+   5,R
+  21,R,J
+  15,U,X
+   5,R
+ 136
+
+#0:24.633(1449)  
