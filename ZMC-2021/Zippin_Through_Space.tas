@@ -1,4 +1,5 @@
-RecordCount: 468
+By Firethief1
+RecordCount: 505
 console load ZipMoverContest2021/1-Lobby/SkillshareKirby
    1
 
@@ -106,13 +107,13 @@ console load ZipMoverContest2021/1-Lobby/SkillshareKirby
    2,K,G
   15,R,D,X
    5,R
+   1,R
    1,R,J
   40
   
 #lvl_5
-  10,R
   15,R,D,X
-  14
+  21,R
    9,L
   10,L,X
   24,L,J
@@ -152,6 +153,6 @@ console load ZipMoverContest2021/1-Lobby/SkillshareKirby
   21,R,J
   15,U,X
    5,R
- 136
+ 135
 
-#0:24.633(1449)  
+#0:24.599(1447)
