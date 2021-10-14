@@ -1,12 +1,10 @@
-RecordCount: 1401
-
+RecordCount: 1404
 console load ZipMoverContest2021/1-Lobby/iago
    1
 
 #Start
-  80
-
 #lvl_a_01
+  80
    4,R,Z
    8,R,J
    4,R
@@ -259,16 +257,6 @@ console load ZipMoverContest2021/1-Lobby/iago
    1,L,K,G
   60,L,K
    1,L,J,G
-   1,K,G
-   1,J,G
-   1,K,G
-   1,J,G
-   1,K,G
-   1,J,G
-   1,K,G
-   1,J,G
-   1,K,G
-   1,J,G
-   1,K,G
-   1,J,G
+  11,K,G
+   1,J
 #0:32.028(1884)

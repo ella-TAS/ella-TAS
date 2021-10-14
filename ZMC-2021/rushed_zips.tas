@@ -4,9 +4,8 @@ console load ZipMoverContest2021/1-Lobby/PotatoLucy
    1
 
 #Start
- 190
-
 #lvl_1
+ 190
    6,L,Z
    1,R,J
    6,R
@@ -71,7 +70,7 @@ console load ZipMoverContest2021/1-Lobby/PotatoLucy
    1,R,J
    7,R,D,X
   40
-
+#10f slower to platform
 #   1,J,G
 #  10,R
 #   3,L
@@ -87,7 +86,7 @@ console load ZipMoverContest2021/1-Lobby/PotatoLucy
 #  17,R
 #  20,R,J
 #  15,R,U,Z
-#10 frames slower to platfor
+#-----
 
 #lvl_end
    7,R,D,X
