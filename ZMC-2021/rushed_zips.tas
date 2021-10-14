@@ -1,6 +1,5 @@
 #by Topaz, Firethief1, abiteofdata
 RecordCount: 396
-ChapterTime: 0:10.625(625)
 console load ZipMoverContest2021/1-Lobby/PotatoLucy
    1
 
@@ -97,3 +96,4 @@ console load ZipMoverContest2021/1-Lobby/PotatoLucy
    4,R,J
   17,R,D,X
  135
+#0:10.625(625)
