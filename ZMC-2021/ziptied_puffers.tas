@@ -1,5 +1,4 @@
 RecordCount: 520
-
 console load ZipMoverContest2021/1-Lobby/circumplex
    1
 
@@ -283,8 +282,6 @@ console load ZipMoverContest2021/1-Lobby/circumplex
   26,R
    4
   15,R,X
-
-
    4,R
   15,D
   12,L,D,X

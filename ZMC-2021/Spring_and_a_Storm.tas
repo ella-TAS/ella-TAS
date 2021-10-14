@@ -1,35 +1,37 @@
 RecordCount: 689
 console load ZipMoverContest2021/1-Lobby/xolimono 
    1
+
 #Start
+#lvl_a-00
   61
-#lvl_a-00 
 #dashless start
-   #5,R
-   #1,R,J
- # 22,R
-  # 1,R,J
-  # 1
-  # 2,R
-  # 1,R,J,G
-  # 1,R,K,G
- # 26,R,D
-  # 1,R,J
- # 24,R
-  #42,R,J
-  # 8,R,K
-   #1,R,J,G
-   #6,R
-   #1,R,K,G
-  # 1,R,J,G
- # 17,R,D
-   #1,R,J
- # 28,R,D
-  #11,R,J
-   #6,R,K,G
-   #1,R,J,G
-   #8,R,G
 #grabs zipper at 216f
+#   5,R
+#   1,R,J
+#  22,R
+#   1,R,J
+#   1
+#   2,R
+#   1,R,J,G
+#   1,R,K,G
+#  26,R,D
+#   1,R,J
+#  24,R
+#  42,R,J
+#   8,R,K
+#   1,R,J,G
+#   6,R
+#   1,R,K,G
+#   1,R,J,G
+#  17,R,D
+#   1,R,J
+#  28,R,D
+#  11,R,J
+#   6,R,K,G
+#   1,R,J,G
+#   8,R,G
+#-----
    5,L,Z
    3,R,J
    9,R
@@ -276,10 +278,4 @@ console load ZipMoverContest2021/1-Lobby/xolimono
   20,R,J
   32,R,D,X
   57,R,J
-
-
 #0:38.981(2293)
-
-
-
-

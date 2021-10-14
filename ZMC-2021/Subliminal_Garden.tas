@@ -1,12 +1,10 @@
 RecordCount: 728
-
 console load ZipMoverContest2021/1-Lobby/DrPufferfeesh
    1
 
 #Start
- 190
-
 #lvl_Feesh-intro
+ 190
   14,R,D,X
    1,R,J
   15,R,D,X
@@ -191,5 +189,4 @@ console load ZipMoverContest2021/1-Lobby/DrPufferfeesh
    4,L,Z
    1,L,J
   40,L,D
-
-# 0:34.918 (2054)
+#0:34.918(2054)
