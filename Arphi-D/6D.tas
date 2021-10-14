@@ -11,12 +11,12 @@ console load dsides/6-Reflection
    7,F,33
   19,F,95
    1,F,120
-  19,F,160
-   8,F,153
-  11,R,Z
+   3,F,160
+  22,F,161
+  12,R,Z
   27,L,U
-  23,F,358
-  27,F,349.5
+  23,F,359
+  26,F,349.5
    8,F,0
   19,F,13.5
   14,F,0
@@ -73,18 +73,19 @@ console load dsides/6-Reflection
   41,F,80.02
   23,F,63.13
   14,R
-  24,F,103.86
+  24,F,98
    8,R
-  54,F,78.6
-  12,R
-  17,F,95
-  10,F,33
-  14,F,350
+  54,F,81
+  11,R
+  15,F,95
+   4,F,90
+   9,F,30
+  13,F,335
   13,U,X
    1,L
   40
 
-#lvl_a04
+ #lvl_a04
    1,J,G
    1,L,J
    8,L
@@ -92,13 +93,13 @@ console load dsides/6-Reflection
    6,L,X
   33,L,J
   10,U,X
-  27,F,10
+  27,F,342.54
   10,R,Z
   27,L,U
   35,F,350
    1,F,349
   29,F,0
-  50,F,20
+  50,F,19.9
    4,F,0
    1
    7,R
@@ -357,9 +358,10 @@ console load dsides/6-Reflection
    1,R,J
    3,L,J
    5,L,D
-   4,R,D
-  15,D
-   7,L,X
+   5,R,D
+   5,D
+   9,L,D
+   5,L,X
   19,L
   11,R
    1,L,D
@@ -571,21 +573,6 @@ console load dsides/6-Reflection
    1,L,D
   33,D
   21,R,D
-#   1,R,J
-#   1,J
-#  12,R,D,X
-#   1,R,J
-#   1,R,K
-#   1,R,J
-#   1,R,K
-#   1,R,J
-#   1,R,K
-#   1,R,J
-#   1,R,K
-#   1,R,J
-#   1,R,K
-#   1,R,J
-#   1,R,K
    2,R,J
   13,R,D,X
    1,R,J
@@ -685,16 +672,15 @@ console load dsides/6-Reflection
    1,R,J
   24,R,D
   15,R,X
-  21,D
-   4,R,Z
-   1,R,J
-   7,R
-   3,L,J
-   4,R,J
+  21,R,D
+   8,R,X
+   3,R,J
+   4,L,J
   40
 
 #lvl_d03
-   6,R,J
+   4,L,J
+   2,R,J
    9,R,K
   15,R,U,X
    9
@@ -1007,14 +993,10 @@ console load dsides/6-Reflection
   15,U,X
   27,R,D
   32,F,103
-  60,F,92
-  26,F,97
-  17,R
-  15,R,X
-  10,R
-   3,L,J
-  14,U,X
-   2,R
+  86,F,91.9
+  23,R
+  13,R,U,Z
+  10,R,J
   30,L
    1,R,J
   11,D
@@ -1092,100 +1074,89 @@ console load dsides/6-Reflection
   21,L
   15,L,X
   59,D
-  12,R,D
-  16,R,J,G
-  10,U,X
-   5,R,J
+  15,R,D
+  11,R,U,Z
+  10,R,J
   40
    4,R,J
   15,R,D,X
   20,L,D
   10,R
-  54,F,60
-  13,R,Z
-   3,R,J
+  10,F,100
+  41,F,58
+  14,R,Z
+   1,R
+   7,L,Z
+   1,R,J
+   4,R
   40
 
 #lvl_f01
 #flag_04
-   1,R,J
-  10,R,D,X
-  15,U,C
-  15,L,D,X
-  18,L,U
-  18,F,20
-  11,F,45
-   9,R
-  15,R,Z
-  64,F,95
-  25,D
-   7,L,D
-  15,L,U,X
-  13,L,D
-  18,R,D
-   2,L,D
-  16,D
-  15,R,D,X
-  22,R,U
-  25,F,130
-  21,F,55
-  12,R,D
-   5,R,U
-  14,R
-  30,F,80
-  16,R,X
+   3,R
+  30,R,J
+  16,R,Z
   27,R,U
-  20,F,100
-  72,R
-  15,R,X
-  15,R
-#flag_03
-   6
-  15,D,X
+  39,F,90
+  15,F,179
+   5,F,180
+   2,F,150
+  10,F,210
+  12,L,X
+  27,R,D
+ 105,F,86
+  13,R,X
+  27,R,U
+  93,F,90
+  14,F,180
   14,R,Z
-  14,R,J
-  10,R,D,X
-  40,R,J
-   7,R,D
-  15,R,J,G
-   9,R,Z
-   1,R,J,G
-  10,R,K,G
-  24,R,D
-  40,R
-  14,R,Z
-   4,R,J
-  15,R
-  15,R,U,X
-  16,R,D
-  58
-#flag_02
-  14,R,D,X
-   2,R,J
-  12,R,D
-  15,D,X
-   2,L
-   1
-  39,R
-  15,R,Z
-  18,R
-   6
-  12,R
-  15,R,D,X
-   1
-   4,R,Z
-   2,R,J
-   4,J
-   2
-   1,J
    1,R,J
-   7
+   7,R
+   1,R,J
+   5,R,D,X
+#flag_03
+   4,R,D,X
+   1,R,J
+  13,R
+  47,R,J
+  14,R,Z
+  20,R,J,G
+  12,R,D
+   5,L,D
+  25,R
+  14,R,Z
+   1,L,J
+   9,L,D,X
+   1,R,J
+   8,R
+  31,R,J
+  14,R,Z
+#flag_02
+   1,R,J
+  22,D,X
+  15,D,X
+  15,D,C
+  15,D,X
+   5,L,Z
+   2,R,J
    1,R
-  38
+  24,L,D
+   2,L
+   8,L,D,X
+  39,R
+  14,R,Z
+  17,R
+  17,R
+  13,R,D,X
+   8,R,J
+   3,R
+   0,L
+   2,L,J
+   6,L,X
+  46,R
    1,L
    1,J,G
-   4,K,G
-   8,R,J
+  12,R,J
    5,L,X
    6,L,J,G
   18,L,U,G
@@ -1194,7 +1165,8 @@ console load dsides/6-Reflection
    1,L
    1
    1,L
-  17,G
+  15,G
+   2,D,G
    1,J
    1,K
    1,J,G
@@ -1216,7 +1188,7 @@ console load dsides/6-Reflection
   12,R
   37,R,J
   15,R,U,X
-  22,R
+  21,R
    1,L,J,G
    3,J
    3,R,J
@@ -1229,5 +1201,6 @@ console load dsides/6-Reflection
   27,R,D
   87,F,90
   14,R,X
+
  135
-#3:59.918(14054)
+#3:55.841(13873)
