@@ -4,8 +4,7 @@ console load ZipMoverContest2021/0-Lobbies/1-Lobby ping-nano 11
 #Start
    4,D,X
    1,L,J
-  25,D
-   3,D
+  28,D
    1
    1,L
    2,L,D
@@ -35,12 +34,11 @@ console load ZipMoverContest2021/0-Lobbies/1-Lobby ping-nano 11
   12,L,U,X
    4,L,K,G
    5,L,J,G
-   5,L,K,G
-#have to lose speed
-#or you die in spinner
-  10,L
+   5,K,G
+   5,L
+   2,R
    1,X
   20
    1,J
   46
-#0:04.080(240)
+#0:04.029(237)
