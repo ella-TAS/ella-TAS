@@ -1,0 +1,29 @@
+console load ZipMoverContest2021/0-Lobbies/1-Lobby
+   1
+
+#Start
+ 190
+   6,L,Z
+   3,L,J
+   1,R,J
+  70,R,D
+  14,R,D,X
+   1,R,J
+   5,R
+   1,R,K
+   1,R
+  10,R,J
+   2,R
+  11,R,Z
+   1,R,J
+   6,R
+  14,R,U,X
+   1,R,J,G
+  12,R
+   1,X
+  20
+   1,J
+  30
+   1,J
+  46
+#0:02.516(148)
