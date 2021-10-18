@@ -78,11 +78,11 @@ console load dsides/3-Resort
    5,R,Z
    1,R,J
    7,R
-   1,R,J
-   1,R
+   2,R,J
+   0,R
   10,R,U,X
    1,R,J,G
-   8,R
+   7,R
   40
 
 #lvl_a03
@@ -396,11 +396,11 @@ console load dsides/3-Resort
    4,Z
    2,R,J
    5,R,K,G
-   7,R
    2,R,J
-   4,R,K,G
-  10,R
-  12,R,D
+   6,R,K,G
+   1,R,J
+  11,R
+  13,R,D
    2,R,J
    5,R
    2,R,J
@@ -507,22 +507,25 @@ console load dsides/3-Resort
    1,D
    1,R,D
    5,D
-  15,L,Z
-  39,R,D
+  14,L,Z
+  40,R,D
   12,D
    1,L,J
-   2,J
+   1,J
   14,R,D,X
    3,R,J
    6,R
    1,R,J
   10,R
-  15,R,X
-  18,R,D
-   1,D
+  14,R,X
+  10,R,D
+   1,L,D
+   4,R,D
+   2,L,D
+   2,R,D
+   1,L,D
   40
 
-#lvl_c01b3
   11,L,D
    2,D
    1,L,D
@@ -678,6 +681,7 @@ console load dsides/3-Resort
    1,K
   40
 
+
 #lvl_c01a4
    1,R,J,G
    3,R,K,G
@@ -807,7 +811,8 @@ console load dsides/3-Resort
   15,U,X
    1,R,J,G
    1,K
-   7,L
+   1
+   6,L
    5,L,Z
    1,R,J
    3,R
@@ -817,7 +822,7 @@ console load dsides/3-Resort
   15,R,Z
    4,R
   15,R,X
-   3,R
+   2,R
   14,U,X
   10,R,J
   40
@@ -1232,15 +1237,20 @@ console load dsides/3-Resort
   18,R,X
    3,R
   14,R,Z
-   6,R,J
-  27,R,D,X
+   5,R,J
+  14,R,D,X
+   1,R,J
+   5,R,D,X
+   9,R,D
   40
 
 #lvl_e04
-  14,R,D,X
-   1,R,J
-  10,R,X
-   8,J
+   3,L,D
+  13,R,D
+   3,L
+   1,R
+   4,L,J
+   4,R,J
    1,L,K,G
   17,L,J,G
    2,K,G
@@ -1256,14 +1266,14 @@ console load dsides/3-Resort
    5,R,J
   25,R,Z
    5,R,J
-  50,R,G
+  47,R,G
   10,R,J,G
    7,J
   12
    5,R
   15,R,X
-  25,R
-   5,R,D
+  24,R
+   6,R,D
    1,G
    6,R,J,G
   22,R
@@ -1272,7 +1282,6 @@ console load dsides/3-Resort
    1,R,J
    5,R
   40
-
 
 #lvl_e05
    1,R
@@ -1494,4 +1503,4 @@ console load dsides/3-Resort
    1,R,K,G
    1,R,J,G
   21,L
-#2:55.270(10310)
+#2:55.117(10301)
