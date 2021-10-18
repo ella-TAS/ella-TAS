@@ -1,0 +1,54 @@
+console load ZipMoverContest2021/0-Lobbies/1-Lobby ping-nano 1
+  37
+
+#Start
+  10,R,C
+   3,R,J
+  13,R,K,G
+  10,R,X
+  21,L,J
+  12,U,X
+   6,R,J
+  13,R,K,G
+   3,J,G
+   1
+   3,J,G
+   7,R
+   6,R,J
+   1,K
+   2,J,G
+   7,L,J
+  10,L,Z
+   6,L,J
+   4,L,K,G
+  10,L
+  18,L,C
+  14,L,U,Z
+   3,L
+  13,L,X
+   1,L,J,G
+   9,L,D
+   5,R,D
+  27,R
+  10,R,Z
+  11,L,J
+  23,L,D
+  14,L,Z
+   2,L,J
+   3,L
+  11,L,D,X
+   1,L,J
+  10,L
+   1,L,J
+   1,L
+  14,L,Z
+   2,L,J
+   2,L
+  24,L,D,C
+   1,X
+  20
+   1,J
+  30
+   1,J
+  46
+#0:05.593(329)
