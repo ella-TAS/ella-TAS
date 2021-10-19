@@ -8,21 +8,25 @@ console load ZipMoverContest2021/0-Lobbies/1-Lobby
    1,L,J,G
    8,L,G
    9,L,J,G
-   4,L
+  11,L
+   2,L,J
+   6,L
+  10,R,X
+   3,R,J
+   2,R,J
    3,R
-  21
-   1,R,J
-  19,J
-   9,L,K,G
+  18,L,K
    5,L,Z
    1,L,J
-   7,L
-  18,L,J
-  20,L,U,X
+   1,L
+   1,L,J
+   5,L
+  17,L,J
+  20,L,U,C
    1,X
   20
    1,J
   30
    1,J
   46
-#0:02.278(134)
+#0:02.176(128)
