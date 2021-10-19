@@ -1,5 +1,5 @@
 #by Topaz, Firethief1, abiteofdata
-RecordCount: 396
+RecordCount: 476
 console load ZipMoverContest2021/1-Lobby/PotatoLucy
    1
 
@@ -43,17 +43,18 @@ console load ZipMoverContest2021/1-Lobby/PotatoLucy
   20,R,U,G
   10,R,G
    7,R,U,G
-   3,R,J,G
+   2,R,J,G
+   1,R
    6,R,D,X
    1,R,J,G
-  12,R
-  12,R,J
-   1,R
+  11,R
+  10,R,J
+   4,R
   15,R,D,X
    7,R,J
    2,R
    1,R,J
-   9,R
+   8,R
   14,R,Z
    1,R,J
    1,K
@@ -64,11 +65,11 @@ console load ZipMoverContest2021/1-Lobby/PotatoLucy
    3,R
   12,D
   17,R,D
-   6,R,Z
+   4,R,Z
+   2,R,J
+   8,R
    1,R,J
-   7,R
-   1,R,J
-   7,R,D,X
+   6,R,D,X
   40
 #10f slower to platform
 #   1,J,G
@@ -94,5 +95,6 @@ console load ZipMoverContest2021/1-Lobby/PotatoLucy
   15,R,D,X
    4,R,J
   17,R,D,X
- 135
-#0:10.625(625)
+ 134
+   1,K
+#0:10.591(623)
