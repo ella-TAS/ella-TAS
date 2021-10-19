@@ -1,0 +1,68 @@
+console load ZipMoverContest2021/0-Lobbies/1-Lobby ping-nano 4 
+  37
+
+#Start
+  13,J
+   8,L,K,G
+   5,L,Z
+   2,L,J
+   7,L
+   4,L,J
+  16,L,D,X
+#completely different strat
+#loses ~18f
+#   5,L,J
+#  19,L,D,X
+#   1,L,J
+#   5,L
+#   2,L,J
+#   1,L,K,G
+#   4,L
+#  10,L,J,G
+#  18,U,X
+#  10,R,J
+#   2,L,J
+#  11,L,K,G
+#   1
+#   5,J,G
+#   9,L
+#  10,L,Z
+#   5,L,J
+#   1,L,K,G
+#   2,L
+#  10,L,U,X
+#   4,L,J,G
+#   1,R,J
+#  17,L,J
+#  50,L,K,G
+#  10,L,Z
+#   5,L,J
+#  15,L,D,C
+#-----
+  14,L,J
+  14,U,X
+  10,R,J
+   5,R
+  13,R,J
+  10,R,Z
+  21,L,J
+  14,L,Z
+   6,L,J
+  13,L,U,X
+  12,L,J,G
+   8,L
+#+1f ultra strat
+#  10,L,J
+#  17,L,D,X
+#-----
+   4,Z
+   4,L,J
+  17,L
+   1,X
+   1
+  20
+   1,J
+  30
+   1,J
+  46
+#0:03.417(201)
