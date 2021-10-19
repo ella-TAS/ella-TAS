@@ -2,7 +2,7 @@ console load ZipMoverContest2021/0-Lobbies/1-Lobby ping-nano 1
   37
 
 #Start
-#right route is +35f
+#right route is +37f
   10,R,C
    3,R,J
   13,R,K,G
@@ -42,17 +42,16 @@ console load ZipMoverContest2021/0-Lobbies/1-Lobby ping-nano 1
    3,R,J,G
    7,R
   12,R,J
-  13,R,K,G
+  12,R,K,G
+   1,R,J,G
+  10,R,X
+  11,R,J
+   2,R
    5,R,Z
    1,R,J
-   4,R
-   3
-   2,R,J
-  10,R,U,X
-   1,R,J,G
-  12,R
+   7,R
    1,X
   20
    1,J
   46
-#0:05.423(319)
+#0:05.389(317)
