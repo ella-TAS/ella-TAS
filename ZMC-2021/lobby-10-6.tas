@@ -9,41 +9,12 @@ console load ZipMoverContest2021/0-Lobbies/1-Lobby ping-nano 4
    7,L
    4,L,J
   16,L,D,X
-#completely different strat
-#loses ~18f
-#   5,L,J
-#  19,L,D,X
-#   1,L,J
-#   5,L
-#   2,L,J
-#   1,L,K,G
-#   4,L
-#  10,L,J,G
-#  18,U,X
-#  10,R,J
-#   2,L,J
-#  11,L,K,G
-#   1
-#   5,J,G
-#   9,L
-#  10,L,Z
-#   5,L,J
-#   1,L,K,G
-#   2,L
-#  10,L,U,X
-#   4,L,J,G
-#   1,R,J
-#  17,L,J
-#  50,L,K,G
-#  10,L,Z
-#   5,L,J
-#  15,L,D,C
-#-----
   14,L,J
   14,U,X
-  10,R,J
-   5,R
-  13,R,J
+   5,R,J
+   1,R,K,G
+  11,R,J,G
+   7,R
   10,R,Z
   21,L,J
   14,L,Z
@@ -59,10 +30,9 @@ console load ZipMoverContest2021/0-Lobbies/1-Lobby ping-nano 4
    4,L,J
   17,L
    1,X
-   1
   20
    1,J
   30
    1,J
   46
-#0:03.417(201)
+#0:03.332(196)
