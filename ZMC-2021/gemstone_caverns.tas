@@ -1,11 +1,10 @@
-RecordCount: 2620
+RecordCount: 2770
 console load ZipMoverContest2021/1-Lobby/cheesesteak
    1
 
 #Start
 #lvl_a-01
   91
-
   14,L,Z
    1,R,J
   10,R,D,X
@@ -13,32 +12,29 @@ console load ZipMoverContest2021/1-Lobby/cheesesteak
   35,D,O
    1,R,J
   14,R
-   7,R,D
-  11,R,J
-   2,R
-   1
+   4,R,J
+   5,R
+  10,R,J
   14,R,U,X
-   1,R,J,G
-   8,R
+   3,R,J,G
+   4,R
   40
 
 #lvl_a-02
-   3,R
-   5,R,J
-  15,R,D,X
-   1,R
-   5,L
+   4,R
+   1
+   1,R,J
+  10,R,D,X
+   2,R,J
+   5,R
   14,L,Z
    1,R,J
-   2,R
-   1,R,J,G
-   7,R
-  11,R,J
-  10,U,X
-   3,R,J
-  10,R
-   4
-   5,R,D,X
+   1,R,K,G
+  18,R,J,G
+  12,U,X
+   1,R,J
+  11,R
+   6,R,Z
    1,R,J
    1,R,D
   40
@@ -55,23 +51,25 @@ console load ZipMoverContest2021/1-Lobby/cheesesteak
   37,R,K
    7,U,X
   38,L,J
-   1,L,U,G
-   4,L,J,G
-  17,L,G
-   6,D,G
+   1,L,G
    1,J,G
-   1,K,G
-   1,L,J,G
-  15,R,D,X
    1,R,J
-  30,R
-  12,R,Z
-  39,L,J
-  12,U,X
-  16,J
-   9,R,J
-  10,R,K
-  12,R,J,G
+   2,L,J
+  11,L
+   2
+   1,L
+  12,L,G
+   3,J,G
+   1,K,G
+   1,J,G
+  15,R,D,X
+  22,R
+  14,R,X
+  26,L,J
+  15,U,Z
+  15,L
+   9,J
+   6,K
   40
 
 #lvl_a-04
@@ -146,7 +144,6 @@ console load ZipMoverContest2021/1-Lobby/cheesesteak
    1,L
   10,R
    7,J,G
-#0:18.751(1103)
   12,R,J
   15,R,U,X
   34,R,D
@@ -305,6 +302,8 @@ console load ZipMoverContest2021/1-Lobby/cheesesteak
   10,R,U,X
    3,R,J,G
   14,R
-  17,D,X
- 122,D
-#0:49.436(2908)
+  17,L,D,X
+  44,L
+   1,L,J,G
+  77,L,K,G
+#0:48.705(2865)
