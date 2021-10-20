@@ -1,4 +1,4 @@
-RecordCount: 3324
+RecordCount: 3384
 console load ZipMoverContest2021/1-Lobby/ElissV
    1
 
@@ -177,10 +177,9 @@ console load ZipMoverContest2021/1-Lobby/ElissV
 #   2,R,J,G
 #   4
 
-#+ 4+? f (>4)
+#+(4+?)f (>4)
 #   7
-##   ?,G
-#   2,G
+#   ?,G
 #   5,R,J,G
   40
 
@@ -409,8 +408,7 @@ console load ZipMoverContest2021/1-Lobby/ElissV
    2,R,J
   29,R,D
    1,R
-   1,R,J
-   1,R,J
+   2,R,J
    3,R
    5,R,D,X
    8,R,J,G
@@ -430,15 +428,15 @@ console load ZipMoverContest2021/1-Lobby/ElissV
   40
 
 #lvl_elissb1
-   5
+   5,R
    1,R,K,G
-   3,K
-  11,R,J,G
-   6,R,U,X
+   2,K
+   1,R,K
+  10,R,J,G
+   7,R,U,X
   40
 
 #lvl_elissb2
-   8,R,U,X
+   8,R
  135
-
 #0:47.991(2823)
