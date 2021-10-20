@@ -5,23 +5,15 @@ console load ZipMoverContest2021/0-Lobbies/1-Lobby ping-nano 10
    1,R
    4,D,X
    1,R,J
-   4,R,K,G
-   1,R
+   5,R,K,G
    2,R,J,G
   11,R
    1,R,J
-  23,R
-   2,L
+  24,R
   15,R,Z
-   2,L
-   1,L,J,G
-  20,L,D
-   1,D
-   1,L,D
-   1,D
-   1,L,D
-   6,D
-   1
+  15,L
+  10,L,D
+   1,L
    1,G
    1,L,J,G
   11,L
@@ -45,4 +37,4 @@ console load ZipMoverContest2021/0-Lobbies/1-Lobby ping-nano 10
   30
    1,J
   46
-#0:04.403(259)
+#0:04.250(250)
