@@ -1,8 +1,11 @@
 console load ZipMoverContest2021/0-Lobbies/1-Lobby ping-nano 1
   37
 
-#Start
+#please update this
+#when saving time
 #right route is +37f
+
+#Start
   10,R,C
    3,R,J
   13,R,K,G
