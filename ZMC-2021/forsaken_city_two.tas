@@ -1,4 +1,4 @@
-RecordCount: 3384
+RecordCount: 3691
 console load ZipMoverContest2021/1-Lobby/ElissV
    1
 
@@ -305,6 +305,66 @@ console load ZipMoverContest2021/1-Lobby/ElissV
   40
 
 #lvl_eliss0d
+
+#--
+
+#   2,L
+#  14,L,D,X
+#   1,L,J
+#   7,L
+#   2,L,J
+#  12,L
+#***
+#  14,L,U,X
+##Set, Pla
+#   1,L,J,G
+#   1,K,G
+#***
+#   2,L
+##Set, Player.Position, 3212, -1279.5001
+#   8,L
+#   1,R
+# 100,J
+
+#--
+
+#   2,L,J
+#  14,L,D,X
+#   1,L,J
+#  14,L,D,X
+#  18,L,J
+#   1,G
+#***
+#Set, Player.Position, 3212, -1273
+#   1
+#   1,J
+#   1,R,J
+#   5,L,X
+#   1,L,J,G
+#   1,K,G
+#   2,L,K
+#   4,L
+#   4,L,K
+#   1,R
+
+#--
+
+#  22
+#Set, Player.Position, 3193, -1292
+#***
+#  14,R,D,X
+#   1,L,J
+#   5,L,D,X
+#   4,J,G
+#   2,L
+#   3
+#   1,L
+#   1
+#   1,R
+# 100,R,D
+
+#--
+
    2,L,J
   14,L,D,X
    1,L,J
@@ -341,102 +401,88 @@ console load ZipMoverContest2021/1-Lobby/ElissV
    2,R,K,G
    1,R,J,G
   15,R,D,X
-   3,R,D
+   3,D
   40
 
 #lvl_eliss0c(2)
    5,R,D
-   1,R,J
+   1,R,D,J
   14,R,D,X
   40
 
 #lvl_elissa0
    2,R,D
-   5,R,J
+   1,R,J
+   1,J
+   3,R,K,G
    6,R,D,X
    1,S
    1,D,J
   34
-   1,R,J
-   5,J
+   6,R,J
    5,R
    4,R,J
-   8,R
-   3
    2,R
+  12
+   3,R
    1
-   6,R
+   2,R
   17,R,U,Z
    1,L,J,G
-   3,R,J
-   1,J
-   4,R,J
-   1,L,K,G
-   1,K
-   9,R,K
-   7,R
-   2,R,K
-   1,R
-   1,R,K
+  11,R,J
    6,R
    1
-  14,R,X
-   1,R,J,G
-  24,R,J
-   1,R,J
-   1,R,J
-   4,R
-   1
-  15,R,G
-   3,R,D
-   1,R
-  12,R,K,G
-   7,R
-   3,R
-   1,R,J
+   9,R,D,X
+   1,J,G
+   9,R,J
    6,R
-   2,R,J
-   8,R
-   6,R,U,Z
-   1,L,J,G
-   3
-   1,R,J
-  32,R
-   1,R,J
-  14,R,U,Z
-   1,L,J,G
-   2,R,J
-  29,R,D
+   2
+   6,R
+  12,R,J,G
+   5,R
+  10,R,J
+  20,R
+   2,R,D
    1,R
+   1,D
+   2,K,G
+  10,R,K
+   6,R
+   1,R,J
+   1,R
+   1,R,D
+   1,R,J
+   9,R
+   1,R,J
+   5,R
+   9,R,U,Z
+   1,L,J,G
    2,R,J
+   6,R
+  26,R,D,X
+  11,R,J
    3,R
-   5,R,D,X
-   8,R,J,G
-   7,R
-   1,R,J
-   1,R
-   5,R,J
+  18,R,D,X
+  12,R,D,J
+   6,K,G
   40
 
 #lvl_elissb0
-   6,R,J
-   5,R
-   2,R,J
-   3,R
-   2
-   5,R,U,Z
+   5,K
+   9,R,U,X
   40
 
 #lvl_elissb1
-   5,R
-   1,R,K,G
-   2,K
-   1,R,K
-  10,R,J,G
-   7,R,U,X
+   5,R,U,X
+   1,J,G
+   4,K,G
+   2,R,K
+   4,R,J,G
+   6,R,U,X
   40
 
 #lvl_elissb2
-   8,R
+   4,R,U,X
  135
-#0:47.991(2823)
+
+#0:47.124(2772)
