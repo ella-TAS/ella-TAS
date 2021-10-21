@@ -1,4 +1,4 @@
-RecordCount: 3691
+RecordCount: 4014
 console load ZipMoverContest2021/1-Lobby/ElissV
    1
 
@@ -165,12 +165,13 @@ console load ZipMoverContest2021/1-Lobby/ElissV
   12,R,J,G
 #lightning cycle wait
 #+0f
-   8,R,K,G
+#   8,R,K,G
 
 #+1/2/3f
-#   3,R,K,G
+   3,R,K,G
 # 4/5/6
-#   2,R,J,G
+   4
+   2,R,J,G
 
 #+4f
 #   6
@@ -292,108 +293,54 @@ console load ZipMoverContest2021/1-Lobby/ElissV
   29,R,U
   10,F,52
    5,F,20
-  74,F,353.5
-   5,L,Z
+  36,F,354.6
+   1,F,353
+  26,F,349.5
+   1,L,G
+  14,L,U,X
+   4,L,J,G
+   3,L
+  47
+   1,L
+   1
+   6,R
+  14,L,Z
+   1,R,J
+  14,R,Z
    1,L,J
-   6,L
+  12,L,D,X
+   1,L,J,G
    1,L,J
+   1,L,K,G
    2,L
-   9,L,D,X
+   1,L,J,G
+   2,L
+   1,L,K,G
+   6,L
+   1,L,K
+   1,L
+   1
+   1,L
    1,L,J
-   2,J
-   1,L,J
+  10,L,D,X
+   1,L,J,G
+   2,L,J
+   1,L
   40
 
 #lvl_eliss0d
-
-#--
-
-#   2,L
-#  14,L,D,X
-#   1,L,J
-#   7,L
-#   2,L,J
-#  12,L
-#***
-#  14,L,U,X
-##Set, Pla
-#   1,L,J,G
-#   1,K,G
-#***
-#   2,L
-##Set, Player.Position, 3212, -1279.5001
-#   8,L
-#   1,R
-# 100,J
-
-#--
-
-#   2,L,J
-#  14,L,D,X
-#   1,L,J
-#  14,L,D,X
-#  18,L,J
-#   1,G
-#***
-#Set, Player.Position, 3212, -1273
-#   1
-#   1,J
-#   1,R,J
-#   5,L,X
-#   1,L,J,G
-#   1,K,G
-#   2,L,K
-#   4,L
-#   4,L,K
-#   1,R
-
-#--
-
-#  22
-#Set, Player.Position, 3193, -1292
-#***
-#  14,R,D,X
-#   1,L,J
-#   5,L,D,X
-#   4,J,G
-#   2,L
-#   3
-#   1,L
-#   1
-#   1,R
-# 100,R,D
-
-#--
-
-   2,L,J
-  14,L,D,X
-   1,L,J
-  14,L,D,X
-  18,L,J
-   1,G
-  15,U,X
-  31,L
-   4,L
-   7,R
-   3,R,J
-   6,R
-   1
-   1,R
-   1,R,K,G
-   1,J,G
-   1,R
-   1
-   1,R
    3
-   1,R
-   1,L
-   1,R,J
-  13
-  28,R
-   1,G
-  45,R
-  29,D,G
-  55,G
+   1,J
+   1
+   1,J
+   2
+   1,J
+   3
+  14,L,U,X
+   1,J,G
+   9
+  16,R,D
+   7,R,G
    1
    2,R,J,G
    2,R,K,G
@@ -485,4 +432,4 @@ console load ZipMoverContest2021/1-Lobby/ElissV
    4,R,U,X
  135
 
-#0:47.124(2772)
+#0:44.931(2643)
