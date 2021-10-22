@@ -1,4 +1,4 @@
-RecordCount: 1280
+RecordCount: 1546
 console load StartupContest2021/1-Submissions/powerav
    1
 
@@ -8,33 +8,40 @@ console load StartupContest2021/1-Submissions/powerav
    4,D,X
    2,R,J
    3,R,K,G
-  19,R,J,G
+   8,R,J,G
+   2,J,G
+   9,R,J,G
    5,R
-  14,R,Z
-  10,R,J
-   5,R
-   9,R,D,X
-   2,R,J,G
+  14,R,D,X
+  11,R,J
+   2,R
+  10,R,D,X
+   5,R,K,G
    6,R
-   1,R,J,G
-  12,R
-   5,R,J
-   9,R
-  15,U,X
-   1,R,J,G
+   1,R,J
+   3,R
+   8,R,J
+   2,R
+  14,R,U,X
    1,R,K,G
+   3,L,K
+   4,R,K
    7,R
-   4,D,X
+   4,Z
    1,R,J
    5,R
-  14
-  30,U,X
+  13
+  14,U,X
+  16
+
+#-15f
+
 
 #lvl_b-1
-   8,L,D
-  10,D
-   3
-   3,D
+   9,L,D
+  11,D
+   3,R
+   1,D
    4,D,X
    2,R,J
    7,R
@@ -108,38 +115,27 @@ console load StartupContest2021/1-Submissions/powerav
 #lvl_b-2(1)
    4,R
    9,R,J
-  13,R,D,X
-   2,L,J
-  15,D,C
-   4,L
-   6
   14,R,D,X
-  11,R,J
-  15,R,D,X
-  10,D
-   1,R,D
-   1,D
-   5,R,D
-  20,R,J
-  27,R,U,X
+   1,R,J
+  14,D,X
+   7,L
+  12,L,Z
+   1,R,J
+   1,R,K,G
+   1,R,J,G
+   1,R
+  38,R,K,G
+  14,R,U,Z
+
+#-78f
+
   40
 
 #lvl_b-3(1)
    1
   15,U,X
-   5,R
-  12,R,K,G
-   1,J,G
-   3,R,J
-   5,J
-   1,R,J
-   1,L,J
-   1,R,J
-  13,R,K,G
-   5,R,J,G
-   1,K
-   4,R,J,G
-   3,L,J
+   5,L
+
   40
 
 #lvl_b-2(2)
@@ -167,42 +163,53 @@ console load StartupContest2021/1-Submissions/powerav
   11,L,G
   12,L,J,G
   12,L,K,G
-   3,L,J,G
-   3
-  17,D,X
-  23,R
-  11,R,G
-   7
-  24,R,J,G
-  61,R,G
-  15,U,X
-   2,R
-  43,L,U,G
-   2,L
-   1,K
-   1,L,J,G
-  21,R,J
-#conserving a crouch
-#state up the left wall
-#would skip the next room
-  19,R,G
-   5,K
-   1,L,J
-  15,L,K
-  14
-  24,R,D,X
-   4,D,C
+   6,L,J,G
+  15,D,X
+  22,R
+   1,R,K,G
+   3,L,K
+   4,K
+   4,R,K
+   5,R,J,G
+   6,R
    1,R,J
+   8,R
+   8,R,J
    7,R
-   7,R,J
-  16,U,X
-  18,L,J
-  12,L,K,G
-  11,J,G
-   1,R,J
+   3,R,J
+  14,R,U,Z
+   5,R
+   1,L,K,G
+   8,L,G
+  11,K,G
    1,R,K
-  11,R,J
-  11,K
+   4,J
+   3,R,J
+   5,R
+   2,R,J
+   7,R
+   1,R,J
+   1,L,K,G
+  24,R,K
+  19,R,G
+   4
+   1,K
+  14,L,J
+  14,R
+  24,R,D,X
+   1,R,J
+  10,R,C
+   1,R,J
+   7,L,J
+   2,L,K,G
+  14,U,X
+   2,L
+  18,J
+  12,R,K,G
+  12,R,J,G
+  12,R,K,G
+   8,J
+#-70f
    1,S
    1,D,J
   69,O
@@ -298,8 +305,10 @@ console load StartupContest2021/1-Submissions/powerav
    1,L,J
   11,L
   15,L,X
-  17,L,D
-  75,O
+  16,L,D
+   1,S
+   1,D,J
+  72,O
    6,L,Z
    1,L,J
    7,L
@@ -327,6 +336,13 @@ console load StartupContest2021/1-Submissions/powerav
    1,S
    1,D,J
   72,O
+#if you can get 
+#to the bottom 
+#eighth of pixel
+#-839 you can do 
+#a downright 2f 
+#later and cancel
+#for timesave
    6,L,Z
    1,L,J
    7,L
@@ -364,6 +380,7 @@ console load StartupContest2021/1-Submissions/powerav
   14,R,D,C
    1,L,J
    4,L
+
   15,D,X
    4
   14,R,C
@@ -416,4 +433,5 @@ console load StartupContest2021/1-Submissions/powerav
   25,R,J
   18,U,X
  135,R,D
-#1:00.979(3587)
+#0:58.735(3455)
+
