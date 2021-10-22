@@ -1,4 +1,4 @@
-RecordCount: 682
+RecordCount: 718
 console load StartupContest2021/1-Submissions/toto00
    1
 
@@ -57,19 +57,17 @@ console load StartupContest2021/1-Submissions/toto00
    8,R
    6,R,K
    6,R
+  39,R,G
+   2,L,J
+   7,L,D
+  13,L,D,X
    1,L,J
-  17,L
-   1,L,J,G
-  14,L
-  10,L,J
-  24,L,D
-   1,L,J,G
-   1,L,K,G
-  13,L
-  26,L,J
-  13,L
-   1,L,J,G
-  19,L,K,G
+   7,L
+   8,L,J
+   5,L
+   1,L,J
+  17,L,D
+   9,L,J
   32,U,X
   49,L
   10,J,G
@@ -78,9 +76,8 @@ console load StartupContest2021/1-Submissions/toto00
   11,L,J
   11,R,K
   12,R,J,G
-   5,K
+   8,K
    5
-   1,K
   25,D
   33,R,D
    1,R,J
@@ -345,4 +342,4 @@ console load StartupContest2021/1-Submissions/toto00
    8
   13,L,U,X
  135
-#0:49.895(2935)
+#0:49.283(2899)
