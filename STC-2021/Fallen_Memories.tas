@@ -1,4 +1,4 @@
-RecordCount: 1880
+RecordCount: 1934
 console load StartupContest2021/1-Submissions/powerav
    1
 
@@ -230,15 +230,20 @@ console load StartupContest2021/1-Submissions/powerav
    9,L
    1,L,K
   23,L,D
-  19,R,D
-   9
-  21,G
-   1,L
-  40,L,J
+  15,R,D
+   4
+   1,R,D
+   1
+   2,R,D
+  13,G
+   1
+   1,K
+   2,J,G
+  36,L,J
   15,U,X
-   5,L
-   4,L,J
-   3,R,J
+   1,L
+   2,L,J
+   6,L
    1,K
   22,R,K
    2
@@ -379,4 +384,4 @@ console load StartupContest2021/1-Submissions/powerav
   25,R,J
   18,U,X
  135,R,D
-#0:47.226(2778)
+#0:46.937(2761)
