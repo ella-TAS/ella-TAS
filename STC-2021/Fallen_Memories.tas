@@ -1,4 +1,4 @@
-RecordCount: 1934
+RecordCount: 2151
 console load StartupContest2021/1-Submissions/powerav
    1
 
@@ -13,23 +13,21 @@ console load StartupContest2021/1-Submissions/powerav
    9,R,J,G
    5,R
   14,R,D,X
-  11,R,J
-   2,R
-  10,R,D,X
-   5,R,K,G
-   6,R
    1,R,J
-   3,R
-   8,R,J
-   2,R
+   8,R
+  14,R,Z
+   4,R,J
+   2,R,K,G
+  17,R,J,G
   14,R,U,X
    1,R,K,G
-   3,L,K
-   4,R,K
+   2,L,K
    7,R
    4,Z
    1,R,J
    5,R
+   1,R,J
+#-6f
   13
   14,U,X
   16
@@ -38,7 +36,8 @@ console load StartupContest2021/1-Submissions/powerav
    9,L,D
   11,D
    3,R
-   1,D
+
+   1
    4,D,X
    2,R,J
    7,R
@@ -289,33 +288,37 @@ console load StartupContest2021/1-Submissions/powerav
    5,R,K,G
    7,R
    4,D,X
-   3,R,J
-  13,R
+   2,R,J
+  12,R
+   1
+   1,R,J
+   1
+  15,R,D,X
+   5,D
    1,R,J
    1,R
-  20,R,D,X
+  15,R,D,X
+   2,R,D
    1,R,J
-   1,R
-  14,R,D,X
   40
 
 #lvl_b-5
-   3,R,D
-   4,R,J
+
+   1,J
+   9,R,J
+   1,R
   14,R,U,X
-   1,R,J,G
-   3,L,J
-   5,R,J
-   7,R
-   4,D,X
+   2,R,J,G
+  11,R
    1,R,J
-   7,R
-   1,R,J
-   9,R
-   1,R,K
-  14,R
-  15,D,X
- 108,D,C
+   8,R
+   2,R,J
+   2,R
+   8
+  18,D,X
+#-6f
+ 110,D,C
+#+2f
    1,R,J
    8
    2,J
@@ -332,42 +335,48 @@ console load StartupContest2021/1-Submissions/powerav
    1,L,J
    4,L
   15,D,X
-   4
+   1
   14,R,C
-  14,R,J
-  17,U,X
-  27,L,G
-  11,U,G
+  15,R,J
+  15,U,X
+   3,R
+  20,L,G
+  16,U,G
    2,L
    1,K
    1,L,J,G
-   8,R,J
-  13,L
+   9,R,J
+   3,R
+   2,L
+   1,L,J
+   7,L
   15,R,Z
    4,L
    6,L,J,G
   14,L
-  28,L,U,G
+  27,L,U,G
+   1,R
   15,U,X
    6,L,U,C
   18,R
   15,U,X
-  16,R
+  15,R
    4,R,Z
    2,R,J
    8,R
    1,R,J
   12,R,D,X
    1,R,J
-  43
+  40
 
 #lvl_finale
    2,R,J
    8,R,U,X
-   9
+   8
    1,J
+   1,L,K,G
   14,L
-  77
+  75
    4,R
    1,L,J
    8,L
@@ -384,4 +393,6 @@ console load StartupContest2021/1-Submissions/powerav
   25,R,J
   18,U,X
  135,R,D
-#0:46.937(2761)
+#-8f
+#0:46.631(2743)
+
