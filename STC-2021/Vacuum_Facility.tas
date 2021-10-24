@@ -1,4 +1,4 @@
-RecordCount: 111
+RecordCount: 203
 console load StartupContest2021/1-Submissions/toneblock
    1
 
@@ -71,24 +71,26 @@ console load StartupContest2021/1-Submissions/toneblock
    1,R,K
    1,R,J
    1,R,K
-   2
-#lost speed
-   7,L,J
-#   4,R,J
-  49,L
-  14,L,J
-  11,R,K
-  18
-   1,R,J
-  14
-   3,R,J
-  16,R
-   5,R,J
+   2,R
+   4,R,J
   17,R
-  20,R,J
-   2,R,K,G
-   8,R,G
-   9,L
+  10,R,J
+   4,K,G
+   1
+   1,R,J,G
+  11,R
+   1,R,J
+  14,R
+   6,R,J
+  18,R
+   7,R,J
+  21,R
+  22,R,J
+   1,R,K,G
+   7,R
+   1,R,G
+   6
+   3,L
    5,R
    1,R,J
    8,R,K,G
@@ -149,4 +151,4 @@ console load StartupContest2021/1-Submissions/toneblock
    8,R,K,G
   14,R,U,X
  135
-ChapterTime: 0:27.863(1639)
+ChapterTime: 0:27.200(1600)
