@@ -1,4 +1,4 @@
-RecordCount: 3894
+RecordCount: 3981
 console load StartupContest2021/1-Submissions/elissv
    1
 
@@ -28,17 +28,20 @@ console load StartupContest2021/1-Submissions/elissv
   15,R,D,X
   13,R,D
    1,R,J
-   5,R
-   3,R,J
-   2,R
-   1
-   2,R
+   5,R,D,X
+   1,R,J
+   3,R
+   1,R,J
+   3,R
+   2,R,J
   11,R,U,Z
    1,L
    1
    1,J
-   6,K,G
+   2,K,G
    2,R,K
+   1,K
+   3,R,K
    7,R
    6,R,Z
    1,R,J
@@ -195,21 +198,22 @@ console load StartupContest2021/1-Submissions/elissv
    2,R,K
    7,R
   10,R,X
-   7,R,J
+   6,R,J
+   1,J
    5,R,U,X
   40
 
 #lvl_eliss08
   10,R,U,X
-  18,R,U,C
-  15,U,X
-   2,R
-  16,L,J
+  19,R,U,C
   14,U,X
-   9,L,J
-   8,L
-   2
-   1,L
+  13,L,J
+   1,J
+   2,L,J
+  14,U,X
+  10,L,J
+   6,L
+   5
   11
   12,L,X
   10,R,J
@@ -384,4 +388,4 @@ console load StartupContest2021/1-Submissions/elissv
   15,R,U,X
  135
 
-ChapterTime: 0:44.370(2610)
+ChapterTime: 0:44.336(2608)
