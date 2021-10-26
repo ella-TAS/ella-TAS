@@ -1,0 +1,23 @@
+read _start
+read 0D Start
+read LoadA Prologue
+read 1D Start
+read LoadA
+read 2D Start
+read LoadA
+read 3D Start
+read LoadA
+read 4D Start
+read LoadA
+read 5D Start
+read LoadA
+read 6D Start
+read LoadA
+read 7D Start
+  59
+   1,J
+ 360
+   1,J
+  83
+   1,S
+read LoadJournal
