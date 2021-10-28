@@ -3,14 +3,18 @@ console, load, StartupContest2021/0-Lobbies/1-Submissions, Startup Contest 2021,
 
 #Start
    4,L,X
-  12,L,J
-  12,L,Z
-   4,L,J
+   9,L,J
+   3,L
+   6,L,Z
+   1,L,J
+   6,L
+   2,L,J
    3,L,K,G
   14,L,D,X
    3,L,J
   15,L,D,X
-  15,L
+   5,L
+   9,L,D
   14,L,Z
    1,L,J
   20,L,D,X
@@ -25,4 +29,4 @@ console, load, StartupContest2021/0-Lobbies/1-Submissions, Startup Contest 2021,
   30
    1,J
   46
-#0:02.244(132)
+#0:02.210(130)
