@@ -1,4 +1,4 @@
-RecordCount: 1872
+RecordCount: 1957
 console load StartupContest2021/1-Submissions/skillsharekirby
    1
 
@@ -258,92 +258,76 @@ console load StartupContest2021/1-Submissions/skillsharekirby
    1,R,J
    1,K
   15,L,K
-
-#  12,L,J,G
-#  12,L,K,G
-#   2,L,J,G
-#   4,R
-#   1
-#   1,R
-#   1
-#***
-#  10,L,J
-#  30,L,G
-#  11,D
-#   5,R,D
-#   1,G
-#   3
-#   1,R,J,G
-#   1,R,K,G
-#   1,R,J,G
-#   1,R,K,G
-#   1
-#   6,R
-#   6,R,K
-#   1,K
-#   1,R,J
-#  15,R,D,X
-#  22,R,D,C
-#   8,R
-#   1,R,J
-#   2,R
-#  10,R,D,X
-#  40
-#***
-#   4,R
-#0:36.975(2175)
-#0:38.063(2239)
-#-66f
-
-  20,L,J,G
-  72,L,U,G
+  12,L,J,G
+  12,L,K,G
    2,L,J,G
-   1,L
+   4,R
+   1
+   1,R
+   1
+  10,L,J
+  30,L,G
+  11,D
+   5,R,D
+   1,G
+   3
+   1,R,J,G
+   1,R,K,G
+   1,R,J,G
+   1,R,K,G
+   1
+   6,R
+   6,R,K
    1,K
-  11,J,G
-  10,R,J
-  15,R,X
-  16,R
-  15,R,X
-  48,R
-   6,R,Z
    1,R,J
-   7,R
+  15,R,D,X
+  22,R,D,C
+   8,R
    1,R,J
-   7,R,D,X
+   2,R
+  10,R,D,X
   40
 
 #lvl_4
+   4,R
    1,R,J
    7,R
-  20,D
-  15,U,X
-  32,D
-  75,U
-  22
-  12,J
-  15,D,X
-  13,R,Z
-   2,R,J
-  15,U,X
- 100,D
-  10,L,Z
-   1,R,J
-   7,R
-   5,R,J
-  13,R,U,X
-   8,L,J
-  30,L,D
-  10,L,D,X
-   2,R,J
-  20,R
-  13,U,X
-  11,J
-  45,L
+  10,R,J
+   9,R
+   6,R,J
+   1,K,G
    5,R
-  25
-  27,L,U
-  48,U
+  15,L,X
+   9,L
+   7,D
+  78,U
+   2,R
+   1,R,D
+  14,D
+   1,R,J
+  11,R,K
+  15,U,X
+  14,L,J
+  18,L,D
+  24,D
+   3
+  41,D
+  10,R,Z
+   1,R,J
+   1
+   5,R
+  21,D
+  31,R,J,G
+  15,U,Z
+   5
+  35,L,J
+   1,K
+  90,L,K
+  16
+  42,U
+   9,L,U
+   2,U
+   1,L,U
 #couldn't get the corneroost here
    4,R,Z
    1,R,J
@@ -638,4 +622,4 @@ console load StartupContest2021/1-Submissions/skillsharekirby
   15,L,U,X
   13
  122,D
-#1:48.970(6410)
+#1:47.678(6334)
