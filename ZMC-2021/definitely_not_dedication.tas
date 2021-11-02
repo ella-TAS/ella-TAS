@@ -1,4 +1,4 @@
-RecordCount: 933
+RecordCount: 1049
 
 console load ZipMoverContest2021/1-Lobby/oknano
    1
@@ -88,34 +88,48 @@ console load ZipMoverContest2021/1-Lobby/oknano
    2,R,J
   12,R
    1,R,J
-  20,R
-
-
-Set,Player.Position,1477,144
-Set,Player.Speed,-60,120
+   9,R
+   5,R,D
+   3,R
+   1,R,D
+   2,R
+#downright dash
+#barely doesn't work
+  13,R,X
+   1,J
+  16
    1,L
    4,R,Z
    1,R,J
    4,R
    1,R,J
-   4,R,K,G
-   5,R
-   2,R,J,G
-  54,R
-Set,Invincible,false
-Set,Player.Position,1611,128.4
-Set,Player.Speed,321,70
-   5,R,D
-   2,R,J
+   5,R,K,G
+   4,R
+   1,R,J,G
    6,R
-  11,L,U,Z
-  18,R
+  40
+
+#lvl_Nano-04
+   1,R
+   1,R,J
+   2,R
+   1,R,J
+   2
+   1,R
+   5,R,D
+   3,R,J
+   2,R
+   1
+   1,R
+   1
+   9,L,U,X
+  20,R
   29,R,Z
    7,R,D
    5,D
    6,G
-   6,G
-Set,Player.Position,1821,138
+   3,D,G
+   3,G
   22,G
    5,R,J,G
    3,R,K,G
@@ -134,6 +148,7 @@ Set,Player.Position,1821,138
   11,R
   40
 
+#lvl_Nano-05
    1,R,J
   10,R,D,X
    4,R,J
@@ -151,20 +166,20 @@ Set,Player.Position,1821,138
    3,R,J
   12,R
    4,R,D
-   9,L,D
-   1,L,G
-  10
-  16,L,G
-
-
+   8,L,D
+   1,D
+   1,G
+   9
+   1,L
+  16,G
    1
    1,L,K,G
    1,J,G
-Set,Player.Position,2390.4,128
    1,L,K,G
    2,R,K
-  21,R
-Set,Player.Position,2496.6,140.4
+   8,R
+   1,R,J
+  12,R
    4,R,Z
    1,R,J
    6,R
@@ -175,11 +190,10 @@ Set,Player.Position,2496.6,140.4
    6,L,J
   13,R,C
    1,R,J
-   7,L,J
+   7,J
    1,R,J
-   1,R
    1
-   1,R
+   2,R
   15,U,X
   13,R
    4,R,J
@@ -188,7 +202,11 @@ Set,Player.Position,2496.6,140.4
    1,R,J
    5,R,D,X
    1,R,J,G
-  54,R
+  10,R
+  40
+
+#lvl_Nano-06
+   4,R
    1,R,J
   17,R
    2,R
@@ -201,7 +219,6 @@ Set,Player.Position,2496.6,140.4
    1,L
    3,R
    6,G
-Set,Invincible,false
    2,D,G
    7,D,G
    2,R,J,G
@@ -225,7 +242,11 @@ Set,Invincible,false
    4,R,Z
    3,R,J
    2,R,K,G
-  54,R
+  13,R
+  40
+
+#lvl_Nano-07
+   1,R
   14,R,D,X
    4,R,J
   40,L,J
@@ -240,6 +261,4 @@ Set,Invincible,false
   12,U,X
  135
 
-ChapterTime: 0:29.444(1732)
-
-1000
+ChapterTime: 0:29.886(1758)
