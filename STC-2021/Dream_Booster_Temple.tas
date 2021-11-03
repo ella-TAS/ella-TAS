@@ -1,4 +1,4 @@
-RecordCount: 503
+RecordCount: 1010
 console load StartupContest2021/1-Submissions/earthwise
    1
 
@@ -12,44 +12,259 @@ console load StartupContest2021/1-Submissions/earthwise
    1,R,J
   14,R,U,X
   23,C
-  11,R,D,X
-   1,R,J
-   2,R
+   1,R,K
+   1,R
+  12,R,D,X
   40
 
 #lvl_a-2
-   1,R
+   2,R,D,X
+   1,R,J
   14,R,D,X
-   3,R,J
-  14,R,D,X
+   1,R,J
+  13,R,D,X
   31,C
   29,R,D,X
-  20,C
-  15,R,U,X
-   1,R,J,G
+  21,C
+  10,U,X
+   2,R,J
+  10,R
+   1,R,J
+   1,R
+  10,R,X
+   5,R,J
+   7,J
+   1,R,J
+  15,U,C
    2,R
-   1,R,J,G
-   7,R
-   7,Z
-   1,R,J
-   6,R
-   1,R,J
-   6,R,D,X
   40
 
 #lvl_a-3
-   6,R,D,X
-   1,R,J
-  10,R,D
-  13,R,Z
-  31,C
-  15,R,U,X
-  13,R
-  51,X
-  11,L,U,Z
+   1,S
+   1,D,O
+   1,J
+  68
+   9,L,U,X
   40
 
-#lvl_a-5
+#lvl_a-5 (1)
+   6,L,X
+  14,U,C
+   6,L,K
+   5,L
+   6
+   9,U,X
+  15,R,J
+  40
+   2,L,K
+   9,L
+   9,L,D,X
+  40
+
+#lvl_a-5 (2)
+   1,S
+   1,D,J
+  69,O
+  10,L,Z
+   3,L,J
+   3,L
+   1,L,J
+  15,L,Z
+   9,L
+  19,X
+  14,U,C
+   4,L,J
+   7,J
+   1,K
+  40
+
+#lvl_a-6
+   1,R
+   1,L,J,G
+   1,L,K,G
+   1,L,J,G
+   7,L
+   6,L,Z
+   1,L,J
+   7,L
+   1,L,J
+  10,L,D,X
+   5,L,J
+  25,C
+  10,U,X
+  18,R,J
+  34,X
+  14,R,U,Z
+   1,L
+   1,L,K,G
+   1,L,J,G
+   1,L,K,G
+   1,L,J,G
+   1,K
+  40
+
+#lvl_a-7
+   1,K
+   4
+   6
+   4,R,Z
+   1,R,J
+   7,R
+   1,R,J
+  10,R,K,G
+  14,R,Z
+  43,C
+  15,R,D,X
+  11,R
+   7,Z
+   1,R,J
+   7,R
+   1,R,J
+   6,R,D,X
+  40
+
+#lvl_a-8
+   8,R,D,X
+   1,R,J
+  14,R,U,X
+  24,C
+  22,R,D,X
+  31,C
+  15,U,X
+   5,R
+  14,U,C
+  18,J
+   1,R,K,G
+   8,K
+   2,L,K
+  40
+
+#lvl_b-1 (1)
+   1,K
+  10
+   5,R,Z
+   1,R,J
+   3,R
+   1,R,J
+   3,R
+   2,R,J
+   5,R,D,X
+   6,R,J,G
+   2,R
+   1
+   3,R
+   1,R,J
+   4,R
+   1,R,J
+   2,R,K,G
+   1,K
+   3,R,K
+   2,R
+   3,R,J,G
+   1,R
+   2,R,K,G
+   4,R
+  40
+
+#lvl_b-a1
+   1,R
+   4,R,K
+   7,R,J,G
+  13,R,Z
+  43,R,X
+  11,R,J
+   5,R
+  10,R,J
+   4,R
+  15,R,X
+   6,R
+   1,S
+   1,D,J
+  69,O
+   4,L,Z
+   1,L,J
+   3,L
+  40
+
+#lvl_b-1 (2)
+   1,L,J
+   3,L
+  21,L,D,K
+  17,L,U,X
+   1,L,J,G
+   8,L,K,G
+   7,L
+   1,L,K
+   1,R
+  96
+   2,K
+   7
+   2,K
+   7
+  15,D,X
+  40,C
+   3,L
+   8,L,U,X
+   1,K
+  40
+
+#lvl_b-2
+   1,R
+   1
+   1,L,K,G
+   1,L,J,G
+   4,L,K,G
+   4,L,J,G
+   5,L,Z
+   1,L,J,G
+  10,L,K,G
+  50,X
+  46,R,D
+  13,R,Z
+  31,C
+  11,U,X
+  40
+
+#lvl_b-e
+  11,R
+  12,U,X
+   2,R,J
+   6,R
+  12,L,J,G
+   7,L
+   2,L,K
+   5,L,Z
+   1,L,J
+  11,R
+   4,Z
+   1,R,J
+   3,R
+   1,R,J
+   3,R
+   1,R,J
+
+#lvl_end
+  10,J
+  14,R,U,X
+ 135
+ChapterTime: 0:38.675(2275)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#lvl_a-5 (1)
 #-------
 #no death warp
 #   4,L
@@ -72,185 +287,3 @@ console load StartupContest2021/1-Submissions/earthwise
 #   4,L,D
 #  10,L,D,X
 #-------
-   4,L
-  15,U,X
-   5,R,J,G
-   2
-   5,L
-   9,U,X
-  15,L,J
-  40
-
-#lvl_a-4
-   1,L,K,G
-  10,D
-   7,D,X
-  40
-
-#lvl_a-5
-   1,S
-   1,D,J
-  69,O
-  10,L,Z
-#-------
-   3,L,J
-   3,L
-   1,L,J
-  15,L,Z
-   9,L
-  19,X
-  14,U,C
-  12,L,J
-  40
-
-#lvl_a-6
-   3,R
-   1,L,J,G
-   1,L,K,G
-   1,L,J,G
-   5,L
-   6,L,D,X
-   1,L,J
-   7,L
-   4,L,J
-  14,L,X
-  25,C
-  11,U,X
-  18,R,J
-  34,X
-  14,R,U,Z
-   1,L
-   1,L,K,G
-   5,L,J,G
-  40
-
-#lvl_a-7
-   1,K
-   4,R
-   6
-   4,Z
-   1,R,J
-   7,R
-   1,R,J
-  10,R,K,G
-  14,R,Z
-  43,C
-  15,R,D,X
-  11,R
-   6,Z
-   1,R,J
-   7,R
-   1,R,J
-   7,R,D,X
-  40
-
-#lvl_a-8
-   7,R
-   1,R,J
-   2,R
-  14,R,U,X
-  24,C
-  22,R,D,X
-  32,C
-  18,U,X
-  15,U,C
-  18,L,J
-   8,R,K,G
-   4,L,K
-  40
-
-#lvl_b-1
-   1,R,K,G
-   8,L
-   2
-   5,L,Z
-   1,R,J
-   3,R
-   1,R,J
-   3,R
-   2,R,J
-   5,R,D,X
-   6,R,J,G
-   5,R
-   1,R,J
-   5,R
-   1,R,J
-   7,R,K,G
-   5,R,D,X
-   5,R,J,G
-   5,R
-   1,R,J
-   2,R
-  40
-
-#lvl_b-a1
-   3,R
-   2,R,J
-   8,R,K,G
-   2,R
-  10,R,Z
-  38,R,X
-  12,R,J
-   6,R
-  16,R,J
-  15,R,X
-  11,R
-   1,S
-   1,D,J
-  69,O
-   4,Z
-   1,L,J
-   3,L
-  40
-
-#lvl_b-1
-   6,L,J
-  20,L,D,K
-   1,K
-  15,L,U,X
-   1,L,J,G
-   5,L,K,G
-   5,L,J
-  10,L
-  77,D
-  15,U,X
-  35,D
-  40,X
-  10,U,C
-#  12,L,U,C
-  40
-
-#lvl_b-2
-  12,L
-   8,L,Z
-   1,L,J,G
-  10,L,K,G
-  50,X
-  46,R,D
-  13,R,X
-  32,C
-  11,U,X
-  40
-
-#lvl_b-e
-  11,R
-  12,U,X
-   2,R,J
-   6,R
-  12,L,J,G
-   7,L
-   4,Z
-   1,L,J
-   3,L,K,G
-   1,L
-  11,R
-   4,Z
-   1,R,J
-   7,R
-   1,R,J
-
-#lvl_end
-  11,L,J
-  14,R,U,X
- 135,R,D
-ChapterTime: 0:39.576(2328)
