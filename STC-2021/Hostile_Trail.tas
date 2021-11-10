@@ -1,4 +1,4 @@
-RecordCount: 853
+RecordCount: 997
 console load StartupContest2021/1-Submissions/scribbles
    1
 
@@ -160,23 +160,40 @@ console load StartupContest2021/1-Submissions/scribbles
    9
   19,R,X
   17,R,U,C
-  15,R
-   2,L
-  11,R,D
-   6,R
-   6,R,X
-   1,R,J,G
+   6,R,J
    1,J
+  15,R,D,X
+   1,R
+   1
+   1,J,G
+   1,L,J
+   3,R,J
+   5,R
+   2,R,J
+   9,R
+   1
+   1,R
+   1,R,J,G
+   9,R
    1,R,J
-  27,R
-  45,L,J
+   4,R
+   1
+   1,R
+   2,R,J
+   5,R
+  17,R,J
+   2,R,K
+  12,R
+   8,R,J
+   9,J
+  23,L,J
    1,K
   25,L,K
    1,J
   25,L,J
    1,K
   25,L,K
-  79,L,U,G
+  36,L,U,G
    1,L,J,G
    1,L,K,G
    1,J,G
@@ -210,4 +227,4 @@ console load StartupContest2021/1-Submissions/scribbles
   27,R,U,X
   22,R
  100,J
-ChapterTime: 0:38.233(2249)
+ChapterTime: 0:37.961(2233)
