@@ -1,4 +1,4 @@
-RecordCount: 1696
+RecordCount: 1837
 console load StartupContest2021/1-Submissions/mika
    1
 
@@ -241,77 +241,66 @@ console load StartupContest2021/1-Submissions/mika
    4,R,J
    1,R,K
   74,R,J
-   2,L
-  31
-   3,L,K
-   4,K
-   1,L,K
-   1,K
-  14,J
-   2,R,J
-   1,L,K,G
-   6,K
+   2,R
+   1,R,J
+   1,R,K
+  19,R
+   7
+   9,J
+   6,R,K
+  15,K
+   1,R,K
+   4,J,G
+   1,R,K,G
   40
 
 #lvl_a05
-   1,R
-   1,L,K,G
-   1,L,J,G
-   1,L,K,G
-  14,L
-   2
+   1,R,J,G
    2,L
-   1
-   1,L
-   1,L,K
-   1,L,J,G
-   1,L,K,G
-  38,L
-   2,R,D
-  36
-   3,K
-  33,R,K
-   8,R
-   5,R,D
-  15,R
-   1,R,D
-   6,R
-   1,R,D
-   7,R,J
    9,R
-   1,R,J
-  19,R
+   4,R,J
+   6,R
+  24,L,J
+   1,J
+   1,L,K
+   1,R,K
+  24,K
    1,R,G
-   5,R
-   2,L,D
-  24
-   2,L
-   2
-   2,L
-   1,K
-  59,L,K
-   9,L,D
-  27,L,J
-   5,L,K
-  13,L
+   7,R,J
+  15,R
+   8
+   6,L
+   1
+  12,L,J
+   1,J
+   1,L,J
+   1,J
+  54,L,J
+  11,L,K
+  16,L
+   6,L,J
+  12,L
   11,G
    1,K,G
-   3
+   1
    1,L
-   5
+   1
    1,L
+   4
+   1,L,K
    1,R
-  51,R,K
-  46,R,J
+  51,R,J
+  46,R,K
    1,R,G
    1,R,K,G
    5,K
    1,R,K
-   1
+   1,K
+   2
    1,R
    1
    1,R
-   9
+   7
    5,R
   11,L
    1
@@ -325,7 +314,7 @@ console load StartupContest2021/1-Submissions/mika
   18,K
   20,J
   20,K
-  19,J
+  20,J
   21,U,C
  135
-ChapterTime: 0:49.521(2913)
+ChapterTime: 0:47.192(2776)
