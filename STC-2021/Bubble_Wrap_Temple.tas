@@ -1,4 +1,4 @@
-RecordCount: 1909
+RecordCount: 2060
 console load StartupContest2021/1-Submissions/potatolucy
    1
 
@@ -316,17 +316,18 @@ console load StartupContest2021/1-Submissions/potatolucy
   14,U,X
    1,R
    4,K
-  32,L
-   5,R
-   3,R
+  33,L
    1
+   1,L
+   1
+   1,L,K
+  11,L,X
+   1,R,J
+   4,L,J
+  10,L
    1,R
-  11
-  15,D,X
-   4,R,J
-   1,J
-   1,R,J
-   8,J
+   1,L,K,G
+   1,L,J,G
    1,R,J
    1,J
    1,R,J
@@ -337,8 +338,14 @@ console load StartupContest2021/1-Submissions/potatolucy
    1,J
    1,R,J
    1,J
-  16,R,K
-  19,U,X
+   1,R,J
+   1,J
+   1,R,J
+   1,J
+   1,R,J
+   2,K
+  14,R,K
+  20,U,X
   40
 
 #lvl_end
@@ -360,4 +367,4 @@ console load StartupContest2021/1-Submissions/potatolucy
    9,L,K
    4,X
  135
-ChapterTime: 0:44.268(2604)
+ChapterTime: 0:44.098(2594)
