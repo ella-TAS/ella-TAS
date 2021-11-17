@@ -1,4 +1,4 @@
-RecordCount: 2060
+RecordCount: 2077
 console load StartupContest2021/1-Submissions/potatolucy
    1
 
@@ -297,14 +297,12 @@ console load StartupContest2021/1-Submissions/potatolucy
 #lvl_b-04
   21,R,J
    6,U,Z
-   9,Z
-  18,R,J
+   8,Z
+  14,R,J
+   4,L,J
    1,K
-   1,J
-   8,L,J
-   6,L
-   1,L,J
-   2,L
+  11,L,K
+   7,L
    1,L,J
   15,U,Z
    1,R,J,G
@@ -367,4 +365,4 @@ console load StartupContest2021/1-Submissions/potatolucy
    9,L,K
    4,X
  135
-ChapterTime: 0:44.098(2594)
+ChapterTime: 0:44.081(2593)
