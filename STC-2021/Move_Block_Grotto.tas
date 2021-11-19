@@ -1,4 +1,4 @@
-RecordCount: 5122
+RecordCount: 5134
 console load StartupContest2021/1-Submissions/skillsharekirby
    1
 
@@ -48,7 +48,24 @@ console load StartupContest2021/1-Submissions/skillsharekirby
    1,R,K
    1,L,K
    1,D,J
-  69
+  20
+#morse code for "STC"
+   1,D
+   1
+   1,D
+   1
+   1,D
+   2
+   2,D
+   2
+   2,D
+   1
+   1,D
+   1
+   2,D
+   1
+   1,D
+  29
    2,L,J
   10,R,Z
   19,L,J
