@@ -1,68 +1,78 @@
-RecordCount: 997
+RecordCount: 1710
 console load StartupContest2021/1-Submissions/scribbles
    1
 
 #Start
+#lvl_A-00
  161
-  15,R,X
-  15,R,D
+   3,R,D
+   9,R,D,X
    1,S
-  35,D,J
+   1,D,J
+  34
    5,R,D
-   6,R,Z
-   1,R,J
-   7,R
-   1,R,J
+   6,R,J
+   4,R
   10,R,D,X
+   1,R,J
+   4,R
+  11,R,D,X
+   1,R,J
+   4,R
   40
 
 #lvl_A-01
-   4,R,D,X
+   1,R,J
+   2,R
+   2,R,J
    1,S
-  35,D,J
-  11,K
+   1,D,J
+  34
+  10,R,J
   15,U,X
-   4,R
-  80
-   9,R
+   8,R
+  75
+  10,R
   17,L,Z
    1,R,J
    5,R,D,X
    1,R,J,G
    1,J
    3,R,J
-  13,R
-   1,R,J
-   2
-   2,R
-   1,R,J,G
+   6,R
+   3,R,J
+   5,R
+   4,R,J
+   1,R,K,G
    3,R
   11,R,D,X
    1,R,J
    7,R
-   2,R,J
+   2,R,D,J
    1,R
   40
 
 #lvl_A-02
    2,R
-  12,R,J,G
-  15,R,Z
-  13,R
-   8,R,J
-  11,R
-   1,R,J
-  27,R,D
-   2,D
-   7
-  15,R,X
-   4
+   9,R,J,G
+   3
+   2,R
+   6,J
+  37
    1,R
+   1
+   9,R,D
+   1,D
+  15,R,D,Z
+  10,R
+   3,R,D
   10,R,D,X
-  15,R,J
+  12,R,J
+   4,J
   18,U,X
    1,L,J,G
-   7,L
+   6,L
+   1
   46,L,U,G
    1,J,G
    1,K,G
@@ -73,48 +83,42 @@ console load StartupContest2021/1-Submissions/scribbles
    1,J
    7,R,J
   14,R,U,X
-   8,R,J,G
+   7,R,J,G
   40
 
 #lvl_A-03
    2,R,J
-   3,R,K,G
-  14,R,D,X
-   3,L,J
-  18,L
-   3
-  14,R,Z
-   1,R,J
-   7,R
-   4,R,D,J
-   7,R
+   7,R,K,G
+   4,R
+   1
+   1,R
+   2,R,J
   15,R,Z
-  18,L,D
-   4,D
+  14,R
+  10,R,D
+   1,R
+   1,R,D
   15,R,X
-  15,R,C
-  15,L,D
-   2,L
-   1,L,J
-   1,K
-   2
-   3
-   2,J
-  15,R,Z
-   5
-   8,R,J
-  10,L,D,X
-  14,R,J
-   3,R
-   1,R
-   1,R,J
-  15,R,U,X
-   1,R
-   1,R,J,G
    7,R
+  15,R,Z
+   3
+   2,R
+   6,R,J
+   1,J
+   1,R,J
+  10,L,D,X
+  12,R,J
+   1,R
+   5,R,J
+   2
+  15,R,U,X
+   1,R,J,G
+   2,R
+   1
+   4,R
    1,R,J
    1,R
-   9,R,Z
+   7,R,Z
    1,R,J
    6,R
    1,R,J
@@ -123,25 +127,29 @@ console load StartupContest2021/1-Submissions/scribbles
   43
 
 #lvl_A-04
-   1,R
-   6,R
+   7,R
   11,R,J
    4,R
   15,R,D,X
    2,R,D
-  29,R
+   4,R
+   1,R,D
+   1,R
+   2,R,D
+   1,D
+  22,R
   15,R,U,X
-   9,R
-  10,R,J,G
-   2,K,G
-   9,R,K
-   7,R
-   1,R,J
+   2,R
+  13,J,G
+   1,K,G
+  10,R,K,G
+   5,R
+   3,R,K
   17,K,G
   15,R,U,X
-   3
-  15,R,Z
-   6,R,D,X
+   4
+  15,R,X
+   6,R,Z
    1,R,J
    7,R
    1,R,J
@@ -151,13 +159,14 @@ console load StartupContest2021/1-Submissions/scribbles
   40
 
 #lvl_A-05
-   2,R,D,X
+   3,R,D,X
    1,S
-  35,D,J
-  10,R
-  27,R,J
-  15,R,U,Z
-   9
+   1,D,J
+  34
+  13,R
+  25,R,J
+  15,R,U,X
+   4
   19,R,X
   17,R,U,C
    6,R,J
@@ -191,19 +200,20 @@ console load StartupContest2021/1-Submissions/scribbles
   25,L,K
    1,J
   25,L,J
-   1,K
-  25,L,K
-  36,L,U,G
-   1,L,J,G
-   1,L,K,G
+  16,D,G
+  30,G
+   3,D,G
+   1,G
+   1,D,G
+   1,G
+   1
    1,J,G
-   6
-   1,R
-  15,U,X
-   8,R
-   1,R,J,G
-   3,R,K,G
-  39,R
+   1,L,K,G
+  18,R
+   4,R,D
+  12,R
+  11,U,C
+  21,R,K
   52,R,D,X
   21,R,J
   15,R,X
@@ -211,20 +221,21 @@ console load StartupContest2021/1-Submissions/scribbles
   15,R,J
   15,R,X
   11,R
- 106,R,X
-   5,R,Z
+ 104,R,X
+   6,R,Z
+   1,R,J
   40
 
 #lvl_A-06
-   9,R,Z
+   7,R
    1,R,J
   14,R,D,X
    1,R,J
   14,R,D,X
    1,S
-  35,D,J
+   1,D,J
+  34
    3,R,K
-  27,R,U,X
-  22,R
- 100,J
-ChapterTime: 0:37.961(2233)
+  14,R,U,X
+ 135
+ChapterTime: 0:35.870(2110)
