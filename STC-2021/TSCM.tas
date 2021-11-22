@@ -1,4 +1,4 @@
-RecordCount: 752
+RecordCount: 946
 console load StartupContest2021/1-Submissions/cheesesteak
    1
 
@@ -21,7 +21,7 @@ console load StartupContest2021/1-Submissions/cheesesteak
    9,R,D,X
   40
 
-#lvl_cs-02-mainfloor (1)
+#lvl_cs-02-mainfloor
    5,R,D,X
    1,R,J
   14,R,D,X
@@ -29,41 +29,37 @@ console load StartupContest2021/1-Submissions/cheesesteak
    7,R
    7,R,J
    2,R
-   9,R,J,G
-   3,R
+   8,R,J,G
+   5,R
+   1
   15,U,X
-  39,R,D
+   9
+  30,L,D
+   1,L,J
+  21,L,D
+  14,L,Z
+  10,R,J
+   3,R,K,G
+  12,R
    1,R,J
   14,R
-   1,R,J
-  14,R
-   1,R,J
-  14,R
-   1,R,J
-  14,R
-   1,R,J
-  15,R
-   7,R,J
-   8,K
+   9,R,J
+   6,R
+  15,U,X
+  40,R,D
+  12,R,J
+   9,K
    4,L,K
-  15,L,U,X
-  37,R,D
-  10,R
-   3,R,J
-  12,R,K,G
-   1,R,J,G
-   2,L,J
-   7,L,K
   15,L,U,X
    1,R,J,G
    1,R,K,G
    4,K
+   1
    7,R
    1,R,J
    7,J
   15,R,U,X
    9,R
-  15,D,X
    4,Z
    1,R,J
    5,R
@@ -277,7 +273,6 @@ console load StartupContest2021/1-Submissions/cheesesteak
    1,J
   15,U,X
   18,R
-
   10,R,J,G
    1,K,G
    1,R
@@ -397,7 +392,6 @@ console load StartupContest2021/1-Submissions/cheesesteak
   12,R,K,G
    6,R
    1,R,K
-
    1,R,J,G
    2,L,J
    3,R,J
@@ -406,4 +400,4 @@ console load StartupContest2021/1-Submissions/cheesesteak
   15,U,X
  135
 
-ChapterTime: 0:40.970(2410)
+ChapterTime: 0:40.579(2387)
