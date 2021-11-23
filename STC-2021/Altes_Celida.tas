@@ -1,4 +1,4 @@
-RecordCount: 1859
+RecordCount: 1907
 console load StartupContest2021/1-Submissions/xolimono
    1
 
@@ -292,18 +292,18 @@ console load StartupContest2021/1-Submissions/xolimono
    1,L,K,G
   18,R
    2,R,D
-   7,R,Z
+   6,R,Z
    1,R,J
+   2,R
+   2,R,J
    6,R
    1,R,J
    2,R
-   1,R,J
-   2,R
-  12,R,D,X
-  23,R,J
+  11,R,D,X
+  24,R,J
    1,R,K,G
    1,R,J,G
-  29,R,K,G
+  28,R,K,G
 
 #lvl_b-00
    1,L,X
@@ -334,4 +334,4 @@ console load StartupContest2021/1-Submissions/xolimono
   20,R,J
   15,R,U,X
  135
-ChapterTime: 0:35.173(2069)
+ChapterTime: 0:35.156(2068)
