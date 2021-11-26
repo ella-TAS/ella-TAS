@@ -1,4 +1,4 @@
-RecordCount: 2348
+RecordCount: 2632
 console load StartupContest2021/1-Submissions/abuffzucchini
    1
 
@@ -121,47 +121,47 @@ console load StartupContest2021/1-Submissions/abuffzucchini
   49,R,U,G
   22,R,D,G
   28,R,U,G
-  41,R
+  34,R
+   4,R,D
+   1,R
   15,R,U,X
-  22,R
+  24,R
   13,U,X
   66,R,U,G
    1,L
    4,R
   33,L
   10,L,X
-   8,R,K
-   6,R
-   1,R,K
-  19,R
-   3,R,D
-  14,R,U,X
-  31,R,D,G
-   1,L
-  19,R,D,X
-   5,R,K
-   6,R,D,X
-   1,R,J,G
+  11,R,K
    5,R
+  15,R,D,X
+  11,R,D
+  14,R,U,C
+  21,R,D,G
+   1,L
+  25,R,D
+   5,R,D,X
+   1,R,K
+   1,R
   40
 
 #lvl_ABuffZucchini_ElectricAurora_05
-  10,R
+   5,R
+   1,R,K
+   3,R
+   1,R,K
   14,R,Z
-  31,R,D,G
+  28,R,G
+  10,R,D,G
    1,R
-   9,R,D
-  13,L,D
-   4,L
-   1,L,D
-  17,L
-   2,L,D
-   1,L
+   6,R,D
+  26,L,D
+   8,L
   10,L,Z
    7,L,J
-   1,L
+   4,L
    1,L,J
-   9,L,D
+   6,L,D
    1,R,D
    5,L,D
    4,D
@@ -428,4 +428,4 @@ console load StartupContest2021/1-Submissions/abuffzucchini
    9,R
   14,R,X
  135
-ChapterTime: 1:01.438(3614)
+ChapterTime: 1:01.234(3602)
