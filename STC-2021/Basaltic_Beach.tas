@@ -1,4 +1,4 @@
-RecordCount: 1093
+RecordCount: 1399
 console load StartupContest2021/1-Submissions/xelos
    1
 
@@ -34,29 +34,30 @@ console load StartupContest2021/1-Submissions/xelos
   22,R,C
    5,R
   15,R,D,X
-   9,R,D,C
-  14,R,J,G
-   1,R,K,G
-   7,R
+   6,R
+   2,R,J
+   1,R,J
+   1,J
+   8,R,K,G
+   2,R,J,G
+   9,R,D,X
   40
 
 #lvl_main
    5,R
-   6,R,Z
    1,R,J
-   8,R
-   4,R,J
+  12,R,D,X
+   1,R,J
   22,R,X
   15,R,D,C
    8,R,D
   20,L,D
   22,R,X
-   4,R
-  14,R,X
-  22,U,C
-   3
+  14,R
+  20,U,C
+   7,L
   15,U,C
-   6,L
+   2
    8,R,U,X
    6,R,J,G
   22,R,D,X
@@ -68,13 +69,13 @@ console load StartupContest2021/1-Submissions/xelos
   15,R,Z
   15,R,V
   15,R,X
-   6,R,U,C
-  15,U,X
-   7,U,C
-  15,U,X
+   3,R,U
+  19,U,X
+   3,R
+  15,U,C
    2,R
   15,U,C
-  10,R
+   9,R
    2,R,J,G
    4,L,J
    5,R,J
@@ -143,11 +144,12 @@ console load StartupContest2021/1-Submissions/xelos
    1,R,J
   12,R,K
   14,R,U,X
-  22,U,C
+  19,U,C
+   3,L
   15,L,U,X
-   4,L
+   3,L
   15,L,U,C
-   4,L
+   5,L
   12,L,J,G
    1,L,K,G
    4,R,K
@@ -160,15 +162,13 @@ console load StartupContest2021/1-Submissions/xelos
 
 #lvl_main_4
    1,R,D
-   5,R
-   1,R,J
+   8,R
   15,D,X
-  15,D
-  22,R,X
-   1,R
-  22,U,X
-  15,U,C
-  22,R,X
+   6,R,D
+  23,R,X
+  22,U,C
+  15,U,X
+  22,R,C
    9,R
   15,D,X
    9,R,D
@@ -183,50 +183,43 @@ console load StartupContest2021/1-Submissions/xelos
   14,U,C
   22,R,X
   21,R
-#saves time but 
-#idk how to sync
-#   5,R
-#  11,R,D,X
-#   1,R,J
-#   7,R
-
-  14,R,D,X
-   1,R,J,G
-  14,R,Z
+   5,R
+  11,R,D,X
    1,R,J
+   7,R
   40
 
 #lvl_main_5
+   1,R
    1,R,J
-   6,R
+   5,R
   15,D,C
    8,R,D
-   2,R
+   3,R,D
   15,D,X
   15,R,Z
-   1,R
   15,U,X
   11,U,C
   21,R,X
    4,L,C
   18
-  14,U,C
-  22,R,X
+  14,U,X
+  22,R,C
   16,R
   15,D,X
-  33,D
-  10,D,X
+  32,D
+  11,D,X
   22,R,D,C
    4,R,D
   22,R,X
    3,R
-  15,U,X
-  15,U,C
+  22,U,X
+   7,U
    1,R,J
    5,R,K
   15,U,X
   14,U,C
-   3,J
+   3,R,J
   22,R,X
    3,R
   15,D,C
@@ -263,22 +256,19 @@ console load StartupContest2021/1-Submissions/xelos
   40
 
 #lvl_main_7
-   4,R,D,X
+   4,R
   22,R,X
    6,R
   15,D,X
   14,D
   25,R,X
-  15,R
-  18,U,X
+  15,R,U,C
+  14,R,U,X
   22,L,C
-   9,L
-   8,L,X
-   8,L,J,G
-  22,R,U,X
-   5,R,Z
-   1,R,J
-   5,R
+  19,L
+  15,U,X
+   6,R,D,C
+   5,R,J
   22,R,X
    1,R
   15,R,D,C
@@ -287,34 +277,34 @@ console load StartupContest2021/1-Submissions/xelos
   12,R
    1,R,J
    4,R,K
-  22,U,X
+  19,U,X
+   3,L
   15,L,U,C
   10,L,X
   22,R,C
-  23,R
-  22,R,D,X
-   3,R,D
-  22,L,D,X
-  22,R,C
+   1,R
+  10,R,D,X
+   9,R,J,G
+  20,R,D,X
+  22,L,D,C
+  22,R,X
    6,R
   15,R,U,Z
   14,L,U,X
   22,R,C
-  26,R
+   6,R
+  18,R,Z
+  13,R
+  31,R,D,X
+  22,R,C
   15,R,D,X
-   2,R,D
-  13,R,U,C
-  22,R,D,X
-   3,R,D
-  22,R,X
-  15,R,D,C
-   7,R,D,X
+   7,R,D,C
   40
 
 #lvl_end
    8,R,D,X
    6,R
   15,R,C
-  27,R,U,X
- 122
-ChapterTime: 0:49.844(2932)
+  14,R,U,X
+ 135
+ChapterTime: 0:49.334(2902)
