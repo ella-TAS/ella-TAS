@@ -1,41 +1,40 @@
-RecordCount: 946
+RecordCount: 1610
 console load StartupContest2021/1-Submissions/cheesesteak
    1
 
 #Start
- 190
-
 #lvl_cs-01-entrance
+ 190
    1,L,J
   10,R,D,X
-   6,R,J
-  10,R,Z
-   6,R,J
-   1,L,J
-   1,K,G
-   3,R,K
-  14,R,Z
+   4,J
    1,R,J
-  14,R,D,X
    1,R,J
-   9,R,D,X
+  13,R,Z
+   2,R,J
+   1,R
+   5,R,U,X
+   1,L
+   1,J,G
+   1,R,K,G
+   1,K
+   8,R,K
+  12,R
   40
 
-#lvl_cs-02-mainfloor
-   5,R,D,X
-   1,R,J
-  14,R,D,X
-   1,R,J
-   7,R
-   7,R,J
-   2,R
-   8,R,J,G
-   5,R
-   1
+#lvl_cs-02-mainfloor (1)
+  15,R,D,X
+   3,R
+   6,R,J
+   4,R
+   9,K,G
+   1,R,K
+   1,K
   15,U,X
-   9
-  30,L,D
-   1,L,J
+   4
+  20,L
+  15,L,D
+   1,L,K
   21,L,D
   14,L,Z
   10,R,J
@@ -43,85 +42,37 @@ console load StartupContest2021/1-Submissions/cheesesteak
   12,R
    1,R,J
   14,R
-   9,R,J
-   6,R
+  10,R,J
+   4,R
   15,U,X
   40,R,D
   12,R,J
-   9,K
-   4,L,K
+   1,K,G
+   8,J
+   4,L,J
   15,L,U,X
    1,R,J,G
    1,R,K,G
    4,K
    1
-   7,R
+   6,R
    1,R,J
-   7,J
+   6,J
+   1
   15,R,U,X
    9,R
    4,Z
    1,R,J
-   5,R
-   1,R,J
-   4,R
+  10,R
   15,D,X
-  25,L,D
-
-#failed right room
-#skip attempt
-#   6,R,Z
-#   1,R,J
-#   5,R
-#   2,R,K
-#  25,R,J
-#   1,R
-#  14,R,X
-#   1,R,J,G
-#   3
-#   2,R
-#   2
-#   6,L,J
-#   6,L
-#   3,L,J
-#   2,J
-#  15,U,Z
-#   3,R
-#   1,L
-#   1,J,G
-#  10,J
-#   2
-#   6,L
-#  15,D,X
-#   8,L
-#  14,L,Z
-#   1,R,J
-#   1,R
-#  14,R,D,X
-#   6,R,J
-# 100,L,K
-
-#not a skip
-#   6,R,Z
-#   1,R,J
-#   5,R
-#   2,R,K
-#  26,R,J
-#  14,R,X
-#   2,R,J,G
-#  11,R
-#   1,R,J
-#  14,R,D,X
-#   1,R,J
-#   7,R,D,X
-
+  24,L,D
   12,L,Z
    1,R,J
-   2,R
+   1,R
+   1
   14,R,D,X
    6,R,J
-   1
-   2,R
+   3,R
    1,R,J
    2,R
    1,R,J
@@ -141,16 +92,19 @@ console load StartupContest2021/1-Submissions/cheesesteak
   24,R,D
    4,Z
    1,R,J
-   8,R
-  16,R,J
+   3,R
+   1,R,J
+   3,R
+  17,R,J
   12,K,G
-   6,J,G
-   9,L,K
+   5,J,G
+   1,K
+   5,J,G
+   3,L,J
   15,U,X
    7,L
   13,R
-   4,L
-  28,L,D
+  32,L,D
    1,L,J
   14,L
    1,L,J
@@ -160,25 +114,28 @@ console load StartupContest2021/1-Submissions/cheesesteak
    1,L,J
   14,L
    1,L,J
-  14,L
-  12,L
-   5,L,D
-   6,L,J
-  16,R,J
+   9,L
+  17,L,K
+   3,L,D,K
+   8,L,J
+  14,R,J
    1,L,K,G
-   1,K
    1,R,K
    1,K
-   2,R,K
+   3,R,K
    1,L,K
-   8,J,G
-   2
-   6,L
-  12,R,J
+   7,J,G
+   1
+   5,L
+   1
+   6,R,J
+   6,J
   15,U,X
    1,L,J,G
-   5,R
-  29,L,D
+   1
+   4,R
+  26,L,D
+   3,L
   10,L,X
    5,L,J
    5,L,U,X
@@ -188,23 +145,26 @@ console load StartupContest2021/1-Submissions/cheesesteak
    6,L,U,X
    1,R
   11,J,G
-   9,L,J
+   5,L,J
   15,U,X
-   4,L
-  20,L,J
-   1,J
-   9,L,J
-  15,L,K,G
+   4
+  30,L,J
+  14,L,K,G
+   1,L,J,G
+   1
    1,L,J,G
    2,R,J
-   2,L,J
-   2,L,K,G
+   1,L,J
+   1,L
+   1,L,K,G
    7,L
-  15,L,D,X
-   2,L
-   4,L,Z
-   1,L,D,J
-   7,L
+  13,L,Z
+   1,L,K
+   1,L
+   1,L,K
+   1,L
+   2,L,K
+   4,L
   12,D,J
    6,K,G
    1,L,J,G
@@ -218,9 +178,10 @@ console load StartupContest2021/1-Submissions/cheesesteak
    1,J
    9,K
   15,U,X
-  10,L
-   1,L,D,J
-  13,J
+   9,L
+   1
+   2,L,D,J
+  11,J
    5,L,J
    1,R,K,G
    1,L,K
@@ -230,19 +191,21 @@ console load StartupContest2021/1-Submissions/cheesesteak
    1,L,K
    1,K
    1,L,K
+   1,K
+   2,L,K
+   1,K
   16,L,J
    1,L,K,G
-   2,R,K
-   2,L,K
    7,L
-   7,L,Z
+   4,L,Z
    1,L,J
+   1,L
   43
 
-#lvl_cs-02-mainfloor
+#lvl_cs-04-fallingwoodwarning
    2
-   5,L
-   1,L,J
+   4,L
+   3,L,D,J
   11,L,D,X
    1,L,J
    7,L,D
@@ -263,14 +226,15 @@ console load StartupContest2021/1-Submissions/cheesesteak
   10,R,D
    9,D
    2,R
-   4,D
+   1,D
+   2,R,D
+   1,D
    4,Z
    1,R,J
    6,R
-  11,R,J
-   4,J
-   3,R,J
-   1,J
+  15,R,J
+   2,J
+   1,R,J
   15,U,X
   18,R
   10,R,J,G
@@ -278,15 +242,13 @@ console load StartupContest2021/1-Submissions/cheesesteak
    1,R
    1
    1,R
-   3
+   2
    1,R
    1,L
-   1,L,J
-  15,R,Z
-   3,L,D,J
-   1,L,K,G
-   2,L,J,G
-   6,U,X
+  15,R,D,X
+   4,L,D,J
+   3,L,K,G
+   5,U,X
    5,L,J
   10,R,J
   15,R
@@ -303,13 +265,16 @@ console load StartupContest2021/1-Submissions/cheesesteak
    7,R,D
    1,R,J
   16,R
-  13,R,J
+  12,R,J
+   1,J
    1,R,K
+   1,R,J
   11,U,X
-  42,R,J
+  39,R,J
+   2,J
   12,R,K,G
-   4,R
-  37
+   1,R
+  44
    5,L
    6,L,J
    1,L
@@ -320,24 +285,24 @@ console load StartupContest2021/1-Submissions/cheesesteak
    5,R
    1,R,J,G
    1,R,K,G
-  11,R
-   1,R,J
-   1,R,K,G
    1,R
    1
-  13,R
-   1,R,J
-  14,R
-   4,Z
-   1,L,J
-  15,R
-   1,R,J
-   6,R
-  41
-   5,L
-  15,D,X
-  15,D,C
-  10,L,X
+  18,R
+   4,R,Z
+   1,R,K
+   7,R
+   1,R,K
+   2,R
+   6,L,D,X
+   1,L,K
+   7,L
+   1,L,K
+   1,L
+   4,R,D,X
+  11,D,X
+   2,R,D
+  76
+  10,L,Z
    1,R,J
    6,R
    7,R,J
@@ -345,9 +310,9 @@ console load StartupContest2021/1-Submissions/cheesesteak
   14,U,X
   12,R,J
    1,R,K,G
-   7,R
-   1,R,J
-   1,R
+   1,L
+   6,R
+   2,R,J
   15,U,Z
    5,L
    1,R,K,G
@@ -361,7 +326,8 @@ console load StartupContest2021/1-Submissions/cheesesteak
    1,K
    1,L,K
    1,K
-   2,L,K
+   1,L,K
+   1,K
   10,L,J
   43
 
@@ -390,8 +356,9 @@ console load StartupContest2021/1-Submissions/cheesesteak
    8,R,K,G
    3,R,J,G
   12,R,K,G
-   6,R
+   5,R
    1,R,K
+   1,R
    1,R,J,G
    2,L,J
    3,R,J
@@ -400,4 +367,4 @@ console load StartupContest2021/1-Submissions/cheesesteak
   15,U,X
  135
 
-ChapterTime: 0:40.579(2387)
+ChapterTime: 0:39.916(2348)
