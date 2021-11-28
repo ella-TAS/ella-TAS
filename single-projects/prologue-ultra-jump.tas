@@ -54,27 +54,17 @@ console load 0
    4,J
    4,R,J
    2,J
-#trigger skip
-#   1,R,K,G
-#  37,R,J,G
-#   1,R,K
-#  21,R,D
-#   1,R,J
-#  14,R
-#   1,R,J
-#   2,R
    1,R,K,G
    1,R,J,G
-  11,R
+  10,R
+   1,L
    1,R,J
-   1,S
-   1,D,J
-  34
-  17,R
+  14,R
+   1,R,J
+  21,R,D
   40
 
-#lvl_3
-   4,R,D
+#lvl_2
    1,R,J
   14,R
    1,R,J
@@ -90,10 +80,8 @@ console load 0
    1,R,J
   14,R
    1,R,J
-   6,R
-   1,L,J
-   2,L
+   6,L,K
    1,S
    1,D,J
  232
-ChapterTime: 0:13.175(775)
+ChapterTime: 0:12.767(751)
