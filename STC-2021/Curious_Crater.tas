@@ -1,4 +1,4 @@
-RecordCount: 1837
+RecordCount: 1899
 console load StartupContest2021/1-Submissions/mika
    1
 
@@ -245,10 +245,10 @@ console load StartupContest2021/1-Submissions/mika
    1,R,J
    1,R,K
   19,R
-   7
+  10
    9,J
    6,R,K
-  15,K
+  11,K
    1,R,K
    4,J,G
    1,R,K,G
@@ -305,9 +305,7 @@ console load StartupContest2021/1-Submissions/mika
   11,L
    1
    9,L,K
-  26,L,J
-   1,L
-   1,L,J
+  28,L,J
    5,L
    1,L,K
    1,R,K
@@ -315,6 +313,6 @@ console load StartupContest2021/1-Submissions/mika
   20,J
   20,K
   20,J
-  21,U,C
+  20,U,C
  135
-ChapterTime: 0:47.192(2776)
+ChapterTime: 0:47.158(2774)
