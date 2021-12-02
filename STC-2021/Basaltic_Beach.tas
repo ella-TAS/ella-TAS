@@ -1,57 +1,59 @@
-RecordCount: 1399
+RecordCount: 2152
 console load StartupContest2021/1-Submissions/xelos
    1
 
 #Start
 #lvl_intro
-   4,Z
+   7,L,Z
    1,R,J
-   7,R
+   3,R
    1,R,J
-  18,R
-   6,R,J
+   3,R
+   2,R,J
+  15,R,D,X
+   1,R,J
+   5,R,K,G
+   4,R,J,G
    8,R
-   3,R,J
-   8,R
-  11,R,J
-   6,R
-  14,R,X
-   9,R,J
+   1,R,J
    5,R
-   2,R,K
-   1,R,J,G
-  17,R
-   1,R,J
-  12,R
+  12,R,J
+  11,R,K,G
+   3,R,J,G
+  14,R
   40
 
 #lvl_intro_2
-   6,R,D,X
-   5,R,J
-   6,R,K,G
-   1,R,J,G
-  13,R,D,X
-  22,R,C
-   5,R
-  15,R,D,X
-   6,R
+   3,R
    2,R,J
-   1,R,J
-   1,J
-   8,R,K,G
-   2,R,J,G
-   9,R,D,X
+   7,R,K,G
+   1,R,J,G
+  22,R,K,G
+  15,R,D,X
+   5,R
+   3,R,K
+   7,R,J,G
+   2,R,K,G
+   1,K
+   3,R,K
+   3,R
   40
 
 #lvl_main
+   4,R
+   2,R,K
+   1,R
+   1
    5,R
-   1,R,J
-  12,R,D,X
-   1,R,J
-  22,R,X
-  15,R,D,C
-   8,R,D
-  20,L,D
+   2,R,D
+   2,R,K
+   5,R
+   1,R,K
+   8,R
+  15,D,X
+   3,R,D
+   4,D
+   9,L,D
   22,R,X
   14,R
   20,U,C
@@ -62,100 +64,97 @@ console load StartupContest2021/1-Submissions/xelos
    6,R,J,G
   22,R,D,X
   15,D,C
-  12,D
+  10,D
+   1,R,D
+   1,D
   13,R,D
    2,D
   15,D,X
   15,R,Z
   15,R,V
   15,R,X
-   3,R,U
-  19,U,X
    3,R
-  15,U,C
-   2,R
-  15,U,C
+  19,U,X
+   1
    9,R
-   2,R,J,G
-   4,L,J
-   5,R,J
-   2,R
+  18,U,X
+  18,U,C
+   4,R,J,G
+   2,R,K,G
+   1,K
+   8,R,K
+   1,R,J,G
    1,R,K,G
-   7,R,J,G
    7,R
-   1,R,J
-   6,R
   40
 
 #lvl_main_2
-   7,R,D,X
-   7,R,J
-   2,R
-   4,R,J,G
+   8,R,D,X
+   8,R,J
+   3,R,K,G
   15,R,D,X
    8,R
   22,L,D,X
   15,D,C
   11,R,D
    2,R
-   1,R,D
-   1,R,D
+   2,R,D
   15,R,D,X
   15,R,Z
    4,F,74.9
   12,R,Z
   22,U,X
    6,U,C
-  22,U,X
-   1
-  22,R,X
+  23,U,X
+  22,R,C
    9,R
   15,D,X
-   6,D
-  19,R,D
-   1,D
-   2
+   7,D
+  15,R,D
+   2,R
+   9,D
   15,D,X
-  15,R,D,C
-  15,R,Z
-  15,R,X
   15,R,D,C
   15,R,X
   15,R,C
+  15,R,Z
+  15,R,V
   15,R,X
+  12,R,C
   40
 
 #lvl_main_3
-  15,R,X
-   6,R,U,C
-  22,R,X
-   9,R
-  15,R,D,X
+   3,R,C
+  12,R,Z
+  22,R,C
+   8,R
+  16,R,D,X
    1,R,J
    1,R,K
    1,R,J
    1,R,K
-  13,R,X
+  12,R,X
   22,R,C
    5,R
   15,R,D,X
    1,R,J
    1,R,K
    1,R,J
-  12,R,K
+  12,R,U,K
   14,R,U,X
-  19,U,C
-   3,L
+   4,L,U,C
+  15,U,C
+   9,L
   15,L,U,X
-   3,L
+   2,L
   15,L,U,C
-   5,L
-  12,L,J,G
-   1,L,K,G
-   4,R,K
-   8,L,K
+   1,L
+   2,J,G
+   1,R,J
+   1,L,J
+  14,L,K,G
    1,L,J,G
-   5,L,K,G
+   6,L,K,G
   22,R,X
   14,R,D,C
   40
@@ -182,44 +181,39 @@ console load StartupContest2021/1-Submissions/xelos
   15,U,X
   14,U,C
   22,R,X
-  21,R
-   5,R
+  26,R
   11,R,D,X
    1,R,J
    7,R
   40
 
 #lvl_main_5
-   1,R
    1,R,J
-   5,R
+   6,R
   15,D,C
-   8,R,D
-   3,R,D
+  11,R,D
   15,D,X
   15,R,Z
   15,U,X
   11,U,C
-  21,R,X
-   4,L,C
-  18
-  14,U,X
-  22,R,C
+  21,R,Z
+  24,L,U,X
+   1
+  10,U,C
+  22,R,X
   16,R
   15,D,X
-  32,D
-  11,D,X
+  30,D
+  12,D,X
   22,R,D,C
    4,R,D
-  22,R,X
+  22,R,Z
    3,R
-  22,U,X
-   7,U
-   1,R,J
-   5,R,K
+  19,U,X
+  11,R,U
   15,U,X
   14,U,C
-   3,R,J
+   6,R,J
   22,R,X
    3,R
   15,D,C
@@ -234,16 +228,16 @@ console load StartupContest2021/1-Submissions/xelos
   40
 
 #lvl_main_6
-   2,F,88
-  15,R,U,Z
+   5,F,45
+  14,U,Z
+   1,R,J
   15,U,C
-  15,U,X
-  15,U,C
-   2,R
-  12,R,X
-   8,R,J
-  11,R,K,G
-  22,R,X
+  14,U,X
+   9,R,K
+   9,R,X
+   6,R,J
+  13,R,U,X
+  22,R,C
   18,R
   15,R,U,X
   13,R,D,C
@@ -257,18 +251,21 @@ console load StartupContest2021/1-Submissions/xelos
 
 #lvl_main_7
    4,R
-  22,R,X
-   6,R
-  15,D,X
-  14,D
-  25,R,X
+  22,C
+  15,R,D,X
+  16,D,C
+  25,R,Z
   15,R,U,C
-  14,R,U,X
-  22,L,C
-  19,L
+  13,R,U,X
+  22,L,Z
+   6,L
+   2
+   4,L
+   5,L,K,G
   15,U,X
-   6,R,D,C
-   5,R,J
+   5,R,Z
+   1,R,J
+   4,R
   22,R,X
    1,R
   15,R,D,C
@@ -292,10 +289,10 @@ console load StartupContest2021/1-Submissions/xelos
   15,R,U,Z
   14,L,U,X
   22,R,C
-   6,R
-  18,R,Z
+   7,R
+  17,R,Z
   13,R
-  31,R,D,X
+  30,R,D,X
   22,R,C
   15,R,D,X
    7,R,D,C
@@ -307,4 +304,4 @@ console load StartupContest2021/1-Submissions/xelos
   15,R,C
   14,R,U,X
  135
-ChapterTime: 0:49.334(2902)
+ChapterTime: 0:47.736(2808)
