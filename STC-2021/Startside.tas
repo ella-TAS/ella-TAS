@@ -1,111 +1,115 @@
-RecordCount: 4521
+RecordCount: 7577
 console load StartupContest2021/1-Submissions/ZZ-HeartSide
 
 #Start
-  91
-
 #lvl_startside_intro
+  91
    1,L,J
   10,R,D,X
-   7,R,J
+   9,R,J
   15,R,U,X
-   2,R
-  13,R,C
+  12,R,C
    7,R,J
   15,U,X
    1,R
   15,U,C
   10,R
    9,R,J
-   6,R,K,G
-   1,R
+   9,K
   15,U,X
+   4,L,C
+  11,D,C
+   4
+  10,L
+  14,L,J
+   2,J
+   1,L,J
+   4,R,U,X
+  11,U,X
    1,R
-  14,L,X
-   1,R,J
-  15,D,C
-   2
-   4,L
-  11,L,J
-   7,J
-  15,U,X
-   2,R
    1
-  13,R,Z
-  11,R,J
+  12,R,Z
+  12,R,J
   14,R,U,X
    8,R,J,G
-   1,R
   14,R,D,X
    1,R,J
   11,R,D,X
   40
 
 #lvl_startside_07
+#-flag 07
+#-Grassy_Springs
    3,R,D,X
    1,R,J
    9,R,D,X
    1,R,J
-   4,R
-   1
-   2,R
+   7,R
    7,R,J
    2,R
-  17,R,Z
+   6,R,Z
+  11
    4,R,J
   16,R,K
    1,L,K
-  10,J,G
-   1,R,J
-  36,R,X
+   9,J,G
+   2,R,J
+  15,R,X
+  21
    4,R,J
    5,R,K
    8,R
-  15,R,X
+  14,R,X
+#-Dream_Booster_Temple
   85,R,C
   15,R,U,Z
   23
    2,L
   19,L,D
   12,L,Z
-  64,U,X
+  60,U,X
   15,R,Z
    7,R
   15,R,X
-  12
-  15,L
+  20,L,D
+   4,D
+  15,L,D,X
+  29,D
   14,L,D
-   1,L
-   7,L,D
-  13,D
-   7,L,D
-   1,D
-   8,L,D
   12,L,Z
   75,U,X
    6,R
-  42,U,X
+  14,U,X
+  28
+#-Verdant_City
   15,R,U,C
    5,R
-  33,R,X
+  14,R,X
+  19
    4,R,J
    2,R,K
   27,R
-  36,R,Z
+  15,R,Z
+  21
    4,R,J
    3,R,K
-  28,U,X
-  29,R,C
+   5,U,X
+  23
+   6,R,C
+  23
    4,R,J
   12,R,K
-  49,R,X
+  12,R,X
+  37
    2,R
   18,D,X
-  37,R,Z
+  12,R,Z
+  25
    4,R,J
-   4,R,K
+   1,R,K
+   4,R
   15,R,D,X
-   6,R,D
+   5,R,D
   13,R,U,X
    2,R,J,G
    8,R
@@ -114,21 +118,24 @@ console load StartupContest2021/1-Submissions/ZZ-HeartSide
    2,R,J
    5,R,D,X
    3,R,J,G
-  13,R
+   7,R
+   2,R,J
+   4,R
    1,R,J
-  12,R
+  11,R
   40
 
 #lvl_startside_06
-   2,R
-   7,R,J
-   8,R,D,X
-   6,R,J,G
-   5,R
-   1,R,J
-   5,R
-  20,R,J
-  15,R,D,X
+#-flag 06
+   3,R
+   5,R,J
+   3,R
+   6,R,D,X
+   3,R,J,G
+  11,R
+  12,R,J
+  18,R
+#-Collapsing_Canyon
   30,D,C
   15,L,X
    7,L
@@ -136,98 +143,523 @@ console load StartupContest2021/1-Submissions/ZZ-HeartSide
    3,L
   15,L,X
   23,D
-  12,J
-  39,D
-   5,R,D
-   5,D
+  11,J
+   8
+   1,J
+   1
+   1,J
+   9
+  22,D
+   7,R,D
   14,L,D,X
    1,R,J
   10,R,D,X
-   3,R,J
-  15,L
-  22,L,D
-  13,L,X
+   1,R,J
+   6
+   1,R
+   9
+   4,D
+   1,R,D
+  16,L,D
+  14,L,X
   87,R,C
+#-Ruby_Cliffs
   52,R,U,X
   10,U,Z
   10,L,J
-  30,U,X
+  40,U,X
   14,R,Z
-  21,R,J
-  32,R,G
-   6,R
+  20,R,J
+   1,R
+  15,R,G
+   5,J,G
+   1,R,J
+   1,L,J
+   1,K
    1,J
-   2,K,G
-  36,L,K
-  37,L,G
-   5,R
-   8,L
-   1,L,J,G
-   1,L,K,G
-   5,L
-   1,L,J
-   9,L
-   1,L,J
-  32,L,D
-   6,L
-   3,L,D
-  16,L,J
-  15,U,X
-   1,R,J,G
-   7,R
-  22,R,G
+  37,L,J
+  23,L,G
    4
-  11,L,J
+   2,J,G
+   1,R,J
+   1,J
+  14,L,K,G
+   1,L,J,G
+   8,L,K,G
+  44,L
+   3,L,D
+   2,L
+  15,L,J
+  15,U,Z
+   1,R,J,G
+   7
+  14,G
+   6,K,G
+   1,L,K
+   1,J
+  13,L,K
   71,R,X
-  36,R,U,C
-   9,J,G
+  37,R,U,C
+   2
+   4,J,G
    1,L,J
+   1,R,J
   14,R,K,G
    1,R,J,G
-   4,R,K,G
-   9,R
-   4,R,K
-  18,R,J,G
-  15,R,U,X
-  19,R
+   3,R,K,G
+  12,R
+  28,R,J,G
+  15,R,U,Z
+   8,R
+#-Exercise_Futility
   25,R,X
-  27,R,U
-  87,F,79
-  18,F,90
-  94,F,92
-  53,F,108
-   9,F,90
- 150,F,84
-  81,F,85
+  26
+   1,R,U
+  12,F,82.578
+   1,F,0
+   1,F,180
+   1,F,0
+   1,F,180
+   1,F,0
+   1,F,180
+   1,F,0
+   1,F,180
+   1,F,0
+   1,F,180
+   1,F,0
+   1,F,180
+   1,F,0
+   1,F,180
+   1,F,0
+   1,F,180
+   1,F,0
+   1,F,180
+   1,F,0
+   1,F,180
+   1,F,0
+   1,F,180
+   1,F,0
+   1,F,180
+   1,F,0
+   1,F,180
+   1,F,0
+   1,F,180
+   1,F,0
+   1,F,180
+   1,F,0
+   1,F,180
+   1,F,0
+   1,F,180
+   1,F,0
+   1,F,180
+   1,F,0
+   1,F,180
+   1,F,0
+   1,F,180
+   1,F,0
+   1,F,180
+   1,F,0
+   1,F,180
+   1,F,0
+   1,F,180
+   1,F,0
+   1,F,180
+   1,F,0
+   1,F,180
+   1,F,0
+   1,F,180
+   1,F,0
+   1,F,180
+   1,F,0
+   1,F,180
+   1,F,0
+   1,F,180
+   1,F,0
+   1,F,180
+   1,F,0
+   1,F,180
+   1,F,0
+   1,F,180
+   1,F,0
+   1,F,180
+   1,F,0
+   3,F,180
+   1,F,0
+   1,F,180
+   1,F,0
+   1,F,180
+   1,F,0
+   1,F,180
+   1,F,0
+   1,F,180
+   1,F,0
+   1,F,180
+   1,F,0
+   1,F,180
+   1,F,0
+   1,F,180
+   1,F,0
+   1,F,180
+   1,F,0
+   1,F,180
+   1,F,0
+   1,F,180
+   1,F,0
+   1,F,180
+   1,F,0
+   1,F,180
+   1,F,0
+   1,F,180
+   1,F,0
+   1,F,180
+   1,F,0
+   1,F,180
+   1,F,0
+   1,F,180
+   1,F,0
+   1,F,180
+   1,F,0
+   1,F,180
+   1,F,0
+   1,F,180
+   1,F,0
+   1,F,180
+   1,F,0
+   1,F,180
+   1,F,0
+   1,F,180
+   1,F,0
+   1,F,180
+   1,F,0
+   1,F,180
+   1,F,0
+   1,F,180
+   1,F,0
+   1,F,180
+   1,F,0
+   1,F,180
+   1,F,0
+   1,F,180
+   1,F,0
+   1,F,180
+   1,F,0
+   1,F,180
+   1,F,0
+   1,F,180
+   1,F,0
+   1,F,180
+   1,F,0
+   1,F,180
+   1,F,0
+   2,F,180
+   1,F,0
+   1,F,180
+   1,F,0
+   1,F,180
+   1,F,0
+   1,F,180
+   1,F,0
+   1,F,180
+   1,F,0
+   1,F,180
+   1,F,0
+   1,F,180
+   1,F,0
+   1,F,180
+   1,F,0
+   1,F,180
+   1,F,0
+   1,F,180
+   1,F,0
+   1,F,180
+   1,F,0
+   1,F,180
+   1,F,0
+   1,F,180
+   1,F,0
+   3,F,180
+   1,F,0
+   1,F,180
+   1,F,0
+   1,F,180
+   1,F,0
+   1,F,180
+   1,F,0
+   1,F,180
+   1,F,0
+   1,F,180
+   1,F,0
+   1,F,180
+   1,F,0
+   1,F,180
+   1,F,0
+   1,F,180
+   1,F,0
+   1,F,180
+   1,F,0
+   1,F,180
+   1,F,0
+   1,F,180
+   1,F,0
+   1,F,180
+   1,F,0
+   1,F,180
+   1,F,0
+   1,F,180
+   1,F,0
+   1,F,180
+   1,F,0
+   1,F,180
+   1,F,0
+   1,F,180
+   1,F,0
+   1,F,180
+   1,F,0
+   1,F,180
+   1,F,0
+   1,F,180
+   1,F,0
+   2,F,180
+   1,F,0
+   1,F,180
+   6,F,0
+   1,F,180
+   1,F,0
+   1,F,180
+   1,F,0
+   1,F,180
+   1,F,0
+   1,F,180
+   1,F,0
+   1,F,180
+   1,F,0
+   1,F,180
+   1,F,0
+   1,F,180
+   1,F,0
+   1,F,180
+   1,F,0
+   1,F,180
+   1,F,0
+   1,F,180
+   1,F,0
+   1,F,180
+   1,F,0
+   1,F,180
+   1,F,0
+   1,F,180
+   1,F,0
+   1,F,180
+   1,F,0
+   1,F,180
+   1,F,0
+   1,F,180
+   1,F,0
+   1,F,180
+   1,F,0
+   1,F,180
+   1,F,0
+   1,F,180
+   1,F,0
+   1,F,180
+   1,F,0
+   1,F,180
+   1,F,0
+   1,F,180
+   1,F,0
+   1,F,180
+   1,F,0
+   1,F,180
+   1,F,0
+   1,F,180
+   1,F,0
+   1,F,180
+   1,F,0
+   1,F,180
+   1,F,0
+   1,F,180
+   1,F,0
+   1,F,180
+   1,F,0
+   1,F,180
+   1,F,0
+   1,F,180
+   1,F,0
+   1,F,180
+   1,F,0
+   1,F,180
+   1,F,0
+   1,F,180
+   1,F,0
+   1,F,180
+   1,F,0
+   1,F,180
+   1,F,0
+   1,F,180
+   1,F,0
+   1,F,180
+   1,F,0
+   1,F,180
+   1,F,0
+   1,F,180
+   1,F,0
+   1,F,180
+   1,F,0
+   1,F,180
+   1,F,0
+   1,F,180
+   1,F,0
+   1,F,180
+   1,F,0
+   1,F,180
+   1,F,0
+   1,F,180
+   1,F,0
+   1,F,180
+   1,F,0
+   1,F,180
+   1,F,0
+   1,F,180
+   1,F,0
+   1,F,180
+   1,F,0
+   1,F,180
+   1,F,0
+   1,F,180
+   1,F,0
+   1,F,180
+   1,F,0
+   1,F,180
+   1,F,0
+   1,F,180
+   1,F,0
+   1,F,180
+   1,F,0
+   1,F,180
+   1,F,0
+   1,F,180
+   1,F,0
+   1,F,180
+   1,F,0
+   1,F,180
+   1,F,0
+   1,F,180
+   1,F,0
+   1,F,180
+   1,F,0
+   1,F,180
+   1,F,0
+   1,F,180
+   1,F,0
+   1,F,180
+   1,F,0
+   1,F,180
+   1,F,0
+   1,F,180
+   1,F,0
+   1,F,180
+   1,F,0
+   1,F,180
+   1,F,0
+   1,F,180
+   1,F,0
+   1,F,180
+   1,F,0
+   1,F,180
+   1,F,0
+   1,F,180
+   1,F,0
+   1,F,180
+   1,F,0
+   1,F,180
+   1,F,0
+   1,F,180
+   1,F,0
+   1,F,180
+   1,F,0
+   1,F,180
+   1,F,0
+   1,F,180
+   1,F,0
+   1,F,180
+   1,F,0
+   1,F,180
+   1,F,0
+   1,F,180
+   1,F,0
+   1,F,180
+   1,F,0
+   1,F,180
+   1,F,0
+   1,F,180
+   1,F,0
+   1,F,180
+   2,F,0
+   1,F,180
+   1,F,0
+   1,F,180
+   1,F,0
+   1,F,180
+   1,F,0
+   1,F,180
+   1,F,0
+   1,F,180
+   1,F,0
+   1,F,180
+   1,F,0
+   1,F,180
+   1,F,0
+   1,F,180
+   1,F,0
+   1,F,180
+   1,F,0
+   1,F,180
+   1,F,0
+   1,F,180
+   1,F,0
+   1,F,180
+   1,F,0
+   1,F,180
+   1,F,0
+   1,F,180
+   1,F,0
+   1,F,180
+   1,F,0
+   1,F,180
+   1,F,0
+   1,F,180
+   1,F,0
  183,R,X
    1,R,J,G
-   2,J
+   3,L,J
+   1,J
    1,L,J
-   3,L
-   1,R,K,G
-   1,R,K
+   1,J
+   2,R,K,G
+   1,R,J,G
+   4
+   7,R
+   1,R,J
+   9,R
+   2,R,J
+  14,R
+   1,D
    1,R,J,G
    1,R,K,G
-  12,R
+   1,R
+   1
+   7,R
    1,R,J
-  18,R
-   1,R,D
-   2,D
-   2,R,D
-   1,R,J,G
-   1,R,K,G
-  13,R
+  23,R
+   6,R,D
    1,R,J
-  28,R,D
-   1,R,J
+   2,R
   40
 
 #lvl_startside_05
-   8
-   1,R
-   2,R,J
+#-flag 05
+  11,R
    1
-   3,R
    1,R,J
    1,R,K,G
    1,R,J,G
@@ -241,61 +673,63 @@ console load StartupContest2021/1-Submissions/ZZ-HeartSide
   12,R
    1,R,J
   14,R
-   1,R,J
-  14,R
-   1,R,J
-   7
+   3,R,J
+#-Serenity
+  25,R
+   1,R,D
    1,R
-   1
-   2,R
-   1
-   2,R
    1,R,J
    1,R,K,G
    1,R,J,G
-   7,R
-   1,R,K
-   3,R
-   1,R,D,J
-  19,R
-   1,R,J,G
-   1,R,K,G
-   9,R
+   8,R
    1,R,J
-   8
-  10,R
+   2,R
+   2,R,D,J
+  18,R
    1,R,J,G
-   1,R,K,G
+   5,R,K,G
+   5,R
+   1
+   1,R
+   4,R,J
   11,R
+   1,R,J,G
+   1,R,K,G
+   2
+   9,R
    1,R,D
    8,R,J
-   5,R
-   2,R,J
-  15,L,K,G
-   6,L,J,G
-   2,K,G
-   3,R
+   2,R
+   3
+   1,L,J
+   1,K,G
+  12,L,K
+   1,L
+   1,R
+  10,L,J,G
+   2,L
   15,U,X
-   1
   19,R,J
    1,R,K,G
   12,R,J,G
-   5,R
-   4,R,J
-   9,R
-   2,R,J,G
-   5,R
-   1,R,J
-  20,R
-  26,R,X
+   6,R
+   2,R,J
+  10,R
+   1,R,J,G
+   1,R,K,G
+  21,R
+   3,R,D
+  12,R,X
+  13
    4,R,J
   10,R,K
    9,R
-   1,R,J
-  10,R
-   5,R,D
-  65,U,X
+   2,R,J
+  14,R
+   9,U,X
+  56
    8,R
+#-Strange_Sleepwalk
   23,R,X
   21,R,C
   18,L,X
@@ -308,44 +742,93 @@ console load StartupContest2021/1-Submissions/ZZ-HeartSide
    2,R
   27,R,D,X
   22,R,U,C
+#-Curious_Crater
    4,R,J
   21,R,D
-  11,D
-   2,R,G
-   8
-  11,R
-   1,R,J,G
-   1,R,K,G
-   1,R,J,G
-   1,R,K,G
-   8,R
-   5,R,J
-  33,R,K
-  46,R,Z
-   4,R,J
-   5,R,K
-  71,R
-  11,R,K
-  40,R
-   3,R,D
-   3,D
+  12,D
+   1,R,D,G
+  13,R,D
+   1,R
+   1,R,D
+   2,R,D,G
    1
-  35,R
-  40,R,J
-  38,R,D
-  23,R,J
-  15,R,X
-  37,R
+   1,R,J,G
+   1,R,K,G
+   1,R,J,G
+   1,R,K,G
+   5,R
+   2
+   5,R,K
+   1,K
+   6,R,K
+   9,R,J
+   5,R
+  14,R,Z
+  31
    4,R,J
-  86,R,K
+   1,R,K
+   1,R,J
+  18,R
+   8,R,D
+  38,R
+   1,R,D
+   1,R
+   1,R,D
+   1,R
+   5,R,D
+   1,R,K,G
+   1,L,K
+   6,R,K
+   9,R
+   2,R,K
+  19,R
+   1,R,G
+   2
+  28,R,G
+   2,D,G
+   2,G
+   1,U,G
+   7,R
+   9,R,K
+  18,R
+   1
+   4,R
+  17,R,D
+   1,R
+   1,R,D
+   1,R
+   5,R,D
+   3,R
+   1,R,K
+   8,R
+  14,R,X
+  31
+   4,R,J
+   1,R,K
+  18,R
+   1,R,D
+   1,R
+   1,R,D
+   1,R
+   6,R,D
+  12,R,J
+   5,R
   10,R,J
-  24,R
-  25,R,G
-   2,R,J,G
-  19,R,K,G
+  51,R
+   1,R,D
+   1,R
+   1,R,G
+  12,K,G
+   3,J,G
+   9,G
+   2,J,G
+   2,R,J
+  17,R,K,G
   40
 
 #lvl_startside_04
+#-flag 04
+#-TSCM
   13,R
    2,R,J,G
    7,R
@@ -373,44 +856,52 @@ console load StartupContest2021/1-Submissions/ZZ-HeartSide
    1,R,J
    1,L,J
    1,L
-   2,L,K
-   4,L
-   1,R,K
-   4,R,J
-   7,R
-   1,R,J,G
-  23,R,K,G
-  14,R
-   5,R,K
-   1,R
-  19,R,X
-   7,R
-   2,L
-   9,R
-  10,R,U,Z
-   1,K
-   5
-  15,D,X
-   7,D
-   7,L,D
-  10,R,D,Z
-   1,R,J
-   1
-   2,R,K,G
-   2,R
-   2
-   6,R
-   1
-   1,R,J
-  27,R
-  17,R,J
-   7,K,G
-   1
+   3,L,K
    1,L
+   8,J
+   3,R,J
+   1,R
+   5,R,X
+   2,R,K,G
+   8,R
    1,R,K
-  20,L,J
+   5,R
+   1,L
+   9,K,G
+   1,R,K
+   6,R
+   2,R,K
+  14,R
+   5,R,D
+  15,R,X
+   1,L,K
+  15,D,X
+   1,L
+   2,L,D
+   1,L
+   4,L,D
+   1,L
+   1,L,D
+   1,L
+   8,L,Z
+   1,R,J
+   6,R
+   1,R,J
+   1,R,K,G
+   9,R
+   1,R,J
+   7,R
+   1,R,J
+  10,R
+  16,R,J
+   5,J
+   6,K,G
    1,K
+   1,L,K
    1,J
+  20,L,K
+   1,J
+   1,K
    2,L
    2,R
    5,R,J,G
@@ -432,51 +923,52 @@ console load StartupContest2021/1-Submissions/ZZ-HeartSide
    1,L,K
    1,K
    1,J
-   5,L,J
-   7,J
+   3,L,J
+   1,J
    1,L,J
-   1,R,J
+   8,J
+   1,L,J
    1,K
-  23,R,K
+  21,R,K
+   2,K
+   1
+   9,J,G
+  10,R,J
    1,R
-  12,J,G
-   7,R,J
-   1,R
-  18,R,K
-  15,U,X
-  13,L
+  17,R,K
+   4,L,U,X
+  12,U,X
+  12
    9,L,J,G
    7,L
-   7,R,J
-  14,L,D,X
+   2,R,D
+  71
+   1,J
+   6,R
    1,R,J
-  14,R,D,X
-   1,L,J
-  14,L,D,X
+   8,R
+  14,L,Z
    1,R,J
-  14,R,D,X
-   1,L,J
-  14,L,D,X
+   6,R
    1,R,J
-  14,R,D,X
-   1,L,J
-  14,L,D,X
-   1,R,J
-  11,R,D,X
+   5,R,D,X
    1,R,J
    7,R
-   1,R,J
-   8,R,D,X
+   4,R,J
+   1,R
   40
 
 #lvl_startside_03
-   6,R,D,X
-   6,R,J
+#flag 03
+#-Move_Block_Grotto
    4,R
-   1,R,G
-   6,R,J,G
-  20,R
-  15,R,J
+   8,R,J
+   2,R
+   1
+   1,R
+   7,R,J,G
+  17,R
+  18,R,J
   15,U,Z
   14,R
    5,R,J,G
@@ -491,111 +983,104 @@ console load StartupContest2021/1-Submissions/ZZ-HeartSide
   18,L
   40
    1,D
-  11
-  24,U
-  11,L,U
-  14,L,X
-  18,L,J
+   1,R
+   1,L
+   8
+  11,U
+   8,L,U
+   2,U
+   1,L,U
+   4,L,U,X
+   1,L,X
+   5,L,U,X
+  16,L,J
   12,L,K,G
-  11,L,J,G
+   7,J,G
    1,K
    2,J,G
   10,R,J
   15,U,X
-  12
-   7,R
-  10,R,Z
-   2,R,J
+  10
+#-Mechanized_Horizon
    6,R
-   3,R,J,G
-  18,R
-   6,R,J
+  10,R,Z
+   8,R,J
+   3,R,K,G
+  12,R
+   2,R,K
+  10,R
   14,R,X
    1,R,J,G
-#frametied
-#   1,R,J
-#  23,R,D
-#  15,R,X
-#  15,R,Z
-#   1,L,J
-#  21,L
-#  12,J
-#   5,L,J
-#  14,U,X
-#  14,R,J
-#   1,R,K,G
-#   3,R,J,G
-#  25,R,K,G
-#  41,R,D
-#  15,R,X
-#   8,R
-#   4
-#   1,R
-#  14,R,Z
-#----
    8,R
-  40,D
-   4,R
-  21,R,J
-   5,R,Z
-   2,R,J,G
-   3,L
-   2,R
-   3,R,J
-  15,U,X
+   6,R,D
+   9,D
+  13,R,X
+   1,R,J,G
+   1,R
+  15,R,X
+   1,R
+  23,L
    1
+  13,K
+   3,R,K
+  14,U,X
   14,R,J
    1,R,K,G
-   3,R,J,G
-  25,R,K,G
-  41,R,D
+  26,R,J,G
+  42,R,D
   15,R,X
-   8,R
-   4
-   1,R
+  10,R
   14,R,Z
-#----
+#-Fallen_Memories
    1,R,J
   14,R,D,X
-  24,R,J
-  30,R,U,G
+  25,R,J
+  31,R,U,G
+   4,R,J,G
+  14,R,U,Z
+   2,L,J
+  13,L
+  14,U,X
+   1,R
    1,R,J,G
-   2,R
-  15,R,U,Z
-   2,R
-  15,L,J
-  15,U,X
-   1,R,J,G
-   7,R
-  38,R,U,G
-   1,R,J,G
-  29,L,J
-  33,L,G
-   5,L,U,G
-   5,J,G
-   1,R,J
-   1,L,J
+   7
+   1,R,U,G
    1,K,G
-  26,R,K
-   2,R
-  12,R,J
-   6,R,K,G
+   1,L,K
+  10,R,K
+  22,R,U,G
+   1
+   5,J,G
+   7,L,J
+   9,L
+   4
+   1,L
+  38,L,U,G
+   1,J,G
+   1,K
+   2,J,G
+  10,R,J
+  15,R
+   2,R,J
+  12,R,K
+   1,R,J,G
+   4,J
+   1,R,J
   10,R,X
   13,R,J
-  15,U,Z
-   2
-  13,L
+  14,U,X
+  14,L
   15,U,X
-   1,R
-   6,L,C
-   9,R
-  14,R,U,Z
-   1,R,J,G
-   1,J
-   5,R
-   3,R,J
-  23,L,D
-  34,D
+   1,K
+  12,R
+  15,R,Z
+  14,R
+   9,D
+   1,R,D
+  19,D
+   1
+   1,D
+   4
   15,R
   11,R,J
    5,R
@@ -607,6 +1092,8 @@ console load StartupContest2021/1-Submissions/ZZ-HeartSide
   40
 
 #lvl_startside_02
+#-flag 02
+#-Hostile_Trail
    4,R,D,X
    5,R,J
   10,R,U,X
@@ -616,18 +1103,24 @@ console load StartupContest2021/1-Submissions/ZZ-HeartSide
   15,D,C
    2,D
   25,L,X
-  28,U,C
+  33,U,C
+  14,L,X
+  36,R
+   5,R,D
+   2,R
+   1,R,D
   15,L,U,X
-   5,L
-  44,R,D
-   4,R
-  15,L,U,X
-  26
+   9
+   7,R
+   5
+   1,R
+   4
   15,U,X
    1
   15,L,C
   16,L,D
  173,R,X
+#-Bubble_Wrap_Temple
   27,U,C
   23,R,X
   15,R
@@ -638,81 +1131,99 @@ console load StartupContest2021/1-Submissions/ZZ-HeartSide
   37,L,X
   15,L,D,C
   18,R,D
-  31,D,X
-  30,R,C
-   9,R,U,X
+  16,R,X
+  15,L,D,C
+  23,R,D
+  30,R,X
+   9,R,U,C
    1,R,J,G
-  23,R
-   3,L
-   3,L,D
+  29,R
   15,L,U,X
   14,L,C
    5,L,J,G
-  26,L
+  25,L
   14,L,Z
-  26,U,X
-  15,R,C
-   1,R
-  20,L,J
+  30,U,X
  128,R,C
+#-Electric_Aurora
   15,R,D,X
-   2,R,D
-  42,R,G
-   1,R,U,G
-   1,R,G
-   1,L
-  16,R
-   2
-  12,J,G
-   7,K,G
-  14,U,X
-#this part sucks
-  60,R,G
-  20,R,D,G
-   1,L
-   3,R
-  15,R,X
-  19,R
-  12,R,J,G
-  12,K,G
-   7,R
+   1,R
+   1,R,D
+  25,R,D,G
   23,R,U,G
+   1,L
+  14,R
+  12,J,G
+   4,K,G
+   1,R
    1
+   1,R
+  13,U,X
+  45,R,G
+   5,R,U,G
+   5,R,G
+   2,R,D,G
+   1,L
+  20,R
+  15,R,Z
+  20,R
+   3
+  12,J,G
+  13,K,G
+   1,R,J,G
+   9,J
+   1,L
+   1,R
+   7,K,G
+   2
+   2,L
    1,J
-   2,K,G
-  19,L,K
+  21,L,J
   15,L,U,X
-   8,L
+   6,L
   14,L,C
-  80,L,U,G
+  81,L,U,G
    1,R
    8,L
-   7,L,G
-  10
+  12,G
+   3,U,G
+   1,K,G
+   1,R,K
    1,J
-  20,L,J
-   4,L
-   1,L,K,G
-  12,L,J,G
+   8,L,J
+  15,L
+   1
+  12,L,K,G
    8,L
   15,D,X
-  19
-  13,R,J
+  13
+   2,R
+   2,K
+   5,U,X
+  12,J
   40
 
 #lvl_startside_01
-  11
+#-flag 01
+#-Altes_Celida
+   4,L
+   7
   11,R,U,X
    1,R,J,G
-  11,R
+   9,R
+   2,R,J
    4,Z
-   7,R,J
-   3,R,K,G
-  15
-   1,R,J
-   1,J
+   5,R,J
+   2
+   1,R,K,G
+   1,K
+   6
+   1,R,K
+   7,R
+   2,R,J
   15,R,U,Z
-  30,R
+  27,R,D
+   2
   10,R,D,X
    9,R,J
    7,K,G
@@ -732,51 +1243,60 @@ console load StartupContest2021/1-Submissions/ZZ-HeartSide
    2,L
    1,L,J,G
    8,L,K,G
-   5,L
-   2,L,K
-   2,L
-   2,L,K
-   8,L
-   2,J
    7,L
-   6,L,D,X
-   8,R,J,G
-   1
-  14,R
-   1,R,J,G
-  12,R,J
-  10,K,G
    1,L,K
-   9,R,J,G
-   5,R
-   1,R,J,G
-   6,R,K,G
-   7,R
-   1,R,K
-  10,R
-   1,R,J
-   8,R
-   1,D,G
-  14,R,D,X
-   3,R,J
-   1,R,K,G
-   1,R,J,G
-   1,L,J
-   4,J
-  17,R,J
+  10,L
+   2,J
+   6,L
+   1
+   1,L
+   8,R,Z,G
+   3,R,K
    2,R
+   1,R,K
+   1,R
+   1,R,K
+   9,R
+  12,R,J,G
+   5,K,G
+   1,L,K
+   1,R,K
+  14,R,J,G
+   1,R,K,G
+   2,R,J,G
+   1,J
+   4,R,J
+   6,R
+   4,R,J
+   8,R
+   3,R,J
+   4,R
+   1,D,G
+  10,R,D,X
+   6,R,J
+   1,R,K,G
+   1,L,K
+   2,K
+   8,R,K
+   5,R
+   4,R,J
+   1,R
+   1,R,J
   14,R,X
    1,R,J,G
-   2,J
+   1,J
    1,R,J
    2,R
    8,R
    1
    8,R
    3,R,J,G
-  19,R
+   6,R
+   1,R,J
+  12,R
    4,Z
    9,R,J
+#-Basaltic_Beach
   24,R,X
    9,R,U,C
    7,R,J,G
@@ -784,137 +1304,143 @@ console load StartupContest2021/1-Submissions/ZZ-HeartSide
    2,D
   22,R,X
    7,U,C
-  20,R,U,X
-  20,L,U,C
+  18,R,X
+  17,L,C
   38,R,X
   15,R,C
-  25,R,D
+  15,R
+   3,R,D
+   1,D
+   1,R,D
+   6,L,D
+   1,L
+   3,L,D
+   1,D
+   1,L,D
    7,D
-  20,D,X
-   2,L
-   4,Z
+   7,L,D
+   1,L
+   3,L,D
+   4,L,Z
    1,L,J
-  13
+   4,L
   22,L,D,X
   14,L,C
-  22,D,X
-   3,R,D
-  12,R,Z
+  25,D,X
+   4,R,Z
    1,R,J
-  13,F,88
-  15,R,D,X
+  25,F,104.3
   15,R,C
-  15,R,X
-  15,R,U,C
+  15,R,Z
+  15,R,V
   15,R,U,Z
   10,U,X
+   3,R,K
   22,R,C
+#-Lillys_Lake
   32,R
    1,R,J,G
    2,L,J
    3,R,J
    1,R,K,G
    4,R,J,G
-   5,R
+   6,R
    2,R,J
   11,R
-   5,L,X
-   5,R
-  30,D
-  10,L,G
-   1,J,G
-  37,R,K
-  15,R,U,X
+   5,L,D,X
+   1,K
+   5,L,K
+   7,L
+   4,L,K
+   8,L
+   1
+   4,L,G
+   1
+   1,J
+   1,L,K,G
+  23,R,K
+  15,R,U,Z
   15,U,C
-   1,L
-   7,J,G
    1,L,K,G
    4,R,K
-   7,L,K
+   6,L,K
    1,L,J,G
    4,L,K,G
    9,L
    1,L,J
-   7,L
+   8,L
    5,R,D,X
-  15
-  18,L,D
-  15,R,G
-   1,J,G
-  16,L,K
-   1,J
-   1,K,G
+   1,K
+   5,R
+   1,R,K
+  23,R,G
+   1
+   1,K
+   1,R,J,G
+  14,L,J
+   4,J
+   1,K
   22,R,K
   15,R,U,X
-   7,R
-   2
-   1,R
+  10,R
   13,L,K
   15,L,U,X
-  27,L
-  19,L,G
-  22,L,U,G
-   1,J,G
-   5,R,K
+   7,L
+  12,L,K,G
+   9,J,G
+  22,G
+   4,D,G
+   1
+   1,K
+   6,J,G
   15,R,D,X
    1,R
-  10,R,D
-   1,D
-  19,R,D
-   5,R,J
-   2,R
-  10,R,D,X
-   1,R,J,G
-  20,R
-   9,R,J
-  18,R,D,X
-   4,L,J
+  29,R,D
+  13,R,J
+   7,R
    4,R,J
-  16,R,U,X
-  22,R,J,G
-#if working on
-#subconsciousness
-#section, savestate here
-  15,R,K,G
-  13,R,J,G
-   1,K,G
-   4
+   1,R
+   6,R,J
+  12,R
+  11,R,J
+   6,R
+  18,U,X
+   1,R,J,G
+  10,R
+#-Subconsciousness
+  12,U,X
+  28,R,J
+   3,R,K,G
+  10,R
+   3,R,J
+  18,U,X
+   2,J,G
+   2
    5,R
+   2
    1,L
    6,L,J
-  18,U,X
-  15,R,J,G
-   7,R,K,G
-  10,R
-   3,R,J
-  18,U,X
-   1
-   1,R,J,G
-  10,R
-  15,R,J
-   6,K,G
-   1,L,K
-  15,R,J,G
-  18,U,X
-   1
-  15,L,J,G
+  19,U,X
+  24,L,J
+  14,K,G
+   1,J,G
+   1,R
   15,L,K,G
-   1,L,J,G
-   3,R,J
-   2,L,J
   10,L
    4,Z
    1,L,J
-   9,L
-   8,L,J
-   3,L,K,G
-   9,L,D,X
+   8,L
    1,L,J
-   1
-   9,L
-  25,L,J
+   8,L,K
+  12,L,Z
+   1,L,J
+   6,L
+   1,L,J
+   1,L
+   1,L,J
+  24,L,K
   18,U,X
-   7,L
+   6,L
   15,L,J,G
   15,L,K,G
   15,L,J,G
@@ -925,23 +1451,26 @@ console load StartupContest2021/1-Submissions/ZZ-HeartSide
   18,U,X
    1
   15,R,J,G
+  12,K,G
+   2
+   1,J,G
+   1,L,J
   15,R,K,G
-   1,R,J,G
-   5,L,J
-   7,R,J
-   1,J
-   1,R
-   1,R,K,G
-  10,R
-  16,R,Z
+   5,R
+   5
+   4,R,Z
+   1,R,J
+   9,R
    1,R,J
   15,R,K,G
   17,R,U,X
    2,R,J,G
-  14,R,K,G
+  19,R,K,G
+   7,J,G
+   1
    5,R
-   8,R,J,G
-  10,R
+   1
+   3,R
    9,R,J
   10,R,Z
    1,R,J
@@ -958,84 +1487,98 @@ console load StartupContest2021/1-Submissions/ZZ-HeartSide
    1,R,J
   17,R,D,X
    1,R,J
-  12,R,D,X
+   5,R
+   9,R,D,X
   40
 
 #lvl_startside_00
-   5,R,D,X
-  10,R,D,C
-   9,R,J
-   1,R
+   6,R,D,X
+  10,R,J
   15,R,U,X
-  14,R,U,C
-   1,R,J,G
-   2,L,J
-   2,R,J
-   7,R
+  15,R,U,C
+   9,R
    4,Z
    1,R,J
    7,R
-   6,R,J
-   2,R
+   7,R,J
   15,R,U,X
-  18,R
-   4
+   9,R
+   1,K
+   9,R
+   1,R,K
+   2,R
   10,L,X
   16,R,J
   15,R,X
-  21
-   1,J
+   4,K
+   8
+   1,K
+   1
+   1,K
+   3
+   5,J
    8,R,J
-   7,R
+   2,J
+   1,R,J
   15,R,U,X
   14,R,U,C
    1,R,J,G
    1,L
-   7,R
+   6,R
    4,Z
    1,R,J
-   7,R
-   3,R,J
-   2
+   1,R
+   1
+   4,R
+   1,R,J
+   3,R,K
+   2,R
   15,R,U,X
   12,U,C
    2,J
-  11
+   7
+   4,R
   10,R,D,X
    7,L,J
    2,L
    2,K,G
-   9,L,K
-  15,U,X
-   5,L
-  12,L,J,G
-   4,K,G
-   3,R,K
+  10,L,K
+  16,U,X
+  11,L,J,G
+   1
+   6,K,G
+   2,R,K
+   1,R
   10,L,Z
   10,R,J
   15,U,X
-   3
-   1,R
+   4
   15,U,X
-  18
+  10
    4,L
   10,R,X
   10,R,J
-   2,R
-  15,R,U,X
+   5,R
+  15,U,X
   15,R,U,C
-  31
-   4,R,J
-   5,J
+   9,R
+   7
+   4,R
+  11,R,J
+   1,R
+   4
   14,U,X
   18,L,J
-  12,L,K,G
-  11,L,J,G
+  12,K,G
+   1,L,J,G
+   3,J
+   1,R,J
+   1,L,J
    1,K
    2,J,G
-  17,R,J
+  24,R,J
   15,R,U,X
-  21,R
+  14,R
    3,R,J
    1,R
   15,U,X
@@ -1046,42 +1589,46 @@ console load StartupContest2021/1-Submissions/ZZ-HeartSide
    5,R,K,G
    1,R,J,G
   14,R,D,X
-   4,R,J
-  12,R,Z
    1,R,J
-   6,R
-   1,R,J
+   1,R
+   5,R,D,X
+   2,R,K,G
    5,R
-   1,R,J
-  14,R,U,X
-   3,R,J,G
-  10,R,X
-   4,R,J
-   9,R,K,G
-  15,U,X
-   1,L
-  15,U,X
-  10
-  12,L
-  14,L,J
-  15,U,X
-  15,U,C
-  11,L
-  21
-  12,J
-  15,U,X
-  15,U,C
-  20,L
-   2
-  10,R,X
-   5,R,J
+   1,R,K
    3,R
+   2,R,K
+   5,R
+  14,R,U,X
+   2,R,K,G
+   7,R
+   4,R,J
+   7,K,G
+   2,L,K
   15,U,X
   15,U,C
-  10,R
-   1,L,J
-   2,R,J
-   1,J
+  11
+   3,L
+  10,L,X
+  13,L,J
+  15,U,X
+  15,U,C
+  12,L
+   1,R
+   8
+  18,J
+  15,U,X
+  15,U,C
+  10
+   2
+   2,R
+  10,R,X
+  11,R,J
+   4,L,U,X
+  11,U,X
+   4,R,U,C
+  11,U,C
+  10
+   4,J
   15,U,X
    1
   15,U,X
@@ -1089,12 +1636,12 @@ console load StartupContest2021/1-Submissions/ZZ-HeartSide
    9,R,J
   11,R
    6,J
-   3,R,J
+   2,R,J
    1,J
-  15,U,X
-   1,L
    1,R,J
-   2,L,J
+  15,U,X
+   1
+   3,L,J
    1,L,K,G
   12,L,J,G
    2,L,K,G
@@ -1106,7 +1653,6 @@ console load StartupContest2021/1-Submissions/ZZ-HeartSide
 #lvl_startside_ending
   92
   15,U,X
-  31,U,C
-  40,U,X
-  77
-ChapterTime: 3:06.354(10962)
+  10,U,C
+ 135
+ChapterTime: 2:57.701(10453)
