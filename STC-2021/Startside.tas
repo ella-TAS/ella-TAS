@@ -1,4 +1,4 @@
-RecordCount: 7829
+RecordCount: 8119
 console load StartupContest2021/1-Submissions/ZZ-HeartSide
 
 #Start
@@ -784,33 +784,26 @@ console load StartupContest2021/1-Submissions/ZZ-HeartSide
   19,R
    1,R,G
    2
-  28,R,G
-   2,D,G
-   2,G
-   1,U,G
-   7,R
-   9,R,K
-  18,R
+  18,R,G
    1
-   4,R
-  17,R,D
-   1,R
-   1,R,D
-   1,R
-   5,R,D
+   1,R,K,G
+   1
+   6,R
+  12,R,K
+  18,R,D
+   8,D
+  21,R,D
    3,R
    1,R,K
-   8,R
+   9,R
   14,R,X
   31
    4,R,J
    1,R,K
-  18,R
-   1,R,D
+  21,R
+   5,R,D
    1,R
    1,R,D
-   1,R
-   6,R,D
   12,R,J
    5,R
   10,R,J
@@ -1670,4 +1663,4 @@ console load StartupContest2021/1-Submissions/ZZ-HeartSide
   15,U,X
   10,U,C
  135
-ChapterTime: 2:57.344(10432)
+ChapterTime: 2:57.174(10422)
