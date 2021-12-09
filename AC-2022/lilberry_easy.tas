@@ -1,0 +1,199 @@
+RecordCount: 496
+
+console load AnarchyCollab2022/LilBerry/DreamTemple
+   1
+
+#Start
+#lvl_lvl-01
+ 190
+   4,Z
+   1,R,J
+   7,R
+   7,R,J
+  15,R,D,X
+  12,R,J
+  12,R,D,X
+  43
+
+#lvl_lvl-02
+   3,R
+   8,R,J
+  40,R,X
+   4,R,J
+  12,R,K
+  15,R,D,X
+   1,R,J
+  14,R,D,C
+   7,R,J
+  44,R,X
+   4,R,J
+  12,R,K
+  15,R,D,X
+   1,R,J
+  14,R,D,C
+   1,R,J
+   8,R,D,X
+  40
+
+#lvl_lvl-03
+   4,R
+   3,R,J
+  13,R,U,X
+  35,C
+  15,U,X
+  37,C
+***
+  14,L,U,X
+  61,C
+   1,R,J
+  15,R,D,X
+  40
+
+#lvl_lvl-04
+  22,D
+   2,R,D
+***
+  10,R,D,X
+   1,R,J
+   6,R
+   1,R,K
+  10,R
+  13,R,Z
+  46,U,X
+  40
+
+#lvl_lvl-05
+  11,R
+  10,R,D,X
+   1,R,J
+   7,R
+   1,R,J
+  10,R,D,X
+  40
+
+#lvl_lvl-06
+   4,R
+   1,R,J
+  14,R,D,X
+   1,R,J
+   2,R
+   4,R,K
+  18,R,U,X
+  33,R,C
+   4,R,J
+  11,R,K
+  15,R,D,X
+   9,R
+   1,R,J
+  14,R,D,X
+   1,R,J
+  13,R,D,X
+  40
+
+#lvl_lvl-07
+   1,R
+   1,R,J
+  10,R,D,X
+   1,R,J
+   7,R
+   6,R,J
+   6,R
+  25,R,X
+  17,R,D
+  22,R,Z
+  19,R,X
+   4,R,J
+  14,R,K
+ 253,R,X
+   4,R,J
+  20,R,K
+  15,R,D,X
+   6,R
+   1,R,J
+   6,R,D,X
+   1,R,J
+   7,R
+   1,R,J
+   5,R,D,X
+   1,R,J
+   5,R
+  40
+
+#lvl_lvl-08
+   2,R
+  14,R,J
+  63,U,X
+   8,R,C
+   8,R,J
+  28,R,K
+  14,R,Z
+   1,R,J
+   4,R
+  40
+
+#lvl_lvl-09
+   3,R
+  14,R,J
+  21,U,X
+  35,U,C
+  29,X
+  13,R,J
+  13,R,X
+  24,C
+   1,L
+  21,L,X
+  23,L,C
+   4,L,J
+   2,L,K
+   1,K
+  18,L,U,X
+  21,U,C
+   5,R
+  41,R,X
+  27,U,C
+  21,U,X
+  23,R
+   1,R,J,G
+   1,L
+   6,R
+   6,R,Z
+   1,R,J
+   7,R
+  40
+
+#lvl_lvl-10
+  19,R,J
+  16,R,X
+  48,R,C
+   8,R,J
+  24,R,K
+  14,R,U,X
+  27,C
+  17,R,J
+  20,R,U,X
+   4,R,J
+   1,R,K
+   4,R
+  19,D,X
+  16,R,D,C
+  50,X
+  15,R,D,C
+  17,R,D
+   6,R,Z
+   1,R,J
+   7,R
+   1,R,J
+   8,R,D,X
+  40
+
+#lvl_lvl-end
+   6,R
+   1,R,J
+   7,R
+   6,R,J
+  14,R,U,Z
+ 125,L,D
+   1,Z
+   9,L,J
+
+ChapterTime: 0:40.477(2381)

@@ -1,0 +1,40 @@
+RecordCount: 95
+
+console load AnarchyCollab2022/GMBoxer/placeholderName99
+   1
+
+#Start
+#lvl_a1
+ 190
+   4,X
+  11,L,J
+   8,L
+   1,R,J
+  14,L,J
+  17,U,X
+   1,L,J
+  11,L
+  12
+   4,Z
+   1,L,J
+  12,L,D
+   5,L,J
+  40
+
+#lvl_a2
+   7,L,J
+  22,L,D
+   5
+   1,D
+   1,G
+  20,L,J,G
+  10,U,X
+  27,L,J
+  16,L
+   1,L,D
+   1,L
+   1,L,D
+   4,Z
+   1,L,J
+   6,L
+  90,L,J
