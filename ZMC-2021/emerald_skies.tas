@@ -1,11 +1,10 @@
-RecordCount: 1364
+RecordCount: 1969
 console load ZipMoverContest2021/1-Lobby/mmm
    1
 
 #Start
- 108
-
 #lvl_00
+ 108
    4,R
    1,R,J
    4,R
@@ -248,5 +247,165 @@ console load ZipMoverContest2021/1-Lobby/mmm
   40
 
 #lvl_06
+  17,R
    1,R,J
-  14,R
+   4,L,J
+  41,L,G
+   2
+   1,K,G
+   1,J,G
+   1,L,K,G
+   3,R,K
+   9,R
+   1,R,K
+  25,R,D
+   2,R,J
+   3,R,K,G
+   1
+   2,K
+   2,R,K
+   1,R
+   7,R,K
+   1,R,J,G
+   1,R,K,G
+   1,K
+  10,K
+   4
+   3,R
+   1,R,D,J
+   9,R,J
+   5,R
+   1,R,K
+  13,R
+   3,R,J
+  11,R
+   1,J
+  40
+
+#lvl_07
+   1,J
+  18,D
+   7,R,D
+   3,R
+   3
+   3,D
+   1,R,J,G
+   7,R
+   1,R,J
+   8,R,G
+  12,R,J,G
+   4,K,G
+  18,L,G
+   1
+   1,K
+   1,L,J,G
+  19,R
+   5,R,D,J
+  11,R
+   6,R,J
+   1,R
+  40
+
+#lvl_08
+   6,R
+   3,R,D,J
+  12,R
+  30,R,J
+   1,G
+  20,D
+  21,R,D
+   1,L,D
+   1,D
+   1,L,D
+   5,D
+   2,R,D
+   3,R,D,J
+   3,R
+   6,R,J
+   2,R
+   7,R,D
+   2,R,J
+   3,R
+   2,R,J
+   3,R
+   2,R,J
+   1,R,K,G
+  11,R
+   6,R,D
+   2,R,J
+   3,R
+   2,R,J
+   3,R
+   2,R,J
+   4,R,K,G
+   5,R,J,G
+   7,R
+   1,R,J
+   2,R
+   1,R,K,G
+   6,R
+   1,R,K
+   1,R,J,G
+   8,R
+  40
+
+#lvl_09
+   3,R
+   1,R,J
+   4,R,K,G
+   5,R
+   2,R,K
+  15,R,J,G
+   7,R,K,G
+  10,R
+   1,J
+   5
+   1,L,D
+   8,R,D
+   1,J
+   4,R
+   5,R,J
+   1,R
+   7,R,D
+   7,R,J
+   5,R
+  11,R,J
+  50,R,K
+   9,R,D
+  12,R,J
+   2,R,K,G
+   5
+   2,K
+   3,R,J,G
+   1,R,K,G
+  11,R
+  40
+
+#lvl_10
+   5,R
+   2,R,J
+   9,R
+   1,R,K
+   3,R
+   2,R,J,G
+   7,R
+   1,R,K,G
+   8,R
+   8,L
+   1,J
+  12,R
+   2
+   8,L,G
+   4,L,J,G
+   1,K
+   1,J,G
+   1,L,K,G
+  16,R,J
+   4,X
+  48,R,D,X
+   2,D
+   1,R,J,G
+   1,R,K,G
+  83,R,J,G
+
+ChapterTime: 0:40.069(2357)
