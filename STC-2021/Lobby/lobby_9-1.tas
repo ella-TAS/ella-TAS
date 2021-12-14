@@ -1,27 +1,27 @@
 console load StartupContest2021/0-Lobbies/1-Submissions -56 1728
-  37
+   1
 
 #Start
-   4,R,Z
+  36
+   4,Z
    1,R,J
    1,R
    2,R,K,G
-   7,R
-  10,R,D,X
-   5,R,J
-   6,R,K,G
+  11,R
+   1,R,J
+   6,R
+   1,R,K
    4,R,J,G
-  53,R,D,X
-  14,R,D,C
+   1,R
+   4,R,J,G
+  21,R,D,X
+   1,L,D
+  31,R,D
+  14,R,D,X
    1,R,J
    7,R
    1,R,J
    1,R
   15,R,D,C
    1,X
-  20
-   1,J
-  30
-   1,J
-  46
-#0:02.006(118)
+#0:01.989(117)

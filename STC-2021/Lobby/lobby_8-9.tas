@@ -1,7 +1,9 @@
 console load StartupContest2021/0-Lobbies/1-Submissions 384 1576
-  37
+   1
 
 #Start
+  36
+***S
    4,L,Z
    1,L,J
    7,L
@@ -22,9 +24,4 @@ console load StartupContest2021/0-Lobbies/1-Submissions 384 1576
    1,L,J
   13,L
    1,X
-  20
-   1,J
-  30
-   1,J
-  46
-#0:01.904(112)
+#0:01.921(113)
