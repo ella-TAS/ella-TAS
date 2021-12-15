@@ -388,31 +388,25 @@ console load StartupContest2021/1-Submissions/asri
   25,L
    3
    8,L
-  10,L,J
-  27,L
+  11,L,J
+  24,L
   11,L,D
-  43,D
-   1,R,D
+   1
    1,D
-   2,R
-   2,R,D
-   1,R
-   1,K
-   3,J,G
-   5,L,J
-   6,L
-   1,L,J
-   1,L
-   3,L,J
-   5,L
-   4,D
-  18,L,K
+   1,L,D
+  46,L
+   4,L,D
+  12,L,K
+   6,K
+   1
    1,L,J,G
    2,R,J
-   2,L,J
+   1,L,J
+   1,J
+   1
    3,K,G
-   5,L,K
-   3,L
+   6,L,K
+   2,L
    1,L,J,G
    1,L,K,G
    1,L
@@ -519,22 +513,29 @@ console load StartupContest2021/1-Submissions/asri
   32,L
   21,R
   23
-  36,D
+  31,D
+   5
   89
   15,D
    6,R,D
-  37,L,D
-  15
+  35,L,D
+   1,L
+  13
   77,L
   19
-  32,D
+  14,D
+   1
+   1,D
+   1
+  11,D
+   1
+   4,R,D
   26
    5,D
   29
    5,D
-   1,L
    1
-  14,L
+  15,L
   12,L,J
   13,L
    7,L,J
@@ -548,29 +549,37 @@ console load StartupContest2021/1-Submissions/asri
    1,L,J
   36,L
   13
-  59
-   1,D
-   5,L,D
-   2,L
+  57
+   1,L
+   1
+   2,D
+   4,L,D
+   1,L
    2,L,D
-  33,L
-  63
+   1,L
+   1,L,D
+  31,L
+  15
+   2,L
+  45
   10,D
-   6,L,D
-  41,D
-   8,L,D
-   1,D
    1,L,D
    1,D
    4,L,D
-  59,L
-  48
-   3,D
-   5,L,D
-   1,D
-   1,L,D
+   2,D
+  36
    1,L
-   2,L,D
+   3
+  18,L,D
+  55,L
+  36
+   1,R
+  11
+   1,R,D
+   1,D
+   1,R,D
+   1,D
+   9,L,D
   17,L
    1
    1,L,K,G
@@ -605,4 +614,4 @@ console load StartupContest2021/1-Submissions/asri
   10,J
   15,L,U,X
  135
-ChapterTime: 1:10.550(4150)
+ChapterTime: 1:10.091(4123)
