@@ -1,4 +1,4 @@
-RecordCount: 4506
+RecordCount: 4542
 console load StartupContest2021/1-Submissions/elissv
    1
 
@@ -47,13 +47,12 @@ console load StartupContest2021/1-Submissions/elissv
    3,R
    4,R,J
   15,R,D,X
-  19,R
-  15,D,X
-   1,R
-   1
-   2,L
-  14,L,J
-   1,J
+  16,R
+   7,L
+  10,R,X
+   7,L,J
+   8,J
+   3,L,J
   14,U,X
    1,J
    1,D
@@ -375,4 +374,4 @@ console load StartupContest2021/1-Submissions/elissv
   23,R,K,G
   15,R,U,X
  135
-ChapterTime: 0:44.319(2607)
+ChapterTime: 0:44.285(2605)
