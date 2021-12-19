@@ -1,4 +1,4 @@
-RecordCount: 6163
+RecordCount: 6216
 console load StartupContest2021/1-Submissions/skillsharekirby
    1
 
@@ -463,7 +463,7 @@ console load StartupContest2021/1-Submissions/skillsharekirby
    5,G
    1,D,G
  109,G
-   9,U,G
+   8,U,G
    8,G
    1,D,G
    1,G
@@ -472,41 +472,35 @@ console load StartupContest2021/1-Submissions/skillsharekirby
    1
    6,G
    1
-   6,G
-   1
    3,G
-   5,R,D,X
+   5,R,Z
    1,R,K,G
    1,R,J,G
    1,R,K,G
    1,R,J,G
-   5,R
-   1,S
-   1,O
-   9,K
-   1,R,K
-   2,R
-   1,R,D
-   3,R
-   3,R,D,J
+  10,R
+   3,R,D,K
    6,R
   14,R,U,X
    1,R,K,G
-  13,R
-   1
-   3,R,K
+   2,R
+   2
+   9,R
+   1,R,K
+   3,R
   15,R,D,X
    6,R
-   3,R,J
-   4,R,K,G
-   3,R
+   4,R,J
+   3,R,K,G
+   4,R
   40
 
 #lvl_Save for later
   15,R,D,X
-   4,R
+   2,R
+   2
    1,R,J
-   8,R,D,X
+   9,R,D,X
    1,R,J
    7,R
   18,R,J
@@ -591,10 +585,10 @@ console load StartupContest2021/1-Submissions/skillsharekirby
    1
    6,G
    1
-   6,G
-   1
    4,G
-   5,R,X
+   1
+   3,G
+   5,R,Z
    1,R,K,G
    1,R,J,G
    1,R,K,G
@@ -607,8 +601,8 @@ console load StartupContest2021/1-Submissions/skillsharekirby
    4,R,J
    5,R
    2,R,J
-   7,R
-   4
+   9,R
+   2
    1,R,K
    9,R,D,X
   40
@@ -616,7 +610,7 @@ console load StartupContest2021/1-Submissions/skillsharekirby
 #lvl_8
    5,R,D,X
    1,L,K
-   7,R,Z
+   6,R,Z
    1,R,J
    7,R
    5,R,J
@@ -626,16 +620,16 @@ console load StartupContest2021/1-Submissions/skillsharekirby
    4,L,J
    1
    1,R,J,G
-   7,R
+   8,R
   10,R,J
    2,R
   15,R,X
   15,R
    1,R,K
-   4,R
+   3,R
    1
    4,R
-  85
+  86
    4,R
    3
    1,R
@@ -693,4 +687,4 @@ console load StartupContest2021/1-Submissions/skillsharekirby
   10,R,K
   14,R,U,X
  135
-ChapterTime: 1:33.466(5498)
+ChapterTime: 1:33.092(5476)
