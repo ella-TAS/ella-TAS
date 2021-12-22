@@ -1,0 +1,39 @@
+console load DadCollab2018/0-Lobbies/1-DadCollab2018
+   1
+
+#Start
+#lvl_Lobby-1
+  61
+   3,L,D
+   3
+   3,R,D
+   3
+   2,L,D
+   1
+   5,L,Z
+   1,R,J
+   7,R
+   3,R,J
+   5,R,D,X
+   1,R,K,G
+  11,R
+   1,R,J
+   9,R,D,X
+   1,S
+   1,D,J
+  34
+   1,R,J
+  17,R
+  40
+
+#lvl_Lobby-2
+  24,R,D,X
+   3,R,J
+  15,R,D,X
+   1,R,J
+  22,R,D,C
+   1,X
+  20
+   1,J
+  46
+#0:03.400(200)
