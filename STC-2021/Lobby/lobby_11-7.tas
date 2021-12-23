@@ -1,0 +1,33 @@
+console load StartupContest2021/0-Lobbies/1-Submissions 384 1160
+   1
+
+#Start
+  36
+   8,R,Z
+   1,R,J
+   3,R
+   1,R,K
+   3,R
+   6,R,J
+   2,R
+   1,R,K,G
+   1
+   9,R,U,X
+   4,R,J,G
+   1,R
+   1,R,K,G
+   3,R
+   2
+  15,R,D,X
+   9,D
+  39,R,D
+   6,D
+  14,R,D,X
+   1,R,J
+  19,R,D,X
+   2,R,J
+  15,R,D,C
+   3,R,J
+  15,R,D,C
+   1,X
+#0:02.788(164)
