@@ -1,0 +1,97 @@
+unsafe
+Set,DisableScreenShake,true
+Set,DisableFlashes,true
+Set,SpeedrunClock,2
+console titlescreen
+   2
+   1,J
+  94
+   1,J
+  56
+   1,D
+   1,F,180
+   1,D
+   1,F,180
+   1,D
+   1,F,180
+   1,D
+   1,F,180
+   1,D
+   1,F,180
+   1,D
+   1,F,180
+   1,D
+   1,F,180
+   1,D
+   1,F,180
+   1,D
+   1,F,180
+   1,D
+   1,F,180
+   1,D
+   1,F,180
+   1,D
+   1,F,180
+   1,D
+   1,F,180
+   1,D
+   1,F,180
+   1,D
+   1,F,180
+   1,J
+  14,L
+   1,D
+   1,F,180
+   1,D
+   1,F,180
+   1,L
+   1,U
+   1,F,
+   1,U
+   1,J
+#rename
+  41
+
+   1,R
+   1,D
+   1,R
+   1,F,90
+   1,R
+   1,J
+
+   1,L
+   1,D
+   1,L
+   1,F,270
+   1,L
+   1,F,270
+   1,L
+   1,J
+
+   1,U
+   1,L
+   1,J
+   1,O
+   1,J
+   1,O
+   1,J
+   1,O
+   1,J
+   1,O
+   1,J
+
+   1,L
+   1,F,270
+   1,J
+
+   1,D
+   1,F,180
+   1,D
+   1,F,180
+   1,R
+   1,J
+
+  48
+   1,U
+   1,J
+   1
