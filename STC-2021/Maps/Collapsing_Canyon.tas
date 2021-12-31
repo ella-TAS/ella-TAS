@@ -1,4 +1,4 @@
-RecordCount: 1361
+RecordCount: 1599
 console load StartupContest2021/1-Submissions/twoday
    1
 
@@ -281,17 +281,23 @@ console load StartupContest2021/1-Submissions/twoday
   17,L,D
   14,R,D
   15,R,Z
-  12,G
-   1
-   1,K
-   4,R,J,G
-   4,R
+   1,G
+   1,L,J
+   3,L,K
+   7,L
+   2,L,K
    1,L
-   5,L,J
-  15,R,D,Z
-  15,R,X
-  24,R,D
-   5,D
+   2,L,K
+   7,L
+  14,R,Z
+   1,R,K
+***s
+  12,R,X
+   1,R,K
+   2,R
+   1,R,K
+   5,R,D
+  18,L,D
   15,L,D,X
    9,L,C
   20,L,D,X
@@ -333,4 +339,4 @@ console load StartupContest2021/1-Submissions/twoday
    4,R,K,G
   14,R,U,X
  135
-ChapterTime: 0:51.612(3036)
+ChapterTime: 0:51.459(3027)
