@@ -127,11 +127,12 @@ console load Mika/Mines/1-Mines
    6,L,J
   12,L,K
   14,U,Z
-  15,L,J
+   1,L,K
+  14,U,X
   40
 
 #lvl_a_06
-  12,K,G
+  12,L,K,G
    5,J,G
   14,U,X
   14
@@ -253,7 +254,6 @@ console load Mika/Mines/1-Mines
    1,R,J,G
    1,R,K,G
    7,R
-  12,R,U,X
+  11,R,U,X
  135
-
-ChapterTime: 0:38.267(2251)
+ChapterTime: 0:38.216(2248)
