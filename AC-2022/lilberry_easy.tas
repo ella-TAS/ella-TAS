@@ -1,7 +1,7 @@
 RecordCount: 556
 #WARNING
 #this erases your save
-console clrsav
+#console clrsav
 console load AnarchyCollab2022/LilBerry/DreamTemple
    1
 
