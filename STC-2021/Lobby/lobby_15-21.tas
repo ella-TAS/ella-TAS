@@ -17,7 +17,7 @@ console load StartupContest2021/0-Lobbies/1-Submissions 1656 792
   14,R,D,X
    1,R,J
   48,R,D,X
-#0:01.921 ding
+#0:01.921(113)
    4,R,D
    3,R
    1
@@ -34,4 +34,3 @@ console load StartupContest2021/0-Lobbies/1-Submissions 1656 792
   15,R,D,X
   12,R
    1,X
-#0:07.667(451)
