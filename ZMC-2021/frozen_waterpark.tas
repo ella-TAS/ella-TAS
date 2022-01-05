@@ -1,4 +1,4 @@
-RecordCount: 1066
+RecordCount: 1198
 
 console load ZipMoverContest2021/1-Lobby/scribblesthejanklord
    1
@@ -233,6 +233,48 @@ console load ZipMoverContest2021/1-Lobby/scribblesthejanklord
   11,R,D
   10,R,X
   11,R,J
-   8,R
-  15,D,X
- 100
+   4,R
+   4,L
+   5,L,J
+  11,L
+   6
+   4,L
+  10,L,D,X
+  16,L,J
+  15,U,X
+  15,R,U,C
+  14,L
+  36,R,D
+  10,R,D,X
+   1,R,J
+   5,R
+   2,R,K
+  20,R
+  12,U,X
+  14,R,J
+  31,R,D
+  15,R,Z
+   5,L
+  11,L,J,G
+  38,R,K
+   1,G
+   1,J,G
+   1,R,K,G
+   3,L,K
+   4,R,K
+  75,R
+   1,J
+   4,L
+   4
+   2,R,K
+   5,D
+  14,L,Z
+   1,R,J
+   6,R
+   1,R,J
+   5,R,D,X
+   1,R,J
+   7,R
+   1,R,J
+   7,R
+  40
