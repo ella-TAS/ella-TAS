@@ -1,4 +1,4 @@
-RecordCount: 1969
+RecordCount: 2135
 console load ZipMoverContest2021/1-Lobby/mmm
    1
 
@@ -158,15 +158,17 @@ console load ZipMoverContest2021/1-Lobby/mmm
    3,R,J
    3,R
    3,R,J
-   3,R
+   3
    6,R,D
-   2,R,J
-   1,R
-   2
-   2,R,J
-   9,R,D
-   2,R,J
-   3,R
+   1,R,J
+   1,J
+   2,R
+   1
+   6,D
+   1,R,J
+   1,J
+   1
+   2,R
    2,R,J
    3,R
    2,R,J
@@ -174,11 +176,11 @@ console load ZipMoverContest2021/1-Lobby/mmm
 
 #lvl_04
    4,R,J
-   4,R,D
+   5,R,D
    1,L,D
    1,D
    1,L,D
-   7,D
+   6,D
   11,R,D
    1,R
    1,R,J
@@ -408,4 +410,4 @@ console load ZipMoverContest2021/1-Lobby/mmm
    1,R,K,G
   83,R,J,G
 
-ChapterTime: 0:40.069(2357)
+ChapterTime: 0:39.984(2352)
