@@ -67,7 +67,7 @@ read LoadRestart
 read lobby-0-14 Start
 #any% ends here
 
-read LoadReenter
+read LoadReenter Start
 read gemstone_caverns
    1,X
   68
