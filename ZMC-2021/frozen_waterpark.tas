@@ -1,4 +1,4 @@
-RecordCount: 2540
+RecordCount: 2613
 #By Mika, tntfalle, abiteofdata
 
 console load ZipMoverContest2021/1-Lobby/scribblesthejanklord
@@ -197,7 +197,7 @@ console load ZipMoverContest2021/1-Lobby/scribblesthejanklord
   23,R,J
   37,L,J
    7,D,G
-  38,G
+  58,G
    6,D,G
    2,G
    1
@@ -205,14 +205,16 @@ console load ZipMoverContest2021/1-Lobby/scribblesthejanklord
    1,L,J,G
    6,R,J
    5,R
-   7,R,J
-  27,R,Z
-  13,R,X
-  11,R,J
-   5,R
-   6
+   3,R,J
+   3,R
    1,R,J
-  15,R
+   7,R
+  11,R,D,J
+   5,L
+   7,L,J
+   1,R,J
+  15,D,X
+   2,R
   10,L,D,X
   12,L,J
    1,R,K,G
@@ -245,7 +247,7 @@ console load ZipMoverContest2021/1-Lobby/scribblesthejanklord
    3,L,K
    4,R,K
   51,R
-   4
+   6
    1,J
    4,L
    4
@@ -436,4 +438,4 @@ console load ZipMoverContest2021/1-Lobby/scribblesthejanklord
   14,R,U,C
  135
 
-ChapterTime: 0:49.317(2901)
+ChapterTime: 0:49.232(2896)
