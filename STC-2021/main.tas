@@ -1,0 +1,118 @@
+read start
+
+read Lobby/lobby_0-12 Start
+read LoadEnter Start
+read Maps/Electric_Aurora Start
+  33,X
+
+read Lobby/lobby_12-7 Start
+read LoadEnter Start
+read Maps/Collapsing_Canyon Start
+  33,X
+
+read Lobby/lobby_7-6 Start
+read LoadEnter Short Start
+read Maps/AEIF Start
+  33,X
+
+read Lobby/lobby_6-5 Start
+read LoadEnter Start
+read Maps/Dream_Booster_Temple Start
+  33,X
+
+read Lobby/lobby_5-4 Start
+read LoadEnter Start
+read Maps/Basaltic_Beach Start
+  33,X
+
+read Lobby/lobby_4-3 Start
+read LoadEnter Start
+read Maps/Subconsciousness Start
+  33,X
+
+read Lobby/lobby_3-2 Start
+read LoadEnter Short Start
+read Maps/Move_Block_Grotto Start
+  33,X
+
+read Lobby/lobby_2-1 Start
+read LoadEnter Start
+read Maps/Mechanized_Horizon Start
+  33,X
+
+read Lobby/lobby_1-9 Start
+read LoadEnter Short Start
+read Maps/Curious_Crater Start
+  33,X
+
+read Lobby/lobby_9-8 Start
+read LoadEnter Start
+read Maps/Ruby_Cliffs Start
+  33,X
+
+read Lobby/lobby_8-10 Start
+read LoadEnter Start
+read Maps/Grassy_Springs Start
+  33,X
+
+read Lobby/lobby_10-11 Start
+read LoadEnter Start
+read Maps/Bubble_Wrap_Temple Start
+  33,X
+
+read Lobby/lobby_11-13 Start
+read LoadEnter Start
+read Maps/Altes_Celida Start
+  33,X
+
+read Lobby/lobby_13-14 Start
+read LoadEnter Start
+read Maps/Verdant_City Start
+  33,X
+
+read Lobby/lobby_14-20 Start
+read LoadEnter Short Start
+read Maps/Fallen_Memories Start
+  33,X
+
+read Lobby/lobby_20-19 Start
+read LoadEnter Start
+read Maps/TSCM Start
+  33,X
+
+read Lobby/lobby_19-18 Start
+read LoadEnter Start
+read Maps/Lillys_Lake Start
+  33,X
+
+read Lobby/lobby_18-17 Start
+read LoadEnter Start
+read Maps/Hostile_Trail Start
+  33,X
+
+read Lobby/lobby_17-15 Start
+read LoadEnter Start
+read Maps/Serenity Start
+  33,X
+
+read Lobby/lobby_15-16 Start
+read LoadEnter Short Start
+read Maps/Strange_Sleepwalk Start
+  33,X
+
+read Lobby/lobby_16-21 Start
+read LoadEnter Start
+read Maps/Startside Start
+#any% ends here
+
+read LoadReenter Start
+read Maps/How_To_Play_Celeste
+  69,X
+
+read Maps/Light_Breeze
+  69,X
+
+read Maps/Vacuum_Facility
+  69,X
+
+read LoadJournal Start
