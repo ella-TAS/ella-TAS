@@ -1,4 +1,4 @@
-RecordCount: 2169
+RecordCount: 2540
 #By Mika, tntfalle, abiteofdata
 
 console load ZipMoverContest2021/1-Lobby/scribblesthejanklord
@@ -29,22 +29,14 @@ console load ZipMoverContest2021/1-Lobby/scribblesthejanklord
    1,R,K,G
    1,R,J,G
    2,R,K,G
-  10,R,J,G
-  10,R
-  44,R,U,X
-  15
-   1,R
-   3
-   1,R
-   1
-   1,R
-  61
-   1,R,J
-   2,R
-   6
+  26,R,J,G
+  16,R,X
+   8,R
+  90
+   1,J
+   8
    2,J
-   1
-   4,R
+   5
   14,L,Z
    1,R,J
    6,R
@@ -54,7 +46,6 @@ console load ZipMoverContest2021/1-Lobby/scribblesthejanklord
    7,R
    5,R,J
   40
-
 
 #lvl_Frozen waterpark-02
    5,R,J
@@ -386,55 +377,45 @@ console load ZipMoverContest2021/1-Lobby/scribblesthejanklord
    6,R
    1,R,J
    7,R,D,X
-   1,R,J
-   3
-   4,R
-   1,J
-   3,J
-   1,R,J
+   2,R,J
+   1,R
+   2,R,J
+   7,R,D
   40
 
 #lvl_Frozen waterpark-05
-   2,R
+   4,R,D,J
+   6,R
+   1,R,J
+   1,R
   15,R,Z
-  10,L
-  14,L,D,X
-   3,R,J
-  21,R,U,Z
-  15,U,X
+   8,R,U,X
+   8
   13,L,U,C
    1,L,J,G
-#more speed
-#  28,U,G
-#  13,L,J,G
-#   1,K
-#   1,L,J,G
-#   5,R,J
-#  90,R
-#-----
-  27,U,G
-  13,L,J,G
+  25,U,G
+   1,L,J,G
+  11,J
+   2,R
    1,K
    1,L,J,G
    4,R,J
   13,R
    1,R,J
+   3,R
+  13,R,U,X
+  11,R,J,G
+   8,R
+   2,R,J
    5,R
-   1,R,K
-  12,R,U,X
-   2,R,J,G
-   4,J
-   3,R,J
+   1
    4,R
-   9,R,J
-   7,R
-   1,L,J,G
-  23,R,J
-   1,R
-  12,U,X
-  20,R,J
-   1,R,K,G
-   1,R,J,G
+   3,R,J,G
+   7,J
+  15,U,X
+  18,R,J
+   2,R,K,G
+   2,R,J,G
    1,L
    6,R
    6,R,Z
@@ -455,4 +436,4 @@ console load ZipMoverContest2021/1-Lobby/scribblesthejanklord
   14,R,U,C
  135
 
-ChapterTime: 0:50.201(2953)
+ChapterTime: 0:49.317(2901)
