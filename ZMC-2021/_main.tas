@@ -2,63 +2,51 @@ read _start
 
 read lobby-0-13 Start
 read ziptied_puffers Start
-   1,X
-  68
+   33,X
 
 read lobby-13-1 Start
 read rushed_zips Start
-   1,X
-  68
+   33,X
 
 read lobby-1-2 Start
 read subliminal_garden Start
-   1,X
-  68
+   33,X
 
 read lobby-2-3 Start
 read zipping_in_space Start
-   1,X
-  68
+   33,X
 
 read lobby-3-4 Start
 read definitely_not_dedication Start
-   1,X
-  68
+   33,X
 
 read lobby-4-5 Start
 read emerald_skies Start
-   1,X
-  68
+   33,X
 
 read lobby-5-12 Start
 read spring_and_a_storm Start
-   1,X
-  68
+   33,X
 
 read lobby-12-6 Start
 read zip_mover_ascent Start
-   1,X
-  68
+   33,X
 
 read lobby-6-10 Start
 read ashen_city Start
-   1,X
-  68
+   33,X
 
 read lobby-10-11 Start
 read dungeon_of_tortured_souls Start
-   1,X
-  68
+   33,X
 
 read lobby-11-9 Start
 read forsaken_city_two Start
-   1,X
-  68
+   33,X
 
 read lobby-9-7 Start
 read aquatic_metropolis Start
-   1,X
-  68
+   33,X
 
 read lobby-7-8 Start
 read frozen_waterpark Start
@@ -69,7 +57,6 @@ read lobby-0-14 Start
 
 read LoadReenter Start
 read gemstone_caverns
-   1,X
-  68
+   69,X
 
 read LoadJournal Start
