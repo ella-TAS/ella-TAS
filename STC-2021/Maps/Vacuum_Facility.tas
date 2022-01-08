@@ -1,4 +1,4 @@
-RecordCount: 801
+RecordCount: 845
 console load StartupContest2021/1-Submissions/toneblock
    1
 
@@ -57,10 +57,11 @@ console load StartupContest2021/1-Submissions/toneblock
    5,R,K,G
    8
    1,K
-  32
+   6
+  26
   40
 
-#lvl_1
+#lvl_1 -6f
   17
    6,R
    2,R,J
@@ -116,9 +117,11 @@ console load StartupContest2021/1-Submissions/toneblock
    1,J
   25
    1,K
-  24
-   1,R,J
-  14,R
+   1,J,G
+   3,K
+   6
+  22,K
+   1,R
    1,G
    5,L
    7,R
@@ -164,6 +167,5 @@ console load StartupContest2021/1-Submissions/toneblock
    1,J
   71
   13,U,C
-
  135
-ChapterTime: 0:24.055(1415)
+ChapterTime: 0:23.953(1409)
