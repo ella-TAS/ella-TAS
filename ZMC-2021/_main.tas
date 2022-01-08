@@ -49,8 +49,10 @@ read aquatic_metropolis Start
   68
 read lobby-7-8 Start
 read frozen_waterpark Start
-  69,X
+   1,X
+  68
    1,Q
    1,J
- 900
+  31
 read lobby-0-14
+read LoadJournal
