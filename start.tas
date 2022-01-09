@@ -1,0 +1,90 @@
+#created by tntfalle
+
+
+unsafe
+
+#-----
+#1 - IL timer
+#2 - file timer
+Set,SpeedrunClock,2
+#-----
+
+Set,DisableScreenShake,true
+Set,DisableFlashes,true
+console titlescreen
+   2
+   1,J
+  94
+   1,J
+  56
+   1,D
+   1,F,180
+   1,D
+   1,F,180
+   1,D
+   1,F,180
+   1,D
+   1,F,180
+   1,D
+   1,F,180
+   1,D
+   1,F,180
+   1,D
+   1,F,180
+   1,D
+   1,F,180
+   1,D
+   1,F,180
+   1,D
+   1,F,180
+   1,D
+   1,F,180
+   1,D
+   1,F,180
+   1,D
+   1,F,180
+   1,D
+   1,F,180
+   1,D
+   1,F,180
+   1,J
+  14,L
+   1,D
+   1,F,180
+   1,D
+   1,F,180
+
+
+#disable all unnecessary mods and
+#select the correct mod here
+#-----
+
+   1,L
+
+#-----
+
+
+   1,U
+   1,F,
+   1,U
+   1,J
+  41
+
+
+#choose a file name and
+#end on the confirm button
+#-----
+
+   1,J
+   1,D
+   1,L
+   1,D
+   1,J
+
+#-----
+
+
+  48
+   1,U
+   1,J
+   1
