@@ -1,4 +1,4 @@
-RecordCount: 1257
+RecordCount: 1430
 console load ZipMoverContest2021/1-Lobby/phant
    1
 
@@ -62,17 +62,29 @@ console load ZipMoverContest2021/1-Lobby/phant
    8,R,D
    3,R
    2,R,D
-   2,R
+   2
   15,R,X
+   4,R
+   1,R,J
+   1,R
+   3
+  14,L,D,X
+   4,R,K
+   8,J,G
+   5,L,J
+   6,J
+   3,L
+   2
+  15,U,Z
+   8,R
+   1,R,J,G
+   5,R,K,G
+   5,R
+  11,R,J
    4,R,D
-   1,D
-  15,D,X
-   2,L
-  79,D,X
-  11,R
-  19,R,Z
-  36,D,X
+  31,D
   14,R,D
+   1,R
    3,R,J
    2,L,J
   15,L,G
@@ -291,4 +303,4 @@ console load ZipMoverContest2021/1-Lobby/phant
   15,R,X
  135
 
-ChapterTime: 0:33.745(1985)
+ChapterTime: 0:33.252(1956)
