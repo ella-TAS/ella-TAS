@@ -1,4 +1,4 @@
-RecordCount: 1770
+RecordCount: 1859
 console load StartupContest2021/1-Submissions/twoday
    1
 
@@ -73,26 +73,27 @@ console load StartupContest2021/1-Submissions/twoday
   22,R,D
   15,R,X
   14,R
-   2,R,K
-   6,R,Z
+   4,R,Z
+   1,R,J
+   2,J
   61
 
 #lvl_d-02 (1)
-   7,R
-   1,R,J
-   7,R
-   1,R,J
-  14,R,D,X
-   1,R,J
-   2,J
-   4,R,J
-   1,R,K,G
-  14,R,D,X
-   4,R,J
+   2,R,J
    3,R
-  18,R,D,X
+   1,R,K,G
+   2,R
+  14,R,D,X
+   1,R,J
+  14,R,D,X
+   1,R,J
+   4,R,K,G
+   1,R
+  14,R,D,X
+   4,R,J
+  17,R,D,X
    3,L,D
-   5,D
+   6,D
   22,R,D
   40
 
@@ -106,22 +107,22 @@ console load StartupContest2021/1-Submissions/twoday
   69,O
    4,R,Z
    2,R,J
-   1,R
-   1,R,K
+   2,R
   61
 
 #lvl_d-05
-   2,R,K
    6,R
    1,R,J
   14,R,D,X
-   1,R,J
-   3,R
-  47,R,D,X
+   3,R,J
+  50,R,D,X
   40
 
 #lvl_b-01
-  25,R,D
+  23,R,D
+  13,R,D,X
+   1,R,J
+   1,R
   14,R,D,X
    1,R,J
   14,R,D,X
@@ -132,24 +133,23 @@ console load StartupContest2021/1-Submissions/twoday
    1,R,J
   14,R,D,X
    1,R,J
-  14,R,D,X
-   1,R,J
-  10,R,D,X
+  11,R,D,X
   40
 
 #lvl_b-02
-   4,R
+   3,R,D
    1,R,J
   14,R,D,X
    1,R,J
   14,R,D,X
-   3,R,J
-  10,R
-  11,D,X
+   1,R,J
+  15,R,D,X
+  12,D,C
   40
 
 #lvl_b-03
-   6,D
+   3,L,D
+   3,D
    4
    1,K
    4,L,D
@@ -219,4 +219,4 @@ console load StartupContest2021/1-Submissions/twoday
   14,R,U,X
  135
 
-ChapterTime: 0:35.785(2105)
+ChapterTime: 0:35.734(2102)
