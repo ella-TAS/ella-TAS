@@ -59,7 +59,8 @@ console overworld
 #disable all unnecessary mods and
 #select the correct mod here
 #-----
-   1,L
+   1,R
+   1,F,90
 #-----
 
    1,U
@@ -91,18 +92,70 @@ console overworld
 #choose the file name
 #and input S
 #-----
+   1,R
+   1,F,90
+   1,R
    1,J
-   1,O
+   1,L
+   1,F,270
+   1,L
+   1,F,270
+   1,D
    1,J
-   1,O
+   1,L
+   1,U
+   1,L
+   1,F,270
+   1,L
    1,J
-   1,O
+   1,L
+   1,F,270
+   1,L
+   1,F,270
    1,J
-   1,O
+   1,R
+   1,D
+   1,R
+   1,F,90
    1,J
-   1,O
+   1,D
+   1,F,180
+   1,D
+   1,F,180
+   1,L
    1,J
-   1,O
+   1,L
+   1,U
+   1,F,
+   1,U
+   1,F,
+   1,U
+   1,J
+   1,L
+   1,F,270
+   1,L
+   1,F,270
+   1,L
+   1,F,270
+   1,L
+   1,F,270
+   1,D
+   1,J
+   1,R
+   1,F,90
+   1,R
+   1,J
+   1,L
+   1,U
+   1,L
+   1,F,270
+   1,J
+   1,D
+   1,L
+   1,J
+   1,D
+   1,L
+   1,J
    1,S
 #-----
 

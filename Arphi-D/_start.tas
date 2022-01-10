@@ -1,8 +1,19 @@
+#v1.2 by tntfalle
+
+#may delete files
+#create backups
 unsafe
-Set,DisableScreenShake,true
-Set,DisableFlashes,true
+
+#-----
+#1 - IL timer
+#2 - file timer
 Set,SpeedrunClock,2
-console titlescreen
+#-----
+
+Set,Everest.UseKeyboardForTextInput,False
+Set,ScreenShake,Off
+Set,DisableFlashes,true
+console overworld
    2
    1,J
   94
@@ -44,24 +55,49 @@ console titlescreen
    1,F,180
    1,D
    1,F,180
+
+#disable all unnecessary mods and
+#select the correct mod here
+#-----
    1,L
+#-----
+
    1,U
+
+#enable variant mode
+#   1,J
+#-----
+
    1,F,
+
+#enable assist mode
+#   1,J
+#  27
+#   1,J
+#  14
+#   1,J
+#  14
+#   1,J
+#  13
+#   1,U
+#   1,J
+#  33
+#-----
+
    1,U
    1,J
-#rename
   41
+
+#choose the file name
+#and input S
+#-----
    1,R
    1,F,90
    1,R
    1,J
-   1,L
-   1,D
-   1,L
-   1,F,270
-   1,L
-   1,D
-   1,J
+   1,S
+#-----
+
   48
    1,U
    1,J

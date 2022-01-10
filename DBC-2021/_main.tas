@@ -1,5 +1,5 @@
 unsafe
-read, start
+read, _start
 read, lobby-0, Start
    1
 read, forsaken_site, Start
