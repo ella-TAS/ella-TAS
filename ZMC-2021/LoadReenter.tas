@@ -1,8 +1,4 @@
 unsafe
-Set,SpeedrunClock,2
-read lobby-0-14
-
-#Start
   59
    1,J
  196
@@ -12,9 +8,3 @@ read lobby-0-14
    1,S
    1,J
   46
- 110
-   1,S
-   1,F,180
-   1,D,J
-   1,L,U
-   1,S
