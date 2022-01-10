@@ -1,6 +1,7 @@
-#created by tntfalle
+#v1.2 by tntfalle
 
-
+#may delete files
+#create backups
 unsafe
 
 #-----
@@ -9,9 +10,10 @@ unsafe
 Set,SpeedrunClock,2
 #-----
 
-Set,DisableScreenShake,true
+Set,Everest.UseKeyboardForTextInput,False
+Set,ScreenShake,Off
 Set,DisableFlashes,true
-console titlescreen
+console overworld
    2
    1,J
   94
@@ -54,35 +56,54 @@ console titlescreen
    1,D
    1,F,180
 
-
 #disable all unnecessary mods and
 #select the correct mod here
 #-----
-
    1,L
-
 #-----
 
-
    1,U
+
+#enable variant mode
+#   1,J
+#-----
+
    1,F,
+
+#enable assist mode
+#   1,J
+#  27
+#   1,J
+#  14
+#   1,J
+#  14
+#   1,J
+#  13
+#   1,U
+#   1,J
+#  33
+#-----
+
    1,U
    1,J
   41
 
-
-#choose a file name and
-#end on the confirm button
+#choose the file name
+#and input S
 #-----
-
-   1,J
    1,D
+   1,R
+   1,D
+   1,J
+   1,U
    1,L
-   1,D
+   1,U
    1,J
-
+   1,D
+   1,F,180
+   1,J
+   1,S
 #-----
-
 
   48
    1,U
