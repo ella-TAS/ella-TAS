@@ -1,10 +1,12 @@
-RecordCount: 1411
+RecordCount: 1550
+
 console load ZipMoverContest2021/1-Lobby/iago
    1
 
 #Start
-#lvl_a_01
   80
+
+#lvl_a_01
    4,R,Z
    8,R,J
    4,R
@@ -14,55 +16,58 @@ console load ZipMoverContest2021/1-Lobby/iago
    1,K,G
    3,R
   12,R,D,X
-   4,J
-   3,R,J
-   4,R,K,G
-   1,R
-   8,R,D,X
-   1,R,J,G
-   7,R
+   1,R,J
+   1,J
+   5,R,J
+   1,R,K,G
+  13,R
   40
 
 #lvl_a_02
+   1,R,J
+  14,R,D,X
+   3,R,J
    2,R
-   1,R,K
-   2,R
-   2,R,J
-   9,R
-   1,R,K
-  12,R,D
-   1,G
+   1,R,J
+  13,R
+   2,R,G
   15,D,X
    4,R,D
   31,R
-  13,U,X
-  16,R
-  15,R,X
-#dcb saves 4f but
-#I can't get good mboost
+  15,U,X
   14,R
-   6,R,D
-   2,D
+  15,R,X
+  14,R
+   5,R,D
+   3,D
    2,R,D
    8,D
    2,L,D
-   7,L
-   4,L,J,G
-   7,L
-   2,R
+   2,L
+   1
+   1,L,D
+   3,L
+   1,L,J,G
+   1,L,K,G
+  11,L,G
+   5
    1,L
-  25,L,G
-  10,L,D,G
-   1,J,G
+   4,L,G
+   1,J
+  13
+   9,L,D,G
+   1,J
    1,L,K,G
    1,L,J,G
    2,R,J
-   2,R
-   2
-  16,R,U,Z
-   3,R,J,G
-   2,R
    1
+   3,R
+   5,R,U,Z
+   3
+   8,R,U,Z
+   1,R,J,G
+   2
+   2,R
   15,R,D,X
    1,R
   11,R,U,X
@@ -111,8 +116,13 @@ console load ZipMoverContest2021/1-Lobby/iago
    1,L,J,G
    1,L,K,G
    8,L,G
-  36,L,U,G
-   1,J,G
+
+
+
+
+  33,L,U,G
+   3
+   1,J
    1,L,K,G
    1,L,J,G
   15,R,D,X
@@ -234,16 +244,19 @@ console load ZipMoverContest2021/1-Lobby/iago
 
 #lvl_a_06
    1,R
-   1,R
+   1
    1,R,J,G
    5,R
    1,R,J
-   7,R
-   4
+   1,R
+   1,R,J
+   5,R
+   2
+   2,R
    9,R,U,X
    2,R,J,G
    5,R
-  13,R,J
+  11,R,J
    1,L,D,X
    3
    1,L,D,X
@@ -256,7 +269,16 @@ console load ZipMoverContest2021/1-Lobby/iago
    1,L,K,G
   60,L,K
    1,L,J,G
-  11,K,G
-   1,J
-
-ChapterTime: 0:32.011(1883)
+   1,K,G
+   1,J,G
+   1,K,G
+   1,J,G
+   1,K,G
+   1,J,G
+   1,K,G
+   1,J,G
+   1,K,G
+   1,J,G
+   1,K,G
+   1,J,G
+ChapterTime: 0:31.892(1876)
