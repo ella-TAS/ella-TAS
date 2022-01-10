@@ -1,8 +1,8 @@
-console load ZipMoverContest2021/0-Lobbies/1-Lobby ping-nano 0
+console load ZipMoverContest2021/0-Lobbies/1-Lobby
    1
 
 #Start
-  36
+ 190
    4,Z
    1,L,J
    7,L

@@ -58,6 +58,5 @@ read lobby-0-14 Start
 read LoadReenter
 read lobby-0-15 Start
 read gemstone_caverns
-  33,X
-
+read LoadRestart
 read LoadJournal Start
