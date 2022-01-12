@@ -1,7 +1,6 @@
-RecordCount: 6216
+RecordCount: 6336
 console load StartupContest2021/1-Submissions/skillsharekirby
    1
-
 #Start
 #lvl_Start
   54
@@ -94,6 +93,8 @@ console load StartupContest2021/1-Submissions/skillsharekirby
   15,R,X
   14,R
   11,R,D
+#spinner cycle
+   1
    4,Z
    1,R,J
    3,R
@@ -121,52 +122,36 @@ console load StartupContest2021/1-Submissions/skillsharekirby
    3,R
    1,R,K
    9,R,U,X
-   4,R,K
-  10,R
-   6,R,Z
-   1,R,J
-   7,R
-   7,R,J
-   3,R
-   1,R,J
-  12,R
-   4,D
-  14,R,X
-   1,R,J,G
-   1,J
-   5,R,J
-   5,R
-   1,R,J
-  12,R
+   4,K
+  11,R
+  13,R,X
+   1,L,J
    1,L
-   5,K,G
-  78,R,K
-   1,R,D
-   1,J,G
-   3,R,J
-   6,J
+  14,L,D,X
+   1,R,K
+   6,R,D,X
+   1,R,J,G
+  12,R
+   2,R,J
+   7,R
+   9,R,J
+   9
+   2,R
+   7,R,J,G
+   7,R
    1,R,J
-   1,L,J
-   1,R,J
-  17,R,K,G
-   1,J,G
-   3,R,J
-   6,J
-   1,R,J
-   1,L,J
-   1,R,J
-  17,R,K,G
-   1,J,G
-   3,R,J
-   6,J
-   1,R,J
-   1,L,J
-   1,R,J
-  12,R,K,G
+  10,R
+   1,L
+   4,J,G
+  36,R,J,G
+  15,R,U,Z
+  22,R
+   2
+   7,R,J,G
    7,R
    4,R,Z
    1,R,J
-   6,R
+   7,R
    1,R,J
    1,R
   40
@@ -687,4 +672,4 @@ console load StartupContest2021/1-Submissions/skillsharekirby
   10,R,K
   14,R,U,X
  135
-ChapterTime: 1:33.092(5476)
+ChapterTime: 1:32.021(5413)
