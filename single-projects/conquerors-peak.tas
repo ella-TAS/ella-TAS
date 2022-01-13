@@ -1,12 +1,14 @@
-RecordCount: 3787
+RecordCount: 4220
+
+console load ricky06/cp/cp 4702 1712
+Play Desync
 
 console load ricky06/cp/cp
    1
 
 #Start
-  98
-
 #lvl_00
+  98
   15,R,X
   10,R,D,C
    1,R,J
@@ -457,12 +459,9 @@ console load ricky06/cp/cp
   24,R,D
   43,R,D,X
   11,R,C
-  14,R,Z
-
-#  11,R,K,G
-#  12,R,J,G
-#   7,R
-
+   7,R,Z
+#Desync
+   7,R
   12,R,J,G
    8,R,K,G
    2,R
@@ -1522,5 +1521,109 @@ Set,Invincible,false
   40
 
 #lvl_d-02
+   1,R
+   1,L
+   9,J,G
+   2,R,J
+  34,R,U,X
+   1,L
+   9,R
+   6,L
+   1,R
+   2,L
+  10,L,C
+   1,R,J
+  10,L,J
+   4,L
+  37,R,D
+  15,U,X
+  16,R,G
+   1,L
+  10,K
+  17,R
+  10,R,D,X
+   1,L,J
+   3,L
+   2,L,K
+   1,L
+  15,L,Z
+  15,L,D
+  21,D
+   5,L
+   1,R
+   1,L
+  12,R,X
+   1,L,J
+  10,R,J
+   1,R
+  14,L
+   1,L,K
+   9,L
+  27,L,Z
+   4,V
+   2,L,J
+   4,L
+  40
+
+#lvl_d-03
+   4,L
+   7,L,J
+  65,L,X
+  15,L,C
+   1,G
+  14,L
+   1
+  18,L
+   1,L,D
+   1,L
+   5,J,G
+   2,R,J
+  16,U,X
+   4,J
+  40,R,J
+   6,R,D
    2
-1000,J
+   1,J,G
+  11
+   3,L
+   1,L,J
+  22,L,K
+   1,D
+  29,L,D
+   4,L
+   1,L,D
+   5,J,G
+   5,L,J
+   5,L
+   3,L,K
+  14,L,D
+   1,L,K
+  11,L
+  34,L,X
+  14,U,Z
+  11,L,J
+   4,R,J
+   1,K
+   5,R,K
+   1,L,J,G
+   1,L,K,G
+   1,L,J,G
+   1,K
+   2,J,G
+  11,R,J
+  40
+
+#lvl_d-04
+  11,R
+   5,R,Z
+  12,R,J
+   8,R,K,G
+   1,J,G
+   7,R
+   6,J
+  13,L,J
+  20,U,X
+   6,L,G
+  12,L,J,G
+  12,L,K,G
+  12,L,J,G
