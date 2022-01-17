@@ -1,4 +1,4 @@
-RecordCount: 7627
+RecordCount: 7628
 
 #console load ricky06/cp/cp 4701 1712
 #Play Desync
@@ -1490,23 +1490,15 @@ console load ricky06/cp/cp
    6,R,J
   16,R
   15,R,Z
-  20,R
-   2,L
+   2,R
+   1,S
+   1,D,O
+  69,J
+   1,R
+  11,R,J
+  12,R
    1,R,J,G
-   1,L,K
-  11,L,J
-   8,L
-  15,U,X
-   5,R,J,G
-   7,R
-   4,R,Z
-   1,R,J
-   8,R
-   2,R,D
-  15,D,X
-  13,R,D
-  12,R,J
-   8,R,K,G
+   7,R,K,G
    1,R
   11,R,Z
   40
@@ -2617,5 +2609,4 @@ console load ricky06/cp/cp
    1,S
    1,D,J
   18
-
-ChapterTime: 6:06.061(21533)
+ChapterTime: 6:05.738(21514)
