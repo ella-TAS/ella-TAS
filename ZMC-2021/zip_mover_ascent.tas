@@ -1,4 +1,4 @@
-RecordCount: 1756
+RecordCount: 2191
 console load ZipMoverContest2021/1-Lobby/Earthwise
    1
 
@@ -49,40 +49,52 @@ console load ZipMoverContest2021/1-Lobby/Earthwise
    1,K,G
   14,L,K
    1,J
-   5,L,K
-  20,L,G
-  20,L,U,G
-   1,K,G
+   5,L,J
+  16,L,D,G
+   3,G
+   1,D,G
+   3,G
+   1,D,G
+   1
    1,J,G
-   1,K,G
-  51,R,U,Z
+   1,R,K,G
+   1,R,J,G
    1,L,K,G
-   1,K
-   2,R,K
-   1,K
-   2,R,K
-  10,U,X
-   7,L,J
-  14,L
-   4,L,Z
+   3,J
+   2,R,J
+  11,R,U,Z
+  40
+
+#lvl_lvl-2
+   1,R,U,Z
+   1,L
+   1,K,G
+   6,K
+   8,U,X
+  10,L,J
+  11,L
+   4,Z
    1,L,J
   13,L
-  10,L,Z
+   1,L,J
+   6,L,Z
    1,R,J
    1,R,K
    1,R,J
    1,R,K
    1,R,J
-  22,R,K
+  21,R,K
   14,R,U,X
-  11,R,J,G
+   1,R,J,G
+   4,L,J
+   6,R,J
    7,R
    7,R,Z
    1,R,J
    3,R
   40
 
-#lvl_lvl-2
+#lvl_lvl-3
    4,R
   21,R,J
   20,R,U,G
@@ -128,7 +140,7 @@ console load ZipMoverContest2021/1-Lobby/Earthwise
    4,L,J
   40
 
-#lvl_lvl-3
+#lvl_lvl-4
    3,J
    7,L,X
   16,L,J
@@ -204,6 +216,7 @@ console load ZipMoverContest2021/1-Lobby/Earthwise
   10
   20,L,D
   25,R,D
+#0:31.977(1881)
   40
 
 #lvl_lvl-5
@@ -226,16 +239,19 @@ console load ZipMoverContest2021/1-Lobby/Earthwise
   40
 
 #lvl_lvl-6
-   9
-   4,R,K,G
-  10,R,Z
-   7,R,J
-   8,R,D,X
-   6,R,K,G
-   3,R,J,G
-   4,R
-   2,R,J,G
-   7,R
+   3,L
+   2
+   1,L
+   1
+   1,R,K,G
+   1,R,J,G
+   3,R,K,G
+   1,R
+   8,R,Z
+   1,R,J
+   6,R
+  11,R,J
+  10,R
    4,L,Z
   46,L,J
   10,L,Z
@@ -362,13 +378,14 @@ console load ZipMoverContest2021/1-Lobby/Earthwise
    3,R,J
   17,R
   17,L,D
-  31,L,G
-  17,R
-  24,R,X
+  24,G
+  14,R
+   2,R,D
+  20,R,X
   14,U,C
-  19,R,J
-   1,K,G
-   7,R
+  15,R,J
+  14,R
+   1,R,J
    6,R,Z
    1,R,J
    7,R
@@ -384,4 +401,4 @@ console load ZipMoverContest2021/1-Lobby/Earthwise
  134
    1,L
 
-ChapterTime: 1:01.897(3641)
+ChapterTime: 1:01.387(3611)
