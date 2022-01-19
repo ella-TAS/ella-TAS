@@ -1,4 +1,4 @@
-RecordCount: 2270
+RecordCount: 2688
 console load ZipMoverContest2021/1-Lobby/mmm
    1
 
@@ -97,7 +97,6 @@ console load ZipMoverContest2021/1-Lobby/mmm
 #lvl_02
    4,R,D
   19,R
-#0:08.194(482)
    3,R,J
    5,L,J
    4,L
@@ -262,84 +261,108 @@ console load ZipMoverContest2021/1-Lobby/mmm
    9,R
    1,R,K
   25,R,D
-   2,R,J
-   3,R,K,G
-   1
-   2,K
-   2,R,K
-   1,R
-   7,R,K
-   1,R,J,G
-   1,R,K,G
-   1,K
-  10,K
-   4
-   3,R
    1,R,D,J
-   9,R,J
-   5,R
-   1,R,K
-  13,R
-   3,R,J
-  10,R
-   1
    1,J
+   1,R,K,G
+   4,R,K
+   8,R
+   3,R,J
+   1,D,K
+   2,R,K
+   8,K
+   2
+   5,R
+  10,R,J
+   5,R
+   1,R,J
+  13,R
+   8,R,D,J
+   5,R
+   1,R,J
   40
 
 #lvl_07
-   1,J
-   8
-   2,J
-   9
-   1,D
-   2
-   1,R
-   1,R,J
-  13,R
-  11,G
-   2,R,J,G
-   4,K,G
-  18,L,G
+   3,R,J
+  12,R
+   1,R,D
+   2,R
+  49,R,J
+  14,U,G
+  10,G
+   1,U,G
    1
-   1,K
-   1,L,J,G
-  19,R
-   5,R,D,J
-   9,R
-   2
-   2,R,D,J
-   2,R,K,G
+   1,R,J,G
+   1,J
+   1,R,K,G
    1,R,K
-   1,R,K
+   1,R,J,G
+   3,R
+   1,R,K,G
+#more speed but
+#loses time
+#  11,R,D
+#   2,R,K
+#   5,R,J,G
+#   3,R,K,G
+#   1,K
+#  40
+#   1,K
+#   1
+#   1,R
+#   3,R,J,G
+#   5,R
+#   2,R,J
+#   1,R
+#   1,R,K
+#   2,K
+#   5,R,K
+#   8,R,G
+#---
+   7,R
+   7,R,D,J
+   3,R,K,G
    1,R
   40
 
 #lvl_08
-   6,R
-   3,R,D,J
-  11,R
-  28,R,J
-   1,G
+   3,R
+   3,R,J,G
+   7,R
+   1,R,J
+   1,R,K
+   7,K
+   8,R,G
+#tunnel can
+#be improved
   20,D
   21,R,D
    1,L,D
    1,D
    1,L,D
    5,D
-   2,R,D
-   3,R,D,J
+   2,D
+   2,R,D,J
    3,R
-   6,R,J
+   1,R,J
+   1,J
+   3,R
+   2,R,J
+   9,R,D
+   1,R,J
+   2
    2,R
-   7,R,D
    2,R,J
-   3,R
-   2,R,J
-   3,R
-   2,R,J
+   1,R
+   2
+   1,R,J
    1,R,K,G
-  11,R
-   6,R,D
+   2,R,J,G
+   1,J
+   2
+   2,R
+   2,R,J
+   8,R,D
+   1,D
    2,R,J
    3,R
    2,R,J
@@ -348,24 +371,23 @@ console load ZipMoverContest2021/1-Lobby/mmm
    4,R,K,G
    5,R,J,G
    7,R
+   3,R,J
+   2,R,K,G
+   5,R
    1,R,J
-   2,R
-   1,R,K,G
-   6,R
-   1,R,K
-   1,R,J,G
-   8,R
+   3,R,K,G
+   4,R
   40
 
 #lvl_09
-   3,R
-   1,R,J
-   4,R,K,G
    5,R
-   2,R,K
-  15,R,J,G
-   7,R,K,G
-  10,R
+   1,R,J
+   5,R
+   1,R,J
+  17,R,K,G
+   1,R
+   6,R,J,G
+   9,R
    1,J
    5
    1,L,D
@@ -417,4 +439,4 @@ console load ZipMoverContest2021/1-Lobby/mmm
   82,R,J,G
    1,L
 
-ChapterTime: 0:39.712(2336)
+ChapterTime: 0:39.304(2312)
