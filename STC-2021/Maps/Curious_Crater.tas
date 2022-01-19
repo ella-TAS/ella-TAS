@@ -1,4 +1,4 @@
-RecordCount: 2016
+RecordCount: 2023
 console load StartupContest2021/1-Submissions/mika
    1
 
@@ -7,7 +7,7 @@ console load StartupContest2021/1-Submissions/mika
   36
    5,J
   13,L,J
-  18,K
+  17,K
    2,J,G
    1,L,J
    1,K
@@ -317,4 +317,4 @@ console load StartupContest2021/1-Submissions/mika
   20,J
   20,U,C
  135
-ChapterTime: 0:47.090(2770)
+ChapterTime: 0:47.073(2769)
