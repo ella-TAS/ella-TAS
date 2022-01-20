@@ -1,7 +1,4 @@
-RecordCount: 8319
-
-#console load ricky06/cp/cp 4701 1712
-#Play Desync
+RecordCount: 8462
 
 console load ricky06/cp/cp
    1
@@ -494,9 +491,7 @@ console load ricky06/cp/cp
   16,R,D
   43,R,D,X
   11,R,C
-   7,R,Z
-#Desync
-   7,R,Z
+  14,R,Z
    9,K,G
    1,L
    1,R
