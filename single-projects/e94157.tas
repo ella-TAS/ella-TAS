@@ -1,0 +1,95 @@
+RecordCount: 317
+
+console load Reinhardt/0-e94157
+   1
+
+#Start
+#lvl_1a
+ 190
+   4,Z
+   1,R,J
+   7,R
+   6,R,J
+  10,U,X
+  31,U,C
+  40
+
+#lvl_2a
+  21
+  46,L,U,X
+  57,R,D,C
+   9,L,U,Z
+  45,R,U,X
+  57,L,D,C
+   9,R,U,Z
+  42,U,X
+  31,R,C
+  14,R,Z
+   1,R,J
+   5,R,D,X
+  40
+
+#lvl_3a
+   9,R
+  30,R,C
+  11,R,U,X
+  28,D,C
+  22,L,X
+  36,R,C
+  14,R,Z
+   1,R,J
+   5,R,D,X
+  40
+
+#lvl_4a
+   8,R
+   2,R,J
+   4,R
+  11,R,U,X
+   6,R,J,G
+  11,R
+  26,D,X
+  15,R,C
+  27,L,D
+  10,L,X
+  35,L,D,C
+  28,R,Z
+  18,L,D,X
+  15,L,C
+  33,L,D
+   4,Z
+   1,L,J
+   7,L
+   3,L,J
+   6,L
+  40
+
+#lvl_5a
+  15,R
+   6,R,D
+  18,L,U,X
+  15,U,C
+  23,L,D
+  16,U,X
+  26,L,C
+  12,D,X
+  28,L,D,C
+   7,D,X
+  40
+
+#lvl_6a
+  16,L,D
+  12,L,D,X
+   1,R,J
+   2,R
+  24,R,D,X
+   3,R,J
+   5,R,D,X
+   1,R,J,G
+  11,R
+   1,R,J
+  11,R
+  14,R,U,X
+ 135
+
+ChapterTime: 0:21.811(1283)
