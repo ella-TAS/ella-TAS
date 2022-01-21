@@ -1,4 +1,4 @@
-#v1.2 by tntfalle
+#v1.3 by tntfalle
 
 #may delete files
 #create backups
@@ -13,6 +13,12 @@ Set,SpeedrunClock,2
 Set,Everest.UseKeyboardForTextInput,False
 Set,ScreenShake,Off
 Set,DisableFlashes,true
+
+#start on begin
+#   1,D
+#Play StartOnBegin
+#-----
+
 console overworld
    2
    1,J
@@ -85,6 +91,7 @@ console overworld
 #-----
 
    1,U
+#StartOnBegin
    1,J
   41
 
