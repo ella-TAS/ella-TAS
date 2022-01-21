@@ -1,53 +1,55 @@
+Set, ContortHelper.CustomEffects, None
 read _start
-read lobby-0-1 Start
-read forsaken-site Start
+
+read Lobby/lobby-0-1 Start
+read Maps/forsaken-site Start
   33,X
 
-read lobby-1-2 Start
-read falling-conscience Start
+read Lobby/lobby-1-2 Start
+read Maps/falling-conscience Start
   33,X
 
-read lobby-2-3 Start
-read dream-dimension Start
+read Lobby/lobby-2-3 Start
+read Maps/dream-dimension Start
   33,X
 
-read lobby-3-4 Start
-read minervas-spire Start
+read Lobby/lobby-3-4 Start
+read Maps/minervas-spire Start
   33,X
 
-read lobby-4-5 Start
-read warped-trail Start
+read Lobby/lobby-4-5 Start
+read Maps/warped-trail Start
   33,X
 
-read lobby-5-6 Start
-read dreamy-bubbles Start
+read Lobby/lobby-5-6 Start
+read Maps/dreamy-bubbles Start
   33,X
 
-read lobby-6-7 Start
-read floating-parachute Start
+read Lobby/lobby-6-7 Start
+read Maps/floating-parachute Start
   33,X
 
-read lobby-7-8 Start
-read into-the-castle Start
+read Lobby/lobby-7-8 Start
+read Maps/into-the-castle Start
   33,X
 
-read lobby-8-9 Start
+read Lobby/lobby-8-10 Start
 read LoadConfirm
-read galaxy-burst Start
+read Maps/galaxy-burst Start
   33,X
 
-read lobby-9-10 Start
-read floating-city Start
+read Lobby/lobby-10-9 Start
+read Maps/floating-city Start
   33,X
 
-read lobby-10-11 Start
-read power-nap Start
+read Lobby/lobby-9-11 Start
+read Maps/power-nap Start
   33,X
 
-read lobby-11-12 Start
-read lucid-cliffside Start
+read Lobby/lobby-11-12 Start
+read Maps/lucid-cliffside Start
   33,X
 
-read lobby-12-13
+read Lobby/lobby-12-13 Start
 read LoadReenter
 read LoadJournal Start
