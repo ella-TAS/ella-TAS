@@ -1,7 +1,8 @@
 console load DreamBlockContest2021/0-Lobbies/1-Submissions lobby 9
-  37
+   1
 
 #Start
+  36
    4,R,X
   11,R,J
    4,R,K,G
@@ -25,11 +26,11 @@ console load DreamBlockContest2021/0-Lobbies/1-Submissions lobby 9
   14,L,D,X
    1,L,J
    2,L
-  14,L,D,X
-   1
+  15,L,D,C
    1,X
   20
    1,J
   30
    1,J
-  45
+  46
+#0:03.383(199)

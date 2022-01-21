@@ -105,24 +105,27 @@ console load DreamBlockContest2021/1-Submissions/scribblesthejanklord
    5,L,G
   27,R,Z
    4,R,J
-   7,R,K
-  15,R,X
-  14,R,Z
-   8,R,J
-   1,R
-   1,R,K
-   4,R
    5,R,K
-   7,U,X
+   7,R,D
+  14,R,Z
+   2,R,J
+  10,R,D
+   5,R,J
+   5,R
+   4,R,J
+   5,U,X
    9,R,J
-  21,R
-  14,R,U,X
-   5,R,J,G
+  12,R
+   1,R,J
+   2,R
+   1,R,J
+   7,R
+  12,R,U,X
+   4,R,J,G
    1,S
    1,D,J
   34
-   2,R,J
-   3,R
+   5,R
   40
 
 #lvlDBC2021_Scribbles_room_05
@@ -172,12 +175,13 @@ console load DreamBlockContest2021/1-Submissions/scribblesthejanklord
   14,R,U,Z
    1,R,J,G
    7,R
-   2,L,J
+   1,L,J
+   1,L
    7,L,Z
    1,R,J
-   7,R
+   6,R
    1,R,J
-  13,R,U,X
+  14,R,U,Z
   29,U,C
   14,R,Z
    1,R,J
@@ -185,44 +189,40 @@ console load DreamBlockContest2021/1-Submissions/scribblesthejanklord
   12,R,J
    1,J
   16,U,X
-  39,R,U,C
-  13,R,X
-   2,L,J
-   1
-  15,U,X
+  50,R,U,C
+   2,K
    1,R,J,G
-   1,R,K,G
-   6,R
-   1,R,J
-   1,R
-   4,D,X
-   2,R,X
+  11,R,K,G
+   1
+   7,R,Z
    1,R,J
    4,R
   40
 
 #lvl_DBC2021_Scribbles_room_06
-   3,R
+
+   2,R
    1,R,J
+   5,R,D,X
    1,S
    1,D,J
   34
-  10,R,D,X
-  10,R,J
-   7,R,K,G
-   5,R,J,G
-   1,R,K,G
+   1
+   4,R
+  12,R,J
+   6,R,K,G
    2,R
   18,U,X
+#0:32.436(1908)
 
 #lvl_DBC2021_Scribbles_room_08
   45,D,C
-   6,R
-   1,D
+   5,R
+   2,D
    1,R,J
-   4,J
-   2,R,J
    1,J
+   1,R,J
+   5,J
   14,L,D,X
    1,R,J
    7,R
@@ -296,11 +296,14 @@ console load DreamBlockContest2021/1-Submissions/scribblesthejanklord
 
 #lvl_DBC2021_Scribbles_room_09
    2,R,C
-  10,L,Z
-  10,R,J
-  15,R,Z
+   7,L,Z
+   4,R,J
+   1,R
+  15,R,J
    1,S
    1,D,J
   34
-   3,R
- 146,R,C
+  14,R,C
+ 134,R
+   1,L
+ChapterTime: 0:46.614(2742)

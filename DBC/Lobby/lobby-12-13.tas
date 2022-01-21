@@ -1,7 +1,9 @@
+console hearts 12 DreamBlockContest2021/1-Submissions
 console load DreamBlockContest2021/0-Lobbies/1-Submissions lobby 16
-  37
+   1
 
 #Start
+  36
    3,L,J
   11,L,Z
    9,R,J
@@ -29,6 +31,7 @@ console load DreamBlockContest2021/0-Lobbies/1-Submissions lobby 16
    9,L
   15,L,X
   11,L
+#0:02.856(168)
    5,L,J,G
    1,K,G
    4
