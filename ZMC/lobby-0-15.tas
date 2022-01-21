@@ -4,7 +4,7 @@ console load ZipMoverContest2021/0-Lobbies/1-Lobby
    1
 
 #Start
-read lobby-0-14 Start Enter
+read Lobby/lobby-0-14 Start Enter
    3,R,J,G
    3,R,K
   23,R,D,X
