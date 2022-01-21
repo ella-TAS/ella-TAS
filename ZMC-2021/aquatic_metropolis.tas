@@ -1,4 +1,4 @@
-RecordCount: 1550
+RecordCount: 1771
 
 console load ZipMoverContest2021/1-Lobby/iago
    1
@@ -83,28 +83,32 @@ console load ZipMoverContest2021/1-Lobby/iago
    2
    1,R,J,G
    8,R,K,G
-  14,R,Z
-   4,R,J
-   9,R,K,G
+  12,R,Z
+   3,R,J
+   1,R
+   1,R,J
+   5,R,D,X
+   2,R,J,G
+   8,R
   40
 
 #lvl_a_03
-   3,R
-  14,R,Z
+   4,R
+   2,R,J
+   6,R,U,X
+   6,R,J,G
+   6,R
    1,R,J
-  14,R,D,X
-   4,R,J
-   5,R
-   5,R,J
-  15,D,X
-   5,R
-   1
-   6,L,Z
+   1,R
+   2,R,J
+   4,R
+  18,L,D
+   1,L,J
+  12,L,Z
    1,R,J
    7,R,D
-   6,L
-   1,L,J,G
-   1,L,K,G
+   5,L
+   3,L,J,G
   10,U,X
    9,R,J
    7,R,K,G
@@ -116,10 +120,6 @@ console load ZipMoverContest2021/1-Lobby/iago
    1,L,J,G
    1,L,K,G
    8,L,G
-
-
-
-
   33,L,U,G
    3
    1,J
@@ -179,27 +179,26 @@ console load ZipMoverContest2021/1-Lobby/iago
    2,R,D
   12,R,J,G
    5,R
-   2,R,J
-   2,R
    1,R,J
+   1,R
+   3,R,J
    6,R
-   9,L,Z
-   1,R,J
-   6,R
-   1,R,J
+   5,R,Z
+   3,R,J
   17,R,K,G
   40
 
 #lvl_a_05
   15,R,D,X
-   3,R,J
-  15,R
+   4,R,J
+  16,R
   20,R,G
    8,D,G
    6,R,G
   14,D,X
-  53,R
-  12,R,J,G
+  48,R
+   5
+  11,R,J,G
   15,U,X
    1,L
   20,L,U,G
@@ -211,21 +210,22 @@ console load ZipMoverContest2021/1-Lobby/iago
   29,D
    5
   15,R,U,Z
-   9,L
-   1,J
-   3,L,J
+   9
+   4,K
+   1,L,J,G
    1,L,K,G
-   2,L,J,G
   19,L,U,G
    1,J
   18,L,J
    3
-   3,L,G
+   3,L,U,G
    1,J
    1,K,G
    1,L,J,G
    5,R,J
-  27,R,D,X
+  15,R,D,X
+   1,R
+  11,R,D
    1,L,J,G
   11,R,J
    3
@@ -257,28 +257,15 @@ console load ZipMoverContest2021/1-Lobby/iago
    2,R,J,G
    5,R
   11,R,J
-   1,L,D,X
-   3
-   1,L,D,X
-  12
-  23,L,D,X
-   8,L,J
-   6,L,D,X
-   1,J,G
-  13,L,J
+  40,L,D,X
+   3,D
+   1,L,J
+   2,J
    1,L,K,G
-  60,L,K
+   4
+   5,L,K,G
+  10,L,U,X
    1,L,J,G
-   1,K,G
-   1,J,G
-   1,K,G
-   1,J,G
-   1,K,G
-   1,J,G
-   1,K,G
-   1,J,G
-   1,K,G
-   1,J,G
-   1,K,G
-   1,J,G
-ChapterTime: 0:31.892(1876)
+  40,J
+  35,L,K,G
+ChapterTime: 0:31.705(1865)
