@@ -1,4 +1,4 @@
-read _start
+read start
 
 read Lobby/lobby-0-13 Start
 read Maps/ziptied_puffers Start
@@ -58,5 +58,6 @@ read Lobby/lobby-0-14 Start
 read LoadReenter
 read lobby-0-15 Start
 read Maps/gemstone_caverns Start
+
 read LoadRestart
 read LoadJournal Start
