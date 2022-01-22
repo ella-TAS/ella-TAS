@@ -1,4 +1,4 @@
-#v1.3 by tntfalle
+#v1.3.1 by tntfalle
 
 #may delete files
 #create backups
@@ -116,3 +116,4 @@ console overworld
    1,U
    1,J
    1
+safe
