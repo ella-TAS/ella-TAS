@@ -1,11 +1,12 @@
-console, load, StartupContest2021/0-Lobbies/1-Submissions, Startup Contest 2021, 0
-  37
+console load StartupContest2021/0-Lobbies/1-Submissions
+   1
 
 #Start
+  98
    4,Z
-   1,L,J
-   6,L,D
-  52,R,D
+   2,L,J
+  10,L,D
+  48,R,D
    1,X
   29
    1,R

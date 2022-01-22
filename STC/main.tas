@@ -105,19 +105,21 @@ read LoadEnter Start
 read Maps/Startside Start
 #any% ends here
 
-read LoadReenter Start
+read LoadReenter
 
 read Lobby/lobby_0-e3 Start
+read LoadEnter Start
 read Maps/How_To_Play_Celeste Start
   33,X
 
 read Lobby/lobby_e3-e2 Start
+read LoadEnter Start
 read Maps/Light_Breeze Start
   33,X
 
 read Lobby/lobby_e2-e1 Start
+read LoadEnter Start
 read Maps/Vacuum_Facility Start
-  33,X
 
 read LoadRestart
 read LoadJournal Start
