@@ -1,4 +1,4 @@
-RecordCount: 2653
+RecordCount: 2878
 console load StartupContest2021/1-Submissions/abuffzucchini
    1
 
@@ -235,48 +235,11 @@ console load StartupContest2021/1-Submissions/abuffzucchini
    1,G
    2
    1,J
+Repeat 14
    1,G
    2
    1,J
-   1,G
-   2
-   1,J
-   1,G
-   2
-   1,J
-   1,G
-   2
-   1,J
-   1,G
-   2
-   1,J
-   1,G
-   2
-   1,J
-   1,G
-   2
-   1,J
-   1,G
-   2
-   1,J
-   1,G
-   2
-   1,J
-   1,G
-   2
-   1,J
-   1,G
-   2
-   1,J
-   1,G
-   2
-   1,J
-   1,G
-   2
-   1,J
-   1,G
-   2
-   1,J
+EndRepeat
    1,G
    1
    1
