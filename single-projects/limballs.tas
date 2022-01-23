@@ -1,4 +1,4 @@
-RecordCount: 274
+RecordCount: 288
 console load ema/bday/1_Limballs
    1
 
@@ -18,18 +18,16 @@ console load ema/bday/1_Limballs
    9,U,C
    9,R,X
    9,D,C
-   9,R,Z
-   8,U,X
-   9,U,C
+  12,R,U,Z
+   8,U,C
    9,L,X
    9,L,C
    9,L,X
    9,D,C
-  16,R,X
-   9,R,C
-   9,D,X
-  16,R,D,C
-  26,R,X
+  25,R,X
+  12,D,C
+  12,R,D,X
+  26,R,C
   40
 
 #lvl_02
@@ -160,4 +158,4 @@ console load ema/bday/1_Limballs
   10,U,X
  135,D
 
-ChapterTime: 0:23.902(1406)
+ChapterTime: 0:23.885(1405)
