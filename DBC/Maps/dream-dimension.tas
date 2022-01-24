@@ -14,19 +14,20 @@ console load DreamBlockContest2021/1-Submissions/quinnigan
    4,L,K
   16,U,X
   20,R,J
+  40
 
 #lvl_Quinnigan1
-  40
    3
    8,R
   31,U,X
-  33,R,C
-   5,R,J
+#0:03.060(180)
+  34,R,C
+   4,R,J
   23,R,K
   28,U,X
    5,R
-  35,R,X
-   5,R,J
+  36,R,X
+   4,R,J
    3,R,K
   20,R,D
    4,D
@@ -35,9 +36,9 @@ console load DreamBlockContest2021/1-Submissions/quinnigan
    1,R,J
    4,R
   13,R,D,X
+  40
 
 #lvl_Quinnigan2
-  40
    1,R
    1,R,J
   14,R,D,X
@@ -47,88 +48,96 @@ console load DreamBlockContest2021/1-Submissions/quinnigan
    5,R,J
    2,R,K
   27,U,X
-  25,L,C
-   5,L,J
+  26,L,C
+   4,R,J
   24,R,X
-   5,R,J
-   4,R
-  28,D,X
-  23,D,C
-  37,D,X
-  22,R,U,C
-  22,L,X
-  16,L,K
+   9,R
+  26,D,X
+   1,R,D
+  22,D,C
+   1,R,D
+  36,D,X
+  22,R,U,Z
+  18,L,X
+   4,L,J
+  14,L,K
   21,U,X
-   2,R,J,G
-  49,R,X
-   5,R,J
+   1,R
+  50,R,C
+   4,R,J
   20,R,K
   35,U,X
    5,R
   22,R,X
   36,D,C
    1,R,D
-  29,R,Z
-   5,R,J
+  30,R,Z
+   4,R,J
    1,R,K
    6,R,D
   18,R,D,X
    1,R,J
   12,R,D,X
+  40
 
 #lvl_Quinnigan3
-  40
    2,R
    1,R,J
-  11,R,D,X
-  11,R,J
-  87,U,X
+   7,R
+  13,R,J
+  84,U,X
    7,L,D
   41,D
-  32,R,Z
-  43,L,D,X
-  27,R,Z
-   5,R,K
+  28,R,Z
+   4,L,G
+  42,L,D,X
+  28,R,Z
+   4,R,K
    1,R,J
-  28,R,D
+  26,R,D
+   2,D
   25,D,X
-  26,L,C
+   1,L
+  21,L,C
+   4,R,G
   18,R,X
-   5,R,J
+   4,R,J
    1,R,K
-  27,R,Z
-   5,R,J
+  28,R,Z
+   4,R,J
    1,R,K
   19,R,D
    4,J
   39,R
   28,D,X
-  43,L,Z
-   5,L,J
+  44,L,Z
+   4,L,J
    1,L,K
   29,U,X
   33,U,C
    6
    4,R
   44,U,X
-  16,L,U,C
-   8,R,J
-  16,R,X
-   5,R,J
-  11,R,K
-  11,R
-  20,R,D,X
+  17,L,U,C
+   5,R
+   1,R,K
+  17,R,X
+   4,R,J
+  19,R,K
+  15,R,D,X
+   7,R
    1,R,J
   14,R,D,X
    1,R,J
-   9,R,X
+   9,R,D,X
+  40
 
 #lvl_Quinnigan4
-  40
-   4,R
+   1,R,J
+   7,R
   10,R,J
-  31,R,X
-   5,R,J
+  22,R,X
+   4,R,J
    8,R,K
   23,R,U,X
    4,R,J
@@ -138,92 +147,98 @@ console load DreamBlockContest2021/1-Submissions/quinnigan
   11,R
   55,R,Z
    7,R,J
-  20,R,K
-   1,R
-   4,R,K
-  15,R
-   2,R,D
-  17,R,U,Z
+  25,R,K
+  18,R
+  16,R,U,Z
   40
 
 #lvl_Quinnigan7
-   8,R
-   3,L
+  10,R
   15,U,Z
-   8,L
+   7,L
    1,J,G
    2,R,J
-   5,L,J
-   5,L,K,G
+   4,L,J
+   4,L,K,G
+   1,K
   11,R,J
   11,L,K
   11,R,J
   11,L,K
   11,R,J
-   3,R,K,G
-  15,R
+   1,R,K,G
+   2,R,J,G
+   5,R
+   9
    3,R,J
   10,R
   29,R,X
    4,R,J
    1,R,K
-  19,R,D
-  30,D,X
-  31,R,C
-  12,R
-  15,R,Z
+  20,R,D
+  29,D,X
+  31,R,Z
+   4,R,J
+   4,R,K
+   5,R
+   9,R,D,X
   40
 
 #lvl_Quinnigan6 (1)
-   5,D,X
-  72,O
-   5,R,J
-   2,R
-  31,R,X
-   5,L,J
-  16,L,U,Z
-   5,L,J
+   1,S
+   1,D,J
+  69,O
+   7,R,J
+  32,R,X
+   4,L,J
+  20,L,U,Z
   49,U,X
-   3,D
-  32,L,D
-  27,R,D,X
-   1,R,K
-   9,R,D
-  27,R,Z
+  21,L,D
+  21,D
+  18,R,D,X
+   4,R,K
    1,R,J
-  12,R,D
+   4,R
+  24,R,Z
+   4,R,J
+   1,R,K
+   5,R
+   6,R,J
   17,R,U,Z
-   9,L,J
-  18,L
-   1,L,J
-   2,L
-  45,D,X
-   2,R,D
-  52,R,Z
-   5,R,J
-  22,L,D,X
+   4,L,J
+   1,L,K
+  14,L
+   2
+  44,D,X
+   3,R,D
+  53,R,Z
+   4,L,G
+  16,L,D,X
+   4,L,J
+   1,L,K
   19,U,C
   43,U,X
-  19,L,D,C
-   8,R,D
+  18,L,D,C
+   7,R,D
   18,R,Z
    4,R,J
-  17,R,K
-   1,R
-  17,R
-  10,R,U,X
+  10,R,K
+   5,R
+   3,R,J
+   3,R
+  12,R,K
+  11,R,U,X
   40
 
 #lvl_Quinnigan5
-   5,R
-   6,R
-  13,L,U,Z
+   8,R
+  11,L,U,Z
   40
 
 #lvl_Quinnigan6 (2)
-   3,L
-  18,U,X
-   3,L,J,G
+   4
+  15,U,X
+   2,L,J,G
   40
 
 #lvl_Quinnigan5s
@@ -239,24 +254,24 @@ console load DreamBlockContest2021/1-Submissions/quinnigan
    1,R,J
   15,R,D,X
    4,R,J
-   3,R,K
-  63,R,X
+   7,R,K
+  60,R,X
    4,R,J
    3,R,K
-   2,R
-  14,R,D,X
+  15,R,D,X
    1,R,J
-  12,R,D,X
+  11,R,D,X
+  40
 
 #lvl_Quinnigan8
-  40
-   2,R
+   3,R
    1,R,J
   14,R,D,X
-   2,R,J
-  14,R,U,X
+   1,R,J
+  13,R,U,X
   83,R,D
    1,D,X
    1,L,J
-  50,L
-#56.423(3319)
+  49,L
+   1,R
+ChapterTime: 0:55.522(3266)
