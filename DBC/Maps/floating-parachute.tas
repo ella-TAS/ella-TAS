@@ -15,9 +15,8 @@ console load DreamBlockContest2021/1-Submissions/theonlymrcat
   40
 
 #lvl_a-02
-  22,R,D
-   1,R,D
-   3,R,D
+  13,R
+  13,R,D
   15,R,Z
    6,R
   25,R,Z
@@ -99,9 +98,7 @@ console load DreamBlockContest2021/1-Submissions/theonlymrcat
   26,L
    9,L,J
   16,U,X
-  13,J
-   4,J
-   1,J
+  18,J
    5,R,K,G
   40
 
@@ -247,77 +244,19 @@ console load DreamBlockContest2021/1-Submissions/theonlymrcat
    9,R,J,G
    5,J
   16,U,X
-   8,L
-  17,L,X
-   4,R,G
-  12,R,U,Z
-   8,R
-   4,R,J
-   1,R,K,G
-   3,R
-   4,X
+   4,L
+  15,L,U,Z
+   1,J,G
+  10,R,J
+   5,R
+   6,R,K,G
+   5,U,X
    1,L
    1,R
   12
-   2,L
-   3,R
-   2,L
-   2,R
+Repeat 30
    2,L
    2,R
-   2,L
-   2,R
-   2,L
-   2,R
-   2,L
-   2,R
-   2,L
-   2,R
-   2,L
-   2,R
-   2,L
-   2,R
-   2,L
-   2,R
-   2,L
-   2,R
-   2,L
-   2,R
-   2,L
-   2,R
-   2,L
-   2,R
-   2,L
-   2,R
-   2,L
-   2,R
-   2,L
-   2,R
-   2,L
-   2,R
-   2,L
-   2,R
-   2,L
-   2,R
-   2,L
-   2,R
-   2,L
-   2,R
-   2,L
-   2,R
-   2,L
-   2,R
-   2,L
-   2,R
-   2,L
-   2,R
-   2,L
-   2,R
-   2,L
-   2,R
-   2,L
-   2,R
-   2,L
-   2,R
-   1,L
-#37.468(2204)
+EndRepeat
+   1
+#0:37.349(2197)
