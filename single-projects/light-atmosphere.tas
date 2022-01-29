@@ -1,50 +1,54 @@
-RecordCount: 230
+RecordCount: 416
 console, load, AstralightSky/Light Atmosphere/Light Atmosphere
    1
 
 #Start
-#lvl_1(0)
  190
-   5,R,Z
-   3,L,J
-   1,K,G
-   6,L,K,G
+
+#lvl_1 (0)
+   4,Z
+   2,L,J
+   3,K,G
+   5,J,G
   40
 
 #lvl_6
+   2,R,J
+   2,J
   15,U,X
-   4,R
+   1,R
   40
 
-#lvl_1(1)
+#lvl_1 (1)
    1,S
    1,D,J
   69,O
-   1,R,J
+   2,R,J
+  22,R,D,X
+  26,R
+   1
    1,R
-  15,R,D,X
-  20,R
-  11,R,D
-  10
-   3,R
-  12,R,X
-  29,R,J
-  17,U,X
-   4,L,K,G
+   4
+   1,R
+   5
+   1,R
+  14,R,X
+  24,R,J
+  15,U,X
+   5,L,J,G
+   2,L,K,G
    2,L,J,G
-   3,L,K,G
-   3,L,J,G
+   2,L,K,G
   40
 
 #lvl_end
    4,L
    4,L,K,G
    5,L,J,G
-   8,L
-   3,L,K
    5,L
-  15,U,X
-   2,L
+   2,L,J
+   7,L
+   2
+  17,U,X
  135
-
-ChapterTime: 0:08.619(507)
+ChapterTime: 0:08.551(503)
