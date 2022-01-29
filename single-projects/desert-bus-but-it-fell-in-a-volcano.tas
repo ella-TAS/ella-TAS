@@ -1,0 +1,124 @@
+RecordCount: 387
+console load Reinhardt/DumbLavaNeutralMap/DesertBusButItFellInAVolcano
+   1
+
+#Start
+#lvl_a1
+ 190
+   5,R
+   1,R,J
+  14,R
+   1,R,J
+  14,R
+  11,R,J
+  28,L,K
+   2,K
+  19,R,J
+  23,L,K
+   2,K
+  11,R,J
+   8,R
+  13,R,J,G
+   2,R,K,G
+   3,J
+  40
+
+#lvl_a2
+   1
+   6,R
+   1,R,J,G
+   1,R,K,G
+  11,R
+  13,R,J
+   2,J
+Repeat, 95
+   7,L,K
+   7,R,J
+Endrepeat
+   7,L,K
+   4,L,J,G
+  40
+
+#lvl_a3
+  11
+   5,J,G
+   1,R,K
+   6,R,J
+   1,R,K,G
+   1,R,J,G
+   7,R
+   1,R,J,G
+   9,R
+   1,R,J
+   7,R
+  40
+
+#lvl_a4
+   7,R
+   1,R,J
+  14,R
+   1,R,J
+  24,R,D
+  11,R,K
+   7,R
+   1,R,K,G
+  52,R,D
+   3,R,J
+   9,R
+   2,R,K
+   9,R
+   2
+   2,R,J
+   5,R
+   2,R,K
+  15,R
+   4,R,J
+   8,R
+   3,R,K
+   9,R
+   1,D
+  56,R,J
+  14,R,K
+   2,K
+   1,R,K
+   4,K
+  14,J,G
+  11,K,G
+   1,L,K
+   1,J
+  25,R,J
+   1,K,G
+   6,R,K
+   3,K
+   1,R,K
+   1,L,K
+   1,R,K
+  13,R,J,G
+  11,R,K,G
+   1,R
+  12,R,J,G
+   7,R
+   7,J
+   5,R,J
+  12,R,K,G
+   9,R,J,G
+   3,J
+   7,L,K
+   5,L
+   1,L,K
+   3,L
+   1,L,J,G
+   1,L,K,G
+  10,L
+   4,L,J
+   1,J
+   7,L,J
+   1,L,K,G
+  10,L,J,G
+   6,L
+   1,L,J,G
+   6,L,K,G
+  10,L,X
+ 135
+
+ChapterTime: 0:39.287(2311)
