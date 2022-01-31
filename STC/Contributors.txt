@@ -23,6 +23,7 @@ Topaz
 Tyran
 
 Special thanks to:
+Vamp
 phant
 mmm
 TheRoboMan
