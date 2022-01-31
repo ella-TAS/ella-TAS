@@ -1,4 +1,4 @@
-RecordCount: 10447
+RecordCount: 10487
 
 console load ricky06/cp/cp
    1
@@ -1915,12 +1915,12 @@ console load ricky06/cp/cp
   15,U,X
    5,R
   15,U,C
+   9,L,J
+  15,L
+  16,R,U,X
   12,R,J,G
-  12,R,K,G
-  12,J
-  12,R,K,G
-  12,R,J,G
-   2,K
+   9,R,K,G
+   2,J
   40,K
 
 #lvl_d-12
@@ -2647,4 +2647,4 @@ console load ricky06/cp/cp
    1,D,J
   18
 
-ChapterTime: 5:50.761(20633)
+ChapterTime: 5:50.676(20628)
