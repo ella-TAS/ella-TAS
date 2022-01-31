@@ -1,4 +1,4 @@
-RecordCount: 10176
+RecordCount: 10274
 
 console load ricky06/cp/cp
    1
@@ -6,6 +6,10 @@ console load ricky06/cp/cp
 #Start
 #lvl_00
   98
+
+#spinner cycle
+   1
+
   15,R,X
   10,R,D,C
    1,R,J
@@ -221,18 +225,15 @@ console load ricky06/cp/cp
    1
    7,R
    3,R,J
-   2,R,K,G
-  14,R,D,X
-   4,R,J
-   1,R
-   5,R,J
-   4,R
+   5,R,K,G
+  11,R
+  14,R,Z
   40
 
 #lvl_a-02
    1,R
-  14,U,X
-  23,R,J
+  12,U,X
+  24,R,J
    1,L,K,G
    1,R,K
    5,L,K
@@ -267,7 +268,7 @@ console load ricky06/cp/cp
 #lvl_a-05
   15,R,D,X
    4,R
-   3,R,J
+   3,R,D,J
   37,R,X
   12,R,U,Z
   34,L,U,X
@@ -2665,4 +2666,5 @@ console load ricky06/cp/cp
    1,S
    1,D,J
   18
+
 ChapterTime: 5:51.458(20674)
