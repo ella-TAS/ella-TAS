@@ -1,4 +1,4 @@
-RecordCount: 8195
+RecordCount: 8262
 console load StartupContest2021/1-Submissions/ZZ-HeartSide
 
 #Start
@@ -578,7 +578,8 @@ Endrepeat
    2,R
    1
    1,R
-   7,R,J,G
+   1,R,J,G
+   6,R,J,G
   17,R
   18,R,J
   15,U,Z
@@ -1026,32 +1027,28 @@ Endrepeat
   28,R,D
   11,R,J
    8,R
-   6,R,K
-   1,R
-   2,R,K
-  10,R
-  15,R,J
+   8,R,J
+   9,R
+   2
+   2,R,J
+  13,J
   18,U,X
    1,R,J,G
-   2,L
-   8,R
-   2,R,J
-
+  10,R
 #-Subconsciousness
   12,U,X
-  29,R,J
-   1,R,K,G
+  28,R,J
+   3,R,K,G
   10,R
    3,R,J
-   1,R
   18,U,X
-   1,J,G
+   2,J,G
    2
-   4,R
-   3
+   5,R
+   2
    1,L
    6,L,J
-  20,U,X
+  19,U,X
   24,L,J
   14,K,G
    1,J,G
@@ -1114,16 +1111,18 @@ Endrepeat
   12,R,D,X
    7,R,J
    1,R,K,G
-  17,R
+   8,R
+   1,R,K
+   9,R
    1,R,J
   17,R,D,X
    1,R,J
-   6,R
+   5,R
    9,R,D,X
   40
 
 #lvl_startside_00
-   6,R
+   6,R,D,X
   10,R,J
   15,R,U,X
   15,R,U,C
@@ -1286,5 +1285,4 @@ Endrepeat
   15,U,X
   10,U,C
  135
-
-ChapterTime: 2:57.259(10427)
+ChapterTime: 2:57.225(10425)
