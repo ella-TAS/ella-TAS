@@ -1,4 +1,4 @@
-RecordCount: 1050
+RecordCount: 1128
 console load StartupContest2021/1-Submissions/earthwise
    1
 
@@ -196,13 +196,35 @@ console load StartupContest2021/1-Submissions/earthwise
    7,L
    1,L,K
    1,R
-  96
-   2,K
-   7
-   2,K
-   7
-  15,D,X
-  40,C
+  10
+   5,L
+   1
+   2,L,J
+  15,L,D,X
+   1,R,J
+  14,R,Z
+   1,L,J
+   3,J
+   1
+  15,L,D,X
+  14,L,D,C
+   1,R,J
+   8,R,D,X
+   1,R,J,G
+   6,R
+   1,R,J
+   2,R
+   1
+  10,R,J
+   5,R,K,G
+   1,R,J,G
+   2,R
+   1,R,K,G
+   1,R
+   1,R,J,G
+   8,R,D
+  12,D,X
+  40,U,C
    3,L
    8,L,U,X
    1,K
@@ -247,6 +269,4 @@ console load StartupContest2021/1-Submissions/earthwise
 #lvl_end
   10,R,U,C
  135
-ChapterTime: 0:38.641(2273)
-
-
+ChapterTime: 0:38.624(2272)
