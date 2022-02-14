@@ -16,7 +16,7 @@ console load DreamBlockContest2021/1-Submissions/dilly
   40
 
 #lvl_a01
-  11,R,D
+  11,R
   21,R,X
    4,R,J
    1,R,K
@@ -26,17 +26,16 @@ console load DreamBlockContest2021/1-Submissions/dilly
   40
 
 #lvl_a05
-   1,R,J
   10,R
   18,R,X
    1,R,C
    4,R,J
-   2,R,K
+   1,R
    1,R,K
+   1,R
   19,R,X
    7,R,C
-   4,J
-   2,J
+   6,J
    1,R,K
    6,R,U,Z
    1,R,J,G
@@ -58,9 +57,8 @@ console load DreamBlockContest2021/1-Submissions/dilly
   12,R,U,X
    2,R,J,G
   11,R
-   1,R,J
-  19,R,D,X
-  21,R,C
+  15,R,Z
+  24,R,X
    4,R,J
   19,R,K
   15,R,D,X
@@ -316,7 +314,8 @@ console load DreamBlockContest2021/1-Submissions/dilly
   40
 
 #lvl_b02
-  10,R,D
+   5,R,D
+   5,R
   15,R,D,X
    4,R,J
    1,R,K
@@ -340,6 +339,6 @@ console load DreamBlockContest2021/1-Submissions/dilly
   10,R,C
    4,R,X
    2,R,C
-   1,R,U,J,X
- 147,R,C
-#49.912(2936)
+   4,R,U,J,X
+ 144,R,C
+ChapterTime:0:49.861(2933)
