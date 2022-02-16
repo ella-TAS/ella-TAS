@@ -31,11 +31,12 @@ console load DreamBlockContest2021/1-Submissions/elissv
    5,R,J
   17,R,U,X
    1,J,G
-   1,L,J,G
-   1,L,K
-   7,L
+   1,K
+   1,J,G
+   4
+   3,L
    2,L,J
-  25,L,X
+  24,L,X
   26,U,C
    6,U,X
   40
@@ -51,21 +52,31 @@ console load DreamBlockContest2021/1-Submissions/elissv
   49,U,C
   44,R,D,X
   35,U,C
-   9,L,U,X
+   2,L,J
+   5,L
+   4,L,J
+   1,L,J,G
+   1,L,K,G
+   1,J
   40
 
 #lvl_eliss_spire_03
-  11,L
-  12,L,D,X
-   3,L,J
-  12,U,X
-   6,L,J
-  12,R,J
-  12,R,K,G
-   8,R,J,G
-   1,R,K,G
+  13,L,J
+   1
+   6,L,U,Z
+   1,R
+   1,J,G
+   5
+   5,L
+   2,L,J
+  14,U,Z
+  10,L,J
+   1,J
+   4,R,J
+   1,J
+   1,K
    7,R
-  12,R,X
+  14,R,X
   32,R,C
    7,L,X
   14,D,C
@@ -95,25 +106,34 @@ console load DreamBlockContest2021/1-Submissions/elissv
   40
 
 #lvl_eliss_spire_04b
-  11,J
-  19,R,U,X
-   5,R,J
+  10,R,J
+   4,J
+   1,R,J
+  22,U,X
+  10,L
+  15,U,X
+   1,J,G
+   6,L
+   1,R
+   1,R,J
   29,U,X
-   4,L
-  29,L,U,X
-   5,L,J
-   5,L,K
-  12,L,J,G
-   3,L,K,G
-   4,L,J,G
-  14,U,X
-   8,R,J
-  14,R
-  16,U,X
+  13
+  15,U,X
+   6,R
+   5,G
+   3,J
+   1,L,J
+   5,J
+   7,R
+  15,U,X
   11,R,J
   11,R
-   6,R,J
-  15,U,X
+   1,R,J
+   1,J
+   1,R,J
+   2,J
+  15,U,Z
+   1,K
   40
 
 #lvl_eliss_spire_05
@@ -126,77 +146,81 @@ console load DreamBlockContest2021/1-Submissions/elissv
    9,K,G
   12,R,U,X
   24,R,U,C
-  27,R,D,X
-   5,R,J
+  28,R,D,X
+   4,R,J
   32,L,U,X
   21,R,U,C
-  49,L,X
-  24,U,C
-   9,U,X
-  11,D,C
-  55,R,X
-  11,U,C
-   9,D
+  22,L,X
+  24,L,C
+  24,U,X
+   1,K
+  12,D,X
+  60,R,C
+  11,U,X
+   5,L
+   4
   10,U,X
   40
 
 #lvl_eliss_spire_06
-   1,R
-  27,L,J
+   1,L
+  26,L,J
   18,R,U,Z
   58,L,C
   19,R,U,X
   16,R,D,C
   14,R,U,X
-   4,U,C
-  11,U,X
-   1,L
+   6,R,U,C
+   7,L,U,X
+   4,L,J
+   3,L,K
+   1,J
   40
 
 #lvl_eliss_spire_07
-  11,L
-  11,L,D,X
-  10,L,J
-  20,U,C
-   8,R,U,X
-   5,R,J
+   6,L,J,G
+   9,J
+  17,U,C
+   9,R,U,X
+   4,R,J
    1,R,K
   15,R,U,X
    9,R,U,C
   15,U,X
-   8,R,C
-   5,R,J
+   9,R,C
+   4,R,J
    1,R,K
-  26,R,U,X
-   5,R,J
+  27,R,U,X
+   4,R,J
   24,L,U,X
    5,L,J
    1,L,K
   29,L,X
   17,L,D,C
-   4,L,D,X
-   9,L,D,C
+   7,L,D,X
+   6,L,D,C
   20,U,X
-   9,R,U,C
+   8,R,U,C
    4,R,J
    1,R,K
-  26,R,U,X
-   5,R,J
+  27,R,U,X
+   4,R,J
    1,R,K
-  16,R,X
-   4,U,C
-  23,U,X
+  16,R,U,Z
+   4,U,X
+  19,U,C
   40
 
 #lvl_eliss_spire_08
    1,L,J,G
    9,L
    1,L,J
-   4,D,X
-   2,L,J
-   8,L
-  12,L,J
-  20,U,X
+   4,Z
+   1,L,J
+   5,L
+   2
+  14,L,J
+  19,U,X
   16,R,C
   15,R,U,X
   20,R,C
@@ -228,17 +252,18 @@ console load DreamBlockContest2021/1-Submissions/elissv
 
 #lvl_eliss_spire_09
   10,R
-   2,R,J,G
-   4,Z
+   1,R,J,G
+   5,Z
    1,R,J
    7,R
-   3,R,J
+   2,R,J
   10,R,X
   13,R,J
   54,U,X
    9,R
-  51,U,X
-  13,J
+  49,U,X
+  15,J
   15,U,X
- 135,R,D
-#48.739(2867)
+ 134,R,D
+   1,L
+ChapterTime: 0:48.229(2837)
