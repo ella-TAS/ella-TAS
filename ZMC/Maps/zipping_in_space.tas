@@ -1,5 +1,5 @@
 #By Firethief1
-RecordCount: 727
+RecordCount: 806
 console load ZipMoverContest2021/1-Lobby/SkillshareKirby
    1
 
@@ -57,8 +57,7 @@ console load ZipMoverContest2021/1-Lobby/SkillshareKirby
    6,R
    8,R,J,G
   11,R
-  14,R,X
-  29
+  43,R,X
    1,R,J
    3
    1,R,K
@@ -126,19 +125,26 @@ console load ZipMoverContest2021/1-Lobby/SkillshareKirby
   12,R,K,G
    7,L,J
   18,U,X
-  24,R,J
+  23,R,J
+   1,L,J
   15,U,X
-   4,R
-  12,L,J
-  10,L,D
-  26,L
+   2,R
+   1
+   1,R
+   1
+   1,R
+   1,K
+   1,L,J,G
+  11,L,J
+   9,L
    4
    1,L,J
   12,L
    1,L,J
   10,L
   12,R,Z
-  12,R,J
+  10,R,J
+   2,R
    4,R,K,G
   22,R
   14,R,U,X
@@ -158,4 +164,4 @@ console load ZipMoverContest2021/1-Lobby/SkillshareKirby
    5,R
  134
    1,L
-ChapterTime: 0:24.208(1424)
+ChapterTime: 0:23.800(1400)
