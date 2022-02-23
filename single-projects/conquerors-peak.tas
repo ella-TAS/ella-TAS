@@ -1,4 +1,4 @@
-RecordCount: 10810
+RecordCount: 11373
 
 console load ricky06/cp/cp
    1
@@ -9,7 +9,6 @@ console load ricky06/cp/cp
 
 #spinner cycle
    1
-
   15,R,X
   10,R,D,C
    1,R,J
@@ -44,6 +43,7 @@ console load ricky06/cp/cp
   12,R,J,G
    4,R,K,G
    7,R
+#0:03.332(196)
    3,R,J
    1,R,K,G
    1,R,J,G
@@ -957,7 +957,6 @@ console load ricky06/cp/cp
    5,L,D
   15,L,X
    6,L
-
    4,L,Z
    5,L,J
    5,L,K,G
@@ -975,55 +974,64 @@ console load ricky06/cp/cp
   15,U,X
    1,L
   34,R,J
-  10,R,K,G
-   1,R
-  10,L,J
+   1,R,G
+  10,R,J,G
+  10,L,K
    2,L
   15,L,Z
-   1,L,G
-  12,L,K,G
-   3,L,J,G
-   2,L
+   2,L,G
+  12,J,G
+   4,K
+   5
    1,K
-  15,D
-   3,L,D
+   3
+   1,K
+   1
+   1,K
+   2
+   4,L
    7,L,X
    1,L,J,G
-  21,L,D
-  14
+  18,L
+   1,L,D
+   1,L
+   1,L,D
+   3
+   7,D,X
+  10
    4,R
-  18,U,X
-   2,R
-  18,R,U,C
-  10,R
-  13,R,Z
-   5,J,G
-   2,L,J
-   6,R,J
-  50,G
-  10,L,J
-  13,U,X
-  15,R,J
-  19,R
-   1,R,G
    1
-   2,J
-   6
-   2,J
-   4
-  14,L
-  11,R,X
-  10,R,J,G
-   6,R
-   3,R,J
-  14,R
+  20,U,X
+   2,R
+  15,R,X
+  17,R,C
+   8,L,Z
+   1,R,J
+   7,R
+   1,R,D
+  10,R,D,J
+  10,L,J
+   1,L,K,G
+   1,J,G
+  22,R,J
+  15,L,U,X
+   5,L,G
+   1,L,K,G
+   4,L,G
+   4,G
+   1,R,K
+   9,R,J
+   3
+   3,R
   15,U,X
   18,U,C
-  29,L,X
-  25,L,U,C
+  15,L,X
+  11,L
+  28,L,U,C
   24,L,U,X
-   2,L,J,G
-   7,L
+   1,K,G
+   5,L
+   2,R
   12,L,D,X
    3,L,J
   12,L,U,X
@@ -1589,55 +1597,28 @@ console load ricky06/cp/cp
   20,R,D,C
   11,R,X
    5,R,J
-   4,R,K,G
+   6,R,K,G
    6,R
-  18,U,X
-
-#lvl_d-01
-  15,D,C
-   2,D
-   4,L,D
-   4,L,Z
-   1,L,J
-   7,L
-   3,L,J
-  14,L,D,X
-   2,L,J
-   2,L
-   7,L,D,X
-   1,L,J,G
-  11,L
-  20,L,J
-  15,U,X
-   1,L,J,G
-   2,L
-   1,L,J,G
-   7,L
-   4,L,Z
-   1,L,J
-   7,L
-   1,L,D
-   4,L
-   1,L,J
-   1,L
-  14,L,J
-  11,U,X
-  18,L,J
-   7,L,K,G
-   1,J
+  11,R,U,Z
+  14,L
   40
 
 #lvl_d-02
-   1,R
-   1,L
-   9,J,G
-   2,R,J
+   1,S
+   1,D,J
+  69,O
+  10,R,J
   34,R,U,X
-   1,L
-   9,R
-   6,L
+   7,R
+   1
    1,R
+   1
+   1,R
+   3,L
+   1
    2,L
+   1,R
+   1
   10,L,X
    1,R,J
   10,L,J
@@ -2640,4 +2621,4 @@ console load ricky06/cp/cp
    1,D,J
   18
 
-ChapterTime: 5:49.826(20578)
+ChapterTime: 5:46.800(20400)
