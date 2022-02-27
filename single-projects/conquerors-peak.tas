@@ -9,6 +9,7 @@ console load ricky06/cp/cp
 
 #spinner cycle
    1
+
   15,R,X
   10,R,D,C
    1,R,J
