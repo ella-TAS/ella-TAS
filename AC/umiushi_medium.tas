@@ -1,0 +1,124 @@
+RecordCount: 295
+console, load, AnarchyCollab2022/Umiushi/Starstruck Galaxy
+   1
+
+#Start
+#lvl_start
+ 190
+  13,L
+   1,L,J
+  14,L
+  26,L,J
+  12,U,X
+  30,R,J
+  50,L,X
+  10,U,C
+  36,R,J
+  13,U,X
+  15,U,C
+  15,D,X
+  20,R,D
+  12,R
+  39,R,D
+   6,R,Z
+   1,R,J
+   7,R
+   1,R,J
+  11,R,D,X
+  40
+
+#lvl_a-2
+   3,R
+   1,R,J
+   7,R
+   4,R,J
+  10,R,X
+   1,J
+   5,L,J
+  18,U,X
+ 105,R,G
+   1,U,G
+   6,U,X
+  22,R,J
+  48,R
+  55,D,X
+  12,R,D
+  35,R
+  15,R,D,X
+   1,R,J
+   8,R
+  40
+
+#lvl_a-3
+   6,R
+  11,R,J
+   8,R
+  14,R,D,X
+  24,R,J,G
+  63,R
+   7,R,Z
+   1,L,J
+  10,L,K
+  38,L
+  77,U,X
+  14,R,Z
+  10,R,J
+  17,R
+  14,R,X
+  45,R
+   1
+   1,R
+  14,R,D,X
+   1,R,J,G
+   1,R
+   6,R,K,G
+   5,R
+   1,R,K
+   5,R
+   2,R,J
+  40
+
+#lvl_a-4
+   6,R,J
+  15,R,D,X
+  14,R,J
+  15,R,D,X
+   1,D
+   1,L,J
+   4,L,J
+   5,R,J
+  15,U,X
+   5,R
+  21,R,J
+  11,R,D,X
+   4,R,J
+  41,R,D
+  10,L,Z
+   5,R,J
+  12,R,D,X
+  14,R,D,C
+  24,R,J
+   1,K
+  28,R,K
+   5,U,X
+  20,L,J
+  21,U,X
+  14,R,Z
+  39,R,J
+  18,R,U,X
+  50,R
+  13,R,D,X
+   1,R,J,G
+   7,R
+   2,R,K
+   4,R
+   1,R,J
+   8,R,D,X
+  40
+
+#lvl_a-5
+
+
+
+
+
