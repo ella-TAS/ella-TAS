@@ -4,7 +4,7 @@ console load DadCollab2018/1-DadCollab2018/Dartheline
 #Start
 #lvl_Dartheline-1
  190
-   4,D,X
+   4,Z
    1,R,J
   12,R
    5,R,J
@@ -13,34 +13,37 @@ console load DadCollab2018/1-DadCollab2018/Dartheline
    1,J
   44,R,D
   34,R,X
-   1,R,J
-  10,R,D
+   4,R,J
+   7,R,D
   40,D
    7,R,D
-  14,D
-   4,D,X
-  10,R,X
-   1,R,J
-  10,R
-  11,R,J
-  15,U,X
+  16,D
+  14,R,Z
+   4,R,J
+   4,R,K
    5,R
-   9
-  10,R,J
-  20,U,X
-  10,R,J
-  20,U,X
-   7,R,J
-  25,R,X
-   9,R,C
-  40
+   7,R,K
+  26,U,X
+   4,R
+  25,U,X
+   4,R
+  25,U,Z
+   7,R,X
+   1,R,J,G
+   8,R
+   2,R,K
+   4,R
+   4,Z
+   1,R,J
+   2,R
+  43
 
 #lvl_Dartheline-2
-   8,R,D,C
-  13,R,J
-  21,R,X
-   1,R,J
-  14,R,X
+   5,R
+  12,R,J
+  17,R,X
+   4,R,J
+  11,R,X
    6,R,J
   24,R,U,X
   10,D,C
@@ -48,8 +51,7 @@ console load DadCollab2018/1-DadCollab2018/Dartheline
   16,R,D,X
    5,R,J
    7,R
-   4,D,X
-   8,R,U,X
+  12,R,U,Z
    6,R
   15,U,X
   10,L,D,C
@@ -64,17 +66,14 @@ console load DadCollab2018/1-DadCollab2018/Dartheline
    6,K,G
   14,R,U,C
    1,J,G
-   4,D,X
-  25,R,X
-   1,R,J
-   7,R,J
+  29,R,Z
+   8,R,J
   17,R,K
   15,U,X
    1,R
    5,R,J,G
-   8,R
-   4,D,X
-   3,L
+   7,R
+   7,L,Z
    1,R,J
    1,R
    1,R,J
@@ -85,13 +84,11 @@ console load DadCollab2018/1-DadCollab2018/Dartheline
    3,L,D
   13,D
    8,R
-   4,D,X
-  11,R,U,X
+  15,R,U,Z
    6,R,J
   10,R,U,X
   15,R
-   4,D,X
-   2,R,X
+   6,R,Z
    1,R,J
    7,R
    1,R,J
@@ -135,19 +132,18 @@ console load DadCollab2018/1-DadCollab2018/Dartheline
    1,R,J
   18,R,X
    4,R,J
-   4,D,X
-  16,R,J
-  37
-  11,R
+   4,Z
+   1,R,J
+  13,R
+  41
+   7,R
   22,D
-   4,D,X
-  20,R,X
+  24,R,Z
    4,R,J
   10,R
    5
    4,R
-   4,D,X
-  18,R,U,X
+  22,R,U,Z
   19,R,D,C
    4,R,D,X
    1,R,J
@@ -161,4 +157,4 @@ console load DadCollab2018/1-DadCollab2018/Dartheline
   13,U,X
  135
 
-ChapterTime: 0:32.725(1925)
+ChapterTime: 0:32.300(1900)
