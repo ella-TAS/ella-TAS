@@ -1,15 +1,14 @@
-RecordCount: 11373
+RecordCount: 15019
 
 console load ricky06/cp/cp
    1
 
 #Start
-#lvl_00
-  98
-
 #spinner cycle
    1
 
+#lvl_00
+  98
   15,R,X
   10,R,D,C
    1,R,J
@@ -44,7 +43,6 @@ console load ricky06/cp/cp
   12,R,J,G
    4,R,K,G
    7,R
-#0:03.332(196)
    3,R,J
    1,R,K,G
    1,R,J,G
@@ -85,7 +83,6 @@ console load ricky06/cp/cp
   15,U,Z
    4,J,G
 
-
 #cool strat
 #loses 5f :(
 #   2,R,J
@@ -109,7 +106,6 @@ console load ricky06/cp/cp
 #   6,R,J
 #  16,R
 #0:09.248(544)
-
 
    2,R,J
    1,L
@@ -390,6 +386,7 @@ console load ricky06/cp/cp
   14,L,X
   14,L,J
   14,L,U,X
+
   42,R,C
   14,R,D,X
    1,R,J
@@ -478,6 +475,7 @@ console load ricky06/cp/cp
    4,L,Z
    1,L,J
   32,L
+
   26,L,D
   15,L,D,X
    4,L
@@ -520,6 +518,7 @@ console load ricky06/cp/cp
   11,R,J
    5,R,K,G
    6,R
+
    2,R,K
   16,R,D
    3,R
@@ -566,6 +565,7 @@ console load ricky06/cp/cp
    4
   14,R,Z
    2,R,J
+
   11,R,K,G
    8,R
    3,R,K
@@ -715,8 +715,7 @@ console load ricky06/cp/cp
    7,R
    7,R,J
   10,R,X
-   5,R,J
-   1,R,J
+   6,R,J
    5,R,K,G
    1,R
   14,R,U,X
@@ -884,6 +883,7 @@ console load ricky06/cp/cp
    1,L,K,G
    1,R
    6,L
+
    6,L,X
   40
 
@@ -901,18 +901,20 @@ console load ricky06/cp/cp
   10,L,Z
    2,J
    9,L,J
-   3,L,K,G
-  20,J,G
-  17,U,X
-  26,R,J
+   2,L,K,G
+   1,L
+  10,J,G
+   6,L,J
+   1,L
+  20,U,X
+  20,R,J
+   4,J
+   2,R,J
   15,U,X
-   8,R
+   9,R
   15,U,X
   13,R
-   2
-   2,R,J,G
-   1
-   1,R,J,G
+   2,R,K,G
    7,R
   10,R,D,X
   15,R,J
@@ -940,9 +942,9 @@ console load ricky06/cp/cp
    6,L
   14,L,U,Z
    1,R,J,G
-   9,L,J
-  18,L,D
-   5,D
+   7,L,J
+   6,L
+  16,L,D
   14,L,D,X
    1,L,J
   11,L,D,X
@@ -954,11 +956,10 @@ console load ricky06/cp/cp
   15,L,D,X
    7,L,J
   15,L,D,X
-  35,L,J
-   5,L,D
+  40,L,J
   15,L,X
-   6,L
-   4,L,Z
+   8,L
+   5,L,D,X
    5,L,J
    5,L,K,G
   40
@@ -1041,17 +1042,21 @@ console load ricky06/cp/cp
   40
 
 #lvl_b-12
-  11,L,J
-  14,L,U,X
-  12,L,K,G
+  10,L,J
+  16,L,U,X
+   7,L,K,G
+   1,L
+   1,L,K,G
+   1,L
+   1,L,K,G
    7,L
-   5,R,Z
+   4,Z
    1,L,J
-   8,L
+   9,L
    1,L,J
   30,L,D,X
    1,L,J
-   8,L,D,X
+   7,L,D,X
   40
 
 #lvl_b-12a
@@ -1122,57 +1127,62 @@ console load ricky06/cp/cp
   14,L,J
   14,L,K,G
   14,L
-   1,L,J
-   1,L
-  12,L,J
+   6,L,K
+   5,L
+   1,L,K
   18,L
-   2,R
-  11,R,Z
+  13,R,D,X
+   7,L,J
+   1,J
    5,L,J
-   6,L
-   6,R,J
-  15,L,Z
-  12,R,D
-   4,L,Z
-   1,L,J
    3,L
+  15,L,Z
+   2,L,D
   40
 
 #lvl_b-14
-   4,L
-   6,L,J
-  15,L,D,X
+  20,L,D,X
+   4,L,Z
+   2,L,J
+  10,L
   15,D,C
-  11,L
-   4
-  14,R,Z
-   1,L,J
-   6,L,D,X
-   1,L,K,G
-   1,L,J,G
-   1,L,K,G
-   1,L,J,G
+   1,J
    4,L
-   1
-   1,L
+   7
+   4,R
+   3,L
+   4,L,Z
+   1,L,J
+   1,L,K,G
+   1,L,J,G
+   1,L,K,G
+   3,L,J,G
+   6,L
+   2,L,J
+   2,L,D
+   4,L,D,J
+   5,L
    1,L,J
    1,L
-   3,L,D,J
-  22,L
-  14,L,U,Z
+  14,L,J
+   2,J
+  10,L,X
   40
-
+ 
 #lvl_b-16
-   6,L
-  15,L,Z
-   4
-  32,L,K
+   5,L
+  13,L,U,Z
+   1,R
+  12,K,G
+  10,L,K
+   7,L
   14,L,U,X
-   4,L,K,G
-  23,L,D
+   1,L,K,G
+  16,L
+   8,L,D
    8,L
   15,L,U,X
-  17,L,D,C
+  16,L,D,C
    1,D
    1,L,J
   14,L,D,X
@@ -1251,26 +1261,25 @@ console load ricky06/cp/cp
   15,U,X
   11,R,J,G
    7,R
-   7,R,Z
+   4,R,Z
+   3,R,J
+   8,R
    1,R,J
-   6,R
-   1,R,J
-   5,R,D,X
   40
 
 #lvl_b-19
-   6,R,D,X
+  11,R,D,X
    1,R,J
    7,R
-  19,R,J
-   2,R
-  15,U,X
-  19,R,Z
-  15,R,U,X
+  20,R,J
+  18,U,X
+  15,R,U,Z
+  18,R,X
+   8,R,G
   27,R,U,G
-  37,R,G
+  30,R,G
   11
-  28,L,J
+  25,L,J
    7,L
   25,L,U,X
   12,R
@@ -1280,8 +1289,8 @@ console load ricky06/cp/cp
   11,D
    4
    1,R,D
-  15,U,X
-  10
+   4,D
+  18,U,X
   16,R
   15,R,Z
    2,D
@@ -1290,16 +1299,20 @@ console load ricky06/cp/cp
    2,R,G
    7,R,J,G
   10,R
-  21,L,G
-   2,L,U,G
+  23,L,G
    8,L,J,G
    8,K
   20,R,K
-  38,R,D
-  14,R,Z
+  29,R,D
+   2,D
+   6
+   1,R,D
+   4,R,Z
+   1,R,J
+   6,R
    4,R,J
   15,R,D,X
-  16,R
+  18,R
   20,R,U,X
   15,U,C
   25,L
@@ -1308,30 +1321,37 @@ console load ricky06/cp/cp
   14,R,D
   10,D
   13,R,D,X
-   5,R,J
-  13,R
+   4,R,J
+   1,R
+   1,R,J
+  12,R
   15,R,Z
-   6,R
+   5,R
   10,R,D,X
    8,R,J
    5,R
-   3,R,J
+   2,R,J
+   1,R
   14,R,U,X
    1,R,K,G
-   9,R
-   6,R,J
+   8,R
+   1,R,D
+   3,R,J
+   1,R
+   1,J
+   1
   15,U,X
-   1,R,K,G
    2,R
+   1,R,J,G
    1,R,K,G
    7,R
-  10,R,X
-  12,R,J
+  16,R,J
   15,U,X
-  18,L,J
-  12,L,K,G
-   1,L,J,G
-   4,R,J
+  14,R,J
+   4,L,J
+  11,L,K
+   1,J,G
+   2,R,J
   40
 
 #lvl_b-20
@@ -1354,136 +1374,145 @@ console load ricky06/cp/cp
    8,J
   15,U,X
   24,L,J
-   8,K,G
-   1,J
-  18,L,J
+   1,K,G
+   4,L,K
+   1,R,K
+   3,L,J,G
+   2,R,J
+   7,L,J,G
+   2,L,J,G
+  13,L,K,G
+  13,L,J,G
   12,L,K,G
-  15,L,J,G
-   8,L,K,G
    7,L
-   4,Z
+   4,L,Z
    1,L,J
    6,L
    6,L,J
-   6,L,D,X
-   1,L,J
-   7,L
-   8,J
-   9,R,D,X
-
+  12,L,D,X
+   3,L,J
+  18,L,U,X
+  
 #lvl_c-01
-   1,R,D,X
-   8,R,J
-  14,R,D,X
+  15,D,C
+   1,R
+   4,R,X
    1,R,J
-  14,R,D,X
-   6,R,J
-  13,R,U,X
-   2,R,J,G
-  14,R
+   1,R,K
    1,R,J
-   5,R,D,X
-  40
-
-#lvl_c-02
-   4,R,J
-   2,R
+   1,R,K
    1,R,J
-  38,R
-  14,U,Z
-   9,R,J
-   6,L,J
-   5,L,K,G
-   1
-   1,L,K,G
-   7,L
-   2,L,J
-  14,R,U,X
-   1,L,J,G
+   1,R,K
   11,R,J
+   1,J
+  15,R,D,X
+   1,R,J
+  13,R,U,X
+   2,R,K,G
+   9,R
+  40
+ 
+#lvl_c-02
+  10,D
+  12,R,D
+   1
+   3,R
+  13,U,Z
+   9,R,J
+   3,L,J
+   1,L,K,G
+   5,L,J,G
+   1,K,G
+   7,L
+   1,R
+   8,R,J
+  14,U,X
   40
 
 #lvl_c-04a
-   3
-   2,R
-   6,L,J
-  14,L,U,X
-  12,L,J,G
+   3,R
+   1
    1,L,K,G
-   1,L
    1,L,J,G
-   7,L
-  10,L,Z
-  19,R,J
+  10,L,K,G
   15,U,X
-  12,L,K,G
-  12,L,J,G
-   8,L,K,G
-   2,L
-   1,L,J,G
+   1,L
+   1,L,K,G
    7,L
-   5,L,Z
+  10,L,X
+   9,R,J
+   5,R
    1,R,J
+   1,L,K,G
+  17,R,K
+  12,U,Z
+  11,R,J
+   2,R
+   1,R,K,G
    7,R
-   2,R,J
-   7,R,U,X
-   2,R,J,G
-  11,R,K,G
+   5,R,X
+   5,R,J
+   1,R
+   1,R,K,G
+   9,R
+  10,R,J
+   5,R,K,G
+  14,R,U,X
+   1,R,J,G
+   1,K,G
    7,R
-  12,R,J
-  10,R,K,G
+   1,L
    1,J
-   1,R,J
    2,R
   15,R,Z
-  28,L,D
-   1,L
+  24,L,D
+   4,R,D
+   1,R
    1,J
   34,R,D
-   3,L,D
-  41,D
-   6,L,D
+   7,L
+  21
    3,L
-  30,L,Z
-   5
+  15,D,X
+   7,D,X
+   1,L
+  29,L,Z
+   6,L
 
 #lvl_cbonus
   12,L,J
    5,K,G
    2,R,K
-  12,R,J
-  15,L,K,G
-  13,L,J,G
-   3,R,J
-  14,L,K,G
+   1,J
    8,R,J
-  40,R,K
-  30,R,U,X
-   6,R,J,G
-   3
+   3,L,J
+   6,L,K,G
+   1,J,G
+  10,L,J
+   1,R,J
+  14,L,K,G
+   1,J,G
+  10,L,J
+   1,R,J
+   7,R,K
+   1,R,J
+  13,R,K
+  25,R
+   1,R,K,G
+  25,R,J,G
+   3,R
+   2
    1,R
-   1
-   1,R
-   1
-   1,R
-   3,L
-   4,R
-   3
-   2,L
-   1,R
-   1,R,G
-  22,R,J,G
+  10,L,D,X
+   3,R,J
+   7,R
   15,R,Z
-   6,R
-   2,L
-  12,L,J,G
-   4,K,G
-   1,R,K
-  11,R,J
-   7,L,K,G
-   5,R,K
-  12,R,J
-   8,R,K,G
+   3,L
+  15,L,J,G
+  12,R,K
+   8,L,J,G
+  12,R,K
+  12,R,J,G
    5,L
   13,R,U,X
    2,L
@@ -1494,55 +1523,54 @@ console load ricky06/cp/cp
   25,L,D
    3,L
   27,L,Z
+  12,L,J
   15,U,X
-  18,R,J
-  12,R,K,G
+  18,R,K
   12,R,J,G
   12,R,K,G
   12,L,J
    6,K,G
   10,J
-  38,L,X
-  70
-  36,L,Z
+   4,L,X
+  50,L,D,X
+  34,L,Z
    1,R,J
-
+  56,R,D,X
+   1,R,J
+   1,R,K,G
+  
 #lvl_c-14
-   3,R,J
-   4,R
-  27,R,Z
-  24,R,X
-  11,R,C
-   1,R,J,G
-  10,R
+  10,R,K,G
+  15,R,D,X
+   8,R
+  18,R,U,X
+  10,R,Z
    1,R,J
+   4,R
    7,R,D,X
   40
-
+  
 #lvl_c-15
    7,R,D,X
    1,R,J
-  10,R,D,X
-  11,R,J
-  14,R,D,X
+  12,R,D,X
+   1,R,J
+   7,R
+  10,R,J
+   5,R
+   3,R,J
+   1,R
    2,R,J
-   2,R
-  11,R,U,X
-  12,R,J,G
-   1,R,K,G
-   1,R,J,G
-   1,R,K,G
-   7,J
-   2,L,J
-  16,L,U,X
-  29,R,U,C
-  13,R,J
+   1,K
+  14,R,K
   15,U,X
-  12,R,J,G
-  12,K
-  11,R,J,G
-   2,R
-   1,R,K,G
+   5,R
+  27,R,U,X
+  18,R,J
+  15,U,X
+   1,R
+  25,R,J
+   4,R,K,G
    7,R
    6,R,J
    1,R
@@ -1585,23 +1613,24 @@ console load ricky06/cp/cp
 
 #lvl_c-20
    9,R,D,X
-  17,R,J
-  18,R,Z
-  15,R,C
+  18,R,J
   18,R,X
+  15,R,C
+  15,R,X
   18,R,C
   18,R,X
   15,R,C
   15,R,X
   15,R,C
   18,R,X
-  20,R,D,C
-  11,R,X
-   5,R,J
-   6,R,K,G
-   6,R
-  11,R,U,Z
-  14,L
+  19,R,D,C
+  12,R,X
+   4,R,J
+   2,R,K,G
+   2,R
+   1,R,J,G
+  17,R,K,G
+  13,R,D,X
   40
 
 #lvl_d-02
@@ -1674,12 +1703,16 @@ console load ricky06/cp/cp
   18,D
   17,L,D
    3,D
-   8,L
-   7,L,J,G
+   4,L
+   2,L,D
    1,L
-   5,L,J
-  13,L
-   3,L,J
+   1,L,D
+   1,L,K,G
+   4,L,J,G
+   6,L
+   1,L,J
+  11,L
+   2,L,K
   10,L
   34,L,X
   14,U,Z
@@ -1737,57 +1770,51 @@ console load ricky06/cp/cp
    3,K
   10,L,Z
    1,L,J
-  12,L,K,G
-   2,L,J,G
-   1,K
-   1,L,J,G
-   5,L,Z
-   1,L,J
+   4,L,K,G
+  12,L,U,X
+  11,L,K,G
    7,L
-   2,L,J
-  10,L
-  18,L,X
-  31,L,C
-  17,L
-  41,L,U,X
-  15,L,C
-  19,L,X
-  16,L,U,C
-  15,L,X
-  71,G
-   1,D,G
-   2,G
-  19,D
-   3,L
-   1,D
-   1,L,G
-   1
-   1,K
-   1,L,J,G
-   7,R,J
-   5,R
-  13,R,J
-  28,R,X
-  18,R,D,C
-  29,R,X
-  36,R,U,C
-  19,R,U,X
-  12,R,J,G
-   6,K,G
-   1,L,K
-  12,R,J,G
-  11,R,K,G
-   2,R,J,G
-   7,R
+  18,L,D,X
+  13,L,Z
+  11,L,K,G
+  22,L,U,X
+  21,L,C
+  18,L,U,X
+  20,L,C
+   6,U,X
    2,R,J
-  10,U,Z
+  30,R,D
+   3,R
+  23,R,X
+  37,R,U,C
+  15,R,Z
+  21,R,D
+   3,R
+  19,R,Z
+  15,R,X
+  18,R,D
+   3,J
+   6,R,J
+   3,J
+  15,U,X
+  26,R,J
+   3,R
+   4,R,K,G
+   3,L,K
+   5,R,K
+   1,R,J,G
+   7,R
+   1,R,J
+   1,J
+  10,U,X
    1,J
   40
 
 #lvl_d-08
+   1,L
    1,L,J,G
-  10,L,K,G
-  14,L,Z
+   9,L,K,G
+  13,L,Z
    5,L,J
   14,L,D,X
    1,L,J
@@ -1800,80 +1827,97 @@ console load ricky06/cp/cp
    1,J
    3,L,J
   14,U,X
-  11,L,J
-   3,R,J
+  12,J
+   1,L,K,G
+   1,L,J,G
+   1,K
   40
 
 #lvl_d-10
-   1,L,J,G
-  10,L
-   4,Z
+   1,L
+   1,L,K,G
+   9,L
+   4,L,Z
    1,L,J
    3,L
    1,L,J
+   6,L
+   2,L,J
+   6,L
+   1,L,J
    3,L
-   7,L,J
-  13,L
   14,L,X
-  16,L,J
-  10,K,G
+   7,L,J
+  14,L,U,X
+   1,L,K,G
+   7,L
+   4,L,Z
+   1,L,J
+  12,L
+   1,L,J
+   9,L,D,X
+  14,L,J
+  10,L
   14,L,Z
+   1,L,J
+   6,L
+   1,L,J
+  20,L,D,X
+  18,L,J
+  17,L,D
    1,L,J
   14,L,D,X
-  30,L,J
-  14,L,Z
-   1,L,J
-   3,L
-  15,L,D,X
-   5,L
-  39,L,J
-   1,L,K
-  13,L
-   4,R
-  13,L,X
-   7,J
-  10,L,Z
-   5,L,J
-  14,L,Z
+   8,L,J
+   4,L
    1,L,J
   10,L,D,X
+   8,L,J
+   4,L
+   1,L,J
+   9,L,D,X
   40
 
 #lvl_d-11
-   4,L,D,X
+   5,L,D,X
    1,L,J
-  15,L,D,X
-   2,L
+  16,L,D,X
    1,L,J
   14,L
-   9,L,J
+   4,L,J
+   5,J
   15,U,X
-  27,R,J
+  21,R,J
+   2,J
+   3
   15,L,U,X
-   4,L
-  15,U,X
-  15,R,J
-   1,R
-  19,R,J
-  10,R,D,X
-  23,R,J
-  18,R,U,X
-  12,J,G
-   9,K,G
-   3,J,G
+   3,L
+  15,U,C
+   3,L
+  31,R,J
+  14,R,D,X
+  20,R,J
+  20,R,U,X
+  12,K,G
+   9,J,G
    2,K
    1,J
    1,K
    7,K
-   2,R,K
-  12,L,J
-  15,L,U,Z
-  20,L,J
-   3,L,G
-   1,K,G
-   2,R,K
-   5,L,K
+   1,R,K
+   1,J
+   2,K,G
+  18,L,K
+   9,L,U,Z
+   1,R
+   7,K,G
+   1,L,K
    7,L
+   1,L,G
+   1,K,G
+   1,R,K
+   1,J
+  14,L,J
+   1,L,K,G
   12,L,Z
    1,L,J
    6,L,K
@@ -1901,83 +1945,89 @@ console load ricky06/cp/cp
    1,L,K,G
   17,L,J,G
   19,L,U,X
-  20,U,C
-  31,R,J
-   2,J
-  11,U,X
+  16,U,C
+  28,R,J
+  12,U,X
   40
 
 #lvl_d-12
-   8
+   8,R
   30,L,J
   15,L,U,Z
-  12,R,J,G
-  39,L,K
+   8,R,K,G
+   1,K
+   1,R,K
+   1,R
+  38,L,J
+   3,G
+   1,L,D
+   1,G
+   2,L,D
+   1,D
+   1,L
+   3,J
    1,L,G
-  12,L,J,G
-   1,L,K,G
-   5,R,K
-  10,L,K
-   1,L,J,G
-  17,L,D
-  13,R,D
+  13,L,K,G
+   4,R,G
+   1,L,G
+   7,R,G
+   5,R,K,G
    8,L
   14,U,Z
-  16,J
-   3,R,K
-   7,R
-   4,Z
-   1,R,J
-   7,R
-  14,R,J
-  15,U,X
-   2,R
-  11,R,J,G
+  14,J
+   2
    1,R
+   2,R,K
+   7,R
+   4,R,Z
+   1,R,J
+   6,R
+  16,R,J
+  15,U,X
+  12,R,J,G
   10,R,K,G
    7,R
    2,R,J
   15,U,X
-   3,R,K,G
+   1,R,K,G
+   2,J
    7,R
    4,R,Z
    1,R,J
-   7,R
-   6,R,J
-  15,U,X
-   8,R,J
-   6,L,J
-   1,J
-   3,R,J
-  11,R,K,G
-   1,J
-   3,K,G
-  13,L,K
-   1,L,J,G
-   7,L
-   4,L,J
-  15,U,X
-   9,R,K,G
    3,R
-   7,R,J,G
-   3,L,J
-   7,L
-   4,L,Z
-   1,L,J
+   1,R,J
+   1,R
+   1,R,J
+   1,R
+   6,R,K
+  15,U,X
+   7,L,K,G
+   1,J,G
    6,L
-  25,L,J
-  14,L,D,X
-   1,L,J
-   7,L,D,X
-   1,L,J
+   1,R
+   5,R,J
+  14,U,X
+   7,L,J
+  11,L
+   2,J
+   2
+  14,U,X
+  12,R,J
+  10,R
    1,L
+  14,L,Z
+   9,L,J
+   6,L
+   6,L,J
+  14,L,Z
+   1,L,J
+   8,L,D,X
   40
 
 #lvl_d-14
-   1
-   5,L
-   8,L,J
-   1,L,K,G
+   3,L,D,X
+  10,L,J
+   4,L,K,G
   14,L,D,X
    3,L,J
    2,L
@@ -1996,8 +2046,8 @@ console load ricky06/cp/cp
   11,L,D,X
    1,L,J
    7,L
-  22,L,J
-  16,L,X
+  23,L,J
+  14,L,X
   46,L,C
   15,D,X
    8,R,D
@@ -2018,23 +2068,23 @@ console load ricky06/cp/cp
   15,L,X
   15,D,C
   12,L,D
-  21,L,X
-   9,L,G
+  27,L,U,X
    1,L,K,G
-   2,R,K
-   3,L,K
-   1,L,J,G
-   6,L,K,G
-   1,L
-  31,L,K
+  17,L
+   2
    1,L,G
-   1
-   1,K
-   2,J,G
+   1,R,K
+   3,R,J
+   5,R
    5,R,J
-   8,R
-  15,R,X
-  16,R
+   5,R,G
+   1,R
+   1,K
+   1,L,K
+   5,R,X
+   1,R,K,G
+   2
+  22,R,D
   56,L,X
    1
   21,L,K,G
@@ -2081,7 +2131,6 @@ console load ricky06/cp/cp
   11,R
 ## waste time for lightning
   15,D,X
-  10
    1,L
    1,L,J
   12,L,Z
@@ -2091,17 +2140,20 @@ console load ricky06/cp/cp
    1,R,K,G
   12,R
    2,R,J
-   6,R
+   2,R
+   1
+   2,R
+   3,R,J
+   1,R
    1,R,J
    8,R
-   1
   18,R,U,X
   15,R,Z
-  15,R,X
-  12,R,D
-  10,R,X
-  16,R,J
-  11,U,X
+  11
+   2,R
+  13,R,X
+  15,R,J
+  15,R,U,X
    9,R
   15,R,D,X
    5,D
@@ -2112,7 +2164,6 @@ console load ricky06/cp/cp
    7,R,K
   12,L,J
   12,R,K
-##
   12,R,J,G
    2,K,G
    1,R,K
@@ -2136,7 +2187,6 @@ console load ricky06/cp/cp
    2,R,J,G
   40
 
-
 #lvl_d-17
    2
    9,R
@@ -2149,11 +2199,12 @@ console load ricky06/cp/cp
   12,R,J
   13,R,X
    2,R,J
-  12,U,X
-  10,R,J
-   8,L,J
-   5,L,K,G
+  14,U,X
+   9,R,J
+   5,L,J
+   6,L,K,G
   40
+
 #lvl_d-18
    1,S
    1,D,J
@@ -2165,43 +2216,49 @@ console load ricky06/cp/cp
    7,R
    1,R,J
   13,R,D,X
-   3,R,J
-   2,R,K,G
-   3,R
-   9,R,U,X
-   4,R,K,G
-   3,R,J,G
-   1
-   6,R
    1,R,J
    1,J
-   4,R,J
-   8,R,D,X
-   2,R,K,G
-   6,R
-   1,R,J
-   2,R
-   8,R,J
-  26,R,D,X
-   1,R,J
-   1,J
-   4,R,J
-   9,R,K,G
-   2,R
-  10,R,X
-   6,R,K,G
-  40
-
-#lvl_d-19
-   2,R
-  17,R,D,X
-  11,D,J
-   3
-  15,R,U,X
-   1,L
-  24,R
-   9,R,U,X
+   1,R
    3,R,K,G
+   1,K
+   5,R,K
+   1,R
+   3,R,J,G
+   2,J
+   5,R,D,X
+   5,R,K,G
+   6,R
+   1,R,J
+   3,R
+   3,R,J
+   7,R,D,X
+   3,R,K,G
+   5,R
+   1,S
+   1,J
+  10,R,J
+   2,R
+   4,R,J
+  15,R,D,X
+  10,R
+   2,R,J
+   8,R,U,X
+   7,R,K,G
+   7,R
+   2,R,J
+  40
+  
+#lvl_d-19
+   4,R,J
+   5,R
+   2,R,J
+   9,R
+   2
+  18,R,U,Z
+   2,L
+  25,R
+   8,R,U,X
+   2,R,K,G
   41,R,D
   15,R,X
   15,U,Z
@@ -2231,19 +2288,23 @@ console load ricky06/cp/cp
   15,R,U,C
   26,R,D,X
   43,R,C
-  15,R,U,Z
-  22,R
-  16,R,X
+  15,R,U,X
+  21,R
+  17,R,X
   27,D,C
-  46,R,X
-  13,R,U,Z
-  38,R,D
+  42,R,X
+  15,R,U,C
+  36,R,D
   15,R,X
-  33,R,D
-  22,R,X
-  37,R,U,C
-   6,R
-  30,R,U,Z
+  16,R,D
+   5,D
+   3,R,D
+   1,K
+  18,R
+  25,R,Z
+  23,R,U,X
+  24,R,Z
+   1
    1,R,J,G
    1,L,J
    1,J
@@ -2251,20 +2312,21 @@ console load ricky06/cp/cp
    4,R,J
    1,R
   15,R,Z
-  19,R,D
-   7,R,Z
+  16,R
+   3,R,D
+   8,R,Z
    1,R,J
-   3,R
+   2,R
   40
 
 #lvl_d-21
    4,R
    1,R,J
   14,R,D,X
-  21,R,J
+  16,R,J
+   4,J
   18,R,Z
-   7,D
-   6,R,D
+  13,R,D
   24,R
   15,R,U,X
    1,R,K,G
@@ -2274,40 +2336,40 @@ console load ricky06/cp/cp
    1,R,J,G
    9,R,D
    8,D
-  23,R,D
-  15,U,Z
-  11,J
+   8,R,D
+  16,R
+  18,U,Z
    1,R,J
+   1,J
+   1,R
+   6,R
    1,R,K,G
-   6,R,J,G
-  40,R,D
+   1,R,J,G
+  31,R,D
+   7,D
   29,R
-  13,U,Z
-   9,R,J
+  13,U,X
+   8,R,J
   14,R
    1,L
    1,R
-   6,L,D
-   9,R,Z
-  32,R,J
-  16,R,D
-   1,R,K,G
-   1,R,J,G
-  10,R,D
-   6,D
-  14,R,D
+   3,L
+   1,R
+   1
+   1,R
+   6,R,Z
    1,R,J
-   9,J
+  29,R,D
+  23,R,X
+  23,R,D,C
+   9,R,J
   16,R,U,Z
-  13,R,K,G
-   1,L,K
-   4,J,G
-   4,R,J
+  29,R,K,G
   15,R,U,X
-  23,R,D
+  12,R
   10,R,X
-   8,R,J
-   8,L,K
+  10,R,J
+   6,L,K
   14,U,X
   40
 
@@ -2324,13 +2386,16 @@ console load ricky06/cp/cp
    4,R,J
    4,J
   14,R,Z
-   5,R,K,G
-  18,R
-   2
-   5,L,Z
+   4,R,K,G
+   5,R
+   3,R,J
+   4,R
    1,R,J
-   7,R
-  20,R,D,J
+   8,R
+   4,R,Z
+   1,R,J
+   6,R
+  19,R,D,J
   17,R,D,X
    1,R,J
   14,R,D,X
@@ -2375,13 +2440,13 @@ console load ricky06/cp/cp
    1,R
   15,R,D,X
    9,R,D
-   5,R,J
-  15,J
+   4,R,J
+  13,J
+   3,R,J
   15,R,U,X
-   4,R
-  12,R,J,G
-   6,R,K,G
-   1,R
+   3,R
+  12,R,K,G
+   7,R,J,G
   15,R,Z
    2,R
   40
@@ -2390,13 +2455,11 @@ console load ricky06/cp/cp
    1,S
    1,D,J
   37
-  11,R,J
-   2,R
-   1,R,K,G
+   1,R,J
    1,R
-   1,R,K,G
+  14,R,U,X
+   2,R,K,G
    1,R
-   4,R,K,G
    5,R,Z
    1,R,J
    6,R
@@ -2622,4 +2685,4 @@ console load ricky06/cp/cp
    1,D,J
   18
 
-ChapterTime: 5:46.800(20400)
+ChapterTime: 5:39.218(19954)
