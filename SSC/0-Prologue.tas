@@ -1,4 +1,4 @@
-RecordCount: 386
+RecordCount: 408
 
 console load SecretSanta2022/0-Lobbies/0-Prologue
    1
@@ -72,13 +72,12 @@ console load SecretSanta2022/0-Lobbies/0-Prologue
   17,R,J,G
   15,U,X
    2,R
-  17,J
-   2,K
-   4
+  18,J
+   4,L,K
    1,X
 #waiting saves IL but not file time
    1,S
    1,D,J
   18
 
-ChapterTime: 0:06.358(374)
+ChapterTime: 0:06.341(373)
