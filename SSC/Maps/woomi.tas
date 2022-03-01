@@ -1,109 +1,102 @@
-RecordCount: 441
-
+RecordCount: 1375
+ChapterTime: 0:32.130(1890)
 console load SecretSanta2022/1-Main/glowwoomii
    1
+
 #Set,Superdashing,True
 #Start
  106
+
 #lvl_startroom
-  18,L,Z
+   5,L,X
+   2
    1,L,D
-   1,R,J
-   8,R
-   2,R,J
-   5,R,U,X
    9
-   6,R,D
-   2,R
-   2,R,D
+   1,R,J
+   5,R,D,X
+   5
+   9,U
+   4,R,D
+   4,R,D,X
+   1,R,U
+   2,U
+   2
+   1,R,D
+   2
+   7,R,D
+   4
+   1,R,D
    5,R
    1,R,J
-   4,R,K,G
-   5,R,U,X
-   2,R,U
-   1,R,D
+   5,R,D,X
    1
-   1,R,D
-   1,R,J,G
-   5,R
   40
 
 #lvl_r1
-  12,R
-   5,R,U,Z
+   3
+   3,R,D
+   2
+   3,R,U
+   4,R,D,X
+   1,R,U
+   2,R
+   4,U
+   1
+   4,R,D
+   1
+   3,R,D
+   5,R,D,X
+   2
+   3,R,D
+   1
+   3,R,U
+   4
    4,R,D
    1
    2,R,U
-   1,J
-   3,R,U,J
-   1,J
-   7,R,D,J
-   1,R,J
-   7,R,J
-   3,R
-   6,R,D
-
-   5,R,Z
-   1,R,U
-   1,R,D
-   9
-   5,R,D
-   1
-   1,R,U
-   1
-   1,R
-   1,R
-   3,R
    1,R,J
    5,R,D,X
   40
 
 #lvl_r2
-   1,R
-   2,R,D
-   1,R,D
-   1
-   2,R,U
-   1,R
-   2,R,U
-   4,D,X
-   1,R,U
-   5,R,U
-   8,R,D
-   4,R,D
-   2,R
-   8,R
-   5,R,D,X
-
-   3,R,U
-   1
-   6,R,D
-   5,R,D,X
-  40
-   2,R,U
+   2,D
    2
-   1,R,D
-   1,R,D
-   1,R
-   2,R,D
    2,R,U
    4
-   4,R,D
-   6,R,D
    5,R,U,X
-   2,R,U
-   2
-   3,R,J,G
-   1,R
-  40
-#lvl_r4
-   8,R
+   3,U
+   2,R,D
+   1
+   2,R,D
+   1
+   1,R,D
    6
-  11
+   1,R,D
+   5,R,D,X
+  40
+
+#lvl_r3
+   2,U
+   1
+   2,R,D
+   1,U
+   7,R,D
+   1
+   1,R
+   5,R,U,X
+   1
+   1,R,D
+   5,R,U
+   3,R,J,G
+  40
+
+#lvl_r4
+   6,R
+  17
    5,D,X
-   7,R
-  11
-  11,R,D
+   6,R
+  13
+  10,R,D
    5,R,U,X
    4
   13,R
@@ -118,107 +111,262 @@ console load SecretSanta2022/1-Main/glowwoomii
   12,L,K,G
    9,L,J,G
   40
+
 #lvl_r5
-   1,R,J
-   5,R,K
-   5,R
-  10,R,X
-   1,R,D
-   7
-   7,R,J
-   3,R,K,G
-   1,R
-   5,R,U,X
-   6,R,D
+   1,L,J,G
   10
-   1,R,D
-  10,R
+   5,L,Z
+   1,J,F,160
+   8,R
+   1,R,J
+   2,R,K,G
+   3,R
+   5,R,D,X
+   9,U
+  10,R,D
+  11,R
    5,U,X
-   3
-   1,L
-  10,U
-   4
-   7,L
-   1,L,K,G
-   8,L
+   3,R
+   6
+  12,L,U
+   5,L,U,X
+   2
+   1,L,J,G
+   9,L
    5,R,Z
    3,R,D
    2,R,U
    1,L,J
-   6,L
-   1,L,K
+   4,L
+   1,L,J
    5,L,D,X
-  10,L
-   1,L,D
-   9,L,J
-   5,L,U,X
-  18,U
-  10,D
-  25,R,D
-  14,D
-   5,L,Z
-   1
-   2,L,D
-   2
+   9
+   1,D
+   4
    1,L,U
-   1,R,J
-   6,R
-   2,R,J
-   5,R,U,X
    1
-   6,R,D
-   6,R
-   1,R,J
-   9,R,J
-   5,R,D,X
-   2,R,U
+   1,L,D
    1
-   6,R,D
-   9,D
+   5,L,U,X
+   1,L
+  18,U
+   1,K
+   7,L,D
+  22,R,D
+   1,R
    1,R,D
-   6,R,D
+   1,R
+   1,R,D
+   2,R
+   1,R,D
+   1,R
+   1,R,D
+   1,R
+   1,R,D
+   1,R
+   1,R,D
+   1,R
+   4,R,D
+   5,L,Z
+   3,L,D
+   2,L,U
+   1,R,J
+   4,R
+   1,R,J
+   5,R,U,X
+   2,U
+   7,R,D
+   1
+   2,R,D
+   2
+   1,R,U
+   3
+   8,R,J
+   1,R
    5,R,D,X
-   5
-   4,R,J
+  12,D
+  11,R
+   1,R,J
+   5,R,U,Z
+   1,R
   40
+
 #lvl_r6
    1,R
-   5,R,U,Z
-   3,R
-   7
-   5,U,X
-   6,R,U
-   5
-  23,R
-  12,R,K,G
-   1,R,J,G
-   9,K,G
-   1,R,K
+   9
    5,R,U,X
-  16,R,D
-   2,R
-  27,R
-   5,D,X
-   7,L,D
-  12
-  10,L,D
-  50,R
-   3,R,D
-   1,R,G
-  12,R,J,G
-   5,U,Z
-   6,R,U
-   7,L,U
+   7,U
+   7
+   1,U
    4
-   1,R,U
-  18,L,J
-   4,K
-  10,J
+   5,L,U,Z
+   1,U
+   1
+   4,L
+   1
+   9,L,D
+   1,R,J
+   5,R,U,X
+   6,U
+  11,R
+   2,R,D
+   6,R
+   1
+   9,R
+   4
+  21,R
+   5,R,D
+  30,R
+   1,J,G
+   3,R,J
+   5,J
+   1,R,J
+   1,L,J
+   1,R,J
+  13,R,K,G
+   8,J,G
+   1,L,J
    2,K
+  10,L,K
+   1,J,G
+   3,L,J
+   5,J
+   1,L,J
+   1,R,J
+   1,L
+   1,L,K,G
+   5,R,K
+   3,K
+   1,R,K
+   1,R
+   5,R,Z
+   1
+  11,U
+   1,J
+  11,L,J
+   2,L,K,G
   40
 
 #lvl_r7
+   1,R,K
+   2,R,J
+   8,R
+  10,R,X
+   4,R,J
+   1,R
+   5,U,Z
+   2,R
+  10
+   7,L,U
+   3,L,J,G
+   7,L
+   5,L,U,X
+   3
+   1,L
+   4
+   1,L,J,G
+   7,L
+   5,L,Z
+   1,L,D,J
+   8,L
+   1,L,J
+   5,L,D,X
   11
-#can go up to build speed?
-#TODO
+   1,J,F,160
+   8,R
+   1,R,J
+   5,R,D,X
+   9
+   1,R,D
+   5,R,D,X
+  10,D
+   1
+  13,R,J
+  13,R
+   5,R,U,Z
+   5,U
+  12
+   1,U
+   1
+   1,K
+   8,L,K
+   5,R,U,X
+   5,U
+   9,R
+   4,R,D,X
+   1,R,U,Z
+  10,U
+   6,L,U
+   1
+   1,R,U
+   3,R,J
+  40
 
+#lvl_r8
+  11,L
+   5,R,D,X
+   9,R
+   1,R,J
+   5,R,D,X
+   7
+   1,R,D
+   2
+   5,U,X
+  10,U
+  30
+  42,R,D
+   5,R,D,X
+  27,R
+   5,R,U,X
+   7,R,D
+   5,R,U,X
+   8,U
+  11
+   4,R
+   5,L,Z
+   5
+  11,R,J
+  25,R,D
+   7,R
+   5,R,Z
+   9
+   4,R,D
+   2,R,U
+   3
+   1,R,U
+  26,R
+   1,R,J
+   4,X
+   2,R,J
+   5,R
+   1,R,J
+   4,R
+   5,L,Z
+   3,L,D
+   2,L,U
+   1,R,J
+   4,R
+   1,R,J
+   6,R,D,X
+   4
+  40
+
+#lvl_endroom
+   5
+   5,R,D,X
+   6,U
+   1,R,D
+   1
+   1,R,D
+   1
+   5,R,D
+   5,R,D,X
+   5,R,U
+   4,R,D
+   1
+   2,R,D
+   5,R,D,X
+   3,U
+   1
+ 143,R,D
+ChapterTime: 0:32.130(1890)
