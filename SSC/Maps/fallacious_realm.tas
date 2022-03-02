@@ -1,4 +1,4 @@
-RecordCount: 2048
+RecordCount: 2115
 
 console load SecretSanta2022/1-Main/bosssauce
    1
@@ -81,9 +81,6 @@ console load SecretSanta2022/1-Main/bosssauce
    3,R,J
   14,R
    9,D,X
-#switch gate timing should be getting adjusted so this can be removed
-   2
-#-----
    9,R,C
    9,D,X
    9,L,D,C
@@ -167,15 +164,19 @@ console load SecretSanta2022/1-Main/bosssauce
    1,J,G
    4
   10,L,D
-   5
-   3,L,D
-   1,L,J
-  12,L,D
-   9,D
-  26,R,D
-  14,R,D,X
-  22,R,J
-   4,R
+   5,J
+   3,L,D,J
+   5,L,J
+  10,L,D
+  27,R,D
+   2,R
+   4,D,X
+  10,R,X
+  10,R,J
+  11,R,J
+   2,R
+   1
+   1,R
   15,D,X
   33,R,J
   28,R,U,X
@@ -183,20 +184,25 @@ console load SecretSanta2022/1-Main/bosssauce
    1
    4,R
    4,R,J,G
-   3,R,K,G
+   1,R,K,G
+   1,L,K
+   1,K
    7,R
+#Spinner cycle frame
+   0
+#:)
    9,L,Z
    1,R,J
    7,R
    2,R,J
-   7,R,U,X
-   1,R,J,G
+   6,R,U,X
+   2,R,J,G
   11,R
   40
 
 #lvl_a-03
-   1,R
-   3,R,J
+   ,R
+   2,R,J
   14,R,Z
    2,R,J
    8,R
@@ -534,4 +540,4 @@ console load SecretSanta2022/1-Main/bosssauce
   15,D,X
  110,L
 
-ChapterTime: 1:25.136(5008)
+ChapterTime: 1:24.983(4999)
