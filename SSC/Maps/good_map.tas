@@ -1,4 +1,4 @@
-RecordCount: 570
+RecordCount: 753
 
 console load SecretSanta2022/1-Main/potatolucy
    1
@@ -7,8 +7,7 @@ console load SecretSanta2022/1-Main/potatolucy
 Set,CelesteTAS.SimplifiedGraphics,true
 Set,CelesteTAS.SimplifiedBackgroundTiles,true
 Set,CelesteTAS.SimplifiedParticle,false
-#Set,CelesteTAS.SimplifiedSolidTilesStyle.Name,Tower
-#Set,CelesteTAS.SimplifiedSolidTilesStyle.Value,5
+Set,CelesteTAS.SimplifiedSolidTilesStyle,Tower,5
 
 #lvl_start
 Repeat 29
