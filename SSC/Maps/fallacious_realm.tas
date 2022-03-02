@@ -201,7 +201,6 @@ console load SecretSanta2022/1-Main/bosssauce
   40
 
 #lvl_a-03
-   ,R
    2,R,J
   14,R,Z
    2,R,J
@@ -538,6 +537,6 @@ console load SecretSanta2022/1-Main/bosssauce
   28,R,D,X
    1,R,J
   15,D,X
- 110,L
+ 109,L
 
 ChapterTime: 1:24.983(4999)
