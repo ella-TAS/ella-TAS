@@ -1,5 +1,5 @@
-RecordCount: 1375
-ChapterTime: 0:32.130(1890)
+RecordCount: 1389
+ChapterTime: 0:31.960(1880)
 console load SecretSanta2022/1-Main/glowwoomii
    1
 
@@ -312,9 +312,11 @@ console load SecretSanta2022/1-Main/glowwoomii
    1,R,D
    2
    5,U,X
-  10,U
-  30
-  42,R,D
+  13,U
+   8
+   2,R
+   8
+  41,R,D
    5,R,D,X
   27,R
    5,R,U,X
@@ -369,4 +371,4 @@ console load SecretSanta2022/1-Main/glowwoomii
    3,U
    1
  143,R,D
-ChapterTime: 0:32.130(1890)
+ChapterTime: 0:31.960(1880)
