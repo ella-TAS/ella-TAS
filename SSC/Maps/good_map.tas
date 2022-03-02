@@ -1,10 +1,14 @@
-RecordCount: 511
+RecordCount: 570
 
 console load SecretSanta2022/1-Main/potatolucy
    1
 
 #Start
 Set,CelesteTAS.SimplifiedGraphics,true
+Set,CelesteTAS.SimplifiedBackgroundTiles,true
+Set,CelesteTAS.SimplifiedParticle,false
+#Set,CelesteTAS.SimplifiedSolidTilesStyle.Name,Tower
+#Set,CelesteTAS.SimplifiedSolidTilesStyle.Value,5
 
 #lvl_start
 Repeat 29
@@ -16,17 +20,17 @@ Endrepeat
    3,R,J
    4,R,K,G
    8,R,J,G
-   1,L,J
-   1,R,J
-   7,R
-   1,R,J
-   9,R
-  14,L,D,X
-   1,R,J
-   5,R,D,X
-   3,R,J,G
-  10,R
 #core switch attempt
+#   1,L,J
+#   1,R,J
+#   7,R
+#   1,R,J
+#   9,R
+#  14,L,D,X
+#   1,R,J
+#   5,R,D,X
+#   3,R,J,G
+#  10,R
 #   1,R,J
 #   4,R
 #   5,R,X
@@ -38,22 +42,27 @@ Endrepeat
 #   1,R
 #   6,R,U,Z
 #   3,R,J,G
-#   5,R
-#  12,R,K
+#  90,R
 #-----
-   6,R,J
+   2,R,J
+   7,R
+  11,R,D,X
+   7,R,J
+   1,R,K,G
+  10,R,D,X
+   1,R,J
   40
 
 #lvl_firsroomofthismasterpiece
-   1,R,J
-  12,R,D,X
+   6,R,J
+  10,R,D,X
+#bumper cycle
+  21
    1,S
    1,D,J
   34
-   5,R,J
-#bumper cycle
-  27,G
-   4,L,J
+   8,R,J
+   4,L,K
   13,R,Z
    8,R,J
   19,L,U,X
