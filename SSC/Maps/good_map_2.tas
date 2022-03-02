@@ -1,0 +1,58 @@
+RecordCount: 236
+
+console load SecretSanta2022/1-Main/potatolucy 2059 16
+  37
+
+#Start
+   8,L,X
+  16,R,C
+  10,R,D,X
+  40
+
+#lvl_fourthroomofthismasterpiece
+   5
+   1,S
+   1,D,J
+  34
+   1,L,J
+  14,R,Z
+   1,R,J
+  19,R,D,X
+  10,R,J
+  17,R
+  14,G
+   7,U,G
+   1
+   2,J,G
+  22,L,D,X
+  15,L
+  35,R
+  15,R,Z
+   1,L,J
+  10,L
+  12,R,X
+  23,R,J
+   5,R,Z
+   1,R,J
+   5,R
+  40
+
+#lvl_mongus
+   1,R
+   1,R,J
+   2
+   1,R
+  14,R,D,X
+  11,R,J
+  22,R,D,X
+   1,S
+   1,D,J
+  34
+   1,R,J
+  14,R,D,X
+   2,R,J
+  16,D,X
+   2,R,D
+   4,L,D
+   2,L,D,J
+   3,L
