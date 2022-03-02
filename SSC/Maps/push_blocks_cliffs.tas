@@ -1,4 +1,4 @@
-RecordCount: 1775
+RecordCount: 2157
 
 console load SecretSanta2022/1-Main/Ezel
    1
@@ -47,23 +47,20 @@ console load SecretSanta2022/1-Main/Ezel
 
 #lvl_A-02
    1,R
-   2,R,J
-  20,R,D,X
+   1,R,J
+   1,R,J
+  15,R,D,X
+   3,R
+   2
   18,R,Z
   18,R,U,X
-  44,L,C
-  10,L,J,G
-   2
-   1,K,G
-   5,L
-   1
-   1,R
-  19,L,D
-   5,D
-   5,L,Z
- 108,R,X
-  16,R,U,C
-  11,U,X
+  15,L,C
+  33,L,D
+  98,R,X
+   9,R,U,C
+   1,L,J,G
+  32,R,J
+  12,U,X
   11,R,J
   11,R
    6,R,Z
@@ -97,17 +94,16 @@ console load SecretSanta2022/1-Main/Ezel
   25,R,D,X
   27,R,U,C
   14,R,Z
-   1,R,J
-   6,R
+   4,R,J
+   3,R
   43
 
 #lvl_A-04
    7,R
   19,R,D,J
-   5,R
+   3,R
   15,R,Z
-  10,R
-  11,L,D
+  21,R,D
   71,R,X
   15,U,C
   41,R,D
@@ -131,25 +127,27 @@ console load SecretSanta2022/1-Main/Ezel
   34,D,X
    6
    3,R
-   1,R,D
-   1,R
+   1,D
+   1
   15,R,Z
-  16,D
+  15,D
    9,R,D
-  15,R,Z
-  15,R,D
+   1,R
+  20,R,X
+   1,G
+   6,R,J,G
+   7,R
   43
 
 #lvl_A-06
-   9,R,D,X
-   6,R,J
-   3,R,K,G
-  19,R
-  14,R,U,X
+  18,R,X
+   9,R
+   3
+  14,R,U,C
    1,R,J
   20
-   9,R,D
-   3,R
+  10,R,D
+   2,R
   30,R,Z
   33,R,U,X
    1,J,G
@@ -217,6 +215,7 @@ console load SecretSanta2022/1-Main/Ezel
   29,L,K
    3,J,G
    7
+#bad
   10,L,D,X
    1,R,J
    6,R
@@ -224,24 +223,23 @@ console load SecretSanta2022/1-Main/Ezel
   10,R
   23,R,Z
   17,R,D,X
+
   15,R,U,C
-  11,L
+  13,L
   15,R,D,X
    3,L,D
-   8,L,Z
-   1,R,J
+  14,R,D,X
+  23,R,J
+   9,U,Z
+   5,R,J
+   8,R
+   1,K
    1
-   6,R
-   6,R,J
-   6,R
-  16,R,K
-   8,U,X
-  10,R,J
-   2,J
-  11
+   1,K
+   1
    4,Z
    1,R,J
-   7,R
+   6,R
    1,R,J
    3,R,K,G
   10,R,J,G
@@ -296,6 +294,7 @@ console load SecretSanta2022/1-Main/Ezel
 #lvl_B-02
    3,R,J
   15,R,D,X
+#snowball cycle
   10,G
    1,U,G
    2,J,G
@@ -389,50 +388,56 @@ console load SecretSanta2022/1-Main/Ezel
    2,J,G
   36,R,J
    1,R,K,G
-  25,R,J,G
-  59,R,D
-  12,R,Z
+   2,R,J,G
+  15,R
+   1,R,K
+  20,R,D
+   1,D
+   1,R,D
+  13,L,D
+   4,D
+  18,R
+  11,R,D,X
    1,R,J
    7,R
    1,R,J
-   8,R,D,X
-   1,R,J
-   2,R
-   1,R,K
+  11,R,D,X
   43
 
 #lvl_B-05
-   9,R
-  17,R,D,J
-  15,R,U,X
-  28,D
-   3
-   3,L
-   7,L,J
-  15,R,U,X
-  34,R,D
-   6,R
-  30,R,Z
-  32,R,U,X
-   3,K
-  10
-   1,K
-  14,R
-  19,R,Z
-   4,V
+   3,R
+   5,R,J
+  10,R
+  22,R,Z
+   6
+   2,J,G
+   7
+   1,R
+   1,L
    2,R,J
+   4,L,J
+  15,R,U,X
+  42,R
+  27,R,Z
+  14,R,U,X
+   4,R,J,G
+  15,D
+   9,R,D
+  18,R,Z
+   5,V
+   1,R,J
    4,R
    1,R,J
-   5,R
+   4,R
   10,R,U,Z
    1,R,J,G
    7,R
   14,L,Z
    1,R,J
    5,R,D,X
-   2,R,J,G
+   1,R,J,G
   11,R
-  42,R,J
+  43,R,J
   14,R,Z
    1,R,J
    4,R
@@ -525,4 +530,4 @@ console load SecretSanta2022/1-Main/Ezel
    4,X
  135,L,U
 
-ChapterTime: 1:31.103(5359)
+ChapterTime: 1:29.641(5273)
