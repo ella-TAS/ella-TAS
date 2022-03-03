@@ -1,4 +1,4 @@
-RecordCount: 753
+RecordCount: 757
 
 console load SecretSanta2022/1-Main/potatolucy
    1
@@ -78,6 +78,7 @@ Endrepeat
   40,J
 
 #lvl_secondroomofthismasterpiece
+Set,CelesteTAS.SimplifiedBackgroundTiles,false
    4,R,J
    2,R
    1,S

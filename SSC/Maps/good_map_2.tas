@@ -1,4 +1,4 @@
-RecordCount: 917
+RecordCount: 920
 
 console load SecretSanta2022/1-Main/potatolucy 2059 16
   37
@@ -218,6 +218,8 @@ console load SecretSanta2022/1-Main/potatolucy 2059 16
   40
 
 #lvl_endoftutorial
+Set,CelesteTAS.SimplifiedGraphics,false
+Set,CelesteTAS.SimplifiedSolidTilesStyle,,
    3,R
    1,S
    1,D,J
@@ -225,8 +227,3 @@ console load SecretSanta2022/1-Main/potatolucy 2059 16
   21,R,J
   16,R,D,X
  135,R,D
-
-
-
-
-
