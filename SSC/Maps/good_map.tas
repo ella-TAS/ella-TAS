@@ -1,4 +1,4 @@
-RecordCount: 803
+RecordCount: 956
 
 console load SecretSanta2022/1-Main/potatolucy
    1
@@ -19,7 +19,7 @@ Endrepeat
    3,R,J
    4,R,K,G
    8,R,J,G
-#core switch attempt
+#cycle skip attempt
 #   1,L,J
 #   1,R,J
 #   7,R
@@ -63,45 +63,46 @@ Endrepeat
    8,R,J
    4,L,K
   13,R,Z
-   8,R,J
-  19,L,U,X
-   1,L,J,G
- 140,G
-  20,R,X
-  14,R,C
-   9,R,J,G
-   5,R
-   2,R,K
-   5
-  10,R,D,X
-   4,R,J
-  40,J
+  14,R,J
+  18,R,X
+   5,L,D,C
+  24,L,J,G
+   9,L,X
+   7,K
+  48,L,G
+#much more speed
+#   1,J
+#   1,K
+#   1,J,G
+#   6,R,K,G
+#   7,R,J,G
+#-----
+   1
+   1,K
+   2,L,J,G
+   1,R,K,G
+   6,L,J,G
+   5,R,K,G
+   2,R
+  40
 
 #lvl_secondroomofthismasterpiece
 Set,CelesteTAS.SimplifiedBackgroundTiles,false
-   4,R,J
-   2,R
+   4,R
    1,S
    1,D,J
   34
-   2,R
-  11,L,D,X
-   5,R,J
-  15,R,D,X
-   4,R,J
-  16,R,D,X
-   5,R,J
-  16,R,D,X
+  30,R,D,X
+   3,R
    7,R,J
   15,R,D,X
-  26,R,J
-  14,R,D
-  14,R,U,X
+  23,R,J
+  14,R,X
   40
 
 #lvl_thirdroomofthismasterpiece
    1,R
-  14,R,U,Z
+  13,R,U,Z
    1,S
    1,D,J
   34
@@ -142,7 +143,7 @@ Set,CelesteTAS.SimplifiedBackgroundTiles,false
   40
 
 #lvl_fourthroomofthismasterpiece
-   5
+   8
    1,S
    1,D,J
   34
@@ -252,23 +253,23 @@ Set,CelesteTAS.SimplifiedBackgroundTiles,false
   14,U,X
    2,L,K
    1,R,J,G
-   1,R,K,G
-  18,R
-   1,R,J
-   1,R
-  15,U,Z
-   1,R,J,G
-   6,R
-  11,R,X
+   5,L
+   2
+   3,R,J
+   0,R,J
+   3,J
+  14,R,U,Z
+   2,R,J,G
+   7,R
+  12,R,X
   40
 
 #lvl_sixthroomofthismasterpiece
-   4,R
-   9,R,D,X
+   3,R
+  10,R,D,X
    1,S
    1,D,J
   34
-   1,R
    5,R,J
    1,R,J
    7,R,Z
@@ -360,4 +361,4 @@ Set,CelesteTAS.SimplifiedSolidTilesStyle,,
   16,R,D,X
  135,R,D
 
-ChapterTime: 0:49.419(2907)
+ChapterTime: 0:46.869(2757)
