@@ -12,7 +12,7 @@ Add 1
 Add 1
   70
 
-Read,0 - Epilogue.tas,Start
+Read,Epilogue,Start
 
 #8A
    1,J

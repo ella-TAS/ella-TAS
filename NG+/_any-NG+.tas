@@ -1,6 +1,6 @@
 Read StartFullGameFile
 console p_twodashes
-Read 0P Start
+Read Prologue Start
 Read Load1A
 Read 1AP Start
 Read LoadANoCollects
