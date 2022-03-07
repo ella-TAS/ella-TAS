@@ -280,6 +280,7 @@ AnalogMode,Precise
    2,L
    1,R
    3,L
+   1
    1,R,J
   14,L,U,X
    1,L,J,G
@@ -324,6 +325,6 @@ AnalogMode,Precise
   17,L,U,X
    1,L,J,G
   11,L
-#0:48.841(2873)
+#0:48.756(2868)
  257
    1,J
