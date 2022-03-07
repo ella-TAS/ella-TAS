@@ -2,6 +2,8 @@ AC: AnarchyCollab2022 (not released)
 Arphi-D: Arphimigon's D-Sides (https://gamebanana.com/mods/290576)  
 DBC: Dream Block Contest 2021 (https://gamebanana.com/mods/286738)  
 DC: iamdadbod Collab 2018 (https://gamebanana.com/mods/150797)  
+NG+: Vanilla New Game + (double dash)  
+SSC: Secret Santa Collab 2022 (https://gamebanana.com/mods/361029)  
 STC: Startup Contest 2021 (https://gamebanana.com/mods/329903)  
 ZMC: Zip Mover Contest 2021 (https://gamebanana.com/mods/327347)  
   

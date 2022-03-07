@@ -1,0 +1,26 @@
+Read StartFullGameFile
+console p_twodashes
+Read 0P Start
+Read Load1A
+Read 1AP Start
+Read LoadANoCollects
+Read 2AP Start
+Read LoadANoCollects
+Read 3AP Start
+Read LoadA
+Read 4AP Start
+Read LoadANoCollects
+Read 5HCP Start Return
+Read LoadBFromA
+Read 5BP Start
+Read LoadAFromB
+Read 6HCP Start Return
+Read LoadBFromA
+Read 6BP Start
+Read LoadAFromB Start Summit
+#Summit
+  45
+   1,J
+  32
+Read 7A Start
+Read LoadCoreFromSummit Credits 8A

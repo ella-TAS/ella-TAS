@@ -1,0 +1,28 @@
+unsafe
+#Credits
+Add 197
+ 165
+   1,J
+  32
+Add 1
+   2
+   1,S
+   1,D,J
+  18
+Add 1
+  70
+
+Read,0 - Epilogue.tas,Start
+
+#8A
+   1,J
+Add 58
+ 428
+   1,J
+  43
+   1,J
+  45
+   1,S
+   1,D,J
+  32
+Add 1
