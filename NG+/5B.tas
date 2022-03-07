@@ -24,14 +24,11 @@ console hard 5
    2,R,K,G
    9,R
   18,R,C
-  22,U,X
-  11,R,D
-   2,D
-   3,R
-   1,R,D
-   1,R,J,G
-   5,R,K,G
-  15,R
+  15,U,X
+  14,R,D
+   1,D
+   2,R,D
+  15,R,Z
   20,R,U,X
    7,R,Z
    1,R,J
@@ -47,12 +44,11 @@ console hard 5
   13,D
   62,R,C
   13,U,X
-  36,R,C
-   9,R,U,X
-   1,R,J,G
-   1,R
-  20,D
-  10,R,D
+  21,R,C
+  15,R,D,X
+   5,R,D
+  16,R
+  16,R,U,C
   17,R,U,X
    8,R,C
    1,R,J,G
@@ -809,4 +805,4 @@ console hard 5
   31,R
   29,L,J
    1,R,J
-ChapterTime: 1:43.496(6088)
+ChapterTime: 1:43.105(6065)
