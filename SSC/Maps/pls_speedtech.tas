@@ -1,0 +1,83 @@
+RecordCount: 183
+
+console load SecretSanta2022/1-Main/goose2
+   1
+#Start
+  82
+#lvl_0
+   6,R,Z
+   1,R,J
+   7,R
+   1,R,J
+   4,Z
+   1,R,J
+   7,R
+  10,R,J
+  13,R
+  14,R,U,X
+   1,R,J,G
+  22,R
+  15,R,U,X
+  15,U,C
+  21,R
+   6,R,Z
+   1,R,J
+   4,R
+  40
+
+#lvl_1
+   3,R
+   1,R,J
+  10,R,D,X
+  13,R,G
+   8,R,J,G
+   9,R,G
+   3,R
+  15,D,X
+   1,R
+  15,R,C
+   1,R
+  15,R,X
+   6,R
+  10,L,D,X
+   1,R,J
+  17,R,J,G
+  15,R,K,G
+   4,R
+   4,X
+  11,L,U,X
+  14,U,C
+   5,R,J
+  10,R,X
+   1,R,J,G
+  10
+   4,R,D
+  27,D
+  15,R,X
+  10,R
+  15,U,X
+  13,U,C
+   8,R,J
+  20,R,J,G
+  19,R,J
+  14,R,X
+  30,R,G
+   1,R
+   9,L,D
+   8,D
+  12,L
+# this almost works, but
+#  no idea if there's a way
+#  to improve it
+  14,L,Z
+  23,R,J
+   8,R
+  15,R,X
+   4,R
+  14,R,U,C
+  34,R,J,G
+  15,R,X
+  20,R
+
+ 100
+
