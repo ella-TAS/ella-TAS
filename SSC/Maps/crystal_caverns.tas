@@ -1,4 +1,4 @@
-RecordCount: 522
+RecordCount: 616
 
 console load SecretSanta2022/1-Main/Toto00
    1
@@ -54,20 +54,21 @@ console load SecretSanta2022/1-Main/Toto00
   14,R,Z
   26,R,J
   34,R,D,X
+   7,R,J
+   9,R,Z
    8,R,J
-   7,R,Z
-  10,R,J
-  12,R
+  11,R
   10,R,J
   15,R,D
-  17,D
-   2,R,D
+  18,D
+   1,R,D
   13,R
+  
   15,U,X
   19,R
    8,R,D
   15,U,X
-  13,R,D
+  12,R,D
    6,R,J
   14,R,U,X
    3,R,J,G
@@ -150,9 +151,10 @@ console load SecretSanta2022/1-Main/Toto00
 
 #lvl_end
   11,R
- 138,D,X
-  12,J
- 154,U,X
+  15,L,D
+  99,D
+  14,J
+ 152,U,X
    1
 
-ChapterTime: 0:35.326(2078)
+ChapterTime: 0:34.918(2054)
