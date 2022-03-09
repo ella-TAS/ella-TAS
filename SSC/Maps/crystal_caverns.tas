@@ -1,4 +1,4 @@
-RecordCount: 920
+RecordCount: 976
 
 console load SecretSanta2022/1-Main/Toto00
    1
@@ -29,21 +29,32 @@ console load SecretSanta2022/1-Main/Toto00
   23,R,J
   13,U,X
   20,R,J
-  20,L,D
-  15,L,D,X
-  16,L
-   4,Z
+  17,L,D,X
+   3,L,J
+  10,L
+   8,L,D,X
+#  20,L,D
+#  15,L,D,X
+#  16,L
+#   4,Z
    7,R,J
   11,R
   12,R,J
    8,R
-  14,R,X
-  28,R,J
+  13,R,X
+  29,R,J
   20,U,X
-  21,L,J
+  22,L,J
   15,L,U,X
   38,L
-  18,L,Z
+  17,L,Z
+#  14,R,X
+#  28,R,J
+#  20,U,X
+#  21,L,J
+#  15,L,U,X
+#  38,L,J
+#  18,L,Z
   10,L,D,X
   11,L,J
   18,L
@@ -68,7 +79,7 @@ console load SecretSanta2022/1-Main/Toto00
   19,R
    8,R,D
   15,U,X
-  12,R,D
+  13,R,D
    6,R,J
   14,R,U,X
    3,R,J,G
@@ -76,18 +87,17 @@ console load SecretSanta2022/1-Main/Toto00
    5,R,J,G
    7,R
    1,R,J
-   5,R
+   6,R
   40
 
 #lvl_main-02
-   8
-   5,R
+  12
   10,R,X
-  20,R,J
-   2,L,J
-  16,L,D
+  22,R,J
+   3,L,J
+  15,L,D
   24,L
-   5,L,D
+   4,L,D
   23,L,U,X
   23,R,C
   15,R,Z
@@ -96,9 +106,8 @@ console load SecretSanta2022/1-Main/Toto00
    5,R,D
   15,R,U,X
   14,R,D
-   7,D
-   1,R
-  20
+   8,D
+  19
   18,R,Z
   26,R,X
   17,U,C
@@ -109,12 +118,12 @@ console load SecretSanta2022/1-Main/Toto00
   37,L
   15,L,U,Z
    5,L,D
-  17,R,D
-  28,R,X
-  15,R,Z
+  16,R,D
+  28,R,Z
+  17,R,V
   15,R,U,X
   22,R,D
-  10,R,Z
+   9,R,Z
   40
 
 #lvl_main-03
@@ -168,4 +177,4 @@ console load SecretSanta2022/1-Main/Toto00
  152,U,X
    1
 
-ChapterTime: 0:34.306(2018)
+ChapterTime: 0:34.034(2002)
