@@ -1,5 +1,4 @@
-RecordCount: 5680
-
+RecordCount: 5723
 console load StartupContest2021/1-Submissions/rocketguy2
    1
 
@@ -3588,7 +3587,8 @@ console load StartupContest2021/1-Submissions/rocketguy2
    1,F,225
    1,F,45
   29,U,X
-  17,R
+   1,K
+  10,R
    1,R,K
   14,R
    1,R,K
@@ -4844,9 +4844,4 @@ console load StartupContest2021/1-Submissions/rocketguy2
    1,F,0
  106,R,X
  135
-ChapterTime: 2:20.182(8246)
-
-
-
-
-
+ChapterTime: 2:20.080(8240)
