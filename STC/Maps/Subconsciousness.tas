@@ -1,4 +1,4 @@
-RecordCount: 3465
+RecordCount: 3578
 
 console load StartupContest2021/1-Submissions/rdoggo8
    1
@@ -559,13 +559,17 @@ console load StartupContest2021/1-Submissions/rdoggo8
    2,R
    8,R,J
   17,R,Z
-   2,R,J
-   7,R
-   3,R,J
-   5,L,X
-  45,R
-  73
-  22,J
+   1,R,J
+   5,R
+  18,D,X
+   6,R
+  10,L,G
+   6
+  70,L,G
+   1,U,G
+   1,G
+   5,U,G
+  23,L,J,G
   21,U,X
    9,L,Z
 
@@ -645,4 +649,4 @@ console load StartupContest2021/1-Submissions/rdoggo8
   12,U,X
  135
 
-ChapterTime: 1:21.770(4810)
+ChapterTime: 1:21.583(4799)
