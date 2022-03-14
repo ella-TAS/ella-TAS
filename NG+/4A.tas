@@ -11,107 +11,114 @@ console p_twodashes
    5,R,D,X
    3,R,J
    9,R,K,G
-   3,R
-   9,L
-  10,L,D,X
+  11,R
+   1,J
+   5,R
    1,R,J
-   7,L
-   9,R,J
-   9,R,K,G
-   4,D,X
-   8,R,X
+   1,R
+   1,R,J
+  10,L,X
+  20,R,J
+   8,R,Z
    1,R,J
    6,R
-  12,R,J
-  15,R,U,X
-  14,R,U,C
-  11,R,J,G
-   7,R
-   4,D,X
-   1,R,J
-   7,R
-   1,R,J
-   2,R
-   7,R,D,X
-  40
-
-#lvl_a-01
-   7,R,D,X
-   8,R,J
+  11,R,J
+   5,R
+   2,R,K
+   1,K
   15,R,U,X
   15,U,C
-  15,U,X
-   4,D,C
-   1,R,J
-   7,R
-   3,R,J
-   9,R,U,X
-  15,R,U,C
-  24,R,U,X
-   8,R,D,C
-   1,R,J
-   7,R
-  40
-
-#lvl_a-01x
-   1,R,J
-  14,R,D,X
-   2,R,J
-   3,R
-  12,R,D,X
-   1,R,J
-   7,R
-  11,R,D,J
-   1,L,K,G
-   5,R,K,G
-   4,R,J,G
-  14,R,D,X
-   1,R,J
-  18,R,D,X
-   1,R,D
-   1,R,J
-   1,R,K
-   1,R,J
-   1,R,K
-   1,R,J
-   1,R,K
-   5,R
-   3,R,K
-   1,R
-  13,R,U,X
-   1,S
-   1,D,J
-  34
-  10,R,K
-   3,R
-   2,R,J
-  17,R,D,X
-   1,R,J
-   3,R
-  40
-
-#lvl_a-02
+   1,R,J,G
+   4,R
+   1
    2,R
-   4,D,X
-   8,R,X
-  10,R,J,G
-   3,R
-   8,R,K,G
+   8,R,Z
+   1,R,J
    7,R
    1,R,J
-  15,R,D,X
-   4,R,D
-   2,R,J
    5,R,D,X
   40
 
-#lvl_a-03
-  10,R,D,X
-# -3f
-  15,R,D,C
-   7,R
-  15,R,U,C
+#lvl_a-01
+   9,R,D,X
+   6,R,J
+  14,R,U,X
+  15,U,C
+  15,U,X
+   4,R,Z
+   1,R,J
+   6,R
+   1,R,K
+  11,R,D,J
+   1,R
+  15,R,U,X
+  14,R,U,C
+   1,R,J,G
+   1,L,J
+   1,L
+   6,R
+   6,R,Z
+   1,R,J
+   3,R
+   2,R,K
+  40
+]
+#lvl_a-01x
    2,R
+   1,R,J
+  12,R,D,X
+   3,R,J
+   6,R,D,X
+   2,R,J,G
+   5,R
+   2,R,K
+   8,R
+   1,R,J
+   4,R
+  13,R,U,Z
+   1,R,K,G
+   2,R,K
+  15,R,D,X
+   1,R,J
+  15,R,D,X
+   1,R,J
+   1,R,K
+   1,R,J
+   1,R,K
+   1,R,J
+   3,R,K
+   1,K
+  14,R,U,X
+   1,S
+   1,D,J
+  34
+   5,R
+   1,R,J,G
+   3,R
+  15,R,D,X
+   2,R
+   2,R,J
+  40
+]
+#lvl_a-02
+   9,R
+   1,R,J
+  12,R,U,X
+   7,R,J,G
+   1,R
+   1,R,K,G
+   3,R
+  15,R,D,X
+   4,R,D
+   1,R
+  40
+
+#lvl_a-03
+   1,R
+  15,R,D,X
+   8,R,D
+   5,R
+  14,R,U,X
   15,R,U,C
    7,R,D,X
    1,R,J
@@ -120,145 +127,102 @@ console p_twodashes
   43
 
 #lvl_a-04
-# -2f any%
-# strat in the other TAS is
-# actually slower, because when
-# you wallbounce, you lose speed
-# that you can keep from the cloud.
    3,R
-  14,R,D,X
-   1,R,J
-  11,L,D,X
-   1,R,J
-   5,R
-   6,R,J
-  16,R,K,G
-  13,R,U,X
-   1,R,J,G
-   7,R
   15,R,D,X
-   4,D,C
-   3,R,C
-   8,R,J
-   5,R
-   2,R,K
-   5,R
-   4,D,X
-   3,R,X
+   8,L,Z
    1,R,J
-   6,R
+   1,R
    1,R,J
-   5,R,D,X
+   2,R
+   7,R,J
+   1,R,K,G
+  16,R,J,G
+  14,R,U,X
+   5,R,J,G
+  15,R,D,X
+   1,R
+   1,R,J
+  11,R,D,X
+   3,R,J
+   9,R
+   1,R,J
+  12,R,D,X
   40
 
 #lvl_a-05
-   9,R,D,X
-   3,R,J
-   4,D,X
-   9,R,X
+   2
+   1,R,J
+  13,R,D,X
+   2,R,J
+  11,R,Z
   10,R,J
-  14,R,U,X
-# Dashing early prevents getting
-# double boosted by the platform
-  10,R
-   4,D,X
-   1,R,J
-   8,R
-   1,R,J
-   1,R
+  15,R,U,X
+  12,R,Z
+   3,R,J
   12,R,U,X
    5,R,J,G
   40
 
 #lvl_a-06
-  10,R,J
-   1,J
+   6,R,J
+   2,R
   14,R,U,X
    2,R,J,G
-   2,J
-  21,D
-# down diag dash is +2f
-   7,R,D
-   1,L,D
-   2,D
-   6,R,D
-   3,R
-   1,R,D
-   4,D,X
+  18,R,D
+  15,D,X
+   9,R,D
+   6,R,Z
    1,R,J
-   6,R
+   7,R
    1,R,J
-   2,R
   40
 
 #lvl_a-07
    6,R
-   4,D,X
-   9,R,U,X
-# this saves quite a bit of time
-# but I was initially timing to the
-# bubble instead of to the key so
-# my count (-31f vs strat in the
-# other TAS) was wrong and I don't
-# want to figure it out again.
-
-# I tried a few variations and
-# while I could hit the key earlier
-# than frame 6 of 35,R,D, I couldn't
-# get to the door in time for it to
-# be faster.
-  24,R,U,C
-   4,D,X
-  11,L,U,X
-  15,L,U,C
-  10,L
-# extra frames are to resync with
-# any%; not timeloss bc we can't
-# get through the door any faster
-  35,R,D
-  19,R,D,X
-   9,R,D,J
-   1,K,G
-   4,L,K
-   4,D,X
-   8,R,X
-   1,R,J
+  13,R,U,Z
+  24,R,U,X
+  15,L,U,Z
+   3,L
+  15,L,U,X
+   9,L
+  14,R
+  20,R,D
+  15,R,D,X
+  15,R,U,Z
    1
-   2,R
-  10,R,U,X
-   3,R,K,G
-   2,R
-  13,R,J,G
+   2,L
+  13,R,X
+   3,R,J
+   9,R,U,X
+   5,R,J,G
+  13,R,K,G
   43
 
 #lvl_a-08
   15,R,D,X
-  14,R,J
+  18,R,J
   15,R,U,X
-# -4f, can probably be even better
-   2,R
-  15,D,X
-   6,L,D,C
+  11,L,D,C
    1,R,J
-   8,R
+   3,R
+   1,R,K
+   2,R
   16,R,J
-  16,R,U,C
-   8,U,X
-  15,U,C
-  12,U,X
+  15,R,U,X
+  12,U,C
+  15,U,X
+  12,U,C
   40
 
 #lvl_a-09
-   7,R
-  20,R,J
-  15,U,X
-   2,R
-# -20f
-  15,R,J
+   8,R
+  19,R,J
   15,U,X
    2,R
   18,R,J
-  12,R,K,G
+  15,U,X
+  18,R,J
+  10,R,K,G
    1,J
    3,R,J
   40
@@ -909,4 +873,4 @@ DashTimer: 3 [b-08]
    1,D,J
   18
 
-ChapterTime: 1:42.374(6022)
+ChapterTime: 1:41.099(5947)
