@@ -1,16 +1,17 @@
 #by Mello Mantra
 
-RecordCount: 1388
+RecordCount: 1623
 
 console load SecretSanta2022/1-Main/rocketguy
    1
 #Start
  190
+
 #lvl_a-00
-   3,R
-   2,R,J
+   5,R
+   1,R,J
+   8,R
   11,R
-  12,R
   24,R,G
   10,R,J,G
    5,R
@@ -33,8 +34,8 @@ console load SecretSanta2022/1-Main/rocketguy
    8,R,J
   18,R
   15,R,Z
-   2,J
-   4,R,J
+   2
+   4,R
    1,R,K,G
   12,R
    1,R,J
@@ -54,6 +55,16 @@ console load SecretSanta2022/1-Main/rocketguy
    5,R,J
   10
   25,R
+#   5,R,J,G
+#   4
+#   4,L
+#  13,R,Z
+#   1,R,J
+#   1,R,K,G
+# 500,R
+#   8,R
+#   1,R,J
+#   2,R
    9,R,J,G
   12,R,Z
    1,R,J
@@ -63,19 +74,24 @@ console load SecretSanta2022/1-Main/rocketguy
   40
 
 #lvl_a-04
-  28,R
+  27,R
    4,R,G
-  36,R,J,G
-  14,R,Z
-   8,R,J
+  20,R,J,G
+   6,R,J
+   9,R
+   4,Z
+   1,R,J
+   7,R
+   1,R,J
+   7,R
   40
 
 #lvl_a-05
-   2,R,J
-  13,R,D
-   4,R,D,J
-  16,R,D
-  67,R,G
+   3,R
+   4,R,J,G
+   5,R
+  21,R,J
+  65,R,G
    1,R,J,G
    1,J,G
   25,R,J,G
@@ -93,16 +109,22 @@ console load SecretSanta2022/1-Main/rocketguy
 #lvl_a-06 (0)
    2
    1,R,J,G
-  12,R
-  14,R,X
-  19,R,J
-  14,L,U,X
-  20,L,G
-  10,L,J,G
-   3,L
-  11,R,D
-  11,R,X
-  36,R,G
+   2,R
+   6,L
+   4,Z
+   1,R,J
+   5,R
+   1
+   2,R
+  12,R,J
+   4,R
+  15,L,U,X
+   1,L
+  15,L,U,C
+   9,L
+  20,R
+  14,R,X,G
+  28,R,G
    2,R,J,G
    9,R
   25,R,G
@@ -138,17 +160,17 @@ console load SecretSanta2022/1-Main/rocketguy
   40
 
 #lvl_a-07 (1)
-   6,R,J
    7,R
-  10,R,G
+   2,R,J
+  11,R,G
    1,R,J,G
-  15,R,D,X
-  14,R,G
+  15,R,D,X,G
+  13,R,G
    1,R,J,G
    3,R
   15,R,Z
-   6,R,X
-  28,R,G
+   5,R,X,G
+  27,R,G
    8,R,J,G
    6,R
   15,R,Z
@@ -157,12 +179,12 @@ console load SecretSanta2022/1-Main/rocketguy
   14,R,D,X
    1,R,J
    7,R
-   3,R,J
-   5,R,D,X
+   1,R,J
+   6,R,D,X
   40
 
 #lvl_a-08
-   9,R,D
+   8,R,D
   10,R,J
    3,R
   20,R,G
@@ -171,14 +193,14 @@ console load SecretSanta2022/1-Main/rocketguy
   22,L,G
   12,L,J,G
   15,U,X
-   3,R,J
+   3,R
   13,R,X
   23,R,G
   17,R,J,G
   15,K
    2,L,K
   15,R,Z
-   1,R,J
+   1,R
   12,R,K,G
    4,R,J,G
    3
@@ -245,7 +267,7 @@ console load SecretSanta2022/1-Main/rocketguy
   15,U,X
    4,L
   40
-***
+
 #lvl_b-01
    8,L
   15,L,U,X
@@ -285,18 +307,14 @@ console load SecretSanta2022/1-Main/rocketguy
   47,R,G
   19,R,D
   14,R,X,G
-  21,R,G
-   1,R,J,G
-  36,D
-   7,R,G
-  25,R,J,G
-  15,R,X
-  14,R,J
-  12,R,K,G
+  27,R,G
+   2,R,J,G
+  13,R,G
    4,R,J,G
-  13,K,G
+  27,R,D
   15,R,Z
    3,R,D
+#not sure what to do with these extra dashes
   40
 
 #lvl_b-04
@@ -304,8 +322,8 @@ console load SecretSanta2022/1-Main/rocketguy
   13,R,X,G
   23,R,G
   16,R,J,G
-  38,L,J
-  41,R,J,G
+  38,L
+  41,R,G
   14,U,X
   32,L,G
   16,L,J,G
@@ -501,4 +519,4 @@ repeat 52
 endRepeat
    1,R
 
-ChapterTime: 1:41.966(5998)
+ChapterTime: 1:40.181(5893)
