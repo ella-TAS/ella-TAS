@@ -224,112 +224,111 @@ console p_twodashes
   18,R,J
   10,R,K,G
    1,J
-   3,R,J
+   3,L,J
   40
 
 #lvl_b-00
-# -11f to dash reset
-  12,R
-  15,R,U,X
-   7,R,J,G
-  15,R,U,X
-  11,R
+   3,R
+   1,R,J,G
+   9,R,K,G
+  15,U,X
+   8,R,C
+   2,J,G
+   1
+  12,K,G
+   7,R
+   3,R,J
+  12,J
+  17,U,X
+   3,J
+   5,L,J
    4,R,J
-  10,L,J
-  18,U,X
-# -7f to dash reset, can probably
-# be better
-  13,L,J
+   1,L
   13,U,X
    7,R,J
-   8,R
-   4,R,J
-   2,R
-   4,D,X
-  10,U,X
-   1
+  12,R
+   1,R,J
+  15,U,Z
    2,L
-# -6f to screen exit
-  20,R,J
-   4,D,X
-   1,R,X
+  16,R,J
+   4,L,J
+   5,R,Z
    4,R,J
    4,R,K,G
-   2,R,J,G
-   5,R,K,G
+   7,R,J,G
   40
 
 #lvl_b-02
-# -5f
-   6,R,J,G
+   1,R,J
   15,R,U,X
-  11,U,C
+  14,U,C
   43
 
 #lvl_b-05
-# -8f
-   7
-   2,L,J
-  24,R,J
-  16,U,X
-  17,U,C
-   5,R,J
+   1
+  16,J
+  15,U,X
+  15,U,C
+   3,J
+   8,L,J
+   1,K
+   4,J,G
+   1,R,J
   40
 
-
 #lvl_b-08b
-# -17f and can def be better,
-# I barely tried to optimize
-   7,R
-  12,R,J,G
+   3,R
+   3
+   1,R,J,G
+   1,R,K,G
+  10,J,G
+   2,L,J
   15,R,U,X
   18,R,U,C
   15,R,U,X
   14,R,U,C
-  24,R,J,G
-  20,R,X
-  15,U,C
-   7,L,J
+   3,R,J,G
+  15,R,K,G
+  15,R,X
+  13,U,Z
+   8,R,J
   40
 
 #lvl_b-08
-# +2f on screen entry :(
-   3,L
-   1
-   5,L
-   2
-   6,R,D,X
+   5,R
+   1,J
+   5
+   4,R,D,X
    1,R,J
    4,R
-   1,R,J
+   1,R,K
    1,R
-   1,R,J
-Pos: 4946.98,-1936.49
-Speed: 294.67,37.50
-Vel: 294.67,37.50
-Stamina: 110 Timer: 40.562
-DashTimer: 3 [b-08]
-   4,R,K
-   9,R,D,X
-   5,R,J,G
+   1,R,K
+   5,R,J
+   4,X
+   4,R,D
+   2,R,J,G
    5,R
-   1,R,J
+   1,R,K
    2,R
   10,R,J
-   9,R
-   4,R,J
+   5,R
+   1,R,K
+   1,R
+   3,R,K
+   4,R
   14,R,U,X
    2,R,J,G
    2,R,K,G
    5,R
-   3,R,J
-   5,R
+   2,R,K
+   6,R
    1,R,J
   14,R,D,X
   28,R,J
   15,R,X
-  14,U,C
-  20,R,J
+  15,U,Z
+  18,R,J
    1,R,K,G
    4
    3,L
@@ -873,4 +872,4 @@ DashTimer: 3 [b-08]
    1,D,J
   18
 
-ChapterTime: 1:41.099(5947)
+ChapterTime: 1:40.623(5919)
