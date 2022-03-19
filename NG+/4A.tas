@@ -1,6 +1,3 @@
-#console load 4 9382 -4360
-#Play,Section Cliff Face,37
-
 console load 4
    1
 console p_twodashes
@@ -62,7 +59,7 @@ console p_twodashes
    3,R
    2,R,K
   40
-]
+
 #lvl_a-01x
    2,R
    1,R,J
@@ -99,7 +96,7 @@ console p_twodashes
    2,R
    2,R,J
   40
-]
+
 #lvl_a-02
    9,R
    1,R,J
@@ -346,33 +343,29 @@ console p_twodashes
    5,R,J
    7,R,D,X
    1,R,J
-   7,R
-  15,R,J
-   1,J
-  16,R,U,X
-   2,R,J,G
-   5,R
-   4
-   4,D,X
-  10,R,X
-# -3f
-   6,R,J
-  15,R
-  15,R,X
+   4,R
+   1,R,K
+   1,R
+   1,R,K
+  17,R,J
+  14,R,U,X
+   3,R,J,G
+  14,R,Z
+  10,R,J
+  15,R,D,X
+  12,R
+  14,R,U,X
   15,R,C
-  15,R,X
   16,R,D
    5,L,D
-   4,D,X
-  12,R,X
-   7,J
-  11,L,K,G
+  15,R,Z
+   1,R
    1,J
-   3,K,G
-  14,R,K
-# -16f
-  12,U,X
-  11,R,J
+   5,R,J
+   1,L,J
+  16,R,K
+  14,U,Z
+  17,R,J
   18,R,U,X
   14,R,D,C
    1,R,J
@@ -382,26 +375,23 @@ console p_twodashes
 
 #lvl_c-02
    9,R,D,X
-  21,R,J
-   5,R
-   4,D,X
-  11,R,U,X
-# -29f lmao
-  14,R,C
+  12,R,J
+  12,R
+  15,R,U,Z
   15,R,X
-   4,D,C
-  10,U,C
+  15,R,C
+  14,U,Z
    6,R,J
-   9,L,J
-   2,L,J
+   7,L,J
+   1,R,J
+   1,L,J
   40
 
 #lvl_c-04
-   2,R
+   2
    1,R,K,G
    1,R,J,G
-   4,R
-   3
+   7
    4,R,D,X
    1,R,J
    7,R
@@ -411,173 +401,158 @@ console p_twodashes
    6,J
    3,D
    3,R
-   4,D,X
-  10,R,X
-# couldn't make upright dash fast
+  14,R,Z
   24,R,J
    4,R
-   9,R,K,G
-   4,D,X
-  10,U,X
-   6,R,J
-   2,L,J
-   1,L
-  12,R
+   9,R,J,G
+  14,U,Z
+  11,R,J
+  14,R,Z
    1,R,J
-   2,R
-  14,L,D,X
-   1,R,J
-   5,R,D,X
-   1,R,J,G
-   7,R
   40
 
 #lvl_c-05
-   7,R
-  21,R,J
-  10,R
-  15,R,X
-   4,R,D,C
-  12,R,U,C
-  15,U,X
-#-25f (but +2f on next screen)
+  13,R,D,X
   18,R,J
-   3,L,K
-   4,D,X
-  10,R,X
-  44,R,J
-   4,D,X
-  15,R,X
+  15,R,D,X
+   4,R
+  14,R,U,X
+  16,R,U,Z
   15,U,C
-   2,L,J
-  11,L
-  12,U,X
+  17,R,J
+   4,K
+  14,R,Z
+   9,R,J
+  15,R,D,X
+  15,R,D,C
+  13,R
+  15,U,X
+  15,U,C
+   1,L
+  15,U,X
   40
 
 #lvl_c-06
-  11,L
+   5,L
+   5
+   1,L
   12,U,X
-# +2f due to different screen entry
-   5,R,J
+   4,R,J
    1,R,K,G
    8,R,G
   12,R,J,G
-   3,R,K,G
-   6,R
-   2
+   5,R,K,G
    1,R
-   4,D,X
+   5,R,Z
    1,R,J
-   6,R
-  22,R,D,J
-  18,R,U,X
-  12,R,J,G
-   4,K,G
-   1,L,K
-   1,R,J,G
-   1,R,K,G
+   5,R
+  21,R,J
+   2,R
+   1,R,K
+  15,R,U,Z
+  15,U,C
    2,R,J,G
-# -5f
-   1,R
-  11,R,X
-   7,R,J
-  14,U,X
-  14,L,J
-# I guess I'm not so surprised but
-# this is only -1f
-  19,L,X
-  18,L,C
+   7,R
+   4,R,J
   15,U,X
-  18,L,J
-  12,L,K,G
-  12,L,J,G
-   1,K
-   7
+  15,U,C
+  15,L,X
+   1
+  15,L,C
+  14,L,U,Z
+   1,L,J,G
+   2,R,J
+   7,L
+   3,L,J
+  15,U,X
+  14,U,Z
+   1,R
+   1,K,G
+   6,R
+   1,L
    5,L,J
    8,L,G
-  11,L,K,G
-   2
   12,L,J,G
-   3,K,G
-   6,J,G
-   4,D,X
-   2,R,X
-# -11f
-# (-13f on this screen, +2f next)
-  18,R,J
-  12,U,X
-   9,R,J
-#  10,R,J
-#   1,J
-#  12,R,J
-#  11,K,G
-#   4
-#   3,L
-#  11,U,X
+  12,L,K,G
+   7,L,J,G
+   1,K,G
+   1,R,K
+   4,R,Z
+   5,R,J
+   4,R
+  13,R,U,Z
+   1,L
+   2,J,G
+   3
+   4,L
+  11,U,X
   40
 
 #lvl_c-09
-  17,L,J
-   3,L,G
-   1,R,J
-  10,R,K
-   5,R
+   4,L,J
+  11,L
+   1,L,G
+   6,L,J,G
+  10,K
   14,L,X
    1,R,J
-  14,R,D,X
-   1,R,D
-   1,D
-   3,R,D
-  15,R,J
-  11,R,K,G
-  14,R,D,X
-   2,D
+  15,R,D,X
    4,R,D
-   1,R,J,G
-  13,R
-# -19f
-  11,R,J
-   2,J
-   7,R,U,X
-  24,R,J,G
+   2,R,J
+   4,R
+  12,R,U,X
+   3,R,J,G
+   5,R
+  15,R,D,X
+   4,R
+   1,R,J
+   5,R
+   2,R,K
+   3,R
+   1,R,K
+  13,R,U,X
+  18,R,J,G
   15,U,X
-  13,L,J
-  12,R,K
+   5,R
+  18,L,J
+   1,K,G
+   1,J
   40
 
 #lvl_c-07
+   1,K
+   1
+   5,R
+   1,R,K
+   3,R
+   4,R,Z
+   1,R,J
+   6,R
+   1,R,K
+  12,R,J
+   8,R
+  15,U,X
    1,R
    1,R,J,G
-   9
-   4,R,D,X
-   1,R,J
-   7,R
-  21,R,J
-   1,K
-# -12f
-  15,U,X
-  15,R,J,G
+  14,R,K,G
+   6,R,J,G
    1,K,G
    1,L,K
-   1,R,K
-   1,J
-   1,K
-   6,J,G
-   5
+   3,R,K
+   5,R
    3,L
-   4,D,X
+   4,R,Z
    3,R,J
    2,J
    3,R,J
-   5,R
-   1,R,J
+   3,R
+   3,R,K
   13,R,J,G
    3,R,K,G
    7,R
-   4,R,D,X
-   8,R,J
-   3,R
-   1
+   4,R,Z
+   7,R,J
+   4,R
    1,R,J
    5,R,D,X
   40
@@ -585,89 +560,79 @@ console p_twodashes
 #lvl_c-08
    1,R,J
    7,R
-
    2,R,J
-  16,R
-   8,L
-   3,R
-  15,U,X
-  18,L,J
-   1,L,K,G
-   1,L,J,G
-# -13f to bubble
-   4,D,X
-   1,L,X
+  13,R
+  10
+   6,L
+  14,U,X
+  19,L,J
+   5,L,X
   16,R
   15,U,X
   14,R,U,C
-  15,U,X
-   7,U,C
-# -8f to bubble
-   6,L,J
-   1,R,K,G
-   8,R,J,G
+  15,L,U,X
+  15,U,C
+   6,R,X
+   3,R,J,G
   13,R,K,G
-  12,R,C
   15,U,X
   16,U,C
-  11,L,J
-   4,L,J
-   3,R,J
-# -12f to transition
-   9,R,K,G
-  14,U,X
+  12,R,J
+   6,L,J
+  15,U,X
+   1,R,J
+   5,R
   40
 
 #lvl_d-00
    1,R,J,G
-   8,R
-   2
-#Section Cliff Face
-   4,D,X
-# +2f nasty resync
-   4,R,X
+  10,R
+   1,R
+   6,R,Z
+   1,R,J
+   5,R
+   2,R
+   1,R,J
+  12,R,D,X
    1,R,J
    7,R
    1,R,J
-  14,R,D,X
-  12,R,J
-   3,R,K,G
-  14,R,D,X
-   1,R,J
-  14,R,D,X
-   1,R,J
-   5,R,D,X
+   9,R,U,X
+   1,R,J,G
+   5,R
+  13,R,D,X
+   2,R,J
+  11,R,D,X
   43
 
 #lvl_d-01
-   8,R,D,X
-   5,R,J
+   2
+   2,R,J
   14,R,D,X
-   4,R,J
-   4,D,X
-   9,R,X
    1,R,J
-   6,R
-   1,R,D,J
-   4,J
-   3,R,J
+  12,R,D,X
+   4,R,J
+  11,R,Z
+   1,R,J
+   2
+   4,R
+   7,R,D,J
   14,R,U,X
-   2,R,J,G
-   6,R
+   4,R,J,G
+   7,R,D,X
   40
 
 #lvl_d-02
-   2,R
-  14,R,D,X
+   6
+   2,R,J
+  15,R,D,X
    1,R,J
   14,R,D,X
-   1,R
-  13,R,D,X
+   2
   15,L,D,C
-   5,D
-   7,D
-  14,R,D,X
-   9,R
+  12,D
+  15,R,D,X
+   8,R
   11,L,X
   12,R,J
    1,L,J
@@ -678,13 +643,13 @@ console p_twodashes
    5,R
    1,R,J
   16,R,D
-# -8f to screen transition
    6,R,J
-   9,U,X
-   1,R,J
-  11,R
+  10,U,X
+   1,L,J
+   2,K,G
+   2
+   5,R
    4,D,X
-   1,R,X
    1,R,J
    3,R
   40
@@ -872,4 +837,4 @@ console p_twodashes
    1,D,J
   18
 
-ChapterTime: 1:40.623(5919)
+ChapterTime: 1:38.464(5792)
