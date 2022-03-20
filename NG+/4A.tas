@@ -1,3 +1,5 @@
+ChapterTime: 1:37.359(5727)
+
 console load 4
    1
 console p_twodashes
@@ -586,12 +588,10 @@ console p_twodashes
 
 #lvl_d-00
    1,R,J,G
-  10,R
-   1,R
+  11,R
    6,R,Z
    1,R,J
-   5,R
-   2,R
+   7,R
    1,R,J
   12,R,D,X
    1,R,J
@@ -616,7 +616,7 @@ console p_twodashes
    1,R,J
    2
    4,R
-   7,R,D,J
+   7,R,J
   14,R,U,X
    4,R,J,G
    7,R,D,X
@@ -641,7 +641,7 @@ console p_twodashes
    9,R,D,X
    5,R,J,G
    5,R
-   1,R,J
+   1,R,K
   16,R,D
    6,R,J
   10,U,X
@@ -649,7 +649,7 @@ console p_twodashes
    2,K,G
    2
    5,R
-   4,D,X
+   4,R,Z
    1,R,J
    3,R
   40
@@ -658,124 +658,104 @@ console p_twodashes
    4,R
    6,R,J
    5,R
-   2,R,J
-   1,R
-   1,R,J
-   1,R
-   4,D,X
-  10,R,X
+   1,R,K
+   2,R
+   1,K
+  14,R,Z
    1,R,J
    6,R
    1,R,J
-  12,R,D,X
-# upright dash + cancel was frame
-# tied, didn't try too hard
-# update: tried harder. You can
-# exit the screen 1f earlier
-# pretty easily, but then
-# you can't sync the snowball
-# on the next screen.
-  17,R,J
-  10,R,K,G
-  10,R,D,X
+  19,R,D,X
+   3,R,J
+  10,R,U,X
+   3,R,J,G
+   8,R,K,G
+   9,R,D,X
   40
 
 #lvl_d-04
-   4,R,D,X
-   1,R
-   7,R,J
-  15,R,D,X
-   1,R,D,J
-   4,D,X
-  16,R,U,X
-   4,R
-  15,R,D,C
-   2,R
-   2,R,J
-   1,L,J
-  14,R,D,X
-   1,R
-   1,R,D
-   1,R
-   1,R,J
-   3,R
-  10,R,U,X
-   1,R,K,G
    6,R
-   4,D,X
-   8,R,U,X
-   2,R,J,G
-   5,R
+   3,R,J
+   2,J
+  15,R,D,X
+   1,R,J
+  18,R,U,X
+   4,J
+  15,R,D,X
+   1,R,J
+   2,R
+  15,R,D,X
+   2,R,D,J
+   2,R
+  11,R,U,X
+   1,R,J,G
+   4,R
+   1
+  12,R,U,Z
+   4,R,J,G
+   1,J
+   2
   40
 
 #lvl_d-05
-   5,R
+   3
   14,R,X
-   5,R,J,G
-   3,R
+   2,J,G
+   2,R,J
   14,R,U,X
-   5,R,J,G
-   6,R
+  10,J,G
   40
 
 #lvl_d-06
-  14,R,U,X
-   1,J,G
-   2
+   1,R,J
+  13,R,U,X
+   2,J,G
   15,R,D,X
-   2,R,D
-   3,R,J
-  20,R,D,X
-   6,R,D
-   4,D,X
-   6,R,U,X
-   6,R,J,G
+   1,D
+   1,R,D
+   1,R,J
+   1,R
+  15,R,D,X
+   9,R,D
+   1,R
+   9,R,U,Z
+   5,R,J,G
+   1,R
   40
 
 #lvl_d-07
+   4,R
+   4,R,K
+   9,R
+   2
+  13,R,U,Z
+   2,L,J,G
+   6,R,J
+   5,R
+   1,R,K
+   9,R
+  14,R,X
+   1,R,J,G
    8,R
-   2,R,J
-  11,R
-   4,D,X
-  10,R,U,X
-   1,L,J,G
-  10,R,J
-  13,R
-   4,D,X
-  10,R,X
-   1,R,J
-  14,R,D,X
+   2,R,K
   40
 
 #lvl_d-08
-   1,R,J
-  12,R,D,X
-  15,R,C
-  11,R,D
-   4,D,X
-   8,R,X
-   1,R,J
+   1,R,K
+  13,R,J
+  15,R,D,X
    1,R
-  11,L,D
   10,R,D
-   6,R
-   4,D,X
-   7,R,U,X
-   1,L
-# -7f to bubble
-   3,L,J,G
-  10,U,X
-  11,R,J
-  15,U,C
-   6,L
+  15,R,Z
   15,U,X
+   1,R
+   8,R,J
+  15,U,X
+   6,L
+  15,U,C
    1,L
-   4,L,J
-   2,R,J
-# -5f
-   6,R
-   4,D,X
-   2,R,X
+  10,R,J
+   6,R,Z
    1,R,J
    7,R
    1,R,J
@@ -783,58 +763,60 @@ console p_twodashes
   40
 
 #lvl_d-09
-   2,R,D,X
+   2
    1,R,J
   14,R,D,X
+   1,R,J
+  14,R,D,X
+   5,R,J
+   2,R,J
+  12,R,D,X
+   1,R,J,G
+  14,R
+   7,R,J
+  23,R
+  20,R,U,X
+  20,R,U,C
+  23,R,X
+   6,R,J
+   1,R
+  10,R,Z
+  12,R,J
+   6,R
+   1,R,K
+  25,R,D
+   1,D
+   1,R,D
+   1,L,D
+   1,J
+   2,K,G
+   1,R,K
+   1,L,K
+   2,L,J,G
+   2,R,J
+   1,L,J
+   1,L,K,G
+   1,J
+   2,K,G
+  32,R,K
+  14,R,X
+  20,R,J,G
+   1,R
+   1,R,K
+  13,R
+  14,R,Z
    1,R,J
    7,R
-   4,R,J
-   5,R
-  14,R,D,X
-   1,R,D
    1,R,J
-  14,R,D,X
-   1,R,J
-   9,R,D,X
-# dashing here loses like 2 frames
-# and I have no clue why
-  10,R,J
-  17,R
-  30,R,U,X
-# -13f
-  18,R,U,C
-  17,R,X
-   7,R,J
-   4,D,X
-   6,R,X
-  14,R,D,J
-  30,R,D
-   5,L,D
-   9,J
-   3,L,K,G
-   1,L,J
-  10,R,K
-  20,R,J
-   4,R
-  14,R,X
-# -12f
-  38,R,J,G
-   4,D,X
-   7,R,X
-   2,R,J
-   8,R
-   1,R,J
-   9,R,D,X
+  10,R,D,X
   40
 
 #lvl_d-10
-   5,R,D,X
+   4
    1,R,J
   14,R,D,X
    1,R,J
-   8,R,D,X
+   9,R,D,X
    1,S
    1,D,J
   18
-
-ChapterTime: 1:38.464(5792)
