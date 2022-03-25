@@ -1,4 +1,4 @@
-RecordCount: 1714
+RecordCount: 1738
 
 console load SecretSanta2022/1-Main/bluexans 
    1
@@ -47,22 +47,18 @@ console load SecretSanta2022/1-Main/bluexans
    1
    1,R,D
    1,R
-   2,R,D
-   1,R
-   1,R,D
+   4,R,D
   12,R,Z
    8,L,U,G
    1,R,J
   14,U,X
    7,R,J
-   7,R
-  16
-   1,R
-   7
-   2,L,J,G
-   1,R,J
-   1,J
-   4,R,J
+  20,R
+   3,L
+   9,D,X
+   2,J,G
+   5,R,J
+   2,J
   10,L,D,X
   12,R,J
    2,R
@@ -326,4 +322,4 @@ repeat 73
    1,L
 endrepeat
    1,R
-ChapterTime: 0:43.894(2582)
+ChapterTime: 0:43.877(2581)
