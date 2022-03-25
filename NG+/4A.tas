@@ -1,12 +1,11 @@
-ChapterTime: 1:37.359(5727)
-
 console load 4
    1
 console p_twodashes
 
 #Start
-#lvl_a-00
   69
+
+#lvl_a-00
    5,R,D,X
    3,R,J
    9,R,K,G
@@ -287,24 +286,26 @@ console p_twodashes
   15,R,U,X
   14,R,U,C
    3,R,J,G
-  15,R,K,G
-  15,R,X
-  13,U,Z
-   8,R,J
+  20,R,K,G
+  15,R,U,Z
+  12,U,X
   40
 
 #lvl_b-08
-   5,R
-   1,J
-   5
-   4,R,D,X
+   1,L
+   1,K,G
+   2,R,K
+   3,R
+   2
+   2,R,J
+   4,R,Z
    1,R,J
    4,R
    1,R,K
    1,R
    1,R,K
    5,R,J
-   4,X
+   4,R,X
    4,R,D
    2,R,J,G
    5,R
@@ -324,14 +325,12 @@ console p_twodashes
    6,R
    1,R,J
   14,R,D,X
-  28,R,J
-  15,R,X
-  15,U,Z
+  31,R,J
+  15,R,U,Z
+  15,U,X
   18,R,J
    1,R,K,G
-   4
-   3,L
-   9,U,X
+   2,L,K
   40
 
 #lvl_c-00
@@ -820,3 +819,5 @@ console p_twodashes
    1,S
    1,D,J
   18
+
+ChapterTime: 1:37.155(5715)
