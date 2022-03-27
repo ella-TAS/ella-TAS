@@ -1,5 +1,5 @@
 #By pansear, Lost in Nowhere
-RecordCount: 694
+RecordCount: 735
 
 console load SecretSanta2022/1-Main/goose 
    1
@@ -94,12 +94,14 @@ console load SecretSanta2022/1-Main/goose
   14,R,Z
   25,R,J
   23,U,X
-  57,R,J
-   5,R,D
-  16,R,Z
-   9,R,U,X
-  16,L,C
-  15,D,X
+  14,R,J
+  16,R
+  15,R,X
+   2,R
+  15,R,Z
+  16,D
+  16,L,X
+  15,D,C
   28,L,D
   59,L,X
   69,U,C
@@ -206,5 +208,4 @@ console load SecretSanta2022/1-Main/goose
   31,R,U,X
  140,L,D,C
 
-ChapterTime: 0:38.318(2254)
- 
+ChapterTime: 0:38.165(2245)
