@@ -1,4 +1,4 @@
-RecordCount: 1300
+RecordCount: 1623
 
 console load SecretSanta2022/1-Main/yoshachobi
    1
@@ -218,93 +218,63 @@ console load SecretSanta2022/1-Main/yoshachobi
    9,L,D
   15,R,X
   29,L
-   5,L,D
-   2,L,K,G
    7,L
-   1
-   1,L
-  34,L,G
-   1,K,G
-   1,L,J,G
-   1,K,G
-  22,R,D,X
-  11,R,J
+   1,L,G
+  14,L,J,G
    9,R
-   4,R,J
+   9,L,D,X
+   1,R,J
+   7,R
+   1,J
   15,R,D,X
-  18
-  13,R
+  13,R,D
+  13,R,J
+   1,R,K,G
+   8,R
+  15,R,D,X
+  12,R,D
+  10,R
+   3,D
+   1,R,D
+  40
 
 #lvl_a04
-  40
-   1,R
-  25,R,D
-   8,R,J
-  14,R,U,X
-   1,L,K,G
-   8,R,K
-   1,K
-   3,R,K
-   3,K
-  10,R,K
-   3,K
-   1,R,J,G
-   7,L
-   8,L,J
-  18,R,U,X
-  19,L,C
-  13,L,D,X
-   1,L,J
-   1
-  14,R,Z
-  42,R,J
-  22,R,U,Z
-  12,R,K,G
-   2,R,J,G
-   7,R
-   4,R,Z
-   1,R,J
-  17,R
-   8
-   1,J
-   5
-   3,R
-   2,R,J
-   5,R
-  10,L,Z
-   1,R,J
-   6,R
-   1,R,J
-   1,J
-  15,R,D,X
-   3,D
-   4,R,J
-   1,J
-  26,R,D,X
-   1,R,J
-   7,R,X
-   1,R,K,G
-  14,R
-   1,R,J
-  14,R
-   1,R,J
-   6,R
+  13,R,D
    3,R,J
-   1,J
+   9,R
+  13,R,U,X
+  22,R,J,G
+   3,R
+   1,R,D
+  10,R,J
+  13,R,U,X
+   5,R,J,G
+   1,R
+   6,R,J
+   8,R,D
+   5,D
+  15,R,D,X
+   1,R,J
+   1,R
+  15,R,D,X
+   5,R,D
+   4,R,J
+   3,R
+   9,R,D,X
+   1,R,J,G
+  13,R
+   1,R,J
+  14,R
+   1,R,J
+  14,R
+   2,R,J
   11,R,U,X
   40
 
 #lvl_a05
-   1
-   4,K,G
+   2,R
+   5,R,K,G
   15,R,D,X
-  30,R,D
- 104,R
+ 134
 
-ChapterTime: 0:31.008(1824)
-
-
-
-
-
-
+ChapterTime: 0:27.931(1643)
