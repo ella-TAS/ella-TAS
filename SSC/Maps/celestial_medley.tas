@@ -1,4 +1,4 @@
-RecordCount: 1942
+RecordCount: 2040
 
 console load SecretSanta2022/1-Main/bluexans 
    1
@@ -270,37 +270,32 @@ endrepeat
    4,R,J
    6,R,K
   12,R,D,X
-   2,R,J,G
-   3,R
+   5,R,J,G
   40
 
 #lvl_1-6
-   1,R
-  26,R,U,X
+  27,R,U,X
    4,L,J
-  18,U,X
-  10,L,Z
-  13,L,J
-   2,J
-  11,U,X
-  22
-  28,L
-   8,R,D
-   1,L,D
-   1
-   4,R
-   1,R,D
-  33,R,Z
-   5,J
-  18,U,X
+  16,U,X
+  34,L,J
+   1,J
+   5,L,J
+  15,U,Z
+  12,L
+   1,K
+  26,L,K
+   1,K
+  10,R,J
   14,L,U,C
+   4,L
+   1
+   1,L
   20,R
    9,U,X
   11,R
-   1,L
-   4
-   2,L
    1
+   4,R
+   3,L
   10,L,Z
   13,L,J
   29,L,U,Z
@@ -322,4 +317,4 @@ repeat 73
    1,L
 endrepeat
    1,R
-ChapterTime: 0:43.605(2565)
+ChapterTime: 0:43.044(2532)
