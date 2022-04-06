@@ -3,6 +3,7 @@
 
 console hard 5
    1
+console p_twodashes
 
 #Start
  190
@@ -81,11 +82,9 @@ console hard 5
    5,D,X
    1,J
    1,L,K,G
-  10,R,K
-   5,R
-   9,K,G
-   1,L,K
-  10,R,J,G
+   9,R,K
+  14,R,U,X
+   8,R,J,G
    7,R
   10,R,X
    5,R,J
@@ -805,4 +804,4 @@ console hard 5
   31,R
   29,L,J
    1,R,J
-ChapterTime: 1:43.105(6065)
+ChapterTime: 1:42.986(6058)
