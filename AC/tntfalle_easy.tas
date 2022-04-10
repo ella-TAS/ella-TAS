@@ -1,4 +1,4 @@
-RecordCount: 692
+RecordCount: 696
 console load AnarchyCollab2022/tntfalle/smb
    1
 
@@ -151,8 +151,7 @@ console load AnarchyCollab2022/tntfalle/smb
   11,R,K
    1,K
    2,R,J,G
-   3
-  15
+  18
   40
 
 #lvl_8c
@@ -186,6 +185,8 @@ console load AnarchyCollab2022/tntfalle/smb
    8,R,U,X
   16,R,C
   32,R,X
-  22,L,Z
+   1,Z
+   1,L,J
+  20,L,K
 
 ChapterTime: 0:25.755(1515)
