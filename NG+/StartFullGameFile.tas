@@ -1,4 +1,4 @@
-#v1.4 by tntfalle
+#v1.5 by tntfalle
 
 #may delete files
 #create backups
@@ -25,36 +25,10 @@ console overworld
   94
    1,J
   56
+Repeat 15
    1,D
    1,F,180
-   1,D
-   1,F,180
-   1,D
-   1,F,180
-   1,D
-   1,F,180
-   1,D
-   1,F,180
-   1,D
-   1,F,180
-   1,D
-   1,F,180
-   1,D
-   1,F,180
-   1,D
-   1,F,180
-   1,D
-   1,F,180
-   1,D
-   1,F,180
-   1,D
-   1,F,180
-   1,D
-   1,F,180
-   1,D
-   1,F,180
-   1,D
-   1,F,180
+Endrepeat
    1,J
   14,L
    1,D
