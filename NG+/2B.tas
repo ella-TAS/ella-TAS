@@ -100,27 +100,21 @@ console p_twodashes
    9,R
    1,R,K
    3,R
-  15,R,D,X
-  17,R,D
-   2,D
-   1,R,D
-   1,D
-   8,R,U,Z
+  30,R,D
+   1
+   1,R
+   1
+   1,R
+  12,R,U,Z
    1,L
-   6,J,G
-   5
-  12,R,D
-   1,D
-   1,R,D
-   1,D
-   3,R,D
-  15,R,U,Z
-   3,R
-  32,R,X
+   5,J,G
+   3,R,J
+  15,R,D,X
+  15,R,U,C
+   4,R
+  28,R,X
    4,R,J
-  10,R,K
-   5,R
-  13,R,K
+  28,R,K
   14,U,Z
    8,R,J
   12,U,X
@@ -510,4 +504,4 @@ console p_twodashes
    5,J
   16,U,X
  135
-ChapterTime: 1:14.596(4388)
+ChapterTime: 1:14.528(4384)
