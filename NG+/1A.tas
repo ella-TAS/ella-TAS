@@ -1,6 +1,8 @@
 console load 1
    1
-console p_twodashes
+Set,DashMode,Single
+Set,AssistMode,true
+#console p_twodashes
 
 #Start
 #lvl_1
