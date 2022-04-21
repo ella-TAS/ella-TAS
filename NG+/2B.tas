@@ -29,12 +29,14 @@ console p_twodashes
   40,K
 
 #lvl_01
-  12,R,K
-  28,R,X
+   7,R,K
+  33,R,X
    4,R,J
-  19,R,K
-  31,U,X
-   1,J
+   3,R,K
+   5,R
+  15,R,U,Z
+  30,U,X
+   1,R,J
    5,U,X
   40
 
@@ -211,11 +213,12 @@ console p_twodashes
   25,L,U,X
   36,R,C
    4,L,G
-  22,R,D,X
-  11,R,U,Z
-  13,R,J
+  15,R,D,X
+   7,R,D
+  12,R,U,Z
+  12,R,J
   12,K,G
-  10,J,G
+   9,J,G
    2,L,J
   40
 
@@ -302,34 +305,33 @@ console p_twodashes
   32,U,X
    1,R
   25,R,D,C
+
    4,R,J
    1,R,K
-  15,R,D,X
-   6,D
-   2,R,D
-   1,D
-   1,R
-   1,R,D
-  16,R
+   6,R,D
+  17,R
+  15,R,U,X
+   2,R
    1,L
-  24,U,X
+  23,U,X
    1,J
    2,K,G
-   5,R,K
-   6,R
+   4,R,K
+   5,R
    2,R,K
-  38,R,D
-  16,R,J,G
-  41,U,X
+  12,R
+  25,R,D
+  15,R,Z
+  38,U,X
   40
 
 #lvl_08
-   1,J
-  10,R,K
+  11,R
   18,U,X
   22,U,Z
    4,R
   14,R,X
+
    4,L,J
   15,D,X
    8,D
@@ -344,35 +346,26 @@ console p_twodashes
   40
 
 #lvl_09
-   6,L
-   5
+  11,R
   27,U,X
-   1,R,J
-  21,R,D
-   3,R
-  20,R,U,X
-   4,R,J
-   1,R,K
-   7
+  15,R,C
    2,R
-   1
-   6,R
-   1,R,J,G
-  22,R,K,G
-   8,R
-  12,R,U,Z
-  14,R,J,G
-  28,R,X
+  11,R,U,X
    4,R,J
-   5,R,K
-   1,R
-   6,R,K
+  19,R,K
+  14,R
+   1,R,D
+  15,R,U,X
+   5,R
    1,R,J,G
-  10,R
+  13,R,K,G
+  31,R,X
+   4,R,J
+   9,R,K
+  14,R
   15,D,X
-  15,D
-   3,L,D
-  16,D
+  27,D
+   4,R,D
   28,R,Z
    4,R,J
    3,R,K
@@ -385,13 +378,9 @@ console p_twodashes
    7,R,J
    1,J
   50,U,X
-   4,L
-   1,J,G
-   9,R,J
-   8,R
-   1,R,J
-  10,R
-   9,L,D
+   7,R
+  15,R,X
+  19,L,D
   18,L,Z
    8,L,J
    1,R,K
@@ -405,69 +394,76 @@ console p_twodashes
   19
    6,D
   20,L,Z
+
    4,L,J
    1,L,K
+   2,L
+   1,L,K
    1,L
-   2,L,K
-   1,L
-   7,R
-  15,R,X
-  15,R,C
-   7
-   4,J
-   1,R
-   2,K
-   5,R,K
-   2
-   9,J,G
-  20,D
-   4,L,D
-  12,R,K
-  12,U,Z
-  14,R,J
    3,R
-  11,U,X
-   6,K
-  12,L,K
-  12,J,G
-   5,K,G
-   9,R,J
+   1,L
+   2,R
+  15,R,X
+   4,R
+   2
+   1,R
+   1,G
+   1
+  24,R,U,Z
+   4,R,J
+  14,R,D
+   1,D
+   1,R,D
+   9,D
+   2,L,D
+   2,D
+   1,L,D
+  11,R,J
+  13,U,Z
+  14,R,J
+   4,L,J
+   6,L,K
+  15,U,X
+  18,J
+   1,K
+   1,R,J,G
+   8,J
   40
 
 #lvl_11
-   8,R
+   7,R
+   1
    1,R,J,G
    2,J
-   6,R,J
-   5,R,K,G
-   1,K
-  58,R,U,X
+  15,R,U,X
+  55,R,U,C
    4,L,G
-  51,L,U,Z
+  47,L,U,Z
+   4,R,J
   48,R,U,X
    4,R,J
-  11,R,K
-   1,K
-   1,R,K
-  14,U,X
-   8,R,J
+   3,R,K
+  15,R,U,X
+   1
+  15,U,C
+   2,R
   40
 
 #lvl_end
-   3,R
-   8
-  14,U,X
-   4,R,J
-  14,R,Z
-   1,R,J
-   2,R
-  15,U,X
-  18,U,C
-  15,U,X
-  18,U,C
-  15,U,X
+  11,R,J
+   2,J
+   2
+  15,R,U,X
+  10,R,C
+   5,R,J
+  15,U,Z
   15,U,C
-   9,R,J
-  15,U,X
+  14,U,X
+   1,J
+  18,U,X
+  15,U,C
+  18,U,X
+  15,U,C
+   6,U,X
  135
-ChapterTime: 1:12.692(4276)
+ChapterTime: 1:11.655(4215)
