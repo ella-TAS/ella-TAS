@@ -1,4 +1,4 @@
-RecordCount: 2152
+RecordCount: 2265
 console load StartupContest2021/1-Submissions/xelos
    1
 
@@ -32,28 +32,27 @@ console load StartupContest2021/1-Submissions/xelos
   15,R,D,X
    5,R
    3,R,K
-   7,R,J,G
+   2,R,J,G
+   9,R,U,X
    2,R,K,G
-   1,K
-   3,R,K
    3,R
   40
 
 #lvl_main
    4,R
-   2,R,K
+   1,R,K
    1,R
-   1
+   1,R,K
    5,R
    2,R,D
-   2,R,K
+   1,R,K
    5,R
    1,R,K
-   8,R
+   7,R
   15,D,X
    3,R,D
-   4,D
-   9,L,D
+   5,D
+   8,L,D
   22,R,X
   14,R
   20,U,C
@@ -182,16 +181,17 @@ console load StartupContest2021/1-Submissions/xelos
   14,U,C
   22,R,X
   26,R
-  11,R,D,X
+  13,R,D,X
    1,R,J
-   7,R
+   1,R
+   7,R,D,X
   40
 
 #lvl_main_5
-   1,R,J
-   6,R
+   8,R,D
   15,D,C
-  11,R,D
+   5,R,D
+   4,D
   15,D,X
   15,R,Z
   15,U,X
@@ -304,4 +304,4 @@ console load StartupContest2021/1-Submissions/xelos
   15,R,C
   14,R,U,X
  135
-ChapterTime: 0:47.736(2808)
+ChapterTime: 0:47.617(2801)
