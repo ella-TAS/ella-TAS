@@ -1,4 +1,4 @@
-RecordCount: 1668
+RecordCount: 1830
 
 console load SecretSanta2022/1-Main/yoshachobi
    1
@@ -7,7 +7,7 @@ console load SecretSanta2022/1-Main/yoshachobi
  190
 
 #Spinner cycle
-   0
+   1
 
 #lvl_a01
   10,R,Z
@@ -60,7 +60,6 @@ console load SecretSanta2022/1-Main/yoshachobi
 #  10,R,U,X
 #  99,R,K,G
 ##
-
   26,R,J
    7,R
   16,R,X
@@ -71,70 +70,54 @@ console load SecretSanta2022/1-Main/yoshachobi
   14,R,D,X
    1,R,J
   12,R,D,X
-   6,R,K,G
+   1,R,K,G
+   1,R,J,G
+   1,R,K,G
+   3,R,J,G
    3
    2,R,K
   15,R,D,X
-   1,R,J
-   1,J
-   1,R,J
+   3,R,J
   15,R,D,X
-   8,R,J
-   5,R,D,X
-   2,R,K,G
-  10,R,D
-   1,D
-  23,R,D
    4,R,J
-   5,R,D,X
-   4,R,K,G
-   6,R
+   1,R,K,G
+   1,R,J,G
+   1,R,K,G
+   5,R,J,G
+  16,R,D,X
+   1,R
+   9
+   1,J
+   2
+   2,R
   40
 
 #lvl_a02
    3,R
-   1,R,J
+   1,J
+   4,R
+  13,R,U,Z
+  10,R,K,G
+   1,K
    5
-  12,R,U,Z
-  12,R,K,G
-   9,K
-## strat
-#  12,R,J,G
-#   1,R,K,G
-#   4,L,K
-#   3
-#  18,R,X
-#  18,R,U,C
-#   8
-#  15,R,D,X
-#   3
-#   2,D
-#   1
-#   5,L,Z
-#   1,R,J
-#   6,R
-#   3,R,J
-#  15,R,D,X
-#   4,R,J
-#  19,R,D,X
-#   3,R,J
-#  15,R,D,X
-#   6,R,J
-#  15,R,D,X
-#  99,R
-##
+   1,R,K
+   2
   12,R,J,G
    1,K,G
    4,L,K
    3
    8,L,K
-  22,L,G
+  19,L,G
+   1,L,D,G
+   1,L,G
+   1,L,D,G
    1,R,K
    1,R,J
    8,R
-   7
-  16,R,Z
-  20,R,X
+   1,K
+   6
+  15,R,Z
+  21,R,X
   15,R,D,C
    1,L,J
   14,L
@@ -155,22 +138,29 @@ console load SecretSanta2022/1-Main/yoshachobi
    1,R,J
    2,R
   15,R,D,X
-   7,R,J
+   1,R,J
+   2,J
+   1,R,J
   15,R,D,X
-  21,R
-   1,J
-   3,R
-   3,R,K,G
-   9,R,D
+  10,R
+   1
+   6,R,D
+   1,R,K,G
+   1,R,J,G
+   1,R,K,G
+   5,R,J,G
+  13,R,D
   40
 
+
 #lvl_a03
-  12,D
+   9,R,D
   15,R,U,Z
-  15,L
+  13,L
    7
   15,L,X
-  23,D
+  20,D
+   3,L,D
   11,R,D,X
   12,R,J
    3,R
@@ -272,6 +262,6 @@ console load SecretSanta2022/1-Main/yoshachobi
    1,R
    5,K,G
   15,R,D,X
- 134
+ 133
 
-ChapterTime: 0:27.846(1638)
+ChapterTime: 0:27.336(1608)
