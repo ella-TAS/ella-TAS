@@ -1,6 +1,3 @@
-#console hard 5 5904 -216
-#play,Section Theo,37
-
 console hard 5
    1
 console p_twodashes
@@ -26,38 +23,41 @@ console p_twodashes
    9,R
   18,R,C
   15,U,X
-  14,R,D
+  15,R,D
    1,D
    2,R,D
-  15,R,Z
-  20,R,U,X
+  14,R,Z
+  19,R,U,X
    7,R,Z
    1,R,J
-   6,R
+   7,R
   40
 
 #lvl_a-01
-   1,R
-   9,R,J
-  15,R,D,X
-   2,R
-   1,R,D
-  13,D
-  62,R,C
-  13,U,X
-  21,R,C
+  10,R,J
   15,R,D,X
    5,R,D
-  16,R
-  16,R,U,C
+  11,L,D
+  55,R,X
+  15,R,U,Z
+   5,U,X
+  21,R,C
+  15,R,D,X
+   4,R,D
+   2,R
+   1,R,D
+  13,R
   17,R,U,X
-   8,R,C
+  17,R,U,C
+   8,R,X
    1,R,J,G
-  24,R,D
-  36,R,X
-  13,U,C
-  40,R,X
-  22,R,D,C
+   6,R
+  16,R,D,X
+  29,R,C
+  15,R,U,Z
+   5,U,X
+  40,R,C
+  22,R,D,X
    1,R,J
    5,R,D,X
    4,R,J
@@ -124,40 +124,42 @@ console p_twodashes
    1,J,G
    9,R,U,Z
    1,L
-  11,J,G
-  14,R,U,X
-   1,R,J,G
-   1,J
-   1,R,J
-   4,R
-   1
-  11,R
+   1,L,J,G
+   7,R,J
+  17,R,U,X
+  10,R,J,G
+   5,R
+   1,R,K
+  15,R,D,X
+  14,R,Z
    2,R,J,G
    5,R
-   2,R,J
-  12,R
-   3,R,J,G
-   7,R
-   3
-   3,D,J
-  40,J
+   2,L,K
+   4,L
+  40
 
 #lvl_b-07
-   8,J
-  15,U,X
-   2,R
-   8,R,J
-  16,L,J
-   4,L,G
-  50,U,G
-   8,G
+   1,L,J
+   1,R,J
+   1,L,J
+  15,U,Z
    1,J,G
-   2,L
-   5
-   1,R
-   1,K
-  20,R,J
-   8,L,K,G
+   4,R,J
+   6,L,J
+   1,L,K,G
+Repeat,8
+   1,R,K
+   1,L,K
+EndRepeat
+   1,J
+  11,R,J
+   5,L,J
+  12,L,K,G
+   7,L
+  29,L,U,G
+   5,U,X
+  16,R,J
+   6,L,J
   40
 
 #lvl_b-03
@@ -167,85 +169,47 @@ console p_twodashes
    3,L,J
    5,L,Z
    1,L,J
-   8,L,D
-   1,L,J
-   5,L
-   1,L,J
-  16,L
-  11,L,U,Z
-   1,R
-   3,K,G
-   2,L,K
-  20,U,C
-  18,L,X
-#1.4 spikes dont succ, they suck; would save 23f
-#Set,Player.Position,3045.7666,-552
-#  30,D
-#  16,L,X
-#  14,U,C
-#  12,L,J
-#  31,L,X
-#  15,L,D,C
-#   2,D
-#   1,L
-#   1,R
-#  10,J,G
-#   6,L
-#   1,L,J,G
-#   1,L,K,G
-#  38,L,D
-#   4,Z
-#   2,L,J
-#   8,L
-#   1,L,J
-#   5,L,D,X
-#   1,L,J
-#   3,L
-#   1,L,J
-#   3,L
-#  10,L,J
-#   1,J
-#  14,L,Z
-#   1,R,J
-#   9,R,U,X
-#   8,R,J,G
-#  14,R
-#  33,U,X
-  31,D
-  16,L,X
-  14,U,C
-  12,L,J
-  31,L,X
-  15,L,D,C
-   2,D
-   1,L
-   1,R
-   7,J,G
-   4,L,J
-   1
-   1,L
-   4
-   8,J,G
-   4,L,J
    7,L
+   2,L,D
    4,L,J
-   1,J
-   4
+  12,L
+  14,L,U,X
+   7,L,J,G
+   2,L
+  14,L,U,X
+   1,J,G
+  39,D
+  15,L,X
+  14,U,C
+   1,L,J
+  15,L,U,Z
+  23,L,C
+  15,L,D,X
+   1
+   4,L
+  10,L,J,G
+   5,L
+   4,L,K
+   1,L,J,G
+   8,L
+   1,L,K
+  15,D,X
+   7,L,D
    1,L
-   6,D
-  21,L,D
-   4,Z
+   1,L,D
+   1,L
+   4,L,Z
    1,L,J
   12,L
    1,L,J
-   6,L,D,X
+   8,L,D,X
    1,L,J
    7,L
    8,L,J
    4,J
   14,L,Z
    1,R,J
-   9,R,U,X
+   9,R,U,Z
    8,R,J,G
   14,R
   33,U,X
@@ -255,24 +219,26 @@ console p_twodashes
   11
   14,R,D,X
    7,L,J
-  11,D
-  34,L
+  11
+  33,L
+  12,R,D
+  13,R
+   3,R,D
+  10,G
+   1,J,G
+   5,L,J
+   2,L
    5,R
-   2,R,D
-   2,R
-   1,R,D
-  40,R,U,G
-   3,G
-   1,D,G
-   2,G
-   1,D,G
-   3,G
-   6,U,G
-  22,L
-  26,L,U,X
-   4,Z
-   1,L,J
+   1,J
+   9,K,G
+   1,L
+  15,L,U,X
+  15,L,U,C
+   1,L,J,G
    7,L
+   5,L,Z
+   1,L,J
+   6,L
    3,L,J
   10,L,X
    1,R,J
@@ -280,34 +246,33 @@ console p_twodashes
   15,D,X
   11,L,D
    1,R,J
-  16,R,D
-  17,L,D,X
-   1,L,D,J
-  10,R,J
-   1,R,K,G
-   2,R,J,G
-   1,L,J
-   2,R,J
-   1,K,G
-  11,L,K
-   1,J
-   6,K
-   3,L,K
+   9,R,D
+  15,L,D,X
+  10,L,D,C
+   8,L,J
+   3,L
+  15,U,Z
+   1,L
+   5,L,J
+   1,L
    1
+   1,L
   15,U,X
   10,L
    4,Z
    1,L,J
-   6,L
+   7,L
    4,L,J
-   7,J
-  10,U,X
+   5,J
+  11,U,X
   40
 
 #lvl_b-09
-  13,L,J
-  16,L,U,Z
-   1,J
+  11,L,J
+  15,L,U,Z
+   6,U,X
+#+1f cycle
+   1
   40,R,C
   15,U,Z
   14,L,J
@@ -321,19 +286,14 @@ console p_twodashes
    4,K
    1,L,J,G
    1,L,K,G
-   7,L,J,G
+  11,L,J,G
+  14,L,D,X
+   4,L,J
+   2,L
+   4,L,K,G
    6,L
-   2,L,J
-  11,L
-   2,L,D
-   1
-  10,L,Z
-   2,L,J
-   1,L,K,G
-   4,K
-   1,L,K
-   6,L
-  27,L,X
+  15,L,X
+  12,L
   40,U,C
    2,L,J
    1,R,J
@@ -357,48 +317,43 @@ console p_twodashes
   12,L,K,G
    3,L,J,G
    2,L
-   1,L,K,G
-   1
-  22,L,D
-   9,D
-  12,L,Z
+   8,L,K,G
+  15,L,D,X
+   9,L,D
+  11,L,Z
   52,U,X
   25,R,C
   14,R,U,Z
    2,R,K,G
    5,L,J
    1,R,K
+   3,R,J
+   5,R,Z
    1,R,J
-   7,R
-   4,Z
-   1,R,J
-   6,R
-   6,R,J
-   2,J
-   5,K,G
-   1,L,K
-   1,R,J,G
-   1,R,K,G
-   1,R,J,G
-   6,R,K,G
+   3,R
+   1,R,K
+   3,R
+   2,R,J
+  13,R,U,X
+   4,J,G
+   2,L,J
   10,R,D,X
    5,L,J
    7,L,U,X
    1,L,J,G
-  12,L
+   7,L
+  14,L,D,X
    1,L,J
   14,L,D,X
-   4,L,J
-   3,L
-  13,L,D,X
+   1,L,J
+  12,L,D,X
    1,R,J
    3,J
    6,R,J
    3,R,K,G
   12,R
    1,R,J
-  12,R
-   1,R,J
+  13,R
    1,S
    1,D,J
   18
@@ -409,34 +364,27 @@ console p_twodashes
    1,R,J
    8
   20,D
-   7,R,D
-  13,R
-  17,L
-  10,L,D
-   1,L
-   1,L,D
-   3,L,J
-   2,L
-  34,L,D,X
-  12,R,D
-   3,D
+   6,R,D
+   9,R
+   3,R,D
+   1,R
+   3,R,D
+   5,L,D
+  15,L,D,X
+  15,L,D,C
+  15,L,D
+  23,R,D
   15,R,Z
-  49,L,D
-   1,D
-   5,L,D
-   1,D
-  13,L,D
-   7,L
-   5,L,D
-   4,D
-  16,L,Z
-   1,J
-   2,R
-  33,L,D
-  35,R,D
-   1,D
-   5,R,D
-   9,R,D,X
+  15,D,X
+  19,D
+  29,L,D
+   9,L
+   7,L,D
+  15,L,U,Z
+  15,D,X
+  10,L,D
+  39,R,D
+  10,R,D,X
    1,R,J
    7,R
    1,R,J
@@ -450,55 +398,45 @@ console p_twodashes
    5,R,D,X
    2,R,J
    7,J
-  10,U,X
-  44,R,J
-  17,K
-   3,R,K
-   2,R
-  29,R,D,X
-   1,K
-   4,L,K
-   4,R,K
-  15,R
-   2
-   2,R
-   2
-   1,R
-   3,R,D
-   1,R
-   7,R,Z
+  11,U,X
+  11,R,J
+  15,R,X
+   3,R
+   4,L
+  29,L,J
+  15,R,D,C
+  20,R,D
+   4,J
+  14,L
+  14,R,Z
    1,R,J
-   6,R
-   6,R,D,J
+   2,R
+  14,R,D,X
   40
 
 #lvl_c-02
-  10,R,J
-   1,L
-   2,K,G
-  24,R,U,X
-  10,R,Z
-   4,R,J
-   4,R
-   2,R,J
-   7,R
-  10,D
-   5,R,D
-   1
-   3,R
-   2,R,D
-   1,R
-  20,R,U,X
-   1,J
-   2,K,G
-   7,L,K
+   1,R,J
+  14,R,D,X
+   1,R,J
+  15,R,D,X
+  11,R,D
+  15,R,U,Z
+   1,L,J,G
+  20,R,J
+  14,R,U,X
+   1,J,G
+   2,L,J
+   1,R,J
    1,K
-   2,L,K
-   1,J
-   7,K,G
-   5,R,K
-   1,R,J,G
-   7,R,K,G
+   2,J,G
+   7,L,J
+   2,J
+   1,L,J
+   1,K
+   7,J,G
+   5,R,J
+   1,R,K,G
+   7,R,J,G
    6,R
    6,R,K
    9,R
@@ -509,11 +447,9 @@ console p_twodashes
    1,R,J
    1,L,J
    5,K,G
-   2,R,K
-   5,R
-   5,R,K
+   3,R,K
    1,R
-   7,R,Z
+  11,R,Z
    1,R,J
    6,R
   40
@@ -521,57 +457,64 @@ console p_twodashes
 #lvl_c-03
    1,R,J
   14,R,D,X
-   9,R,J
-  19,R
-   1,R,D
-  14,R,Z
-  45,R,J
-   4,K
-   1,L,K
-  49,K
-  18,R
-   5,R,D
+   7,R,J
    1,R
-   4,Z
-  35,R
-  14,R,U,Z
-   1,L,J,G
-  11,R,J
+   1,R,K
    6,R
-   2,R,J
-  16,R
-  10,R,Z
+  15,R,D,X
+  14,R,Z
+  31,R,J
+   4,J
+   4,K,G
+  27,J
+  34
+  23,R
+   7,R,Z
+  36,R
+  10,R,U,X
+   1,L
+   1,J,G
+   8
+   5,R
+  14,R,Z
    1,R,J
-   2,R
+   8,R,D,X
+   1,R,J
+   1,R
   40
 
 #lvl_c-04
-   3,R
-   1,J
-   8,R,K
-   1,R
-  14,R,Z
-   1,R,J
    6,R
-   9,R,J
-  16,R,D,X
-   7,R,J
+  11,R,J
+   1,J
+   8,R,D,X
+   1,R,J,G
+   3
+   5,R
+   1,R,K
+   2,R
+   8,R,J
   15,R,D,X
-  18,R,J
-  16,U,X
-   3,J
-  11
-   2,J
-   7,R,J
-#Section Theo
-  16,U,X
+   1,R,J
+   7,R
+  14,R,U,Z
+   1,L,J,G
+   9,R,J
+   5,R
+   2,R,K
+   5,K
+  12,U,C
+  19,R,J
   40
 
 #lvl_d-00
-  16,R,J
+   1,R,J,G
+   6,R,K,G
+   4,R
+  15,R,U,X
   14,R,Z
    1,R,J
-   9,R,D,X
+   5,R,D,X
   13,R,G
    6,R,J,G
    9,R,G
@@ -696,37 +639,39 @@ console p_twodashes
    4,R
    1,R,J
    5,R,D,X
-  13,R,G
-   1,R,J,G
-   3,R,G
+  17,R,G
   40
 
 #lvl_d-03
-   5,R,G
-   2,R,J
-   1
+   6,R,G
+   1,R,J
+   2,R
    1,J,G
    2
    1,R
    2
-   8,L
-   9,J
-   1
-   5,R
-   1,R,J
-   1,R
+   2,L
+   1,L,J
+   1,L
+   1,L,K
+   3,L
+   1,J
+   6,R,J
+   2,J
+   3
+   2
   11,R,X
   16,R,G
-   1,G
-   1,R,G
+   2,G
   11,D,G
-   1,G
-  16,R,G
-   1,D
    2,R,D
+   3
    6,R,X
-  37,R,G
-   4,R,D,G
+  13,R,G
+  38,R,D,G
+   1,R,G
+   1,R,D,G
+   1,R,G
   11,R,G
    1,R
   10,R,U,X
@@ -753,7 +698,9 @@ console p_twodashes
   40
 
 #lvl_d-04
-  23,R,G
+   5,R,G
+   1,R,D,G
+  17,R,G
    1,R
    6,R,D
    4,R
@@ -763,17 +710,18 @@ console p_twodashes
   16,R,U,X
    1,R,J,G
    1,J
-   7,R
-  22,R,D,G
-   4,D,G
+   6,R
+   1
+  22,R,G
+   5,D,G
    1
   19,R,X
    6,R,J,G
    5,R
-  18,R,J,G
+  16,R,J,G
    1,R,G
-   1,R,J,G
-   3,R,G
+   4,R,J,G
+   2,R,G
    1,R
   11,R,Z
    1,R,J,G
@@ -802,6 +750,5 @@ console p_twodashes
   73,L
    1,R,Z
   31,R
-  29,L,J
-   1,R,J
-ChapterTime: 1:42.986(6058)
+  30,L,J
+ChapterTime: 1:39.297(5841)
