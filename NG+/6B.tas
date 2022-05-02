@@ -1,5 +1,4 @@
 console hard 6
-Set,DashMode,Two
 console p_twodashes
    1
 
@@ -891,21 +890,23 @@ AnalogMode,precise
    1,R
    3,R,K
    1,R,J
-   1,R
-  10,R,J
-  27,R,D
-   0,R
+  31,R,D
+   3,R
+   2,R,D
   15,R,X
-  10,R,D
+   6,R,D
   15,R,C
-   1,R
-  36,L
-  40
-   2,R,U
-  58,F,91.325
-  16,F,110
-  15,R,C
-  14,R,X
+   6,R
+  43,L
+   5
+   6,R,D,X
+  26
+   1,R,U
+  44,F,82.2
+   7,F,90
+  16,F,113
+  15,R,X
+  14,R,C
   37
    5,L
   15,R,X
@@ -937,22 +938,21 @@ AnalogMode,precise
    1,R
    1,R,J
    7,R
-   4
-   7,D
+   7
+   4,D
   15,L,D,X
    1,L,D
   18,D,C
   15,R,X
   15,R,C
-  28,R
-   2,J,G
-   1,R,K,G
-   7,L,K
-   2,R
-  15,R,Z
-   5,R
-  15,R,D,X
-   1,R,D
+  18,R
+  13,R,U,X
+   1,J
+   1,L,J
+   5,R,Z
+   1,R,J,G
+   1
+  24,R,D
   34,L
    2
    1,L
@@ -1299,4 +1299,4 @@ AnalogMode,Precise
   27,R,D,X
  134,R,G
 
-ChapterTime: 3:14.208(11424)
+ChapterTime: 3:13.868(11404)
