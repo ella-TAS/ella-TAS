@@ -1,4 +1,4 @@
-#v1.5 by EllaTAS
+#v1.5.1 by EllaTAS
 
 #may delete files
 #create backups
@@ -13,6 +13,8 @@ Set,SpeedrunClock,2
 Set,Everest.UseKeyboardForTextInput,False
 Set,ScreenShake,Off
 Set,DisableFlashes,true
+Set,CrouchDashMode,Press
+Set,GrabMode,Hold
 
 #start on begin
 #   1,D
