@@ -1,6 +1,6 @@
 console hard 6
-console p_twodashes
    1
+console p_twodashes
 
 #Start
 #lvl_a-00
@@ -378,36 +378,40 @@ endrepeat
    1,L,K,G
   17,R,K
   10,J
-   7
-  16,U,X
-   9,R,Z
-   2,R,J
+   4
+   1,R
+   1
+   1,R
+  15,U,X
+   1,R,J,G
+   6,R,Z
+   1,R,J
+   3,R
   40
 
 #lvl_b-00
-   4,R,J
-   1,R
-   2,R,J
-   8,R,U,X
+   4,R
+   1,R,J
+  10,R,U,X
    1,R,J,G
-  10,R
-   2,R,J
-   1,R
+   1,R,J
+   1,J
+   7,R,J
   15,R,D,X
+   1,D
+   1,R,D
    1,R,J
    7,R,K,G
    5,R,D,X
-   5,R,J,G
-  11,R
-   2,R,J
-   1,R
-   7,R,J
+   4,R,J,G
+   5,R
+   4,R,J
    2,R
-   5,L
-  14,L,D
-  12,L,D
-   7,R,D
-   7,D
+   4,R,J
+   2,R,D
+  32,D
+   9,L,D
+  11,D
   40
 
 #lvl_b-01
@@ -1060,13 +1064,16 @@ AnalogMode,precise
    1,J,G
   15,R,D,X
    6,R,J
-  38,L
-  16,D,X
-   5,L,D
-  26,R
-  13,R,X
-   6,R,J,G
-  13,R,D,X
+  37,R
+  17,R,C
+  15,R,D,X
+   4,R
+   1,G
+   1,R,J,G
+   1,R,K,G
+   1,R,J,G
+   1,R,K,G
+  13,R
   44,R
   15,R,X
   15,R,D,C
@@ -1299,4 +1306,4 @@ AnalogMode,Precise
   27,R,D,X
  134,R,G
 
-ChapterTime: 3:13.868(11404)
+ChapterTime: 3:13.528(11384)
