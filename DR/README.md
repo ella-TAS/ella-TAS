@@ -4,3 +4,6 @@ Mod download: https://gamebanana.com/mods/372768
 Tyran  
 abiteofdata  
 EllaTAS
+
+Special thanks to:  
+Kataiser
