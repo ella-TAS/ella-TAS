@@ -1,5 +1,5 @@
-RecordCount: 894
-console load GlueChaliceIV
+RecordCount: 974
+console load AnarchyCollab2022/ClumsyCuber/GlueChaliceIV
    1
 
 #Start
@@ -79,12 +79,14 @@ Set,CelesteTAS.SimplifiedGraphics,true
    4,R
   14
    2,R
-   6,R,D
-   5,R,J
+   5,R,D
+   2,R
+   7,R,J
    5,R
-   8,R,K
-   1,J
-   2,L,J
+   1,L
+   1,J,G
+   1,R,J
+   5,L,J
   12,L,K,G
 Repeat 2
    1,J,G
@@ -95,9 +97,8 @@ Repeat 2
    1,L,J
   13,L,K,G
 Endrepeat
-   6,L,J,G
-   1,R,K
-   7,R,J
+   1,L,J,G
+   8,R,K
   40
 
 #lvl_2
@@ -270,4 +271,4 @@ Endrepeat
  135,R
 Set,CelesteTAS.SimplifiedGraphics,false
 
-ChapterTime: 0:42.823(2519)
+ChapterTime: 0:42.738(2514)
