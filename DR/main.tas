@@ -1,0 +1,43 @@
+read start
+
+read Lobby/lobby_0-6 Start
+read Maps/SubterranianSump Start
+  33,X
+
+read Lobby/lobby_6-5 Start
+read Maps/FrenchName Start
+  33,X
+
+read Lobby/lobby_5-1 Start
+read Maps/CityLimits Start
+  33,X
+
+read Lobby/lobby_1-2 Start
+read Maps/GlacialClimb Start
+  33,X
+
+read Lobby/lobby_2-3 Start
+read Maps/AbandonedAqueduct Start
+  33,X
+
+read Lobby/lobby_3-4 Start
+read Maps/Breakthrough Start
+  33,X
+
+read Lobby/lobby_4-7 Start
+read Maps/SolarDescent Start
+  33,X
+
+read Lobby/lobby_7-8 Start
+read Maps/JankFacility Start
+  33,X
+
+read Lobby/lobby_8-9 Start
+ 300
+#any% ends here
+   1,J
+  83
+   1,J
+  46
+
+read LoadJournal Start

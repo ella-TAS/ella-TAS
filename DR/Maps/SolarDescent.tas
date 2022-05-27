@@ -1,0 +1,132 @@
+console, load, ZucchiniContest2022/1-Submissions/solar descent
+   1
+
+#Start
+#lvl_1
+  36
+   5,R
+   1,R,J
+  21,R
+   2,R,J
+   3,R
+   2,R,K,G
+   7,K
+   3,J,G
+   6,R,J
+  14,R,K,G
+   7,R,J,G
+  11,U,X
+  46,D,C
+  40
+
+#lvl_2
+  14
+   2,L,J
+   8,L
+   1,L,J
+  14,L
+   2,L,J
+  27,L,X
+  28,D,C
+  35,R,D,X
+  17,R,C
+   5,R,Z
+  10,R,J
+  10,R
+  15,D,X
+  26
+   9,L,U,X
+  13,L,U,C
+  14,L,D,X
+  15,L,U,C
+  11,D,X
+  21,D,C
+  40
+
+#lvl_3
+  10
+   1,R,J
+  13,R
+   8,R,D,X
+   6,R,J
+   9,R
+  29,D,X
+  23,L,C
+   5,R,X
+   1,R,J
+   1,R
+  30,L,D
+   1,J
+   5,D
+  15,L,D
+  11,R,D,X
+  12,R,U,C
+  13,R,X
+  47,D,C
+  11,R,D,X
+   8,L,J
+  11,L
+   3,L,J
+  15,R,D,X
+  17
+   4,Z
+  19,L,J
+  41,D,X
+  40
+
+#lvl_4
+  10
+   5,R,J
+   5,R
+   5,R,J
+  21,R
+  15,R,D,X
+  14
+  33,L,X
+   4,L,J
+   1,L,K
+  45,D,X
+  12,L,D,C
+  10,L,X
+  13,L,J
+   1,L,K,G
+   4,L
+  27,D,X
+  29,R,C
+   4,Z
+  11,R,J
+   6,R,D
+  14,D
+  13,L,X
+  12,L,D,C
+  13,L,X
+  13,L,C
+  44,R,D,X
+   4,J
+   1,L,K
+   1,L,J,G
+  17,L,K,G
+   9,L,J,G
+   5,L,K,G
+   2,J
+  23,D,X
+  12,L,D,C
+  23,L,X
+  18,D,C
+  23,R,X
+   7,R,Z
+  19,R,J
+  16,R,D
+  13,L,X
+   9,L,Z
+   3,L,J
+  17,D,X
+  40
+
+#lvl_5
+  12,D,X
+ 225,D,C
+  21,R,D,X
+ 118,R,G
+
+ChapterTime: 0:27.914(1642)
