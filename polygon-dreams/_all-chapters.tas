@@ -1,0 +1,34 @@
+read start
+
+#A-Sides
+read 1AC Start
+read LoadA
+read 2AC Start exit
+read CassetteRTM
+read 2AC reenter
+read LoadANo
+read 3AC Start
+read LoadA
+read 4AC Start
+read Load1B
+
+#B-Sides
+read 1B
+read LoadB
+read 2B
+read LoadB
+read 3B
+read LoadB
+read 4B
+read Load1C
+
+#C-Sides
+read 1C
+read LoadC
+read 2C
+read LoadC
+read 3C
+read LoadC
+read 4C
+
+read LoadJournal
