@@ -1,4 +1,4 @@
-Mod download: https://gamebanana.com/mods/377957
+Mod download: https://gamebanana.com/mods/150729
 
 # Contributors
 Renatotheflowey
