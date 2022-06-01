@@ -1,4 +1,4 @@
-RecordCount: 2588
+RecordCount: 2610
 
 console load orbittwz/polygondreams/3-everytime
    1
@@ -397,18 +397,17 @@ Repeat,10
    1,R,J
 EndRepeat
    1
-  12,K,G
+   3,R,J,G
   15,U,X
-  11,L,J
-   3,L
+  20,L,J
    1,L,K,G
+   1,R,K
    7,L
    4,L,Z
    4,L,J
    1,L
    1,J
-   3,L,J
-   1,L
+   4,L,J
   32,R,D
   34,D
   18,R,D
@@ -1364,4 +1363,4 @@ EndRepeat
    1,D,O
   18
   
-ChapterTime: 3:16.214(11542)
+ChapterTime: 3:16.180(11540)
