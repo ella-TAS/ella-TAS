@@ -1,4 +1,4 @@
-RecordCount: 3199
+RecordCount: 3468
 
 #console load Phobs/PSides/7-Summitdside 3328 -2016
 #Play 500m 37
@@ -930,28 +930,34 @@ console load Phobs/PSides/7-Summitdside
   74
 #2000m
   15,L,U,X
-   4,D,C
-   9,L,C
+  13,L,Z
    1,R,J
    1,R
-  16,R,D,X
-   7,R,D,J
-   1
-   8,R,D,X
-   1,R,J,G
-  17,R
-   4,R,D,J
-   5,R
-   7,R,J
-  32,R,U,X
-   5
-  19,R,U,C
-  11,R,J,G
-   5,R
-   9,R,J
-   9,R
+  15,R,D,X
+   1,R,D
+   1,R,J
    1,J
-   8,R,G
+   6,R,J
+   8,R,D,X
+   2,R,J,G
+  16,R
+   2,R,D,J
+   1,J
+   1,R,J
+   5,R
+   4,R,J
+   3,R
+  15,R,U,Z
+  21,R
+  15,R,U,X
+   2,R
+  10,R,J,G
+   5,R
+  18,R,J
+   1,K
+   7,R
+   1,G
+
   14,R,D
 repeat 32
    1,G
@@ -959,30 +965,32 @@ repeat 32
 endrepeat
    7,G
    3,U,G
-repeat 23
+
+
+repeat 20
    1,D,G
    1,U,G
 endrepeat
    1,R,J,G
    1,R,K,G
    1,R,J,G
-   4,R,K,G
-   1,K
-   9
-  13,R,D
-   4,D,X
-  12,R,X
-   4,D,C
-  15,R,C
-  15,R,D,X
-   4,D,C
-   4,R,C
-   2,R,C
-   5,R,J
-   5,R,D,X
-   2,R,J,G
-   8
-   4,R
+   6,R,K,G
+   7,R
+   3,K
+   7,D
+   4,R,D
+   2,D
+  15,R,Z
+   1,R
+  18,R,Z
+   1,R
+  15,R,Z
+  14,R,D,X
+   2,R,J
+   2,R,K,G
+   5,R
+   1,R,K
+   5,R
   40
 
 #lvl_e-02
@@ -991,30 +999,29 @@ endrepeat
    1,R
    7,R,D,X
    1,R,J,G
-  12,R
-   1,J
-   6,R,J
+   7
+   4,R
+   1,R,J
+   2,J
+   4,R,J
   15,R,D,X
    1,R,D,J
    5,R
-   3,R,J
-  10,R,D
+   1,R,J
+   7,R
+   4,R,D
    5,R,J
-  10,R
-   1
+   9,R
   15,R,U,X
-   4,D,C
-  10,R,C
-   4,R,J
-   2,R,J
+  10,R,D,C
+   7,R,J
   15,R,D,X
-   6,R
-  15,D,X
-   1
-  13,L,C
+   5,D
+  14
+  14,L,X
   15,R,J
   15,R,X
-  14,R,C
+  13,R,C
   15,D,X
    6,L,D
    8,R,D
@@ -1028,8 +1035,7 @@ endrepeat
   15,R,U,X
   20,R,U,C
    4
-   4,D,X
-  10,R,X
+  14,R,D,X
    1,L,J
   12,L,D,X
    3,R,J
@@ -1061,8 +1067,7 @@ endrepeat
    1,R,J
   11,R
    3,R,D
-   4,D,X
-  11,R,X
+  15,R,Z
    5
    5,J
    1,K
@@ -1078,8 +1083,7 @@ endrepeat
   40
 
 #lvl_e-04
-   4,D,X
-  10,R,X
+  14,R,Z
    3,R,J
    8,R,K,G
   14,R,D,X
@@ -1091,39 +1095,35 @@ endrepeat
   22,R,D
    1,R
   20,R,X
-   4,D,C
-  16,R,C
+  20,R,Z
   15,U,X
   12,R,J
   10,R
    2,R,J
   15,R
-   4,D,X
-  11,R,X
-  13,R,C
-  15,D,X
+  15,R,Z
+  13,R,X
+  15,D,C
    9,R,D
   15,R,X
   14,R,C
   12,U,X
   14,R,J
   15,R,U,X
-   4,D,C
-  15,R,C
+  19,R,Z
   15,D,X
   12,R,D
    3,R
-   4,D,X
-  14,R,X
-  17,R,C
-  15,R,U,X
+  18,R,Z
+  17,R,X
+  15,R,U,C
    4
   17,U,X
   12,R,U,C
    1,R,J,G
    1,L
    6,R
-   4,D,X
+   4,Z
    1,R,J
    6,R
    4,R,J
@@ -1206,8 +1206,7 @@ endrepeat
   10,L,G
   30,R,G
    1,G
-   4,D,X
-   3,U,X
+   7,U,Z
   25,J
   18,U,C
  291
@@ -1276,12 +1275,18 @@ endrepeat
   14,R,K,G
   10,U,X
   13,L,C
-  43,G
-   1,R,J
-  17,R
-  37,R,X
-  15,R,C
-   9,R,X
+   1,J
+   2,K,G
+   9,R,K
+   5,R
+   1,R,K
+  11,R
+  14,R,Z
+   1,R,J,G
+   1,J
+  27,R,J
+  15,R,X
+   1,R
   32,R,C
   15,R,Z
   13,R,X
