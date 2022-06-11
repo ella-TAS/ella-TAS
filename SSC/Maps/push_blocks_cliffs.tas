@@ -1,4 +1,4 @@
-RecordCount: 2326
+RecordCount: 2371
 
 console load SecretSanta2022/1-Main/Ezel
    1
@@ -37,7 +37,10 @@ console load SecretSanta2022/1-Main/Ezel
   15,U,C
    6,R
   12,R,Z
-  12,R,J,G
+   7,J,G
+   1,L,J
+   1,R,K,G
+   3,R,J,G
    1,R,K,G
    7,R
    6,R,Z
@@ -70,7 +73,6 @@ console load SecretSanta2022/1-Main/Ezel
   40
 
 #lvl_A-03
- 
   13,R,D,X
    6,R,J
   19,R,X
@@ -196,7 +198,8 @@ console load SecretSanta2022/1-Main/Ezel
   20,R
   20,R,Z
   10,U,X
-  13,U,C
+   6,U,C
+   1,J
   16,R,D
   24,D
   60,R,X
@@ -522,4 +525,4 @@ console load SecretSanta2022/1-Main/Ezel
    4,X
  135,L,U
 
-ChapterTime: 1:28.978(5234)
+ChapterTime: 1:28.876(5228)
