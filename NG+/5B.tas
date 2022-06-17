@@ -225,16 +225,23 @@ EndRepeat
 
 #lvl_b-08
    9,R
-   7,L,J
-   7,L,K,G
-   6,L
+   2,J
    1,L,J
-  10,L
+   3,L
+   1
+   1,L,K,G
+   4,L,J,G
+   5,L
+   2,L,J
+   8,L
   22,L,Z
-   5,R
-  12,L
+   4,R
+   3
+   1,R
+   1
+   8,L
   23,L,V
-  28,L,U,X
+  27,L,U,X
    4,Z
    1,L,J
    7,L
@@ -761,4 +768,4 @@ EndRepeat
   14,R,U,X
  135
 
-ChapterTime: 1:36.730(5690)
+ChapterTime: 1:36.645(5685)
