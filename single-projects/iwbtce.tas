@@ -1,4 +1,4 @@
-RecordCount: 766
+RecordCount: 776
 
 console load Flinchless/IWannaCelesteExtremity/IWannaCelesteExtremity
    1
@@ -53,22 +53,15 @@ Endrepeat
  224
 
 #lvl_a-08
-   1,L
-   1
-   2,L
-   6,R
-   2,R,D
-   1,R,D,J
-   2,L,J
-   1,R,J
-   2,L,J
-  10,L,K
-   1,L
-   7,R,J
-   4,R
+   9,L
+   1,D,J
+   1,L,J
+  11,R,J
+   9,K
+   5,R,K
    1,R,J,G
-   6,R
-  22,D
+   7,R
+  21,D
    1,S,N
    1,D,J
  224
@@ -170,20 +163,21 @@ Endrepeat
 
 #lvl_a-10
    1,L,D,J
-  18,J
-   6,K,G
-   1
-   2,J,G
-   5,R,J
+  10,J
+   4,L,J
+   4,J
+   5,K,G
+   1,R,K
+   1,L
+   7,J,G
    2,R
    1,R,J,G
    1,R,K,G
-   5,R
-   2,R,K
-   3,K
-   1,R,K
-   8,R,J
-  37,R
+   8,R
+   1,L
+   4,J,G
+   4,R,J
+  36,R
    1,R,J
    3,R
    1,S,N
@@ -463,4 +457,4 @@ Endrepeat
   30,L,J,G
   41,L,D,X
 
-ChapterTime: 1:53.016(6648)
+ChapterTime: 1:52.897(6641)
