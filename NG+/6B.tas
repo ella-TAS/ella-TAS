@@ -87,6 +87,7 @@ console p_twodashes
    7,L,J
   12,U,Z
   27,L,U
+AnalogMode,Precise
   43,F,4.236
    1,F,1.26
   11,F,301
@@ -97,7 +98,7 @@ console p_twodashes
   11,F,318
   36,F,9.987
    1,F,4.658
-  29,F,351.594
+  29,F,351.593
    1,F,352.912
    9,F,357.35
    1,F,2.584
