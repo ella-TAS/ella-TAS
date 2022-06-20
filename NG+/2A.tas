@@ -1,4 +1,4 @@
-RecordCount: 2099
+RecordCount: 2512
 console load 2
    1
 console p_twodashes
@@ -7,30 +7,40 @@ console p_twodashes
  190
  
 #lvl_start
-  13,R,Z
+   4,R,Z
+   2,R,J
+   8,R
    1,R,J
-   7,R
+   4,R,Z
+   1,R,J
+   2,R
+   1
   40
- 
+
 #lvl_0 (0)
-   7,R,J
+   4,R
+   7,R,D,J
+  15,R,D,X
+   1,R,J
+   1,R,J
+   4,R,J
+   1,R
+   1,R
+   1,R,K,G
+  13,R,U,Z
+   1,L
+   1,J,G
   15,R,D,X
    2,R,J
-   7,R
-   5,R,D,X
-   2,R,J,G
-  12,R
-   3,R,J
-   1,R,K,G
-  12,R
-   3,R,J
+   2,R,K,G
+   5,R,J,G
   40
- 
+
 #lvl_1 (0)
-   8,R,J
-   5,R
-   1,R,J
-   6,R
+   7,R,J
+   4,R
+   2,L
+   5,L
   15,D,X
    2,R,D
    4,L,D
@@ -302,6 +312,7 @@ console p_twodashes
    3
   18,R,J
    4,R,K,G
+
    3,K
   15,U,X
    1
@@ -650,4 +661,4 @@ console p_twodashes
    1,S
    1,D,J
   18
-ChapterTime: 1:23.538(4914)
+ChapterTime: 1:23.521(4913)
