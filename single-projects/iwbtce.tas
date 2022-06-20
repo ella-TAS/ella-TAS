@@ -1,10 +1,10 @@
-RecordCount: 776
+RecordCount: 1247
 
 console load Flinchless/IWannaCelesteExtremity/IWannaCelesteExtremity
    1
 
 #Start
-#lvl_hub_01 (1)
+#lvl_hub_01 (0)
 Repeat 51
    1,J
    1,O
@@ -12,12 +12,12 @@ Endrepeat
    1
    4,L
   19,L,J
-   1,K,G
-   1,R,K
-   1,L,J,G
-   6,L,K,G
-   1,L,J,G
    2,L,K,G
+   3,R,K
+   1,K
+   1,L,J,G
+   1,L,K,G
+   4,L,J,G
    5,L
    1,S,N
    1,D,J
@@ -27,23 +27,21 @@ Endrepeat
    1,R
    2,R,D,J
    5,R
-  15,R,K
-   1,R,J
+  15,R,J
+   1,R,K
    1,S,N
    1,D,J
  224
 
-#lvl_hub_01 (2)
+#lvl_hub_01 (1)
    4,L
   19,L,J
    2,L,K,G
    3,R,K
-   2,L,K
-   1,R,K
-   1,L,K
+   1,K
    1,L,J,G
    1,L,K,G
-   4,L,J,G
+   7,L,J,G
   16,L
    1,L,J
   23,L,D
@@ -53,30 +51,31 @@ Endrepeat
  224
 
 #lvl_a-08
-   9,L
-   1,D,J
+   8,L
+   1
+   1,L,D,J
+  12,R,J
    1,L,J
-  11,R,J
-   9,K
-   5,R,K
-   1,R,J,G
-   7,R
-  21,D
+   1,K,G
+   1,J
+   9,R,J
+   1,J
+   1,R,J
+  10,R,D
+  18,D
    1,S,N
    1,D,J
  224
 
-#lvl_hub_01 (3)
+#lvl_hub_01 (2)
    4,L
   19,L,J
    2,L,K,G
    3,R,K
-   2,L,K
-   1,R,K
-   1,L,K
+   1,K
    1,L,J,G
    1,L,K,G
-   4,L,J,G
+   7,L,J,G
   16,L
   18,L,J
    2,L,K,G
@@ -97,17 +96,15 @@ Endrepeat
    1,D,J
  224
 
-#lvl_hub_01 (4)
+#lvl_hub_01 (3)
    4,L
   19,L,J
    2,L,K,G
    3,R,K
-   2,L,K
-   1,R,K
-   1,L,K
+   1,K
    1,L,J,G
    1,L,K,G
-   4,L,J,G
+   7,L,J,G
   16,L
   18,L,J
    6,K,G
@@ -122,21 +119,24 @@ Endrepeat
  224
 
 #lvl_a-06
-   8,J
-   4,L,J
-   4,L,K,G
+   2,J
+  10,L,J
+   8,K,G
+   1,R,K
+   1,L,J,G
+  11,K,G
+   1,R,K
+   1,R,J,G
+  12,R,K,G
+   5,R
    3,R,K
-   3,L,K
-   8,J,G
-   1,L,J
-   3,R,J
-   1,R,K,G
-  43,R,J,G
+  20,R,D
+   1,R,J
    1,S,N
    1,D,J
  224
 
-#lvl_hub_01 (5)
+#lvl_hub_01 (4)
    4,L
   19,L,J
    2,L,K,G
@@ -184,15 +184,15 @@ Endrepeat
    1,D,J
  224
 
-#lvl_hub_01 (6)
+#lvl_hub_01 (5)
    4,R
   19,R,J
-   1,K,G
-   1,L,K
-   1,R,J,G
-   6,R,K,G
-   1,R,J,G
    2,R,K,G
+   3,L,K
+   1,K
+   1,R,J,G
+   1,R,K,G
+   4,R,J,G
    5,R
    1,S,N
    1,D,J
@@ -204,23 +204,21 @@ Endrepeat
    2,R
    5,R,D,J
    5,R
-  17,R,K
-   1,R,J
+  17,R,J
+   1,R,K
    1,S,N
    1,D,J
  224
 
-#lvl_hub_01 (7)
+#lvl_hub_01 (6)
    4,R
   19,R,J
    2,R,K,G
    3,L,K
-   2,R,K
-   1,L,K
-   1,R,K
+   1,K
    1,R,J,G
    1,R,K,G
-   4,R,J,G
+   7,R,J,G
   16,R
    1,R,J
   23,R,D
@@ -230,37 +228,32 @@ Endrepeat
  224
 
 #lvl_a-03
-   3,L,D,J
-   5,L
-   1,K,G
-   1,R,K
-   1,L,K
-   1,J,G
-  22,R,J
+   2,L,J
    1,L
-   1,K,G
-   1,L,J,G
-   2,R,J
-   6,L,J
-   2,L
+   4,L,J
+   1,J
+   1
+   1,K
+   2,J,G
+  18,R,J
    1,L,K,G
+   2,R,K
+  11,L,K
    1,L,J,G
-   5,L
+   6,L
    1,S,N
    1,D,J
  224
 
-#lvl_hub_01 (8)
+#lvl_hub_01 (7)
    4,R
   19,R,J
    2,R,K,G
    3,L,K
-   2,R,K
-   1,L,K
-   1,R,K
+   1,K
    1,R,J,G
    1,R,K,G
-   4,R,J,G
+   7,R,J,G
   16,R
   18,R,J
    2,R,K,G
@@ -274,9 +267,9 @@ Endrepeat
  224
 
 #lvl_a-02
-   4,L
+   4,L,J
+   2,L,K,G
    1,J,G
-   3,L,J
    1,R,J
    1,L,K,G
    1,L,J,G
@@ -284,23 +277,20 @@ Endrepeat
    8,J
    3,L,J
    2,L,K,G
-   1,J
-   9,L,K,G
+  10,J
    1,S,N
    1,D,J
  224
 
-#lvl_hub_01 (9)
+#lvl_hub_01 (8)
    4,R
   19,R,J
    2,R,K,G
    3,L,K
-   2,R,K
-   1,L,K
-   1,R,K
+   1,K
    1,R,J,G
    1,R,K,G
-   4,R,J,G
+   7,R,J,G
   16,R
   18,R,J
    6,K,G
@@ -316,31 +306,31 @@ Endrepeat
 
 #lvl_a-04
    1,R,J
-   4,R
-   3
-   2,R
-   1
-   9,R
+  13,R
+   2
+   1,J
+   8,R
    2,R,J
    5,R
-   6,R,K
    1,R,J,G
-  38,R,K,G
+  12,R,K,G
+   5,R
+   6,R,K
+  14,R,D
+   1,R,J
    1,S,N
    1,D,J
  224
 
-#lvl_hub_01 (10)
+#lvl_hub_01 (9)
    4,R
   19,R,J
    2,R,K,G
    3,L,K
-   2,R,K
-   1,L,K
-   1,R,K
+   1,K
    1,R,J,G
    1,R,K,G
-   4,R,J,G
+   7,R,J,G
   16,R
   18,R,J
   16,L,K
@@ -367,11 +357,7 @@ Endrepeat
    6,R,D
   11,R,J
    5,R
-  28,R,K
-   1
-   1,R
-   1
-   1,R
+  32,R,K
    2,R,J,G
    3,L,J
    2,J
@@ -384,27 +370,25 @@ Endrepeat
    1,D,J
  224
 
-#lvl_hub_01 (11)
+#lvl_hub_01 (10)
    4,R
   19,R,J
    2,R,K,G
    3,L,K
-   2,R,K
-   1,L,K
-   1,R,K
+   1,K
    1,R,J,G
    1,R,K,G
-   4,R,J,G
-  16,R
-   6,R,J
-   5,R
-   8,R,K
-   3,R
-   2,R,K
-  16,R,D
+   7,R,J,G
+   9,R
+   1,R,J
+  11,R,D
+  10,R,J
+   9,R
+   1,R,J
+  15,R
+   1,R,J
    4,R
-   2,R,J
-  12,R
+  10,R,D
   40
 
 #lvl_cp_01
@@ -457,4 +441,4 @@ Endrepeat
   30,L,J,G
   41,L,D,X
 
-ChapterTime: 1:52.897(6641)
+ChapterTime: 1:52.710(6630)
