@@ -1,0 +1,135 @@
+RecordCount: 136
+
+console load stanley/celeste-parable ID-8
+   1
+
+#Start
+#lvl_ID-8
+  36
+***
+   5,R
+   5,R,D,J
+***
+  15,R,D,X
+   2,R
+   2,R,D
+  10,R,C
+***
+  12,R,J
+   6,R
+  11,R,K,G
+   1,R,J,G
+  11,R,K,G
+   7,R
+   4,Z
+   1,R,J
+   6,R
+***
+   7,R,J
+   3,R
+  16,R,D,X
+   7,R,J
+  15,R,D,X
+   2,R,J
+   3,R
+  13,R,K,G
+  15,U,X
+   1,R,K,G
+   4,L,K
+   5,R,K
+   1,R,K
+   1,K
+   1,R,J,G
+   2,R,K,G
+   1,J
+  40
+
+read 1-0 lvl_ID-9 lvl_ID-17
+
+#lvl_ID-17 (0)
+***S
+   2,R,J
+   6,R,K,G
+   6,R
+   1,R,K
+   5,R
+  15,R,D,X
+  11,R,J
+  14,R,D,X
+   1,R,J
+  11,R,U,Z
+   5,R,J,G
+  21,R
+   2
+   4,Z
+   1,R,J
+   1,R
+   1,R,K
+   1,R,J,G
+   9,R
+   2,R,J
+***
+  26,R,D,X
+  40
+
+#lvl_ID-18
+  15,R,D
+  90,L,D
+  48,R,D
+ 159,U,X
+  40
+
+#lvl_ID-17 (1)
+  47
+  40
+
+#lvl_ID-19
+ 113
+***
+   5,R,Z
+   1,R,J
+   7,R
+  14,R,J
+  12,R,K,G
+   9,R,J,G
+   6,R,Z
+***
+   1,R,J
+   6,R
+  40
+
+#lvl_ID-20
+***
+   1,R,J
+  14,R
+  15,D,X
+***
+  52,R,D
+***
+   5,D
+   8
+   1,L,D
+***
+   6,L,Z
+   1,R,J
+   6,R
+   1,R,J
+   1,R
+  17,R,D,X
+   1,R,J
+  39,R,D,X
+   3,R,J
+  22,R,D,X
+  40
+
+#lvl_ID-21
+   4,R,D
+   2,R,J
+   6,R,K,G
+  90,R,J,G
+
+
+
+
+
+

@@ -1,0 +1,99 @@
+RecordCount: 436
+
+console load stanley/epilogue
+   1
+
+#Start
+#lvl_0-0
+  88
+   7,R,Z
+   1,R,J
+   1,R
+   1,R,K
+   1,R,J,G
+   9,R
+   7,R,J
+  12,R,D,X
+   2,R,J,G
+   6,R,K,G
+  11,R
+   7,R,J
+  15,R,D,X
+  11,R,J
+   1,R
+  40
+
+#lvl_0-1
+   2,R
+  13,R,D,X
+   1,R,J,G
+   4,R
+  14,R,D,X
+   1,R,J
+#resync point
+  72,D
+  11,R,Z
+   1,L,J
+   3,L
+  14,L,D,X
+   1,L,J
+  14,L,D,X
+   1,L,J
+  14,L,D,X
+   1,R,J
+   5,R,D,X
+   3,R,J,G
+   2
+   1,R,K,G
+   5,R
+   1,R,K,G
+   6,R
+   1,R,K
+   6,R
+  10,R,J
+  14,R,U,Z
+   3,R,J,G
+   2,R
+   1,R,J
+   2,R,K
+  15,R,D,X
+  15,R,D,C
+   1,R,D,J
+   9,R,U,X
+   7,R,J,G
+   3,R
+  40
+
+#lvl_1-0
+   8,R,D,X
+   1,R,J,G
+  11,R
+   1,R,J
+   3
+   2,R
+   8,R,J,G
+  15,R,D,X
+   4,R
+   1,R,J
+  12,R,U,X
+   1,R,J,G
+   2,J
+   1,R
+   5,R,D,X
+  40
+
+#lvl_1-1
+  14,R,D
+  14,R,U,X
+  16,R,J,G
+  16,R,D,X
+   1,R,J
+  22,R,D,X
+   5,R,J
+   4,R
+   9,R,D,X
+   7,R,J,G
+  15,R,U,X
+
+
+
