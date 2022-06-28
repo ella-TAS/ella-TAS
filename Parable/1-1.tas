@@ -1,0 +1,57 @@
+RecordCount: 27
+
+console load stanley/celeste-parable 1-5
+   1
+
+#Start
+read, 1-0, Start, lvl_1-11 (0)
+
+#lvl_1-14
+***S
+   2,L
+   2,L,K
+   4,L
+  23,L,J
+  12,L,K,G
+   7,L,J,G
+   2,K
+   5,L,X
+  23,L,J,G
+   5,J
+***
+   1,R,K
+  15,R,D
+  19,D
+   4,L,D
+   3
+   1,D
+***
+  23,L,Z
+   7
+  26,L,X
+   6,L,Z
+   1,L,J
+   7,L
+   1,L,J
+   5,L,D,X
+  40
+
+read 1-0 lvl_1-12 lvl_1-14
+
+#lvl_1-14
+   8,L
+   1,L,J
+  14,L,D,X
+   1,L,J
+  13,L,D,X
+   1,L,J
+   7,L
+  17,L,J
+  17,L,U,X
+***
+  24,U,C
+  40
+
+#lvl_1-15
+ 900
+

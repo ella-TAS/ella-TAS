@@ -1,4 +1,4 @@
-RecordCount: 82
+RecordCount: 83
 
 console load stanley/celeste-parable B-0
    1
@@ -139,7 +139,8 @@ read 0-1 lvl_F-0 lvl_I-7
   15,R,D,X
    1,N
    1,S,N
-   1,D,J
-  18
+   1,U,J
+   1,O
+  31
 
 #1:16.585(4505)

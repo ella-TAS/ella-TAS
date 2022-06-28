@@ -1,28 +1,20 @@
 read LoadStart
 
 read 0-0 Start
-read SaveAndQuit
+read SnQ
 read 0-1 Start
+***
 read 0-2 Start
- 164
-   1,J
-  83
-   1,S
- 172
-   1,L
-   8
-   1,J
-  21
-   1,J
-  30
+read RTM
    1,R
    1,F,90
    1,J
   46
 read 3-0 Start
 read 3-1 Start
-read LoadA
+read RTM
    1,R
    1,J
   46
 read 1-0 Start
+read 1-1 Start

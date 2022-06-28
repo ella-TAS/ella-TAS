@@ -1,4 +1,4 @@
-RecordCount: 64
+RecordCount: 66
 
 console load stanley/celeste-parable
    1
@@ -65,7 +65,8 @@ console load stanley/celeste-parable
    3,L,D
    8,D,X
    1,S,N
-   1,D,J
-  18
+   1,U,J
+   1,O
+  31
 
 ChapterTime: 0:07.463(439)
