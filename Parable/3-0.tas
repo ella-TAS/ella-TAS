@@ -1,4 +1,4 @@
-RecordCount: 348
+RecordCount: 353
 
 console load stanley/celeste-parable B-0
    1
@@ -345,53 +345,9 @@ Endrepeat
    1,S,N
    1,D,J
   34
-   6,L,D
-   1,L,J
-   3,L
-  40
-
-#lvl_I-37
-   1,S,N
-   1,D,J
-  69,O
-   5,L
-   1,L,J
-  14,L
-   1,L,J
-  14,L
-   1,L,J
-   2,L
-   1,S,N
-   1,D,J
-  34
-   9,L
-  40
-
-#lvl_TH-0
-   3,L
-Repeat 9
-   1,L,J
-  14,L
-Endrepeat
-   1,L,J
-   9,L
-   1,S,N
-   1,D,J
-  34
-   5,L
-   1,L,J
-  14,L
-   1,L,J
-  12,L
-  40
-
-#lvl_TH-1
-   2,L
-   5,L,J
-  17,L
-  21,L,D
+  26,R
    1,J
-#2:00.360(7080)
+#1:51.520(6560)
    1,Q
    1,J
   31
