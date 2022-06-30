@@ -1,0 +1,94 @@
+RecordCount: 90
+
+console load stanley/celeste-parable CF-0
+   1
+
+#Start
+  36
+   6,R,Z
+   1,R,J
+   7,R
+   1,R,J
+  14,R,D,X
+   1,R,J
+   6,R,D,X
+  40
+
+#lvl_CF-1
+   8,R
+   1,R,J
+  12,R,D,X
+   1,S,N
+   1,D,J
+  34
+   1,R,J
+  14,R
+   1,R,J
+  14,R
+   1,R,J
+  14,R,D,X
+   1,R,J
+  14,R,D,X
+   1,R,J
+   1,R
+   6,R,D,X
+  40
+
+#lvl_CF-2
+   8,R
+   1,R,J
+  42,R,D,X
+   6,R,Z
+   1,R,J
+   7,R
+   1,R,J
+  14,R,D,X
+   1,R,J
+  14,R,D,X
+   1,R,J
+  14,R,D,X
+   1,R,J
+  12,R,D,X
+  40
+
+#lvl_CF-3
+   2,R
+   1,R,J
+  14,R,D,X
+   1,R,J
+  15,R,D,X
+  10
+   1,R,J
+   7
+   1,K
+   1
+   1,K
+   5
+  12,L,Z
+   1,R,J
+   1
+   5,R
+   1,R,J
+   1,R
+   6,R,D,X
+   1,L,J,G
+   5,R,J
+  21,R
+   3,R,J
+  43
+
+#lvl_CF-4
+  13,R,U,X
+   2,R,J,G
+  24,R
+   1,R,J
+  10,R,D,X
+  40
+
+#lvl_CF-5
+   4,R
+   1,S,N
+   1,D,J
+  34
+   1,R,J
+  90,R
