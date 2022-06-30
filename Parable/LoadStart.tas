@@ -16,10 +16,7 @@ Set,DisableFlashes,true
 Set,CrouchDashMode,Press
 Set,GrabMode,Hold
 
-#start on begin
-#   1,D
 #Play StartOnBegin
-#-----
 
 console overworld
    2
@@ -47,48 +44,8 @@ Endrepeat
    1,U
    1,F,
    1,U
+   1,F,
 #StartOnBegin
-   1,J
-  41
-#choose the file name
-#and input S
-#-----
-   1,D
-   1,F,180
-   1,J
-Repeat 3
-   1,L
-   1,F,270
-Endrepeat
-   1,L
-   1,J
-   1,U
-   1,L
-   1,U
-   1,J
-   1,R
-   1,F,90
-   1,D
-   1,R
-   1,F,90
-   1,J
-   1,L
-   1,F,270
-   1,J
-   1,R
-   1,U
-   1,R
-   1,J
-   1,R
-   1,D
-   1,R
-   1,D
-   1,J
-   1,S
-#-----
-
-  48
-   1,U
    1,J
 
 #Postcard

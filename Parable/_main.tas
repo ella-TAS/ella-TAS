@@ -1,10 +1,10 @@
 read LoadStart
 
 read 0-0 Start
-read SnQ
-read 0-1 Start
 read Restart
-read 0-2 Start
+read 0-1a Start
+read SnQ
+read 0-1b Start
 read RTM
    1,R
    1,J
@@ -19,8 +19,42 @@ read RTM
    1,J
   46
 
-read 2-0 Start
+read 2-0a Start
 read SnQ
+read 2-0b Start
+read Restart
+read 2-1a Start
+read SnQ
+#2-1b
   32
 read Restart
-read 2-1 Start
+read 2-2 Start
+read Restart
+read 2-3 Start
+read Restart
+read 2-4 Start
+ 164
+   1,J
+  83
+   1,S
+   1,J
+  30
+   1,R
+   1,F,90
+   1,R
+   1,J
+  46
+
+read 3-0 Start
+***
+read RTM
+   1,R
+   1,F,90
+   1,R
+   1,F,90
+   1,R
+   1,J
+  46
+
+read 5-0 Start
+read RTM
