@@ -6,7 +6,7 @@ console load stanley/celeste-parable 1-5
 #Start
 read, 1-0, Start, lvl_1-11 (0)
 
-#lvl_1-14
+#lvl_1-11
    2,L
    2,L,K
    4,L
