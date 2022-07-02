@@ -46,7 +46,8 @@ read 2-4 Start
   46
 
 read 3-0 Start
-***
+read Restart
+read 3-1 Start
 read RTM
    1,R
    1,F,90
