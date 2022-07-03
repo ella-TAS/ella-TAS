@@ -1,9 +1,10 @@
-RecordCount: 174
+RecordCount: 175
 
 console load stanley/celeste-parable ID-8
    1
 
 #Start
+#Green Screens
 #lvl_ID-8
   36
    5,R
@@ -131,6 +132,7 @@ read 1-1 lvl_ID-9 lvl_ID-17
   40
 
 #lvl_ID-22
+#Escape Ending
   11,R,J
   14,R,X
 

@@ -13,6 +13,8 @@ read RTM
 read 1-0 Start
 read Restart
 read 1-1 Start
+read Restart
+read 1-2 Start
 read RTM
    1,R
    1,F,90

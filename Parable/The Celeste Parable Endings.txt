@@ -1,0 +1,80 @@
+**Start (CP0):**
+  [No Intro Skip]
+    - Existential Crisis Ending (Celeste-Unique)
+  [Skip or No Skip]
+    - Coward Ending
+|| Contains a Golden Berry
+
+**The 2 Doors (CP1):**
+  [Top Door]
+    - Broom Closet Ending (No Clear Trigger)
+    [Upstairs]
+      - Elevator Ending (No Clear Trigger)
+      *==> Green Screens (CP5) Entrance (Bubble down instead of up to boss's office)*
+      *==> An escape (CP8) Entrance (Trigger office dialog, but drop down)*
+    [Downstairs]
+      - Theo Ending
+  [Bottom Door]
+    - Lounge Ending (No Clear Trigger)
+    [Top Door]
+      *==> Storage Area (CP3) Entrance*
+    [Left Door --> Bubble Right]
+      *==> An adventure (CP4) Entrance*
+
+**The Fall (CP2):**
+  [Down the Pit]
+    [Mind Control Facility]
+      [Proceed Normally]
+        [Proceed Normally]
+          - Freedom Ending
+          - Countdown Ending
+        [Jump Down At End of First Room Through Right Transition]
+          - Bottom of the Main Control Room of the Mind Control Facility Ending
+      [Get Pushed Down by the Hidden Kevin in the Wall]
+        - Adventure Line Ending
+        - No Free Will Ending
+        - Bottom of the Mind Control Facility Ending
+    [Escape Route]
+      - Museum Encding
+  [Left Exit]
+    - Broken Elevator Ending
+
+**Storage Area (CP3):**
+  - Too Lazy to Add Ending (No Clear Trigger)
+  [Top Path]
+    - Apartment Ending
+    - Choice Ending
+  [Middle Path]
+    - Zending (Red Door)
+      Subendings that give no extra berries:
+      [Subending 1: Happiness]
+      [Subending 2: Escape Pod Clue]
+    - Games Ending (Blue Doors Only)
+    *==> A quick Demonstration (CP6) Entrance*
+    *==> Classic Edition (CP7) Entrance*
+  [Bottom Path]
+    - Powerful Ending (Take Bubble as far as Possible)
+
+**An adventure (CP4):**
+  - Whiteboard Ending (Left after second reset)
+  - Confusion Ending
+
+**Green Screens (CP5):**
+  - Escape Ending
+  - Death by Lava Ending
+
+**A quick Demonstration (CP6):**
+  - Demo Ending
+|| Contains a Silver Berry
+
+**Classic Edition (CP7):**
+  - Classic Freedom Ending
+  - Classic Countdown Ending
+  - Classic Theo Ending
+  - Trap Ending (Similar to Museum Ending)
+  - Classic Apartment Ending
+  - Classic Games Ending
+
+**An escape (CP8):**
+  - Escape Pod Ending
+|| Contains the Crystal Heart
