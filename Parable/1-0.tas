@@ -196,6 +196,7 @@ Endrepeat
   40
 
 #lvl_broom-closet (1)
+#Broom Closet Ending
    5
    1,L,J,G
    1,L,K,G
@@ -456,6 +457,7 @@ Endrepeat
    6,L
   40
 
+#The Fall
 #lvl_2-0
    2,L
    2,L,K
@@ -749,6 +751,7 @@ Endrepeat
   40
 
 #lvl_BTS-2
+#Museum Ending
    8,R
    1,S,N
    1,D,J

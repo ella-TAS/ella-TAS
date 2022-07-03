@@ -100,6 +100,7 @@ console load stanley/celeste-parable 1-0
    2,R
   40
 
+#The 2 Doors
 #lvl_1-5
    4,R
   14,R,D,X
@@ -193,6 +194,7 @@ console load stanley/celeste-parable 1-0
   40
 
 #lvl_A-4 (0)
+#Lounge Ending
    2,L,J
    9,L
   19,L,X
@@ -224,6 +226,7 @@ console load stanley/celeste-parable 1-0
   21,L,J
   43
 
+#Storage Area
 #lvl_B-0
   11,L
   10,L,D,X
@@ -661,6 +664,7 @@ Endrepeat
   19,L
 
 #lvl_I-36
+#Theo Ending
    1,L,J
   14,L
    1,L,J
