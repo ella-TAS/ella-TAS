@@ -1,4 +1,4 @@
-RecordCount: 84
+RecordCount: 294
 
 console load stanley/celeste-parable B-0
    1
@@ -58,33 +58,62 @@ console load stanley/celeste-parable B-0
    1,R,J
   14,R
    1,R,J
-  72,R,D
-   3,R
+  21,R,D
+  54,L,D
    1,S,N
    1,D,J
   34
+   2,L,D
+   5,L,X
+   4,L,J,G
+  20,L,D
+   8,L
+   1,L,J
+   4,L
+   1,L,J,G
+   1,L,K,G
+
+#lvl_A-fill4
+#Collectables Ending
+  13,L
+   1,L,J
+  14,L
+   1,L,J
+  14,L
+   6,L,J
+  18,L
+   1,L,J
+  14,L
+   1,L,J
+  14,L
+   1,L,J
+  14,L
+   1,L,J
+  22,L
+   1,L,J
+  14,L
+
+#lvl_F-0
+   1,S,N
+   1,D,J
+  69,O
+  12,R,Z
+   1,R,J
    5,R
-   1,R,D
-  14,R,Z
+   1,S,N
+   1,D,J
+  34
+  21,R,D
+  12,R,J
+  19,R
+  54,R,D
    1,R,J
-   6,R
-   1,R,J
-  14,R
-   1,R,J
-  14,R
-   1,R,J
-  14,R
-   1,R,J
-  14,R
-   1,R,J
-  14,R
-   1,R,J
-  14,R
-   1,R,J
-   6,R
+  23,R,D
+   9,D
+  21,L,D
   40
 
-read 0-1b lvl_F-0 lvl_I-7
+read 0-1b lvl_C-0 lvl_I-7
 
 #lvl_I-7
    5,L
@@ -138,10 +167,10 @@ read 0-1b lvl_F-0 lvl_I-7
   14,R,D,X
    1,R,J
   13,R,U,X
-   3,R,J,G
-  14,R
+   4,R,J,G
+  15,R
    1,R,J
   15,R,D,X
    1,N
 
-#1:15.259(4427)
+#1:16.806(4518)
