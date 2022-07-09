@@ -1,0 +1,52 @@
+Current TAS Routes for all Endings:
+
+Filename Format:
+
+X-X.tas
+
+First number is the checkpoint the file starts from, second number is the file's placement within other files starting from that checkpoint.
+
+* = Drafted
+No * = Not Started
+
+*0-0 Existential Crisis Ending (1/33) --> Return to Map --> 0-1a.tas
+*0-1a: Coward Ending (2/33) --> Save & Quit --> 0-1b.tas
+*0-1b: Unlock The 2 Doors (CP1) --> Lounge Ending (3/33)--> Unlock Storage Area (CP3) --> Take Archive Ending bubble until F-4 --> Theo Ending (4/33) --> 1-0.tas
+
+*1-0: Broom Closet Ending (5/33) --> Unlock The Fall (CP2) --> Museum Ending (6/33) --> 1-1.tas
+*1-1: Elevator Ending (7/33) --> Unlock Green Screens (CP5) --> Death by Lava Ending (8/33) --> 2-0.tas
+
+*2-0a: Go above the Mind Control Facility to get teleported to CF-0 --> Save & Quit --> 2-0b.tas
+(In Progress) 2-0b: Unlock An adventure (CP4) --> Whiteboard Ending (9/33) --> Confusion Ending (10/33) --> 2-1.tas
+*2-1a: Adventure Line Ending (11/33) --> 2-1b.tas
+(In Master File) 2-1b: Bottom of the Mind Control Facility Ending (12/33) --> 2-2.tas
+*2-2: No Free Will Ending (13/33) --> 2-3.tas
+*2-3: BotMCRotMCF Ending (14/33) --> Freedom Ending (15/33) --> 2-4.tas
+*2-4: Countdown Ending (16/33) --> 2-5.tas
+2-5: Broken Elevator Ending (17/33) --> 3-0.tas
+
+*3-0: Collectables Ending (18/33) --> Archive Ending (19/33) --> 3-1.tas
+3-1: Apartment Ending (20/33) --> 3-2.tas
+*3-2: Too Lazy to Add Ending (21/33) --> Zending [Happiness Subending] (22/33) --> 3-3.tas
+3-3: Choice Ending (23/33) --> 3-4.tas
+3-4: Games Ending (24/33) --> 3-5.tas
+3-5: Unlock A quick Demonstration (CP6) --> Demo Ending (25/33) --> 3-6.tas
+3-6: Unlock Classic Edition (CP7) --> Trap Ending (26/33) --> 5-0.tas
+
+*5-0: Escape Ending (27/33) --> 7-0.tas
+
+7-0: Classic Freedom Ending (28/33) --> 7-1.tas
+7-1: Classic Countdown Ending (29/33) --> 7-2.tas
+7-2: Classic Theo Ending (30/33) --> 7-3.tas
+7-3: Classic Apartment Ending (31/33) --> 7-4.tas
+7-4: Classic Games Ending (32/33) --> 1-2.tas
+
+*1-2: Escape Pod Ending (33/33) --> Heart Collect --> Epilogue.tas
+
+Epilogue: Win :D
+
+Moon Berries:
+ #1: Art Ending 1(?) (33/33 (+1)): Wait for two hours in the paint room in the Games Ending route.
+ #2: Eight Ending (33/33 (+2)): Rate the demo by squeezing under the coin block before it closes.
+ #3: True Freedom Ending (33/33 (+3)): Currently doesn't work. Complete the Freedom Ending after completing the Epilogue.
+ #4: Demo Dash Ending (33/33 (+4)): Go right in the Classic Countdown room.
