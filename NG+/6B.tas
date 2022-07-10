@@ -295,98 +295,55 @@ AnalogMode,Precise
    1,K,G
    1,J,G
    3
-   8,J,G
-   4,R,J
-  15,L,U,X
-   7,L,C
-  35,R,D
-  16,G
-  27,R,D
-   5,L,X
-   1,R,J,G
-  15
-   1,G
-   2
-   1,G
-   4
-   1,G
+   2,J,G
+   5
+   1,R
+   1,L
+   1,L,J
+   2,L,D
    3
-  18,L,G
-   1,K,G
-   1,R,K
-   1,L,K
-   1,J
-   1,K,G
-   7,J,G
-   9,L,U,X
-  12,R,J
-  25,R
-   5,L,K
+  12,L,D
+  15,L,Z
+   6,R,D
   10,L,D
-   8,L,G
-   1,L
+  43,L,U,G
+   5,L,U,X
    1,J
-   1,L,K,G
-  14,R,K
-  11,J
-  21,R,D
-   1,L,D
-   1,J
-   1,L,K,G
-   7,L,K
-   1,J,G
-   1,R,J
-   8,L,J
-  14,L
-   4,X
-   9,R,D
-  11,J,G
-   1,L
-  41,R
+   1
+   6,J
+  10,R
+   3,J
+   1,L,J
    1,J
    1,L,J
-   2,L
-  17
-   5,L,D
-   5,L
-   1,L,G
-Repeat,15
-   1,L,G
-   3
-EndRepeat
-   1,G
-   3,L
-  10,G
-   3,D,G
-   1,L,J,G
-   1,R,J
-   1,R
-   3,R,K
-  20,R
-   1,R,D
-  15,R,Z
-   8,R
-   5,L,X
-  29,L,D
-   1
-   1,L,D
-   1
-  12,U,G
-   4,G
-   1,U,G
-   1,G
-   1,U,G
-   1,G
+   1,J
+   1,L,J
+   1,J
+   9,K,G
+   9
+   2,L,G
    1
    1,L,J,G
    1,L,K,G
-  16,R,K
-   3,J,G
-   6,R
-   1,L
-   4,L,J
-  15,U,X
+   1,J,G
+  17,R,U,X
+   2,R,J,G
+  22,R,U,Z
+  11,J
+  20,D,X
+  21,L,D
+  66,L,G
+  41,L,U,G
+   5,J,G
+   1,R,J
+   8,R
    1,J
+  14,R,U,Z
+   1,J
+  10,R,X
+   5,L,J
+  15,U,X
+   1,R,J
    6,R,Z
    1,R,J
    3,R
@@ -1355,4 +1312,5 @@ AnalogMode,Precise
    2,R,J
   15,R,D,X
  134,R
-ChapterTime: 3:09.176(11128)
+
+ChapterTime: 3:05.198(10894)
