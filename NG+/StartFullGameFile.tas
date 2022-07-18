@@ -1,4 +1,4 @@
-#v1.5 by EllaTAS
+#v1.6 by EllaTAS
 
 #may delete files
 #create backups
@@ -13,6 +13,8 @@ Set,SpeedrunClock,2
 Set,Everest.UseKeyboardForTextInput,False
 Set,ScreenShake,Off
 Set,DisableFlashes,true
+Set,CrouchDashMode,Press
+Set,GrabMode,Hold
 
 #start on begin
 #   1,D
@@ -21,6 +23,7 @@ Set,DisableFlashes,true
 
 console overworld
    2
+EnforceMaingame
    1,J
   94
    1,J
@@ -31,24 +34,9 @@ Repeat 15
 Endrepeat
    1,J
   14,L
+#StartOnBegin
    1,D
    1,F,180
-   1,D
-   1,F,180
-
-#disable all unnecessary mods and
-#select the correct mod here
-#-----
-#   1,L
-#-----
-
-   1,U
-
-#enable variant mode
-#   1,J
-#-----
-
-   1,F,
 
 #enable assist mode
    1,J
@@ -65,7 +53,6 @@ Endrepeat
 #-----
 
    1,U
-#StartOnBegin
    1,J
   41
 
@@ -96,12 +83,16 @@ Endrepeat
    1,U
    1,J
 
+#Postcard
+# 185
+#   1,J
+# 135
+#-----
+
 #Vanilla Prologue
-Add 131
    1,S
    1,D,J
   31
-Add 1
 #-----
 
    1
