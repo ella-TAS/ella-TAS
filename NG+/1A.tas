@@ -2,11 +2,11 @@ console load 1
    1
 Set,DashMode,Single
 Set,AssistMode,true
-#console p_twodashes
 
 #Start
-#lvl_1
   88
+  
+#lvl_1
    5,R,X
    6,R,J
    5,R
@@ -157,29 +157,26 @@ Set,AssistMode,true
   10,L,C
    1,R,J
   14,R,U,X
+   3,R,J,G
+   1,J
+   2,R
+  14,R,X
+   2,R,J,G
+   4,R
    4,R,J,G
-   6,R
-   3,R,K
-   1,R
-   1,R,K
-   1,R
-   2,R,K,G
-   5,R
-  10,R,J,G
-   5,R,J
-  15,R,D,X
-   1,R
+  20,R
   43
 
 #lvl_6a
-   7,R
-   9,R,D
+   3,R
+  13,R,D
   15,L,D,X
-  19,R,D,C
-  15,R,U,X
-   6,U,C
-  25,R,J
-  14,R,Z
+  17,R,D,C
+  10,R,J
+  10,U,X
+   7,R,J
+  18,R,U,X
+  13,R,Z
    4,R,J
    7,R,Z
    1,R,J
@@ -435,4 +432,4 @@ Set,AssistMode,true
    1,D,J
   18
 
-ChapterTime: 0:45.883(2699)
+ChapterTime: 0:45.747(2691)
