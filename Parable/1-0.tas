@@ -1,4 +1,4 @@
-RecordCount: 988
+RecordCount: 998
 
 console load stanley/celeste-parable 1-5
    1
@@ -32,7 +32,7 @@ console load stanley/celeste-parable 1-5
    1,R,J
    7,R
   12,R,J
-  40
+  43
 
 #lvl_1-6
   12,R,J
@@ -266,11 +266,11 @@ Endrepeat
   40
 
 #lvl_1-13
-   6,L,J
+  10,L,J
    1,S,N
    1,D,J
   34
-   9,L,J
+   5,L,J
   16,U,Z
   11,R,J,G
    1
@@ -462,11 +462,11 @@ Endrepeat
 #lvl_2-0
    2,L
    2,L,K
-  87,L,D
+  95,L,D
    1,S,N
    1,D,J
   34
-  64,L,D
+  56,L,D
  154,R,D
  200,L,D
   16,D

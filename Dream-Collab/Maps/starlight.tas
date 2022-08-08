@@ -1,0 +1,165 @@
+RecordCount: 781
+
+console load DreamCollab2022/1-Maps/zhimatang
+   1
+
+#Start
+#lvl_start
+ 190
+   9,L,Z
+   1,R,J
+   7,R
+   1,R,J
+  13,R,U,X
+   2,R,J,G
+   1,J
+   7,R,J
+  31,R
+   1,R,J
+  11,R
+  13,R,D,X
+   2,R,J
+  14,R,U,X
+  10,R,J,G
+   7,R
+   2,R,K
+   5,R
+   3,R,K,G
+   7,R,D
+  30,D
+   2
+   1,L
+   5,L,Z
+   1,R,J
+   4,R
+   3,R,J
+   3,R,K,G
+   3,R
+   5,R,D,X
+   1,R,J,G
+   9,R
+  40
+
+#lvl_01
+   2,R
+  10,R,D,J
+   5,R
+   4,R,K
+   2,R,J,G
+   2,R,K,G
+  11,R,J,G
+   8,J
+  15,U,X
+  13,R,J
+   7,R,K,G
+   7,R
+   7,L,Z
+   1,R,J
+   6,R
+   2,R,J
+   1,R
+   5,R,D,X
+   1,R,J,G
+   8,R
+  40
+
+#lvl_02
+   1,R,K
+   2,R
+   8,R,J
+  10,R,X
+   1,R,K,G
+   8,R
+   2,R,K
+   4,R
+  41,R,K,G
+   1,R,J,G
+   1,L
+   6,R
+  14,R,Z
+   1,L,J
+  14,L,Z
+   1,R,J
+   6,R,D,X
+   1,R,J,G
+   5
+   7,R
+   3,R,D,J
+   5,R,D,X
+   1,R,J,G
+  11,R
+   9,R,J
+   4,R
+  15,R,D,X
+   1,R
+  32,R,J
+  14,R,U,X
+  10,R,J,G
+   7,R
+   2,R,J
+   7,R
+   2,R,J
+  40
+
+#lvl_03
+   4,R,J
+   7,R
+   6,R,J
+  21,D,X
+   6,R,D
+   1,D
+   5,R,D
+   1,R,J
+   1,R,K,G
+   1,R,J,G
+  16,R
+Repeat 11
+   2,G
+   2
+Endrepeat
+   1
+  11,D,J
+  14,R,X
+   4,R,J
+   1,R,K
+   7,K
+  24,L,U,X
+  14,R,U,C
+   4,J
+   3,L
+   4,R
+  52,L,D
+   3,L
+  18,L,U,X
+   4,L,J
+   4,Z
+   1,R,J
+   1,R,K,G
+   1,R,J,G
+   2,R
+  12,R,J,G
+  61,R
+  11,D,J
+  14,R,X
+   4,R,J
+  12,R,K,G
+  15,R,D,X
+  10,R
+   3,R,J
+   4,R
+  40
+
+#lvl_04
+   7,R
+   1,R,D,J
+   6,R
+   1,L
+   1,R,K,G
+  90,R
+
+
+
+   1,R,D,J
+   6,R
+   1,K,G
+   3

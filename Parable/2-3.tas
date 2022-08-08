@@ -1,4 +1,4 @@
-RecordCount: 424
+RecordCount: 429
 
 console load stanley/celeste-parable 2-0
    1
@@ -43,13 +43,13 @@ read 2-0a Start Kevin
    1,D,J
   34
   29,R,D
- 325,D
-  40,L,D
-   8,L
-  12
+ 313,D
+  53,L,D
+  27
    1,S,N
    1,D,J
   34
+#deathwarp
    1,S,N
    1,D,J
   65,O

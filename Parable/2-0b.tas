@@ -1,4 +1,4 @@
-RecordCount: 832
+RecordCount: 1266
 
 console load stanley/celeste-parable CF-0
    1
@@ -84,6 +84,7 @@ console load stanley/celeste-parable CF-0
   24,R
    1,R,J
   10,R,D,X
+***S
   40
 
 #lvl_CF-5
@@ -315,8 +316,6 @@ console load stanley/celeste-parable CF-0
    1,K
    1,R
    6,L
-#0:42.415(2495)
-
   10,L,X
   11,L,J
    2,L
@@ -411,5 +410,172 @@ console load stanley/celeste-parable CF-0
    1,L,J
   14,L,D,X
    1,L,J
+  10,L,D,X
+   1,L,J
+   7,L
+   6,L,J
+  24,L
+  15,D,X
+  23,R,D
+  14,R,Z
+   1,R,J
+  18,R,D,X
+   4,R
+  18,R,D,J
+  32,L,X
+   2,L,D
+   1,L
+   4,Z
+   1,L,J
+   2,L,K,G
+  11,L
+   5,D,J
+  15,L,U,X
+   9,R
+   6,R,Z
+   1,L,J
+   6,L
+  21,L,J
+  15,U,X
+  12,L,J,G
+  12,L,K,G
+  11,L,J,G
+   7,L
+   6,L,Z
+   1,L,J
+   7,L
+   1,L,J
   14,L,D,X
    1,L,J
+  14,L,D,X
+   1,L,J
+  14,L,D,X
+   1,L,J
+  12,L,D,X
+   1,L,J
+  10,L,D
+  76,D
+  11,R,D
+  14,L,X
+   8,J
+   2
+  24,R,U,X
+  13,R,J
+   2,L,J
+   1,J
+   1,K
+  14,U,X
+   1,J
+   1,K
+   7,R
+  10,R,X
+  10,R,J
+  15,U,X
+   1,R,J,G
+   3,J
+   7,R
+   4,Z
+   1,R,J
+   7,R
+   5,R,J
+  16,R,D,X
+   5,R
+   2
+  15,R,D,X
+   1,R
+  14,R,D
+  14,L,D
+  13,L,D,X
+   1,L,J
+   7,L
+   6,L,J
+  12,L,D,X
+  15,R,C
+   8,R,Z
+   1,R,J
+   7,R
+   1,R,J
+   2,R
+***
+  28,R,D,X
+  22,R,U,C
+  15,U,X
+  20,R
+***
+  14,D
+  11,L,D
+***
+   2
+   8,D
+   4,R,D
+***
+   2,R,D
+   8,L,D
+   6,D
+   1,G
+  14,L,J,G
+  15,L,D,X
+***
+  16,L
+  30,L,D
+   6,L,Z
+   1,L,J
+   7,L
+   1,L,J
+  14,L,D,X
+***
+   2,L,J
+   9,L
+  15,D,X
+***
+   6,L,D
+   1,L
+   1,L,J
+   1,L
+  15,D,X
+   2,L,D
+   5,R,D
+  34,R
+  20,R,D
+   8,L,D
+   1,L,J
+***
+  10,R,D,X
+   5,R,J
+  15,R,D,X
+   1,R,J
+  14,R
+***
+   1,R,J
+  14,R,D,X
+   1,R,J
+  14,R,D,X
+   1,R,J
+  14,R,D,X
+   1,R,J
+  13,R,D,X
+***
+   1,R,J
+  13,R
+   2
+***
+  10,R,Z
+   1,R,J
+   2
+   1,K
+   5
+***
+   9,L,Z
+   1,L,J
+   6,L
+   9,L,J
+***
+  19,U,Z
+  17,X
+   7,R,Z
+   1,R,J
+   6,R
+   1,R,J
+  14,R,D,X
+   1,R,J
+  14,R,D,X

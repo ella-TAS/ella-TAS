@@ -1,6 +1,7 @@
 **Start (CP0):**
   [No Intro Skip]
-    - Existential Crisis Ending (Celeste-Unique)
+    - Existential Crisis Ending
+	- Recording Ending
   [Skip or No Skip]
     - Coward Ending
 || Contains a Golden Berry

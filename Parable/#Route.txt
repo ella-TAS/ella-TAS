@@ -11,7 +11,8 @@ No * = not drafted
 + = in progress
 # = in master file
 
-*0-0 Existential Crisis Ending (1/33) --> Return to Map --> 0-1a.tas
+*0-0a: Existential Crisis Ending (1/33) --> Save & Quit --> 0-0b.tas
+*0-0b: Recording Ending (?/33) --> Restart --> 0-1a.tas
 *0-1a: Coward Ending (2/33) --> Save & Quit --> 0-1b.tas
 *0-1b: Unlock The 2 Doors (CP1) --> Lounge Ending (3/33)--> Unlock Storage Area (CP3) --> Take Archive Ending bubble until F-4 --> Theo Ending (4/33) --> 1-0.tas
 *1-0: Broom Closet Ending (5/33) --> Unlock The Fall (CP2) --> Museum Ending (6/33) --> 1-1.tas
