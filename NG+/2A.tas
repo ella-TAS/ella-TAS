@@ -1,4 +1,4 @@
-RecordCount: 2512
+RecordCount: 2930
 console load 2
    1
 console p_twodashes
@@ -8,24 +8,21 @@ console p_twodashes
  
 #lvl_start
    4,R,Z
-   2,R,J
-   8,R
    1,R,J
-   4,R,Z
+   1,R
+   4,R,J
+   5,R
+   5,R,D,X
    1,R,J
    2,R
-   1
   40
 
 #lvl_0 (0)
    4,R
-   7,R,D,J
+   7,R,J
   15,R,D,X
-   1,R,J
-   1,R,J
    4,R,J
-   1,R
-   1,R
+   3,J
    1,R,K,G
   13,R,U,Z
    1,L
@@ -39,8 +36,7 @@ console p_twodashes
 #lvl_1 (0)
    7,R,J
    4,R
-   2,L
-   5,L
+   7,L
   15,D,X
    2,R,D
    4,L,D
@@ -413,6 +409,7 @@ console p_twodashes
    2,R,J
   15,R,D,X
    6,R,J
+#0:47.821(2813)
   10,L,D,X
    1,L,J
    2,J
@@ -584,17 +581,18 @@ console p_twodashes
    5,L,Z
    1,R,J
    2,R
-   2,J
-   1
-   1,J
-   3
-   4,Z
+   2,R,J
+   1,R
    1,R,J
-   6,R
+   3,R
+   4,D,X
+   1,R,J
+   5,R
   40
  
 #lvl_end_1
-   7,R,J
+   1,R
+   6,R,J
   15,R,D,X
    2,R,J
    7,R
@@ -604,18 +602,16 @@ console p_twodashes
    3,R,J
    5,R,D,X
    1,R,J,G
-   5,R
-   1,R,J
-   6,R
-   1,R,J
-   2,R
+  11,R
+   4,R,J
   40
 
 #lvl_end_2
-   6,R,J
-   9,R,U,X
-   2,R,J,G
-   4,R
+   2,R,J
+   8,R
+   1,R,J
+   5,R,K,G
+   3,R
   15,R,D,X
    5,R,J
   40
@@ -624,41 +620,46 @@ console p_twodashes
    2,R,J
   15,R,D,X
   12,R,U,C
-   6,R,J,G
-   5
-   1,R,K
-   5,R,X
+   7,R,J,G
+   3,R
+   6,R,X
   40
 
 #lvl_end_4
-   9
-   2,R,J,G
-  20,R,D,X
-   4,R,J
-   5,R,D,X
-   7,R,J,G
+   8
+   3,R,J,G
+  15,R,D,X
+   6,R
+   2,R,J
+   5,R,K,G
+   2,R
   40
 
 #lvl_end_3b
-  14,R
+  10,R,J
+   3,R
    4,R,J
-  16,R
-   7,R,U,Z
+   5,R
+   1,R,J
+   9,R
+   2
+   6,R,U,Z
   40
 
 #lvl_end_5
-   7,R
+   7
+   1,L
    1,L,J,G
-   1,R
-  15,R,D,X
-   4,R,D
-   9,R,X
-   6,R,J,G
+   1,R,J
+  22,R,D,X
+   8,R,U,C
+   5,R,J,G
   40
 
 #lvl_end_6
+   2,R,J
   14,R,U,X
    1,S
    1,D,J
   18
-ChapterTime: 1:23.521(4913)
+ChapterTime: 1:23.487(4911)
