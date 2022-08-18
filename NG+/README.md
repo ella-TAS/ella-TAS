@@ -1,14 +1,3 @@
 # Contributors
-lnf  
-tong815  
-AAA1459  
-abiteofdata  
-amber  
-Cuberstache  
-EllaTAS  
-elmarhoppieland  
-exopta  
-magneta_III  
-pansear  
-redzes  
-sy
+Main TASers: lnf, tong815, redzes, amber, magneta_lll  
+Additional TASers: exopta, sy, Cuberstache, pansear, elmarhoppieland, abiteofdata, Ella, AAA1459, maingame TASers for Prologue and 7A
