@@ -1,4 +1,4 @@
-RecordCount: 1266
+RecordCount: 1269
 
 console load stanley/celeste-parable CF-0
    1
@@ -579,3 +579,8 @@ console load stanley/celeste-parable CF-0
   14,R,D,X
    1,R,J
   14,R,D,X
+   1,R,J
+   7,R
+***
+  12,R,J
+  90,R,U,X

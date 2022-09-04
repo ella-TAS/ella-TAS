@@ -1,4 +1,4 @@
-RecordCount: 429
+RecordCount: 573
 
 console load stanley/celeste-parable 2-0
    1
@@ -61,68 +61,67 @@ read 2-0a Start Kevin
    1,R,J,G
    1,L
    6,R
-   4,Z
+  14,R,Z
+   1,L,J
+  14,L,Z
    1,R,J
-   7,R
-  17,R,J
-   4,R,K,G
-  14,R,D,X
+   6,R,D,X
+   1,R,J,G
+  12,R
    1,R,J
-   7,R
-   1,R,J
-  14,R,D,X
-   1,R,J
-  16,R,D,X
+  13,R,U,X
+   2,R,J,G
+  11,R
    7,R,J
   20,R,D,X
-   1,R,J
-   7,R,D,X
-   1,S,N
-   1,D,J
-  34
-   1,R,J
-  14,R
-   1,R,J
-  14,R
-   1,R,J
-  14,R
-   1,R,J
-  14,R
-   1,R,J
-   2,R
-  18,R,U,X
-  24,R,D
-  21,U,X
-   1,R,J
-   5,R
-  13,R,D,X
-   1,R,J
-   1,R
-  14,R,D,X
-   1,R,J
-  14,R,D,X
-   1,R,J
-  14,R,D,X
-   1,R,J
-  10,R,D,X
-  40
-
-#lvl_2-7
-#Freedom Ending
-   4,R
-   1,R,J
-  12,R,D,X
-   1,R,J
-   2,R
-  14,R,D,X
+   5,R,J
+   2,J
+  20,R,D,X
    1,R,J
    6,R,D,X
    1,S,N
    1,D,J
   34
-   4,R
-  10,R,J
-  30,R,U,X
-  29
+   1,R,J
+  14,R
+   1,R,J
+  14,R
+   1,R,J
+  14,R
+   1,R,J
+  13,R,U,X
+  31,R,D
+  21,U,X
+   1,R,J
+   5,R
+  13,R,D,X
+   2,R,J
+  14,R,D,X
+   1,R,J
+  10,R,D,X
+   1,R,J
+   7,R
+   1,R,J
+  14,R,D,X
+   1,R,J
+   8,R,D,X
+  40
 
-#0:57.919(3407)
+#lvl_2-7
+#Freedom Ending
+   6,R
+   1,R,J
+  14,R,D,X
+   1,R,J
+  14,R,D,X
+   1,R,J
+   7,R,D,X
+   1,S,N
+   1,D,J
+  34
+   3,R
+   8,R,J
+  15,R,U,X
+  43,R,D
+
+#0:58.021(3413)
