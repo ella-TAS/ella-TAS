@@ -1,0 +1,28 @@
+RecordCount: 86
+
+console, load, AnarchyCollab2022/billy bobby joey/AnarchyCollabTetris
+   1
+
+#Start
+#lvl_a-1
+ 190
+   6,L,D,X
+   1,R,J
+   5,R
+   2,R,K
+   2,R,J
+  15,R,D,X
+   2,R,J
+  17,R,D,X
+   1,R,D,J
+   3,R,K,G
+   5,R,J,G
+  40
+
+#lvl_a-2
+  17,R,J
+   3,R,K,G
+  12,R,J,G
+  14,U,X
+  17,L,J
+  40
