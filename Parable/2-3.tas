@@ -1,4 +1,4 @@
-RecordCount: 573
+RecordCount: 634
 
 console load stanley/celeste-parable 2-0
    1
@@ -55,7 +55,7 @@ read 2-0a Start Kevin
   65,O
    1,S,N
    1,D,J
-  34
+  34,G
    1,R,J
   13,R,U,X
    1,R,J,G

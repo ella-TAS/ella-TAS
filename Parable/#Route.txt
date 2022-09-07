@@ -9,41 +9,42 @@ First number is the checkpoint the file starts from, second number is the file's
 * = drafted
 No * = not drafted
 + = in progress
-# = in master file
+^ = in master file
 
-*0-0a: Existential Crisis Ending (1/33) --> Save & Quit --> 0-0b.tas
-*0-0b: Recording Ending (?/33) --> Restart --> 0-1a.tas
-*0-1a: Coward Ending (2/33) --> Save & Quit --> 0-1b.tas
-*0-1b: Unlock The 2 Doors (CP1) --> Lounge Ending (3/33)--> Unlock Storage Area (CP3) --> Take Archive Ending bubble until F-4 --> Theo Ending (4/33) --> 1-0.tas
-*1-0: Broom Closet Ending (5/33) --> Unlock The Fall (CP2) --> Museum Ending (6/33) --> 1-1.tas
-*1-1: Elevator Ending (7/33) --> Unlock Green Screens (CP5) --> Death by Lava Ending (8/33) --> 2-0.tas
-*1-2: Escape Pod Ending (9/33) --> Heart Collect --> 2-0a.tas
+*0-0a: Existential Crisis Ending --> Save & Quit --> 0-0b.tas
+*0-0b: Recording Ending --> Restart --> 0-1a.tas
+*0-1a: Coward Ending --> Save & Quit --> 0-1b.tas
+*0-1b: Unlock The 2 Doors (CP1) --> Lounge Ending --> Unlock Storage Area (CP3) --> Take Archive Ending bubble until F-4 --> Theo Ending --> 1-0.tas
+
+*1-0: Broom Closet Ending  --> Elevator Ending --> Unlock Green Screens (CP5) --> Death by Lava Ending --> 1-1.tas
+*1-1: Escape Pod Ending --> Heart Collect --> 2-0a.tas
 
 *2-0a: Go above the Mind Control Facility to get teleported to CF-0 --> Save & Quit --> 2-0b.tas
-+2-0b: Unlock An adventure (CP4) --> Whiteboard Ending (10/33) --> Confusion Ending (11/33) --> 2-1.tas
-*2-1a: Adventure Line Ending (12/33) --> 2-1b.tas
-#2-1b: Bottom of the Mind Control Facility Ending (13/33) --> 2-2.tas
-*2-2: No Free Will Ending (14/33) --> 2-3.tas
-*2-3: BotMCRotMCF Ending (15/33) --> Freedom Ending (16/33) --> 2-4.tas
-*2-4: Countdown Ending (17/33) --> 2-5.tas
-2-5: Broken Elevator Ending (18/33) --> 3-0.tas
++2-0b: Unlock An adventure (CP4) --> Whiteboard Ending --> Confusion Ending --> 2-1.tas
+*2-1a: Adventure Line Ending --> 2-1b.tas
+^2-1b: Bottom of the Mind Control Facility Ending --> 2-2.tas
+*2-2: No Free Will Ending --> 2-3.tas
+*2-3: BotMCRotMCF Ending --> Freedom Ending --> 2-4.tas
+*2-4: Countdown Ending --> 2-5.tas
+2-5: Broken Elevator Ending --> 3-0.tas
 
-*3-0: Collectables Ending (19/33) --> Archive Ending (20/33) --> 3-1.tas
-3-1: Apartment Ending (21/33) --> 3-2.tas
-*3-2: Too Lazy to Add Ending (22/33) --> 3-3.tas
-*3-3: Zending [Happiness Subending] (23/33) --> 3-4.tas
-3-4: Choice Ending (24/33) --> 3-5.tas
-3-5: MB #1 --> Games Ending (25/33) --> 3-6.tas
-3-6: Unlock A quick Demonstration (CP6) --> MB #2 --> Demo Ending (26/33) --> 3-7.tas
-+3-7: Unlock Classic Edition (CP7) --> Trap Ending (27/33) --> 5-0.tas
+*3-0: Collectables Ending --> Archive Ending --> 3-1.tas
+*3-1: Unlock The Fall (CP2) --> Museum Ending --> 3-2.tas
+*3-2: Too Lazy to Add Ending --> 3-3.tas
+*3-3: Zending [Happiness Subending] --> 3-4.tas
+3-4: Choice Ending --> 3-5.tas
+3-5: Games Ending --> 3-6.tas
+3-6: Unlock A quick Demonstration (CP6) --> Demo Ending --> 3-7.tas
+3-7: Apartment Ending --> 3-8.tas
++3-8: Unlock Classic Edition (CP7) --> Trap Ending --> 5-0.tas
 
-*5-0: Escape Ending (28/33) --> 7-0.tas
+*5-0: Escape Ending --> 7-0.tas
 
-7-0: Classic Freedom Ending (29/33) --> 7-1.tas
-7-1: MB #3 --> Classic Countdown Ending (30/33) --> 7-2.tas
-7-2: Classic Theo Ending (31/33) --> 7-3.tas
-7-3: Classic Apartment Ending (32/33) --> 7-4.tas
-7-4: Classic Games Ending (33/33) --> Epilogue.tas
+7-0: Classic Freedom Ending --> 7-1.tas
+7-1: Classic Countdown Ending --> 7-2.tas
+7-2: Classic Theo Ending --> 7-3.tas
+7-3: Classic Apartment Ending --> 7-4.tas
+7-4: Classic Games Ending --> Epilogue.tas
 
 Epilogue
 

@@ -13,8 +13,19 @@ read RTM
   46
 
 read 1-0 Start
+read RTM
+   1,R
+   1,F,90
+   1,J
+  46
+
+read 3-0 Start
 read Restart
-read 1-1 Start
+read 3-1 Start
+read Restart
+read 3-2 Start
+read Restart
+read 3-3 Start
 read RTM
    1,R
    1,F,90
@@ -44,18 +55,6 @@ read 2-4 Start
    1,R
    1,F,90
    1,R
-   1,J
-  46
-
-read 3-0 Start
-read Restart
-read 3-2 Start
-read Restart
-read 3-3 Start
-read RTM
-   1,R
-   1,F,90
-   1,R
    1,F,90
    1,R
    1,J
@@ -63,5 +62,8 @@ read RTM
 
 read 5-0 Start
 read RTM
+   1,R
+   1,J
+  46
 
-read 1-2 Start
+read 1-1 Start
