@@ -1,0 +1,147 @@
+RecordCount: 267
+
+console load stanley/celeste-parable 2-0
+   1
+
+#Start
+#The Fall
+#lvl_2-0
+  36
+***S
+  10,R,Z
+  42,L,J
+***
+  29,L,U,X
+   1,L,J
+   4,Z
+***
+   4,L,J
+   1,J
+   1,L,K,G
+   4,K
+   2
+  40
+
+#lvl_G-0
+   1
+  16,L,D,X
+   5,L,D,C
+   1,S,N
+   1,D,J
+  34
+   2,L,J
+   8,L
+  10,L,J
+   7,L,K,G
+  15,J
+  18,U,X
+***
+   9,R,J
+   4,L,J
+   1,J
+  40
+
+#lvl_G-1
+***
+   6,L,J
+   5,L
+  11,L,Z
+   3,R,J
+   3,R
+   7,R,D,X
+   4,R,J,G
+   6,R
+   1,R,K
+   2,R
+   1,R,J
+   5,R,D,X
+   1,S,N
+   1,D,J
+  34
+   2,R,J
+   1,R,K,G
+  11,R
+  10,R,J
+   5,R
+   4,R,K
+  14,R,X
+   8,R,J,G
+   1,R,K,G
+  20,R,J,G
+   9,K,G
+   2,L,K
+  13,L,J
+   3,R,J
+   1,K,G
+  10,R,K
+   1,L,K
+   4,R,J,G
+  40
+
+#lvl_G-2
+***
+   7,R
+   4
+  12,R,Z
+   1,R,J
+   2,R
+  13,R,D,X
+   2,R,J
+   6,R,D,X
+   1,S,N
+   1,D,J
+  34
+***
+   1,R
+   1,R,J
+   1,R
+   1,R,K,G
+  10,R
+   1
+   1,R,J
+  14,R
+   3,R,J
+   3,R,K,G
+   5,R
+   2,R,K
+   2,R
+   2,R,J
+   7,R
+  15,R,J
+  40
+
+#lvl_G-3
+   4,R,J
+  14,R,U,X
+  90,R,J,G
+
+
+
+
+   3,R,K,G
+   5,R
+   1,R,K
+   3,R
+   1,R,J
+   3,R
+   5,R,D,X
+   1,R,J,G
+  11,R
+   4,R,J
+   4,R,K,G
+  40
+
+#lvl_G-3
+   1,R,J
+  90,R,U,X
+
+
+
+
+   1,R,J
+   2,R,K,G
+   1
+   8,R
+   2,R,K
+#0:06.596(388)
+#504.8
