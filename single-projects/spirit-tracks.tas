@@ -1,0 +1,932 @@
+RecordCount: 2217
+
+console load lagtrain/aurora_aquir/lagtrain
+   1
+
+#Start
+#lvl_startr
+ 190
+   5,R,Z
+   1,R,J
+  12,R
+   1,R,J
+  14,R,D,X
+   1,R,J
+  14,R,D,X
+   1,L,J
+  15,L,D,X
+   1,N
+
+#lvl_start
+   7,L,Z
+   1,L,J
+   7,L
+   1,L,J
+  14,L,D,X
+   1,L,J
+   9,L,U,Z
+  40
+
+#lvl_-1
+   2,R
+   1,K
+  12,J,G
+   3,R,J
+   5,L,Z
+   1,L,J
+   2,L
+  23,D
+   1,N
+
+#lvl_-1r
+  10,R,C
+  13,R,J
+  11,R,K,G
+  13,R,Z
+   1,L,J
+  11
+  15,L,D,X
+   8,R,D
+   1,N
+
+#lvl_-1
+   1,R,D,J
+   2,J
+   2,R,J
+   7,R
+   7,R,J
+   5,J
+  14,R,Z
+   1,R,J
+  17,R,D,X
+  40
+
+#lvl_start
+   1,R,D
+   1,R,J
+  14,R
+   1,R,J
+  14,R,D,X
+   1,R,J
+  14,R,D,X
+   1,R,J
+  13,R,D,X
+  40
+
+#lvl_living1
+   1,R
+   1,R,J
+  14,R,D,X
+   1,R,J
+   1
+   6,R
+  10,R,J
+   4,R
+  14,R,D,X
+   1,R,J
+  14,R,D,X
+   1,R,J
+   5,R,D,X
+  40
+
+#lvl_living2
+   9,R
+   1,R,J
+  14,R,D,X
+   1,R,J
+  13,R,D,X
+   1,R,J
+   7,R
+   1,N
+
+#lvl_living2r
+  35
+  14,R,Z
+   1,L,J
+   7,L
+   1,N
+
+#lvl_living2
+  35
+   4,R,Z
+   2,R,J
+   8,R
+   1,R,J
+   6,R,D,X
+  40
+
+#lvl_arc
+   2,R
+   1,S,N
+   1,D,J
+  34
+  11,R
+   1,N
+
+#lvl_arcade1
+  75
+  10,L,X
+  11,R,J
+   9,R
+  14,R,U,X
+   6
+  14,R,V
+   1,L,J
+  12,R,Z
+  11,R,J
+   9,R
+  18,R,U,X
+  18,R,Z
+  15,R,X
+  19,R,D
+   1,D
+   1,R,D
+   1,D
+   1,R,D
+   4,L,D
+   5,L
+   3
+   4,Z
+   1,R,J
+   4,R
+   8,R,J
+  40
+
+#lvl_arcade2
+   2,R
+  15,R,D,X
+  11,R,J
+   5,R
+   8,R,K
+  24,R,D
+  21,R,X
+   2,J,G
+   6
+   1,L
+   4,L,J
+  14,U,X
+   1,R
+   1,J,G
+   6,R,J
+   1,L,J
+   1,R,K,G
+   4,R,J,G
+   1,R,K,G
+   1,R,J,G
+   2,R
+   1
+   4,R
+   6,R,Z
+   1,R,J
+   5,R
+   1,R,K
+  40
+
+#lvl_arcade3
+   1,R,K
+  27,R,D,J
+  18,U,X
+  16,R,C
+   5,R,U,X
+  18,L
+   5
+  11,L,D,X
+   1,R,J
+   6,R
+   1,R,K
+  12,R
+   1,R,J,G
+  10,R
+   2
+  22,R,D
+   1,R,J,G
+   5,R
+   2,R,K
+   5,R
+  27,R,Z
+   8,R,V
+   1,R,J
+   4,R
+  40
+
+#lvl_arcade4
+   2,R
+   1,R,J
+   7,R,D,X
+   1,R,J
+   5,R
+   2,R,K
+   8,R,J
+  14,R,U,X
+   8
+
+#lvl_arc
+   1,N
+
+#lvl_feather1
+  75
+   8,R,U,X
+  26
+   1,R,U
+  82,F,75.5
+   2,F,50
+  40
+
+#lvl_feather2
+  31,F,52.904
+   1,F,55.3
+   6,F,86.458
+  11,F,146
+  19,F,177.042
+   1,F,175.326
+  11,F,115
+  24,F,88.884
+  23,F,84.009
+   1,F,81.452
+  11,F,21
+  11,F,321
+  19,F,302.945
+   1,F,306.371
+  11,F,6
+  11,F,66
+  35,F,98
+  40
+
+#lvl_feather3
+   1,F,90
+  26,F,91.37
+   1,F,93.621
+  11,F,154
+  12,F,179.134
+   1,F,179.267
+   5,F,194.272
+   5,F,194.146
+   1,F,192.812
+  11,F,133
+  11,F,73
+  55,F,73.646
+  11,F,14
+  22,F,359.587
+   2,F,358.25
+   1,F,0.485
+  16,F,49.427
+   1,F,51.059
+   5,F,65
+   5,R,D,X
+  40
+
+#lvl_feather4
+   8,R
+   1,R,J
+   1,R
+   6,R,D,X
+   1,S,N
+   1,D,J
+  34,J
+   7,R,J
+   7,R
+   1,R,K
+   1,R,J
+   1,R,K
+   1,R,J
+   1,R,K
+  21,R,J
+
+#lvl_arc
+   1,N
+
+#lvl_laser1
+  75
+   4,Z
+   1,R,J
+   8,R
+   1,N
+
+#lvl_laser2
+  35
+   3,L,J
+   8,J
+   2
+  12,R,D,X
+   2,R,J
+   8,R
+   1,R,J
+  15,U,X
+  12
+  23,L,D
+   4,Z
+   1,L,J
+  17,L
+  15,D,X
+  12,J
+  14,L,X
+  11,L,J
+   1
+   4,K,G
+  13
+  14,L,D,X
+   5,R,J
+  32,R,D,X
+   4,Z
+   1,L,J
+   7
+  21,R,D,J
+  15,U,X
+  42,R,D
+   1,J
+   4,X
+  12,L,J
+  22,L
+  19
+  14,L,Z
+   1,R,J
+  14,R,D,X
+   1,R,J
+
+#lvl_laser1
+  14,R,D,X
+   1,R,J
+  12,R,D,X
+   1,R,J
+   7,R
+   1,N
+
+#lvl_laser4
+  35
+  13,J
+  15,R,D,X
+  31,R,J
+   6,G
+  14,L,D,X
+   1,L,J
+  14,L,D,X
+   1,R,J
+   2
+  25,D,X
+   4,Z
+   1,L,J
+   2,L
+   2,L,K
+   1,L,K,G
+   9
+  21,J
+  15,G
+   1,R,J
+  20,R,K
+  15,R,U,Z
+  31,D
+   7,R,Z
+   1,L,J
+   5,L
+   2,L,K
+   1,L,J
+   1,L,K,G
+  20,L
+   1,R
+   4,Z
+   1,R,J
+   5,R,K,G
+  33,R
+  12,J
+  12,K,G
+  20,J,G
+  20,L,D
+  14,L,D,X
+   1,L,J
+   3,L
+   1,L,K
+   3,L
+   3,L,J
+   6,L,K,G
+  30,U,X
+  22,R,D
+   4,X
+   5,R,J
+  27,R
+   6,L,Z
+   1,L,J
+   7,L
+   1,L,J
+   4,Z
+   7,L,J
+   1,L
+   1,L,K
+   2,L
+   8,L,Z
+   1,R,J
+   6,R
+   1,R,J
+   9,R,D,X
+
+#lvl_laser1
+   5,R
+   1,R,J
+  16,R,D,X
+   1,N
+
+#lvl_laser3
+  35
+  15,U,X
+  35,L,D
+   4,Z
+   1,L,J
+  10,L
+   6,R,Z
+   1,R,J
+   7,R
+   1,R,J
+  14,R,D,X
+   1,R,J
+  20,R,D,X
+  12,J
+  12,K,G
+  12,J,G
+   6,K,G
+   5
+  24,L,D
+  14,L,D,X
+  17,L,J
+  15,U,X
+   8,L,J,G
+  30
+   2,R,J
+  62,R,D,X
+   9,R,J
+  11,L,J
+  15,U,X
+  20,D
+  22,L,D
+  11,L,J
+  15,U,X
+  29,L
+   4,L
+  22,G
+  16,L,D
+   4,Z
+   1,R,J
+
+#lvl_laser1
+   5,R
+   1,R,J
+   4,R
+  10,R,D,X
+   1,R,J
+   4,R
+   1,R,K
+   3,R
+   7,R,Z
+   1,R,J
+   6,R
+   1,R,J
+  15,R,D,X
+   1,R,D,J
+   4,R,K
+  40
+
+#lvl_laser5
+  12,R,K
+  26,R,U,X
+
+#lvl_arc
+   6,R,Z
+   1,R,J
+   7,R
+   1,R,J
+  14,R,D,X
+   1,R,J
+   9,R,D,X
+  40
+
+#lvl_dining
+   2,R
+   1,S,N
+   1,D,J
+  34
+   3,R,J
+   7,R
+  12,R,J
+  17,R,D,X
+   1,R,J
+   7,R
+  18,R,J
+  15,R,D,X
+   3,R
+   1,R,J
+   9,R,U,Z
+  40
+
+#lvl_kitchen
+   2,R
+   6,R,K
+  14,U,Z
+   1,J
+   1,R,K,G
+   8,R
+   2,L,J
+   5,R,Z
+   4,R,J,G
+   3,R
+   2,R,J
+   3,R
+   2,R,J
+   3,R
+   2,R,J
+   3,R
+   2,R,J
+   1
+  15,D,X
+  14,R,D
+   6,R,Z
+   1,R,J
+   7,R
+   1,R,J
+  14,R,D,X
+   1,R,J
+   7,R,D,X
+  40
+
+#lvl_living3
+   7,R
+   1,R,J
+  14,R,D,X
+   1,R,J
+  14,R,D,X
+   1,R,J
+  14,R,D,X
+   1,R,J
+  12,R,D,X
+  40
+
+#lvl_living4
+   2,R
+   1,R,J
+  14,R,D,X
+   1,R,J
+  14,R,D,X
+   1,R,J
+  14,R,D,X
+   1,R,J
+  14,R,D,X
+   1,R,J
+   6,R,D,X
+  40
+
+#lvl_storage
+   8,R
+   2,R,J
+  14,R,D,X
+   2,R,J
+  14,R,D,X
+   1,R,J
+   3,R
+  14,R,D,X
+   1,R,J
+   8,R,U,Z
+  40
+
+#lvl_machine
+   3,R
+   1,L,J,G
+  16,R,J
+  20,R,U,X
+   1,N
+
+#lvl_cat_game1
+  77
+   4,Z
+   6,R,J
+  11,R
+   1,N
+ 130
+   1,J
+  13,L,J
+  17,U,X
+   1,R
+   2,J,G
+   1,L
+   1,R,K,G
+   5,R,J,G
+   2,R
+   1,R,K,G
+   1,R,J,G
+   6,R
+   4
+   1,N
+ 129
+   5,L,J
+   2,L
+  14,L,U,X
+   4,L,J,G
+   7,L
+   2,R,J
+   1,J
+  15,U,X
+  29,L,J
+   1,K,G
+   1,R,K
+   1,L,J,G
+   6,L,K,G
+   1,L,J,G
+   7,L,K,G
+   3,L
+   3
+   1,N
+ 129
+   3,R
+   4,R,J
+   4,R
+  14,L,D
+   7,L,Z
+   9,L,J
+  12,L
+   5,R
+   1,D
+   1,N
+ 131
+   4,Z
+   1,R,J
+   7,R
+   6,R,J
+   5
+  27,R,D
+   5,D
+   1,N
+ 129
+  14,R,Z
+  18,R,J
+  15,U,Z
+   1,L
+   1,J,G
+   1,R,J
+   1,L,K,G
+   1,L,J,G
+   1,R,J
+   7,L,J
+   1,L,K,G
+   1,L,J,G
+  19,L
+   1,N
+ 130
+   2,R,J
+   5,J
+   1
+  14,R,U,C
+   1,R,J,G
+   9,R
+   4,Z
+   1,R,J
+  15,R
+   1,N
+ 130
+   4,Z
+   6,R,J
+  11,R
+  15,D,X
+  12,L,D
+  19,D
+   1,N
+ 129
+  14,L,Z
+   1,L,J
+   7,L
+   1,L,J
+  24,L,D,X
+   6,D
+   7
+   1,N
+ 130
+   1,L,J
+   1,J
+  15,U,C
+   1,J,G
+   5,L,J
+   1,L,K,G
+   2,L,J,G
+   6,L
+   5
+   1,N
+ 129
+  10,L,Z
+   5,R,J
+  23,R,D,X
+   4,D
+   1,R,J
+  14,R,D,X
+   1,R,J
+  15,R,D,X
+   1,N
+ 130
+   5,L
+   1,L,J
+   8,L
+   2,L,J
+   5,L
+  14,L,Z
+   1,R,J
+   6,R
+   1,R,J
+  15,R,D,X
+   1,R,D,J
+   1,R,K
+   1,R
+  40
+
+#lvl_cat_game2
+   1,R
+  17,R,K
+  11,R,X
+   9,R,J,G
+  12,K,G
+  12,R,J,G
+   9,R,K,G
+  12,L,K
+
+#lvl_machine
+   1,N
+   1,S,N
+   1,D,J
+  34
+   6,L,Z
+   1,L,J
+   7,L
+   1,L,J
+  14,L,D,X
+   1,L,J
+  14,L,D,X
+   1,L,J
+  14,L,D,X
+   1,L,J
+   9,L,U,Z
+  40
+
+#lvl_storage
+   2,R
+   1,K
+   6,J,G
+   2,L,J
+   5,L
+  15,L,D,X
+   4,Z
+   1,L,J
+  13,L
+   1,L,J
+  14,L,D,X
+   1,L,J
+  14,L,D,X
+   1,L,J
+   9,L,D,X
+  40
+
+#lvl_living4
+   5,L
+   1,L,J
+  14,L,D,X
+   1,L,J
+  14,L,D,X
+   1,L,J
+  15,L,D,X
+   1,N
+
+#lvl_living4r
+  35
+   4,Z
+   1,R,J
+  10,R
+
+#lvl_living4f
+  18,U,X
+  11,L,G
+   2,L,J,G
+   5,L
+  10
+  10,L,Z
+  11,R,J
+  18,R
+   2,L
+  25,L,D
+   4,X
+   4,L,D,X
+  40
+
+#lvl_living4fb
+  13,L,D
+  17,L,X
+  13,G
+  33,L,D,G
+  21,L,U,G
+   1,R
+   6,L
+  16,L,U,Z
+  26,U,X
+
+#lvl_living4r
+   1,N
+
+#lvl_living4
+  35
+   6,L,Z
+   1,L,J
+   7,L
+   1,L,J
+   5,L,D,X
+  40
+
+#lvl_living3
+   9,L
+   1,L,J
+  14,L,D,X
+   1,L,J
+  14,L,D,X
+   1,L,J
+  14,L,D,X
+   1,L,J
+  10,L,D,X
+  40
+
+#lvl_kitchen
+   4,L
+   1,L,J
+   6,L,D,X
+   1,L,J
+   7,L
+  11,L,D,J
+   1,R,K,G
+  10,L,K
+   1,L,J,G
+   1,K
+   2,J,G
+  10,R,J
+  10,K
+   2
+   5,L,Z
+   1,R,J,G
+   1,L,J
+   1,J
+   2,L,J
+   3,L
+Repeat 5
+   2,L,J
+   3,L
+Endrepeat
+   2,L,J
+   2,L
+  40
+
+#lvl_dining
+   1,L
+Repeat 15
+   2,L,J
+   3,L
+Endrepeat
+   2,L,J
+   2,L
+  40
+
+#lvl_arc
+   1,L
+Repeat 6
+   2,L,J
+   3,L
+Endrepeat
+   1,L,J
+  40
+
+#lvl_living2
+   1,L,J
+   3,L
+Repeat 4
+   2,L,J
+   3,L
+Endrepeat
+   4,L,J
+  40
+
+#lvl_living1
+   1,L,J
+   4,L
+Repeat 4
+   2,L,J
+   3,L
+Endrepeat
+   1,L,J
+  40
+
+#lvl_start
+   1,L,J
+   3,L
+   2,L,J
+   3,L
+  24
+   1,J
+   1,S,N
+   1,D,J
+  69,O
+   1,N
+
+#lvl_startr
+   4,Z
+   1,R,J
+   7,L
+   1,N
+
+ChapterTime: 2:23.905(8465)
