@@ -1,0 +1,269 @@
+RecordCount: 835
+console load DashlessCollab/1-lobby/09_gnommisEG
+   1
+
+#Start
+  86
+   1,R
+   1,R,J
+  14,R
+  56,R,J
+  22
+  50,R
+  20
+  54,L,J
+  10,L
+  49
+  40,R,J
+  36,R
+  40,R,J
+  47
+  15,R
+  40
+
+#lvl_Cave-02
+   6,R
+   1,R,J,G
+  10,R,K,G
+  50,R
+  10,R,J
+   1,R,K
+  14,R
+   2,R,J
+   6,R
+   2,R,J
+   1,R
+   1,R,J
+   1,R,J
+   5,R
+   1,R,J
+   2,R
+   1,R,J
+  14,R
+   1,R,J
+  64,R
+   1,R,J
+
+  73,R
+   1,R,J
+  16,R
+  41,R,J
+  45,R,D
+   1,R,J
+  17,R
+  40
+
+#lvl_Cave-03
+   1,R
+   1,R,J
+  25,R
+  12,R,J
+  13
+  60,R
+  17
+   3,D
+  34,R,D
+  42,R
+   8
+  34,R
+  40
+
+#lvl_Cave-04
+  13,R
+  28,R,J
+  24,R,J
+  34,R
+  23,R,D
+ 123,R
+   9,L
+   1,L,J
+  15,L
+  10,D
+ 125,L,D
+   5,L,J
+  14,L
+   1,L,J
+  45,J
+  55,R
+   6,R,J
+   7,R
+  22,L
+   8,R
+  48,D,J
+  27,R,D,J
+  61,R
+  40
+
+#lvl_Surface-01
+  30
+   5,R
+  11,R,J
+  10,R
+   4,R,J
+   6,R
+   2,R,J
+   8,R
+   1,R,J
+  14,R
+   3,R,J
+   ,R
+  40
+
+#lvl_Surface-02
+   2,R,J
+  14,R
+   1,R,J
+  15,R
+   9,R,J
+  13,R
+  10,R,J
+   9,R
+   1,R,J
+   4,R
+   1,R,J
+  26,R
+  28,R,J
+  33,R
+  30,L
+  60,D
+  70,L,D
+repeat 7
+   1
+   1,D
+endrepeat
+   1
+  16,L
+  26,L,J
+   7,K
+  46,D
+ 126,R,J
+  12,R
+   1,R,J
+  14,R
+   1,R,J
+   6,R
+  40
+
+#lvl_Surface-03
+   8,R
+   1,R,J
+  18,R
+  22,R,J
+  20,R,D
+  10,R
+  48
+  45,L
+  30
+  42,R
+  43
+  40
+
+#lvl_Surface-04
+  26,L
+   2,L,J
+   7,L
+   2,L,J
+   7,L,K
+   6
+   1,J
+   1
+   7,J
+   6,R
+   1,J
+   1,R
+   1,R,J
+   6,J
+   6,L
+   1,L,J
+   1,L
+   5,R,J
+   1,J
+   2,R,J
+  11,R
+   1,R,J
+  24,R
+  66,R,J
+  52,R
+  20,L
+  10
+   6,L,J
+   7,L
+   1,L,J
+  18,L
+  23,L,J
+  88,R,D
+  10,D
+  61,R,J
+  50,R
+  58,R
+  21,L,J
+  37,D
+ 110,R,J
+  40,R
+   2,R,J
+   5,R
+   1,R,J
+   5,R
+  10,R,J
+   7,R
+   7,L,J
+   5
+   2,R,J
+   1,R
+   3,R,J
+   4,J
+   5
+   2,J
+   1
+   6,L,J
+   7,L
+  55,L,J
+  40
+
+#lvl_Surface-05
+  11
+
+  61,R
+   1,R,J
+  31,R
+  39
+  15,R
+  46
+  61,L,J
+  16
+   2,L
+   1
+  47,L,J
+   5,L
+
+  27
+  81,R,J
+  74,R
+
+  43,L
+  13
+   1,L,J
+  30,L
+  44
+   
+  20,J
+  47
+  40
+
+#lvl_Surface-06final
+  28,R
+  11
+   1,J
+  10
+   5,L
+   3
+   1,L,J
+   6,J
+   1,L,J
+   2,J
+   5
+  13,L
+  14,L,J
+ 135
+
+ChapterTime: 1:25.085(5005)
