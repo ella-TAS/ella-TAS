@@ -1,7 +1,7 @@
 # SecretSanta2022
 # https://gamebanana.com/mods/361029
 
-RecordCount: 2572
+RecordCount: 2615
 
 console load SecretSanta2022/1-Main/zucchini
    1
@@ -881,25 +881,25 @@ endrepeat
    1,L,J,G
    1,L,K,G
    1,L,J,G
-   1,L,K,G
-  10,L
+   7,L,K,G
    1,L
   15,L,D,X
-  33,L,D,C
+  36,L,D,C
    9,L,U,X
    3,L,J,G
   16,L
-   3,L,J
-   2,L,K,G
+   2,L,J
+   3,L,K,G
    9,L,D,X
   40
 
 #lvl_ABuffZucchini_12
-   1,L,J
    5,L
-  15,L,D,X
-   3
-  48,L,D
+   1,L,J
+  34,L,D,X
+  30,R,D
  139,L,U,X
 
-ChapterTime: 2:13.603(7859)
+ChapterTime: 2:13.552(7856)
+
+
