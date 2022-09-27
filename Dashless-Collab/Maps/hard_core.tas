@@ -1,20 +1,25 @@
-RecordCount: 1788
+RecordCount: 1925
 
 #Start
 console load DashlessCollab/1-lobby/16_janHC 56.400157928467 152
   37
 #1
-   2,R,J
-  15,R
-   2,R,J
-  15,R
-   2,R,J
-  16,R
+   5,R
    1,R,J
-  11,R,G
+  14,R
+   1,R,J
+  14,R
+   1,R,J
+  14,R
+   9,R
+   2
+   2,R
+   1
+   1,R
+   1,R,K,G
    1,R,J,G
    1,R,K,G
-  14,R
+  11,R
    1,R,J
   14,R
    1,R,J
@@ -22,25 +27,21 @@ console load DashlessCollab/1-lobby/16_janHC 56.400157928467 152
    1,R,J
   14,R
    1,R,J
-  14,R
-   1,R,J
-   8,R
+  12,R
   40
 #2
-   6,R
+   2,R
    1,R,J
   14,R
    1,R,J
   14,R
-   1,L
-   1,R,J
-   3,R,G
+   4,R
+   3
+   3,R
+   1,R,K,G
    1,R,J,G
    1,R,K,G
-   1,R,J
-  15,R
-   1,R,J
-  14,R
+  11,R
    1,R,J
   14,R
    1,R,J
@@ -48,29 +49,41 @@ console load DashlessCollab/1-lobby/16_janHC 56.400157928467 152
    1,R,J
   14,R
    1,R,J
-  19,R,G
-   1,R,J,G
+   9,R,G
+   2
+   3,R,G
+   1
+   2,R,G
+   1
+   1
+   1,R
+   2,R,G
    1,R,K,G
-  10,R,G
    1,R,J,G
    2,R,K,G
-  13,R
-   2,R,J
+   1
+   7,R,G
+   1,R,J,G
+  11,R
+   1,R,J
    5,R
-  15,R,K
+  14,R,K
 #platforming starts
   26,R,J
   13,L,K
   12,L,J,G
-  20,R,K,G
+  19,R,K,G
    5,R
-   4,R,K,G
-   3,R,J,G
+   2,K
+   3,R,K,G
+   2,R,J,G
    5,R
-  13,R,K
-   7,R,J
+   6,R,J
    5,R
-  15,R,J,G
+   8,R,K
+   5,R
+   8,R,J,G
+   7,R,G
    1,R,K,G
    5,R
    1,R,J
@@ -88,7 +101,8 @@ console load DashlessCollab/1-lobby/16_janHC 56.400157928467 152
    1,R,J,G
    1,R,K,G
    5,R
-  12,R,K
+   8,R,K
+   4,R
    3,R,J
    5,R
    7,R,J
@@ -739,4 +753,4 @@ console load DashlessCollab/1-lobby/16_janHC 56.400157928467 152
   85,R
   73,R,D
  135
-ChapterTime: 2:51.904(10112)
+ChapterTime: 2:51.309(10077)
