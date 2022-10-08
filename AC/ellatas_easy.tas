@@ -1,4 +1,4 @@
-RecordCount: 697
+RecordCount: 700
 
 console load AnarchyCollab2022/1-Submissions/02_ellatas
    1
@@ -13,7 +13,7 @@ console load AnarchyCollab2022/1-Submissions/02_ellatas
 
 #lvl_0
    1,L
-   1,S
+   1,S,N
    1,D,J
   34
    9,L
@@ -45,7 +45,7 @@ console load AnarchyCollab2022/1-Submissions/02_ellatas
    1,R,J
    1,J
    4
-   1,S
+   1,S,N
    1,D,J
   35
   40
@@ -56,7 +56,7 @@ console load AnarchyCollab2022/1-Submissions/02_ellatas
   43,R,D
    1,R,J
    7,R
-   1,S
+   1,S,N
   10,J
   18,R,J
    2,R
@@ -80,7 +80,7 @@ console load AnarchyCollab2022/1-Submissions/02_ellatas
    1,R
    1,L
   11,R
-   1,S
+   1,S,N
    1,D,J
   34
    2,R
@@ -121,7 +121,7 @@ console load AnarchyCollab2022/1-Submissions/02_ellatas
   61
 
 #lvl_8a
-   1,S
+   1,S,N
    1,D,J
   72,O
   13,R
@@ -164,7 +164,7 @@ console load AnarchyCollab2022/1-Submissions/02_ellatas
    3,R
    1,J,G
    2
-   1,S
+   1,S,N
    1,D,J
   34
    1,R

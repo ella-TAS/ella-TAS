@@ -1,5 +1,6 @@
-RecordCount: 2360
-console load AnarchyCollab2022/Saplio/frickyou
+RecordCount: 2391
+
+console load AnarchyCollab2022/1-Submissions/28_saplio
    1
 
 #Start
@@ -38,20 +39,20 @@ console load AnarchyCollab2022/Saplio/frickyou
 
 #lvl_2
    1,L,J
-   7,L,D,X
-   1,S
+   8,L,D,X
+   1,S,N
    1,D,J
   34
    5,L
    1,L,J
-   2,L
+   1,L
   19,D,X
   21,L,D
-  16,R,D
+  17,R,D
    9,L,D
-  28,R,D
-  75,L,D
-   4,D
+  27,R,D
+  73,L,D
+   5,D
   40
 
 #lvl_3
@@ -73,7 +74,8 @@ console load AnarchyCollab2022/Saplio/frickyou
 #   3,R,J
 #  15,R,D,X
 #-----
-  40,R,D
+  32,R,D
+   8,L,D
    6,L,D,X
    1,R,J
    7,R
@@ -943,4 +945,4 @@ Endrepeat
   16,U,X
  135,L,D
 
-ChapterTime: 16:03.016(56648)
+ChapterTime: 16:02.999(56647)

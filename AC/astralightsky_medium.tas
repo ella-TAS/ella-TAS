@@ -1,6 +1,6 @@
-RecordCount: 105
+RecordCount: 154
 
-console, load, AnarchyCollab2022/AstralightSky/Crystal Core
+console load AnarchyCollab2022/1-Submissions/18_astra
    1
 
 #Start
@@ -11,7 +11,6 @@ console, load, AnarchyCollab2022/AstralightSky/Crystal Core
    5,R,J,G
    1,L,J
    3,R,J
-***
    5,R,K,G
    5,R
    1,R,K
@@ -33,14 +32,13 @@ console, load, AnarchyCollab2022/AstralightSky/Crystal Core
   40
 
 #lvl_a-01
+***
    1,R
    5,R,J
    2,J
-***
   13,U,X
    9,R,J
   21,R,D
-***
    3,R,D
   11,D
    1,R,D
@@ -49,7 +47,32 @@ console, load, AnarchyCollab2022/AstralightSky/Crystal Core
    7,R
    1,R,J
    8,R
-***
   16,R,D,X
   50,R,J
-  90,R,U,X
+  38,R,U,X
+   7,R,Z
+***
+   1,R,J
+   3,R
+  40
+
+#lvl_a-02
+***
+   2,R
+   2,R,K
+  19,R,J
+  14,U,X
+***
+  12,L,J
+   1,R,J
+  15,U,X
+  15,L,U,C
+   6,K
+  10,L,X
+   3,J
+  11,L,J
+***
+  11,U,X
+  21,R,J
+  90,L,K,G
+

@@ -7,7 +7,7 @@ RecordCount: 7772
 
 console reset_vanilla_variants
 console reset_extended_variants
-console load AnarchyCollab2022/Knox/Experiment-002
+console load AnarchyCollab2022/1-Submissions/17_knox
    1
 
 AnalogueMode, Precise
@@ -611,5 +611,3 @@ AnalogueMode, Precise
  135
 
 ChapterTime: 0:41.701(2453)
-
- 999
