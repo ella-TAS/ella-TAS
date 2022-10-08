@@ -1,18 +1,24 @@
-RecordCount: 8741
+RecordCount: 10276
 
 #console load motonine/3/Lovestory 3668 -433
 #play Love 37
 
-console load motonine/3/Lovestory 10750 176
-play Huan 38
+#console load motonine/3/Lovestory 11923 160
+#play Huan 49
 
 #console load motonine/3/Lovestory 17583 -736
 #play Elise 33
+
+#console load motonine/3/Lovestory 6856 1984
+#play Liang 33
 
 console load motonine/3/Lovestory
    1
 
 #Start
+#spinner cycle (wtf)
+   7
+
 #lvl_a01
  110
    1,S,N
@@ -125,7 +131,7 @@ console load motonine/3/Lovestory
    4,R,D,J
    5,R
    6,R,K
-  40,D,X
+  43,D,X
    7,U
   51,R,D
   21,R,Z
@@ -142,9 +148,9 @@ console load motonine/3/Lovestory
    9,R,J
    9,R
   13,R,Z
-  10,R,D,X
-  20,R,C
-  14,L,U,X
+  12,R,D,X
+  21,R,C
+  17,L,U,X
   15,R,U,C
   50,R
   13,U,Z
@@ -167,7 +173,7 @@ console load motonine/3/Lovestory
   15,U,X
    2,R
   17,J
-  16,U,X
+  19,U,X
   14,R,C
    6,R,J
   20,R,D
@@ -178,7 +184,7 @@ console load motonine/3/Lovestory
    6,R,D
   13,L,D
   15,L,D,X
-  14,R,D,C
+  17,R,D,C
   14,L,D,X
   52,L,J
    9,U,X
@@ -195,7 +201,7 @@ console load motonine/3/Lovestory
   15,R,C
   15,R,X
   16,R,D
-  12,R,X
+  15,R,X
    4,D,C
   11,U,C
   29,L,J
@@ -231,19 +237,19 @@ console load motonine/3/Lovestory
    4,Z
    6,J
   19,R,J
-  11,U,X
-  19,R,C
   14,U,X
+  19,R,C
+  17,U,X
    4,D,C
    6,L,C
   14,R,J
   28,R,D,X
-   7,R,U,C
+  10,R,U,C
    4,D,X
   10,R,X
   28,R,J
   26,R,Z
-   7,R,U,X
+  10,R,U,X
    4,D,C
   10,R,C
    3,R,J
@@ -290,21 +296,21 @@ console load motonine/3/Lovestory
   20,L,D
   24,L
   23,L,X
-  13,U,C
+  16,U,C
   19,R,U,X
-   3,R,C
+   6,R,C
   19,R,D,X
   19
   15,U,X
   15,U,C
-   3,R
-  56,R,J
+   5,R
+  55,R,J
   27,L
   45,R,D
   13,R,Z
-  18,U,X
-  16,R,U,C
-  14,L,U,X
+  20,U,X
+  17,R,U,C
+  17,L,U,X
   17,L,C
   65,U,X
   15,U,C
@@ -317,19 +323,19 @@ console load motonine/3/Lovestory
   14,L,D,X
   12,L,J
   14,L,U,X
-  15,U,C
+  18,U,C
   14,L,X
   39,R,J
   10,L,D,X
   21,R,J
   12,U,X
-   6,U,C
+   9,U,C
   11,R,U,X
-   6,U,C
+   9,U,C
   14,R,U,X
    1,R,C
-  47,R,G
-  11,R,J,G
+  62,R,G
+   7,R,J,G
    4,Z
    1,L,J
    1,J
@@ -420,11 +426,11 @@ console load motonine/3/Lovestory
    1,R,K
    8,R
   14,R,X
-  16,R,C
+  19,R,C
   15,U,X
   46,R,J
   19,R,Z
-  43,L,D,X
+  46,L,D,X
    7,R
   35,R
   29,R,X
@@ -539,36 +545,36 @@ console load motonine/3/Lovestory
    1,R,K,G
    1
    6,R
-   8,R,Z
-   1,R,J
-   5,R
+  10,R,X
+   2,R,J
+   3,R
+   5,R,U,X
   40
 
 #lvl_b04x
 #dash code
 #U R D R U
-   1,R
-   1,R,J
-  14,R,D,X
-   1,R,J
-   6,R
-  18,R,U,X
-  15,U,C
-  22,R
-   4,Z
-   1,R,J
-   8,R
+   9,R
+   1,N
+   3
+  10,L,D,X
+   5,R,J
+  28,R
+  18,U,X
+  10,R
+  10,R,Z
    1,R,J
    8,R
+   4,R,J
+   9,R
   15,R,X
-  25,R,D
-   8,R
-   1,R,D
-   2,R
-  12,L
+  24,R,D
+   9,L,D
+   7,L
   15,D,X
-  15,L,C
-  15,R,X
+  14,L,C
+   1
+  18,R,X
   10,U,C
    4,L,J
   11,R,J
@@ -576,7 +582,7 @@ console load motonine/3/Lovestory
   27,R,J
   42,R,X
   20,R,Z
-  18,R,D,X
+  21,R,D,X
   15,U,C
   14,U,X
   10,R,J
@@ -589,28 +595,22 @@ console load motonine/3/Lovestory
    1,R,J
   65,R,D
   15,R,X
-  44,R,D
-   9,R,Z
+  38,R,D
+   6,D
+   6,R,Z
    1,R,J
-   6,R
+   7,R
+   1,R,J
+   5,R,D,X
   40
 
 #lvl_b05x
-   1,R
-   1,R,J
-  14,R,D,X
-  15,R,J
-  26,R,D
-   1
-   2,R
-   1,R,J,G
-   9,R,K,G
-   9,R
+  27,R,J
   15,R,D,X
-  13,R
+  21,R
    1
-   7,R
-  26,R,C
+  19,R,D
+  26,R,X
    2
    1,R,J
    1,L,K,G
@@ -623,7 +623,8 @@ console load motonine/3/Lovestory
    1,K
    2,J,G
    9,L,J
-  19,L
+  18,L
+   1
   15,R,D,X
   15,R,Z
   19,L
@@ -636,28 +637,31 @@ console load motonine/3/Lovestory
 #from the left side
   14,R,X
    1,R,J,G
-  25,R
-  15,R,U,X
-  39,R,D
-  15,U,X
-  12,R
-  36,U,G
+   9,R
+   1,R,K
+  11,R
+  49,R,X
+  15,U,C
+  11,R
+   2
+  35,U,G
    1
    1,K
    2,J,G
-  56,L,J
-   1,L,D
+  57,L,J
   12,L,K,G
    2,L,J,G
    7,L
-  30,D,X
-  11,L
-   1,R,J
+  29,D,X
+  12,L
+   1,R,D,J
    5
   15,U,X
   10,R
-   9
-   3,R
+   7
+   2,R
+   2
+   1,R
   10,L,X
   26,R,J
   19,R,U,X
@@ -781,7 +785,7 @@ Endrepeat
    1,R,J,G
    1,J
    5,R,J
-  40,U,X
+  43,U,X
   22,D
    9,L,X
    6,L,J,G
@@ -833,10 +837,13 @@ Endrepeat
    2,R
    4
    1,R
-   1,X
-  34
-   1,X
-  19
+   1,N
+   1,J
+  14
+   1,J
+  14
+   1,J
+  23
    1,L,J
    6,L
    9
@@ -852,14 +859,14 @@ Endrepeat
    1,R,K,G
    1,R,J,G
    1,R,K,G
-  22,D
+  22
   15,L,X
   32,D
-  13,R,D
+  12,R,D
    4,R
-   1
+   1,R,D
    1,D
-   1
+   2
    4,Z
    1,R,J
    6,R
@@ -929,7 +936,7 @@ Endrepeat
   10,L,X
   14,J
   20,L,Z
-   6,L,X
+   9,L,X
    2,G
    1,J,G
   16
@@ -944,7 +951,7 @@ Endrepeat
    5,D
   14,R,Z
   17,L,J
-  16,L,U,X
+  19,L,U,X
   20,R,U,C
    9
   11,J
@@ -981,23 +988,29 @@ Endrepeat
    1
    1,K
   12,J,G
-  20,U,X
+  23,U,X
    4,D,C
    6,L,C
    3,R,J
-  20,R
-  16,R,U,Z
-   4,L,U,X
+   8,R
+   1,R,K
+  11,R
+  15,R,U,Z
+   7,L,U,X
    6,L,C
   14,L,J
-  12,L,U,X
+  15,L,U,X
   14,L,D,C
-  23,L,J
-  15,U,X
-  27,R,J
+  17,L,J
+   6,J
+  14,U,X
+  26,R,J
   11,U,X
-  22,L,J
-  22,G
+   2,R,J
+  17,L,J
+   1
+   1,L
+  27,U,G
    8
    1,J
    1,K
@@ -1010,7 +1023,7 @@ Endrepeat
    1,L,D
    7,L
    5,L,D
-   1,L
+   1
    3,D
    4,Z
    1,R,J
@@ -1020,7 +1033,7 @@ Endrepeat
    1,R,J,G
    6,R
    1
-   5,R,J
+   5,R,D,J
    6,R
    1,K
    1
@@ -1033,13 +1046,13 @@ Endrepeat
    4,L,D
    1,L,J
   14,L
-   5,R,D,X
+   8,R,D,X
   14,L,D,C
-  10,D,X
+  13,D,X
   15,R,D,C
   50,D
   59,L,D
-  12,L,X
+  15,L,X
   14,U,C
   13,L,J
   19,L,D
@@ -1050,58 +1063,48 @@ Endrepeat
    1,R
   18,R,X
   15,R,Z
-  33,R,D
-   2,R
+  35,R,D
+   6,R,Z
+   1,R,J
+   4,R
+   1,R,K
+   3,R
    7,R,Z
    1,R,J
    6,R
    1,R,J
-  14,R,D,X
-   1,R,J
-#Huan
-   8,R,D,X
-   1,R,J
+  11,R,D,X
   40
 
 #lvl_b07
-   1
-   6,R
-   7,R,J
+   8,R,J
   15,R,D,X
-   3,R,J
-   5,R
-   1,R,K,G
-  10,R
    1,R,J
-  12,R,D,X
-   1,S,N
-   1,D,J
-  34
-   5,R,J
-  11,R,D,X
-   3,R,J,G
-   2
-   4,R
-   1,R,K
-   1,R
-   2,R,J
-   3,R
-   7,R,D,X
-   2,R,J,G
-   7,R
+   2,R
+   6,R,U,X
+   1,R,J,G
+   9,R
+   1,R,J
    9,R,D,X
-   5
    1,S,N
    1,D,J
   34
-   1,R,D,J
+   1,R,J
+  14,R
+  10,R,J
+  12,R,D,X
+   6
+   1,S,N
+   1,D,J
+  34
+   1,L,D,J
   40
 
 #lvl_b08
    1
   17,R,D,X
-   1,L,J
-   1,L
+   1,D,J
+   1,R
   27,R,D,X
    6,R,K
    9,R,J,G
@@ -1116,6 +1119,7 @@ Endrepeat
    6,R
    1
    4,R
+#Huan
    7,R,Z
    1,R,J
    1,R
@@ -1251,7 +1255,7 @@ FinishExportGameInfo
   15,R,G
    4,L,G
    9,L,D,G
-   7,R,U,X
+  10,R,U,X
    4,D,C
   10,R,C
    2,R,J,G
@@ -1260,7 +1264,7 @@ FinishExportGameInfo
    4,R,J
    1,R,K
   11,R,D,X
-  40,R,C
+  43,R,C
    7,L
   11,L
   46,L,X
@@ -1275,7 +1279,7 @@ FinishExportGameInfo
    5,R,X
   13,G
   15,R,G
-  21,R,D,X
+  24,R,D,X
    4,D,C
   10,R,C
    1,R,J,G
@@ -1324,13 +1328,105 @@ FinishExportGameInfo
    1,D,J
   34
   10,R,G
-   7,U,X
-  91,U,C
+   7,R,U,X
+  15,U,C
+   7,L,G
+   2,G
+  76
+  48,R,G
+   1
+  10,L,D
+  21,L,Z
+   4,L,J
+   1,L,K
+  21,L,D
+  15,R,D,C
+   5,D
+   7,R,D
+   8
+   6,R,X
+  23,R,D,C
+   4,R,J
+   7,R,K
+   2,R
+  37,R,D,X
+   4,C
+  18,L,D,C
+   4,R,G
+  17,D
+   1,G
+  16,R,J,G
+  88,U,X
+   6,R
+   1
+   1,R
+  18,U,C
+   5,R,X
+  13,G
+   8,R,G
+   1,R
+   8,R,U,X
+  13,G
+  30,R,D,G
+  10,L,D,G
+   1,D,G
+  10,L,D,G
+  33,R,G
+   1,R
+  14,R,X
+   1,R,J
+  10,R,U,X
+  13,G
+  16,R,G
+   2,R
+  15,L,D
+   1,R,D,J
+   6,L,D,X
+   1,L,J
+   4,L
+   1,L,K
+   3,L
+  14,R,D,X
+   1,R,J
+   6,R
+   1,R,J
+   5,R,D,X
+  13,G
+   2,R,G
+   3,R,J,G
+  40
+
+#lvl_b13x
+   6,R,J,G
+   2,R,G
+   1,S,N
+   1,D,J
+  34
+  10,R,G
+   7,R
+   1,G
+   9,R,J,G
+  14,R,X
+   4,R,J
+   3,R,K
+  13,G
+  11,R,K,G
+   1,L
+  14,U,X
+  13,G
+   4,L,G
+  37,R,G
+  26
+   1,R,U
+   8,F,35.71
+   1,F,40.718
+  86,F,90
+   1,U
   90,R,G
 
 
 
-
+ 900
 
 
 console load motonine/3/Lovestory 17583 -736
@@ -1564,9 +1660,59 @@ Endrepeat
    1,S,N
    1,D,J
   34
-   8,R,G
-   1,R,D
-   8,U,X
+  14,R,G
+   1,R
+  13,U,X
+  13,G
+   2,R,J
+   5,R
+   9,R,K
+   4,R,J,G
+   1,R
+   7,R,Z
+   1,R,J
+   6,R
+   1,R,J
+   9,R,D,X
+  13,G
+  10,R,J,G
+  38,R,G
+  11,R,D,G
+   1,R,J,G
+  14,R,G
+   1,R,J,G
   90,R,G
 
 
+
+   3,R,J
+   5,R
+   5,R,K
+   2,R
+   5,R,J,G
+   2,R
+   7,R,Z
+   1,R,J
+   6,R
+   1,R,J
+   5,R,D,X
+  13,G
+  90,R,J,G
+
+
+#Liang
+#lvl_d01
+   1,S,N
+   1,D,J
+  34
+  13,L,Z
+   1,R,J
+   1,R,K
+   9,R,D,X
+  13,G
+   1,R,J,G
+   1,R,K,G
+  15,R,G
+   1,R,J,G
+   1,R,K,G
+  90,R,G
