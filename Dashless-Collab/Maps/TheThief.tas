@@ -1,0 +1,107 @@
+# DashlessCollab
+# https://gamebanana.com/mods/403284
+
+RecordCount: 565
+
+console load DashlessCollab/1-lobby/04_ema
+   1
+
+#Start
+ 190
+
+#lvl_s01
+   1,R,J
+  14,R
+   1,R,J
+  21,R,D
+   2,R,J,G
+   5,R
+   1
+   2,R
+   1,R
+   1,R,J
+   1,L
+   3
+   1,D
+   1
+   4,L
+   1,J
+   1,K,G
+   2
+   3,R
+   1,R,J,G
+   1,R,K,G
+   1,K
+   2,R,K
+   6,R
+   1,R,J
+   5,R
+   1,R,J,G
+   1,R,K,G
+   9,R
+   1,R,J
+  14,R
+   1,R,J
+  14,R
+   1,R,J
+  14,R
+   8,R,J
+   5,R
+   2,R,J
+  19,R,D
+   2,R
+   1,R,J,G
+   1,R,K,G
+   1,R
+   1
+   1,R
+   6,R
+   1,R,J
+  14,R
+   1,R,J
+  15,R
+   8,L
+  12,L,J
+  19,L
+  14,R
+   1,R,J
+  14,R
+   4,R,J
+   5,R
+   1,R,J
+  36,R,D
+Set,Player.X,528.93
+   1,R,D
+#0:05.644(332)
+   1,R,D
+   1,R,D
+   1,R,D
+   1,J
+   2,R
+   1,L
+   1,J,G
+   1,L,K,G
+#0:05.797(341)
+#738
+   1,R,K
+  10,R
+   1,R,J
+  14,R
+   1,R,J
+   7,R
+  13,R,J
+  12,R,K
+   5,R
+   3,R,J
+  15,R,D
+ 120,D
+  40
+
+#lvl_02
+   1,S
+   1,D,J
+  69,O
+
+
+
+1000,R
