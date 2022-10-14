@@ -1,0 +1,46 @@
+console load DadCollab2018/1-DadCollab2018/Choco
+   1
+
+#Start
+#lvl_Choco-1
+ 190
+   6,R,D,J
+  10,J
+  15,U,X
+   3,R
+  26
+   1,L,U
+  10,F,335.637
+   1,F,331.29
+  11,F,291.355
+  37,F,287.14
+   1,F,291.46
+  10,F,334.749
+   1,F,339.42
+  18,F,0.865
+   2,F,90
+   7,R,X
+   1,R,J,G
+   3,J
+   4,R,J
+  14,R
+   4,Z
+   5,R,J
+   9,R
+   4
+   6,L,Z
+   1,R,J
+   4,R
+  20,R,J
+   1,J
+   8,U,X
+  26
+AnalogMode Square
+   1,F,34.632
+AnalodMode Ignore
+  11,F,335
+  11,F,301.133
+   1,F,295.802
+   5,F,294.484
+  78,F,276.953
+   1,F,318.227

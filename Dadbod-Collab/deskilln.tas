@@ -144,7 +144,7 @@ console load DadCollab2018/1-DadCollab2018/Deskilln
   21,R,C
    8,U,X
    7,R,J
-  14,R,D
+  14,R
   15,R,X
   16,R,D
    4,X
@@ -152,20 +152,35 @@ console load DadCollab2018/1-DadCollab2018/Deskilln
   17,R,D
   18,L,J
   15,U,X
-  15,R,J
-  23,L,K
-   5,J,G
-  23,R,K
-  12,J,G
-  23,L,K
-  22,R,J
-  12,K,G
+  16,R,J
+   1,L,J
+   1,R,J
+   1,K
    2,J,G
+  19,L,J
+   1,L,K,G
+   1,J
+   2,K,G
+  19,R,K
+   1,J,G
+   3,R,J
+   5,J
+   1,R,J
+   1,L,J
+   1,R,J
+  13,R,K,G
+   1,J,G
+   3,R,J
+   5,J
+   1,R,J
+   1,L,J
+   1,R,J
+  13,R,K,G
+   4,R,J,G
   40
 
 #lvl_Deskilln-3
-  11,R
-   1,R
+  12,R
   14,R,X
   10,R,J
    4,R
@@ -254,4 +269,4 @@ console load DadCollab2018/1-DadCollab2018/Deskilln
   11,R,U,X
  135,R
  
-ChapterTime: 0:41.735(2455)
+ChapterTime: 0:41.395(2435)

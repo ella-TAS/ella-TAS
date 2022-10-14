@@ -49,9 +49,12 @@ console load DadCollab2018/1-DadCollab2018/Aridai
   38,R,D,X
   37
   25,L,D,X
-  60
-  39,R,D
-  25,R,D,X
+  41
+   9,L
+   1
+  15,R,D,X
+  14,L,D
+  41,R
  161
    6,R,D,X
   40
@@ -95,27 +98,27 @@ console load DadCollab2018/1-DadCollab2018/Aridai
   12,R,D,X
   49,R,J
   10,U,X
-  55,R
+  50,R
   15,R,X
-  15,R,C
-  15,R,X
-  14,R,D,C
+  14,R,Z
    1,R,J
-  48,R
-  25,R,Z
-  14,R,J
+  32,R,D,X
+  37,R
+  24,R,Z
+   1,R,J
+  13,R,K
   14,R,U,X
-  31,L
-  12,L,J,G
-  12,L,K,G
-  12,L,J,G
-   1,R,K
-  14,R,J
-  30,R,X
-  50,R,U,C
-  37,R,D
-  10,R,X
-  57,R,D
+  32,L
+  12,K,G
+   6,J,G
+   1,K
+   2,J,G
+  26,R,J
+  33,R,U,X
+  26,R,C
+  44,R
+  15,R,X
+  52,R,D
   41
   28,L
   15,L,Z
@@ -133,8 +136,8 @@ console load DadCollab2018/1-DadCollab2018/Aridai
    6,R,X
   37
   10,L,X
-  37
-  29,L,D,X
+  37,L
+  28,L,D,X
   37
   15,D,X
   18,L,D
@@ -146,10 +149,10 @@ console load DadCollab2018/1-DadCollab2018/Aridai
   37
   23,L,D,X
   41
-  12,R
-  29,R,X
+  10,R
+  31,R,X
   66
    9,U,X
  135
 
-ChapterTime: 1:02.254(3662)
+ChapterTime: 1:01.693(3629)
