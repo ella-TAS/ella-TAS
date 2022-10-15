@@ -1,7 +1,7 @@
 #Spirit Tracks ARB
-#EllaTAS, RichConnerGMN
+#EllaTAS, RichConnerGMN, sashabell
 
-RecordCount: 2879
+RecordCount: 3456
 
 console load lagtrain/aurora_aquir/lagtrain
    1
@@ -21,7 +21,7 @@ console load lagtrain/aurora_aquir/lagtrain
    1,N
 
 #lvl_start
-   7,L,Z
+   6,L,Z
    1,L,J
    7,L
    1,L,J
@@ -34,20 +34,25 @@ console load lagtrain/aurora_aquir/lagtrain
   11,U,Z
    8,L,J
    3,L
-   4,L,X
-   1,L,J
-  22,L,D
+   4,X
+   2,L,J
+  21,L,D
    1,N
 
 #lvl_-1r
-  10,R,C
-  13,R,J
-  11,R,K,G
-  13,R,Z
+   6,R,J
+  24,R,U,X
+   4,Z
+   1,R,J
+   1,R
+   1,R,K
+   1,R
+   1,R,K
+   6,R
+   5,R,Z
    1,L,J
-   2
-  14,L,D
-  11,D
+  19,L,D
+   7,R,D
    1
    1,D
    1
@@ -58,8 +63,8 @@ console load lagtrain/aurora_aquir/lagtrain
    2,J
    2,R,J
    7,R
-   5,R,J
-   7,J
+   7,R,J
+   5,J
   14,R,Z
    1,R,J
   17,R,D,X
@@ -78,26 +83,27 @@ console load lagtrain/aurora_aquir/lagtrain
   40
 
 #lvl_living1
-   1,R
    2,R,J
-  13,R,D,X
+  14,R,D,X
    1,R,J
-   7,R
-  11,R,J
+   3,R
+   1,R,J
+   3,R
+  10,R,J
+   3,R
+  14,R,D,X
+   1,R,J
    2,R
   14,R,D,X
    1,R,J
-  14,R,D,X
-   1,R,J
-   6,R,D,X
   40
 
 #lvl_living2
-   8,R
-   1,R,J
   14,R,D,X
    1,R,J
   14,R,D,X
+   1,R,J
+  12,R,D,X
    1,R,J
    7,R
    1,N
@@ -111,7 +117,7 @@ console load lagtrain/aurora_aquir/lagtrain
 
 #lvl_living2
   35
-   4,R,Z
+   4,Z
    2,R,J
    8,R
    1,R,J
@@ -219,86 +225,13 @@ console load lagtrain/aurora_aquir/lagtrain
    1,R,J
    5,R
    2,R,K
-   8,R,J
-  14,R,U,X
-   8
+   7,R,J
+  24,R,U,X
 
 #lvl_arc
-   1,N
-
-#lvl_feather1
-  75
-   8,R,U,X
-  26
-   1,R,U
-  82,F,75.5
-   2,F,50
-  40
-
-#lvl_feather2
-  31,F,52.904
-   1,F,55.3
-   6,F,86.458
-  11,F,146
-  19,F,177.042
-   1,F,175.326
-  11,F,115
-  24,F,88.884
-  23,F,84.009
-   1,F,81.452
-  11,F,21
-  11,F,321
-  19,F,302.945
-   1,F,306.371
-  11,F,6
-  11,F,66
-  35,F,98
-  40
-
-#lvl_feather3
-   1,F,90
-  26,F,91.37
-   1,F,93.621
-  11,F,154
-  12,F,179.134
-   1,F,179.267
-   5,F,194.272
-   5,F,194.146
-   1,F,192.812
-  11,F,133
-  11,F,73
-  55,F,73.646
-  11,F,14
-  22,F,359.587
-   2,F,358.25
-   1,F,0.485
-  14,F,31
-   7,R,Z
-   1,R,J,G
-   2,J
-   3,R,J
-  40
-
-#lvl_feather4
-  16,R,J
-   3,R
-  15,R,D,X
-   5,R,D
-   1,R,K
+   4,Z
    1,R,J
-   1,R,K
-   1,R,J
-   1,R,K
-   1,R,J
-   9,R
-   1,R,K
-   6,R
-   1,R,J
-   1,R,K
-   5,R,J
    8,R
-
-#lvl_arc
    1,N
 
 #lvl_laser1
@@ -506,15 +439,82 @@ console load lagtrain/aurora_aquir/lagtrain
   12,R,K
   26,R,U,X
 
+#lvl_arc
+   1,N
+
+#lvl_feather1
+  75
+   8,R,U,X
+  26
+   1,R,U
+  82,F,75.5
+   2,F,50
+  40
+
+#lvl_feather2
+  31,F,52.904
+   1,F,55.3
+   6,F,86.458
+  11,F,146
+  19,F,177.042
+   1,F,175.326
+  11,F,115
+  24,F,88.884
+  23,F,84.009
+   1,F,81.452
+  11,F,21
+  11,F,321
+  19,F,302.945
+   1,F,306.371
+  11,F,6
+  11,F,66
+  35,F,98
+  40
+
+#lvl_feather3
+   1,F,90
+  26,F,91.37
+   1,F,93.621
+  11,F,154
+  12,F,179.134
+   1,F,179.267
+   5,F,194.272
+   5,F,194.146
+   1,F,192.812
+  11,F,133
+  11,F,73
+  55,F,73.646
+  11,F,14
+  22,F,359.587
+   2,F,358.25
+   1,F,0.485
+  16,F,43
+   5,R,Z
+   1,R,J,G
+   1,J
+   3,R,J
+  40
+
+#lvl_feather4
+  15,R,J
+   3,R
+  21,R,D,X
+   1,R,J
+   1,R,K
+   1,R,J
+   1,R,K
+   1,R,J
+   1,R,K
+  15,R
+   1,R,J
+  11,R,K
+   1,R,J,G
+   3,R
 
 #lvl_arc
-   6,R,Z
-   1,R,J
    7,R
    1,R,J
-  14,R,D,X
-   1,R,J
-   9,R,D,X
+  11,R,D,X
   40
 
 #lvl_dining
@@ -523,26 +523,27 @@ console load lagtrain/aurora_aquir/lagtrain
    1,D,J
   34
    3,R,J
-   7,R
-  12,R,J
-  17,R,D,X
-   1,R,J
-   7,R
-  18,R,J
+   8,R
+   8,R,J
+   1,R
   15,R,D,X
-   3,R
    1,R,J
+   8,R
+  12,R,J
+  15,R,D,X
+   1,J
    9,R,U,Z
   40
 
 #lvl_kitchen
-   2,R
-   6,R,K
-  14,U,Z
+   2,L
+   1,R,K
+   7,R,J
+  13,U,X
    1,J
-   1,R,K,G
-   8,R
-   2,L,J
+   1,K
+   7,R
+   2,J
    5,R,Z
    4,R,J,G
    3,R
@@ -598,17 +599,16 @@ console load lagtrain/aurora_aquir/lagtrain
    2,R,J
   14,R,D,X
    1,R,J
-   3,R
+   2,R
   14,R,D,X
    1,R,J
-   8,R,U,Z
+   5,R
   40
 
 #lvl_machine
-   3,R
-   1,L,J,G
-  16,R,J
-  20,R,U,X
+   1,R
+  17,R,J
+  16,R,U,X
    1,N
 
 #lvl_cat_game1
@@ -619,7 +619,7 @@ console load lagtrain/aurora_aquir/lagtrain
    6,R,J
   11,R
    1,N
- 130
+ 129
    1,J
   13,L,J
   17,U,X
@@ -634,7 +634,7 @@ console load lagtrain/aurora_aquir/lagtrain
    6,R
    4
    1,N
- 129
+ 128
   17,R,J
    6,K,G
    1,L,K
@@ -651,7 +651,7 @@ console load lagtrain/aurora_aquir/lagtrain
    3,L
    3,R
    1,N
- 129
+ 128
    3,R
    4,R,J
    4,R
@@ -660,7 +660,7 @@ console load lagtrain/aurora_aquir/lagtrain
    1,L,J
   16,L
    1,N
- 129
+ 128
    4,Z
    1,R,J
    7,R
@@ -672,10 +672,10 @@ console load lagtrain/aurora_aquir/lagtrain
    1,N
    4,Z
    1,R,J
- 134
+ 133
    3,R
    1,R,N
- 131
+ 130
    2,L,J
   14,R,D,X
   26,R,J
@@ -683,7 +683,7 @@ console load lagtrain/aurora_aquir/lagtrain
    8,R,J,G
   18,R
    1,N
- 129
+ 128
    4,L,D,J
   16,U,X
   19,R,J
@@ -698,7 +698,7 @@ console load lagtrain/aurora_aquir/lagtrain
    3,L,J
   10,L
    1,N
- 130
+ 129
    6,L,D,C
    1,L,J
    1
@@ -712,12 +712,12 @@ console load lagtrain/aurora_aquir/lagtrain
    1,N
    4,Z
    1,R,J
- 134
+ 133
    4,Z
    1,L,J
    7,L
    4,L,N
- 132
+ 131
    6,L,Z
    1,R,J
    7,R
@@ -745,14 +745,18 @@ console load lagtrain/aurora_aquir/lagtrain
   40
 
 #lvl_cat_game2
-   1,R
-  17,R,K
-  11,R,X
+   2,R,K
+   4,R
+  18,R,J
+   1,J
+  10,R,K,G
+   7,J,G
+  14,R,U,X
    9,R,J,G
-  12,K,G
-  12,R,J,G
-   9,R,K,G
-  12,L,K
+   1,K
+   2,J,G
+   6
+   2,L
 
 #lvl_machine
    1,N
@@ -775,9 +779,8 @@ console load lagtrain/aurora_aquir/lagtrain
 #lvl_storage
    2,R
    1,K
-   6,J,G
-   2,L,J
-   5,L
+   2,J,G
+   9,L,J
   15,L,D,X
    4,Z
    1,L,J
@@ -787,11 +790,11 @@ console load lagtrain/aurora_aquir/lagtrain
    1,L,J
   14,L,D,X
    1,L,J
-   9,L,D,X
+  10,L,D,X
   40
 
 #lvl_living4
-   5,L
+   4,L
    1,L,J
   14,L,D,X
    1,L,J
@@ -817,20 +820,21 @@ console load lagtrain/aurora_aquir/lagtrain
   18,R
    2,L
   25,L,D
-   4,X
-   4,L,D,X
+   8,L,D,X
   40
 
 #lvl_living4fb
   13,L,D
   17,L,X
   13,G
-  33,L,D,G
-  21,L,U,G
+  31,L,D,G
+   2,L,U,G
+   1,L,D,G
+  20,L,U,G
    1,R
    6,L
   16,L,U,Z
-  26,U,X
+  25,U,X
 
 #lvl_living4r
    1,N
@@ -907,28 +911,20 @@ Endrepeat
 #lvl_living2
    1,L,J
    3,L
+Repeat 4
    2,L,J
    3,L
-   2,L,J
-   3,L
-   2,L,J
-   3,L
-   2,L,J
-   3,L
+Endrepeat
    4,L,J
   40
 
 #lvl_living1
    1,L,J
    4,L
+Repeat 4
    2,L,J
    3,L
-   2,L,J
-   3,L
-   2,L,J
-   3,L
-   2,L,J
-   3,L
+Endrepeat
    1,L,J
   40
 
@@ -950,4 +946,4 @@ Endrepeat
    7,L
    1,N
 
-ChapterTime: 2:22.528(8384)
+ChapterTime: 2:21.763(8339)
