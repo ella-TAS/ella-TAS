@@ -1,4 +1,4 @@
-RecordCount: 2543
+RecordCount: 2714
 
 console load stanley/celeste-parable CF-0
    1
@@ -1056,8 +1056,9 @@ Endrepeat
    1,S,N
    1,D,J
   34
-   1,R,J,G
-   7,R
+   1,J,G
+   4
+   5,R
    6,R,Z
    1,R,J
    7,R
@@ -1086,11 +1087,117 @@ Endrepeat
    7,R
   12,R,U,X
    1,R,J,G
-   9,R
-  14,R,J
+   1,R
+   1
+   8,R,D
+  11,R,J
   10,R,D,X
    1,R,J,G
-  10,R
+   9,R
+   1,R,J
+  13,R,D,X
+  40
+
+#lvl_CF1-2
+  22,R,D
+  11,R,J
+   5,R
+  16,R,D,X
+   1,R,J
+  14,R
    3,R,J
+  16,R
+   4,Z
+   6,L,J
+  27
+  10,R,Z
+   4,R,J
+  11,R,D
+   1,R,D,J
+   3,R,K
+  10,D,X
+  40
+
+#lvl_CF1-3
+   4,D
+  14,R,D
+   1,S,N
+   1,D,J
+  34
+   9,R,D
+  13,R,D,X
+   2,R,J
+  14,R,D,X
+   1,R,J
+  14,R,D,X
+   1,L,J
+   7,R,Z
+   1,R,J
+
+#lvl_AL-0
+   1,R
+   1,R,K
    4,R
+   1,R,J
+  11,R,D,X
+   1,R,J
+   7,R
+  11,R,D,J
+   1,L,K,G
+   7,R,K
+   5,R
+   2,R,K
+   1,S,N
+   1,D,J
+  34
+   9,R
+  14,R,U,X
+   1,R,J,G
+   9,R
+   1,R,J
    6,R,D,X
+   1,R,J
+   7,R
+   1,R,J
+   2,R
+  27,R,D,X
+   1,R,J
+  14,R,D,X
+   1,R,J
+  10,R,D,X
+  40
+
+#lvl_AL-1
+   4,R
+   1,R,J
+   7,R,D,X
+   1,R,J
+  13,R
+  37,D,X
+  11,R,D
+  40
+
+#lvl_AL-2
+  27,R,D
+  13,R,D,X
+   2,R,J
+  14,R,D,X
+   1,R,J
+  14,R,D,X
+   1,R,J
+  14,R,D,X
+   1,R,J
+  14,R,D,X
+   1,R,J
+  14,R,D,X
+   1,R,J
+  40
+
+#lvl_AL-3
+  14,R,D,X
+   1,R,J
+  14,R,D,X
+
+
+#2:34.105(9065)
+

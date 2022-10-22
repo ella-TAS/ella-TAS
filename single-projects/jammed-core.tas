@@ -1,9 +1,9 @@
-RecordCount: 3779
+RecordCount: 4649
 
 #console load Flamecrafter113/LostContent/1-JammedCore 5400 1652.75 0 -105
 #Play, Heading Deeper, 37
 
-#console load Flamecrafter113/LostContent/1-JammedCore 13754.4111657143 2744 297.2
+#console load Flamecrafter113/LostContent/1-JammedCore 13650.9 2736.45 277 -21
 #Play, Looping Ideas, 37
 
 console load Flamecrafter113/LostContent/1-JammedCore
@@ -38,6 +38,8 @@ console load Flamecrafter113/LostContent/1-JammedCore
   14,L,D,X
   22,L,J
   17,L,D,X
+#0:03.230(190)
+
    9,L,J
    2,L,K,G
   14,L,Z
@@ -97,8 +99,7 @@ console load Flamecrafter113/LostContent/1-JammedCore
   14,R,D,X
    1,R,J
   14,R,D,X
-   1,R,J
-   1,R,J
+   2,R,J
   10,R,D,X
    5,R,J,G
    5,R,K,G
@@ -269,7 +270,7 @@ console load Flamecrafter113/LostContent/1-JammedCore
   16,L
   15,L,D,X
   13,L
-   1,S
+   1,S,N
    1,D,J
   69,O
    7,L,Z
@@ -311,7 +312,7 @@ console load Flamecrafter113/LostContent/1-JammedCore
   19,R,U,Z
    5
   30,R
-   1,S
+   1,S,N
    1,D,J
   69,O
    6,L,Z
@@ -420,6 +421,8 @@ console load Flamecrafter113/LostContent/1-JammedCore
   15,D,X
    4,R,D
   27,L,D
+#1:09.071(4063)
+
   41
   21,L
   15,L,D,X
@@ -437,7 +440,7 @@ console load Flamecrafter113/LostContent/1-JammedCore
  680
 
 #lvl_c-05a
-   1,S
+   1,S,N
    1,D,J
   69,O
   40
@@ -621,7 +624,7 @@ console load Flamecrafter113/LostContent/1-JammedCore
    6,R
    1,R,J
    3,R
-   1,S
+   1,S,N
    1,D,J
   18
 
@@ -667,38 +670,6 @@ console load Flamecrafter113/LostContent/1-JammedCore
    1,R,J
   14,R,D,X
    1,R,J
-#  11,R,D,X
-#   1,R,J
-#***
-#   9,R
-#   1
-#   2,R
-#   1,R,J
-#***
-#  15,R,U,Z
-#   1,L,J,G
-#   6,L,K,G
-#   3
-#   1,L,J,G
-#  12,L
-#  10,L,D,X
-#***
-#   5,R,J
-#  15,R,D,X
-#  10,R
-#   8,R
-#***
-#  42,R,J
-#***
-#  14,R,Z
-#  13,R,J
-#  15,R,D,X
-#   5,R,D
-#  90,R
-
-
-
-
   14,R,D,X
    1,R,J
   14,R,D,X
@@ -727,6 +698,7 @@ console load Flamecrafter113/LostContent/1-JammedCore
    7,R,J
    2,R
    3,R,K
+#Looping Ideas
    9,R,D,X
    1,R,J,G
   12,R
@@ -734,7 +706,6 @@ console load Flamecrafter113/LostContent/1-JammedCore
 
 #lvl_e-00
    7,R
-#Looping Ideas
    9,R,J
    8,R
    3,R,K
@@ -751,22 +722,120 @@ console load Flamecrafter113/LostContent/1-JammedCore
    9,R
   15,R,Z
   36,R
-  25,R,J
+  24,R,J
+   1,L,J
   31
-  72,R
-  21,R,D
-  67,R
-  14,R,X
-   8,R,J
-  46,R
-  33,D
-  12,R,D
-   2,D
-  24,R
+  96,R
+   4,R,D
+   1,L,D
+   1,R,D
+   1,L,D
+  37,R
+  11,L,D,X
+ 143,R,D
+   3,R
+   1,R,J
+  41,R
+   1,R,J
   40
 
 #lvl_e-01
-   1,R
-  17,R,D,X
+   5,R,Z
+   5,R,J
+  34,R,D
+  11,R,J
+   8,R
+  11,R,K
+  12,U,Z
+  20,R,J
+  15,U,X
+  30,R
+  42,L,D
+   3,R,D
+   1,D
+   1,R,D
+   1,D
    1,R,J
+  43,R,D
+  12,R,X
+  10,R,J
+  10,R
+  23,L,D
+  18,D
+   2,R,D
+   2,L,D
+   7,G
+  18,D,G
+   9,G
+   1,D,G
+  19,R,J
+  32
+  20,R
+  10,R,D,X
+   9,R,J,G
+  40
+
+#lvl_e-02
+   1,R,J
+   4,X
+   6,R,D,X
+   3,R,J
+   8,R,D
+  33,D
+  21,L,D
+  12,D,G
+   7,G
+   1,R,J
+  15,R,D,X
+  18,R
+  34
+  15,R,D,X
+   1
+   1,R,J
+  69,R,D
+  25,L,D
+  30
+  56,R,D
+  14,R,Z
+   6,R,J
+  40,J
+
+#lvl_e-03
+   4,R,J
+  10,R
+  29
+  12,J
+   3
+  25,L,G
+   9,U,G
+   7,G
+  15,U,G
+   2,R
+   4,Z
+   4,R,J
+   1,J
+   1,R,K,G
+  21,R
+  51,R,K,G
+   1,G
+   3,R,J,G
+   8,R
+   1,R,K
+  16,R
+  31,R,J
+ 134,R
+  12,R,J
+  48,R
+ 144,R,J
+  58,R,D
+   2,L,D
+  50,R
+   2
+   8,R
+   1,R,J,G
+   4,R,K,G
+  90,R
+#0:29.359(1727)
+
+  34,R
   90,R

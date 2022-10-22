@@ -7,8 +7,24 @@ console load DadCollab2018/1-DadCollab2018/Bissy
    4,Z
    4,R,J
    9,R
+   4,Z
+   1,L,J
+   6
+   1,N
+   3,R,J
+  14,L,D,X
    1,R,J
- 109,R,D,X
+  14,R,D,X
+   2,L,J
+  14,L,D,X
+   1,R,J
+  14,R,D,X
+   2,L,J
+  14,L,D,X
+   1,R,J
+   7,R
+   1,R,J
+ 115,R,D,X
    4,L,G
   11,L,D,X
    4,L,J
@@ -47,7 +63,7 @@ console load DadCollab2018/1-DadCollab2018/Bissy
   13,U,X
   25,L,J
   12,L
-  96
+   9
    1,R,J
   20,R,D
  143,D
@@ -84,25 +100,28 @@ console load DadCollab2018/1-DadCollab2018/Bissy
   40
 
 #lvl_Bissy-2
-Set Player.StateMachine.State 0
    1,R,D,J
    1,R,K,G
    3,K
    2,R,K
    5,R,J,G
-  23,R,D
-   4,D
-   1,L,D
-   1,L,D
+  24,R,D
    1,D
-   1,L,D
-   1,D
-   1,L,D
-   1,D
-   1,L,D
-   1,D
-   1,L,D
    1,R,D
+   3,L,D
+   1,D
+   1,L,D
+   1,D
+   1,L,D
+   1,D
+   1,L,D
+   1,D
+   1,L,D
+   1,D
+  20,R,U,Z
+   4,R,J
+   8,R,K
+  90,R
 
 
 
