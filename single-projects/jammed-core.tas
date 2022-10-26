@@ -1,4 +1,4 @@
-RecordCount: 5810
+RecordCount: 5864
 
 #console load Flamecrafter113/LostContent/1-JammedCore 5400 1652.75 0 -105
 #Play, Heading Deeper, 37
@@ -15,10 +15,8 @@ console load Flamecrafter113/LostContent/1-JammedCore
    3,R
    1,R,J
   10,L,Z
+   4,J
    1,L,J
-   2,J
-   1,L,J
-   1,J
   23,L,Z
    4,V
    1,L,J
@@ -167,30 +165,31 @@ console load Flamecrafter113/LostContent/1-JammedCore
   40
 
 #lvl_b-00_entrance (2)
-  56,L,D
-  13,L,D,X
-   2,R,J
-  15,R,D,X
-   1,D
-   8,R,D
+  17,D
+  38,L,D
+  14,L,D,X
    1,R,J
-   1,J
-   3,R,K,G
-   1,K
-   6,R,K
-   5,R,D,X
+  15,R,D,X
+   9,R,D
+   1,R,J
+   1,R
+   2,R,K,G
+   3,R
+   2,R,J,G
+   4,R
    1,R,J,G
    5,R
   40
 
 #lvl_b-01
+   4,R
    6,R
    1,R,J
-  12,R
+   8,R
   15,R,X
    9,R,D,C
   20,R
-   6
+   7,R
   12,R,U,Z
    1,L
   12,J,G
@@ -867,8 +866,7 @@ console load Flamecrafter113/LostContent/1-JammedCore
   36,R,D
   24,L,D
    1,L
-   3,R
-  54,R
+  57,R
    4
    1,R
    1,R,J,G
@@ -916,4 +914,4 @@ console load Flamecrafter113/LostContent/1-JammedCore
    4,R
  110
 
-ChapterTime: 2:51.870(10110)
+ChapterTime: 2:51.853(10109)
