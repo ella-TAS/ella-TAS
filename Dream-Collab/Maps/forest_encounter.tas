@@ -1,7 +1,7 @@
 # DreamCollab2022
 # https://gamebanana.com/mods/391486
 
-RecordCount: 1679
+RecordCount: 2010
 
 console load DreamCollab2022/1-Maps/ForestEncounter
 
@@ -17,13 +17,11 @@ console load DreamCollab2022/1-Maps/ForestEncounter
   11,L,J
    5,L
   15
-   1,F,300
-   6,F,288.119
-   1,F,285.105
-  43,F,276.949
-   1,F,281.069
-   9,F,331
-   3,F,270
+   1,L,U
+  45,F,273.113
+   1,F,277.605
+  10,F,332
+   2,F,0
   15,R,Z
   23,R,D
    2,R,J
@@ -34,7 +32,7 @@ console load DreamCollab2022/1-Maps/ForestEncounter
    2
    1,R
 #wait
-   8
+  15
   12,R,J
   15,L,D,X
   15,D,C
@@ -44,32 +42,30 @@ console load DreamCollab2022/1-Maps/ForestEncounter
    1
    7,R,J,G
   27,L,K
-   1,F,30
-  45,F,76.778
-   1,F,76.815
-   4,F,76
+   1,R,U
+   1,F,45.174
+   1,F,50.507
+  35,F,79.052
+   7,F,79.053
 #lvl_a-02
   40
    1,F,76
-  33,F,72.252
-   1,F,70.412
-  24,F,62.793
-  10,F,62.675
-   1,R,U
-   6,R
+  35,F,70.053
+  39,F,69.521
   15,R,X
-   3,R
+   1
    3
   15,R,X
-  10,R,D
-  25
-   1,F,135
-  32,F,104.193
-   1,F,106.142
-   2,F,116.781
-   1,F,122.112
-   6,F,128.365
-  18,F,132.696
+  35,R
+   1,R,D
+  16,F,78.888
+   1,F,81.362
+   7,F,94.529
+   1,F,99.127
+  10,F,127.174
+  16,F,133.185
+   1,F,140
+   1,F,206.588
    1,F,132.696
   11,F,73
    2,F,63.83
@@ -77,17 +73,16 @@ console load DreamCollab2022/1-Maps/ForestEncounter
    6,F,57.363
    4,F,54.189
    1,F,0
-  18,F,34.34
-  13,F,34.357
+  33,F,35.5
    1,G
-   1,R,K,G
+   2,R,K,G
    5,R,J,G
   13,R
    8,R,J
   12,R,D
   15,R,Z
-   7,R,D
-   8,D
+   8,R,D
+   7,D
    3,R,J
    7,R,Z
    1,R,J
@@ -122,14 +117,14 @@ console load DreamCollab2022/1-Maps/ForestEncounter
   10,R,J
   15,R,X
   16
-   1,F,280.5
-  32,F,280.349
-  10,F,280.317
-   1,F,282.429
-  19,F,309.327
-   1,F,312.912
-   7,F,335.252
-  12,F,0
+   1,L,U
+  37,F,272.967
+   1,F,277.176
+  18,F,308.579
+   1,F,310.846
+   9,F,340
+   6,F,350
+   6,F,0
    5,R,Z
    6,R,J
    2,R,K,G
@@ -148,9 +143,8 @@ console load DreamCollab2022/1-Maps/ForestEncounter
    1,L,Z
   15,D,X
    8,L
-#wait (5f for momentum)
-   5
-  28
+#wait
+  34
    2,R,J
   12,R,Z
    1,R,J
@@ -186,13 +180,15 @@ console load DreamCollab2022/1-Maps/ForestEncounter
   10,R,J
   15,U,X
   35,R
-  32,F,58
+   1,R,U
+  25,F,57
    1,F,45
-  29,F,45.763
-   1,F,49.537
-  11,F,110
-  15,F,126.745
-   5,F,126.729
+  30,F,47.005
+   1,F,49.533
+   7,F,86.211
+   1,F,91.523
+  20,F,126.159
+   3,F,126.167
   15,R,Z
    1,R
    3
@@ -224,52 +220,55 @@ console load DreamCollab2022/1-Maps/ForestEncounter
    1,R,J
   14,R,D
   28,D
-#waiting
-  89
-  20,L
-   4,R,Z
-   1,J
-   7
-  11,R,J
-  25,R
-   4,R,Z
-   1,J
-   7
-   7,R,J
+  91
+  14,L,Z
+   1,L,J
+   1,L
+   6,R,Z
+   1,R,J
+   7,R
+   1,R,J
+   2,R
+   8,R,K,G
+  12,R
+  12,R,D,X
+   1,R,J
+   7,R
+   2,R,J
   15,R,U,X
-  19
-   1,F,75
-  10,F,106.052
-   1,F,104.009
-  11,F,44
-  11,F,344
-  11,F,284
-  19,F,252.558
-   1,F,252.558
-   3,F,247.892
-  16,F,247.893
-   1,F,247.938
-  12,F,271.276
-   1,F,271.287
-  22,F,286.759
-   5,L
-   7
+  18
+   1,R,U
+   8,F,87.945
+   1,F,84.611
+  11,F,25
+  11,F,325
+  11,F,265
+   1,F,257.014
+  38,F,246.134
+   1,F,247.841
+  12,F,276.945
+   1,F,278.279
+  10,F,285.303
+  14,F,289
+   4
   15,L,Z
   16,R,D
    8,D
-   6
-  12,L
-   2,R
-   4,R,Z
-   1,J
-   7
-  11,R,J
-  27,R
+   3
+   2,D
+   1,L,D
+   6,L
+   9,L,D,X
    1,R,J
-   3,R
+   7,R
+   4,R,J
+   6,J
+   7,R
+  16,R,D
+   5,R,D,J
   15,D,X
-  35
-  24,F,10
+  35,D
+  28,F,10
    9,R,Z
    1,J
    6
@@ -283,9 +282,7 @@ console load DreamCollab2022/1-Maps/ForestEncounter
    1,L,J
   12,L,D
   15,D,X
-#shoutout my featherline dude
-#this key cycle is insane
-  14
+  24
   10,L,D,X
    7,R,J
    7,R,D,X
@@ -299,6 +296,7 @@ console load DreamCollab2022/1-Maps/ForestEncounter
    7,R
    3,R,J
    7,R,Z
+#lvl_a-06
   40
    5,R,Z
   10,R,J
@@ -308,7 +306,7 @@ repeat 34
    2,R
    2,L
 endrepeat
-#46.325 final time
+#45.747 final time
 
 
 
