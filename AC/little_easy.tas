@@ -1,0 +1,64 @@
+RecordCount: 288
+
+console load AnarchyCollab2022/1-Submissions/06_little
+   1
+
+#Start
+#lvl_1
+  84
+   4,Z
+   6,R,J
+   3,R
+   3,R,K
+  14,R
+   1,R,J
+   1,R,K
+   1,R,J
+   1,R,K
+  10,R,J,G
+  15,R,D,X
+   4,R,J
+  40
+
+#lvl_2
+   7,R,J
+   3,R
+   4,R,J,G
+   2,R,K,G
+  11,R,J,G
+  15,R,D,X
+  15,R,Z
+   1,R,J
+   1,R,K
+   1,R,J
+   1,R,K
+   1,R,J
+   1,R,K
+   1,R,J
+   1,R,K
+   1,R,J
+   1,R,K
+   1
+   6,R
+   6,R,J
+   5,R
+   1
+   1,R
+   2,R,J
+   5,R,K,G
+  40
+
+#lvl_3
+   5,R,K
+   4
+  90,R,D,X
+
+
+
+
+
+   3,R,J
+   6,R,D,X
+   7,R,J,G
+  90,R,K,G
+#0:02.346(138)

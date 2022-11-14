@@ -1,10 +1,10 @@
-RecordCount: 102
+RecordCount: 177
 
-console load minecire/minearchy/minearchy
+console load AnarchyCollab2022/1-Submissions/21_autorice
    1
 
 #Start
-#lvl_1
+#lvl_start
  190
    4,Z
    1,R,J

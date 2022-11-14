@@ -1,4 +1,4 @@
-RecordCount: 2714
+RecordCount: 2715
 
 console load stanley/celeste-parable CF-0
    1
@@ -1119,6 +1119,7 @@ Endrepeat
   40
 
 #lvl_CF1-3
+***
    4,D
   14,R,D
    1,S,N
@@ -1197,6 +1198,8 @@ Endrepeat
   14,R,D,X
    1,R,J
   14,R,D,X
+   1,L,J
+  90,D,X
 
 
 #2:34.105(9065)
