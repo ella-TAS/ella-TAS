@@ -1,4 +1,4 @@
-RecordCount: 1349
+RecordCount: 1614
 
 console load DreamCollab2022/1-Maps/DancerInRain
    1
@@ -55,7 +55,8 @@ console load DreamCollab2022/1-Maps/DancerInRain
   45
   20,R
    5,R,X
-  17,R
+  14,R
+   3,R
    1,G
    1
    1,J
@@ -63,34 +64,42 @@ console load DreamCollab2022/1-Maps/DancerInRain
    1,R
   15,R,J
    5
+   4
    5,R,D,X
    5
    1,R,J
-  15
-   2,R,D
-   4,D,X
-   1,R,U
-  45
-   9,R
+  12,R
+   5,R,U,Z
+   9
+   2
+  30,R
+  13,R
    5,R,D,X
-  16,R
+  15,R
    5,R,X
   24
   11,D
   15,R,D
+
+
+
   15,L
    5,R,D,X
-  17,R
+  10,R
+   3,L
+   4,R
    2,R,J,G
-   3,R
-   5
+   6,R
    5,R,U,X
-  23,R
+  21,R
+   8
+   8,R
+
+  11,R,J
+   5,R,U,X
    9
-   5,D
-  13,R,J
-   5,R,U,X
-  87
+
+  77
   40
 
 #lvl_iceCream_03
@@ -201,18 +210,17 @@ console load DreamCollab2022/1-Maps/DancerInRain
   53,L
    5,L,X
   23,R
+
   13,R
    5,R,D,X
   30,R
    5,R
    1,R,J,G
   10,U,G
-
    7,L
    2,R
    1,L
    2,R
-
    1,R,J
    2,R
    3,R
@@ -221,11 +229,11 @@ console load DreamCollab2022/1-Maps/DancerInRain
    1,J,G
   10,R,D
    1,L,D
-  12,R,D
+  11,R,D
 
 
 
-  43,R,D
+  44,R,D
   12,R,D
    9,R,D,X
 
@@ -306,21 +314,27 @@ console load DreamCollab2022/1-Maps/DancerInRain
 
 #lvl_iceCream_07
   69
+
   15,U,X
   32
-  14,L,J
+
+  13,L,J
   15,L,X
-   5,L
-  15,L,X
-  22,R,J
-  18,R,D
-   9,R,D
-  12,L,Z
-  31,R
+  15,R,J
+   9,R,J
+  24,R,J
+   7,R
+   6
+  15,L,Z
+  32,R
   15,U,X
    6,R
   15,R,D,X
-  12,R,D
+   3,R
+   9,R,D
+
+
+
   41,R
   15,R,D,X
   18,R
@@ -383,5 +397,5 @@ console load DreamCollab2022/1-Maps/DancerInRain
   15,U,X
  137
 
-ChapterTime: 1:19.985(4705)
+ChapterTime: 1:19.832(4696)
 
