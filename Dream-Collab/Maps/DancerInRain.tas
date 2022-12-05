@@ -1,4 +1,4 @@
-RecordCount: 1614
+RecordCount: 1703
 
 console load DreamCollab2022/1-Maps/DancerInRain
    1
@@ -334,13 +334,13 @@ console load DreamCollab2022/1-Maps/DancerInRain
    9,R,D
 
 
-
   41,R
   15,R,D,X
   18,R
   49
-  15,L,U,X
+  15,L,U,Z
    1,J
+
   20,L,J
    1,K
    6,R,K
@@ -356,8 +356,12 @@ console load DreamCollab2022/1-Maps/DancerInRain
    7,R,D
   15,R,X
    3,R
-  15,U,X
+
+   1
+  14,U,X
   48,R,J
+   
+
    5,R,D,X
   14,R
    1,J,G
@@ -368,26 +372,30 @@ console load DreamCollab2022/1-Maps/DancerInRain
   19,L,J
    5,L,X
   10,R,J
-   5,U,Z
-  11
-   3,L,J,G
-   1,K
-   7
+
+
+   5,U,X
+   9
+   1,R,J
+  10
    5,L,Z
-  11
-  12,R,J
-   6,R
+  12
+  11,R,J
+
+   1,R
+   2,R
+   2,R
    2,R,J
+   1,R
+   1,R,J
   11,R
   21,R
-  15,R,U,X
 
+  15,R,U,X
   14,R,J
   15,R,C
-  13,R,J
+  12,R,J
 
-
- 
   79
   40
 
@@ -397,5 +405,5 @@ console load DreamCollab2022/1-Maps/DancerInRain
   15,U,X
  137
 
-ChapterTime: 1:19.832(4696)
+ChapterTime: 1:19.798(4694)
 
