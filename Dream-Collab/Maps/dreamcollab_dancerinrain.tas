@@ -1,7 +1,7 @@
 # DreamCollab2022
 # https://gamebanana.com/mods/391486
 
-RecordCount: 2699
+RecordCount: 2750
 
 console load DreamCollab2022/1-Maps/DancerInRain
    1
@@ -64,8 +64,6 @@ console load DreamCollab2022/1-Maps/DancerInRain
    2,R
    6,R,X
   11,R,J
-
-
   58,R
   15,R,X
    6,R,G
@@ -84,15 +82,11 @@ console load DreamCollab2022/1-Maps/DancerInRain
    1,R,K,G
    7,R
   11,U,X
-  57,R,D
-   2,R,D
-   1,R
+  60,R,D
   15,D,X
-   3,R
-   5,R
+   8,R
   10,L,D,X
    5,R,J
-  
    4,R
    2,L
    9,L,D
@@ -114,14 +108,18 @@ console load DreamCollab2022/1-Maps/DancerInRain
   11,R,D,X
    1,J,G
    5,L,D
-  15,D
-   6,R,D
-  60,R
-   1,R
-  15,U,Z
-   7,L,J,G
-   1,K,G
-  15,L
+  21,D
+  52,R
+   4,D,X
+   1,R,U
+   8,R
+   1,L,J,G
+   2
+   1,L,J,G
+   4,R,J
+   6,L,J
+   7,L
+   8,L
    9,L,U,X
   17,R
   25,R,D,X
@@ -133,7 +131,6 @@ console load DreamCollab2022/1-Maps/DancerInRain
    8,K
    2
   12,L,Z
-
   26,R,J
    1,J
    1,R,J
@@ -213,16 +210,13 @@ console load DreamCollab2022/1-Maps/DancerInRain
    1,R,D
    1,D
    2,L,D
-
-  43,R,D
-  12,R,D
+  55,R,D
    9,R,D,X
   16,R
    4,K,G
   11,J,G
    1,L,J
    2,K
-
    5,R,Z
   36,R,J,G
   81
@@ -243,7 +237,6 @@ console load DreamCollab2022/1-Maps/DancerInRain
    1,R,J
    2,R
   21,R,U,Z
-
   56,L
   18,L,X
   19,L
@@ -259,18 +252,12 @@ console load DreamCollab2022/1-Maps/DancerInRain
    7,D
   15,L,D,X
    1,R
-  54,R
-   3,R
+  57,R
   15,R,X
-
   44
   32,R
    5,D,X
-  12,L,D
-
-  16,L,D
-
-
+  28,L,D
   28
   14,R,U,X
   17,L
@@ -280,27 +267,19 @@ console load DreamCollab2022/1-Maps/DancerInRain
    4,L
    2,D
    2
-  19,R
-
-   1,R
+  20,R
    2,L
    5,U,X
    7
-
-  30,R
-   4,R
-
+  34,R
   15,R,X
   11,R,J
-
   14,D
    3,R,D
    3
    1,R,D
    1
    1,R
-   
-
   23,R
   15,R,X
    4,R,J
@@ -335,7 +314,6 @@ console load DreamCollab2022/1-Maps/DancerInRain
   49
   15,L,U,Z
    1,J
-
   20,L,J
    1,K
    6,R,K
@@ -343,8 +321,7 @@ console load DreamCollab2022/1-Maps/DancerInRain
    1,J,G
    1,K,G
    1,L,J,G
-  19,R,J
-   1,R,J
+  20,R,J
   15,R,D,X
    2,L
   84,R,J
@@ -354,21 +331,16 @@ console load DreamCollab2022/1-Maps/DancerInRain
    1
   14,U,X
   48,R,J
-   
-
    5,R,D,X
   14,R
    1,J,G
   31,D
-
-
   32,R,X
   14,R,D,C
    8,L,J
    2,L
    7,L,X
    8,R,J
-
   16,U,X
    3,R
   18,L,U,X
@@ -379,8 +351,7 @@ console load DreamCollab2022/1-Maps/DancerInRain
    3,R
   10,R,D,X
    7,R,J
-   2,R
-  12,R
+  14,R
   16,D,X
   43,R
   14,R,X
@@ -392,7 +363,7 @@ console load DreamCollab2022/1-Maps/DancerInRain
   14,U,X
  135,D
 
-ChapterTime: 1:12.998(4294)
+ChapterTime: 1:12.913(4289)
 
 
 
