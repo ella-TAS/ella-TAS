@@ -1,7 +1,7 @@
 # DreamCollab2022
 # https://gamebanana.com/mods/391486
 
-RecordCount: 3004
+RecordCount: 3040
 
 console load DreamCollab2022/1-Maps/DancerInRain
    1
@@ -288,12 +288,15 @@ console load DreamCollab2022/1-Maps/DancerInRain
    2,R
   15,R,U,X
    2,R
-  44,L
-  17,L,X
+  43,L
+  15,L,X
+   2,L
+
    5,L
   10,L,X
   43,R,D
-   4,L,D
+   1,R,D
+   3,L,D
    4
    3,D
    9,L,X
@@ -356,4 +359,4 @@ console load DreamCollab2022/1-Maps/DancerInRain
   14,U,X
  135,D
 
-ChapterTime: 1:12.454(4262)
+ChapterTime: 1:12.437(4261)
