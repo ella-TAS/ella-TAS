@@ -1,4 +1,4 @@
-RecordCount: 2983
+RecordCount: 2994
 console load SecretSanta2022/1-Main/pansear
    1
 
@@ -395,18 +395,15 @@ console load SecretSanta2022/1-Main/pansear
   14,R,U,G
    2,R,J
   15,R,X
-  15,R,C
-   5,R,D,X
+  15,R,D,C
+   7,R,D,X
   40
 
 #lvl_n-heart
   10,R
-  15,R,D,X
+  15,R,X
   11,R
-  24,R,U,X
-   4,L,C
-   1,L,D
-  87,L
-  47,D,X
+  21,R,U,X
+ 135
 
-ChapterTime: 1:09.768(4104)
+ChapterTime: 1:09.734(4102)
