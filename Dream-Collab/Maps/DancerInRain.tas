@@ -1,311 +1,278 @@
-RecordCount: 1703
+# DreamCollab2022
+# https://gamebanana.com/mods/391486
+
+RecordCount: 3040
 
 console load DreamCollab2022/1-Maps/DancerInRain
    1
 
-#Start
-   5,R,X
-   9
+# Start
+#lvl_iceCream_00
+  14,R,X
    1,J
   20,R
    1,R,J
-  19,R
-   4,D,X
-   1,R,U
-  13,L
-   5,L,J,G
-   7,L
-   6,L,J
-  32,L
-   9
-   4,D,X
-   3,L
+  18,R
+   1,G
+   6,R,U,Z
+  36,R
+  54
+  10,L,Z
    1,R,J
-   7,R
-   3,R,J
-   5,R,D,X
-  13,R
-   1,R,D,J
-  20,R,J
-   5,U,X
-  10
+   1,R,K
+   1,R,J
+   2,R
+  16,R,J
+  15,U,X
    1,R
-   5,J
-   5,R
-   6
-   4,D,X
-   1,L
+   5,L,J
+   6,L
+   6,R
+   5,L,Z
    1,R,J
-   7,R
-   2,R,J
-   5,R,D,X
-   4
+   6,R
+   1
+   1,R,J
+   1
+   8,R,D,X
   40
 
 #lvl_iceCream_01
-   5
-  11,R,J
-   5,R,U,X
- 152
-  40
+   7
+   7,R,J
+  14,R,U,X
+ 182
 
 #lvl_iceCream_02
   69
-   5,U,X
-  45
-  20,R
-   5,R,X
-  14,R
-   3,R
-   1,G
-   1
-   1,J
-   7,R,J
-   1,R
-  15,R,J
-   5
-   4
-   5,R,D,X
-   5
+  10,L,X
+   7,L,J
+   5,L
+   1,L,K,G
+   4,L
+   1,L,N
    1,R,J
-  12,R
-   5,R,U,Z
-   9
-   2
-  30,R
-  13,R
-   5,R,D,X
-  15,R
-   5,R,X
-  24
-  11,D
-  15,R,D
-
-
-
-  15,L
-   5,R,D,X
-  10,R
-   3,L
-   4,R
-   2,R,J,G
-   6,R
-   5,R,U,X
-  21,R
-   8
-   8,R
-
+   2,R
+   6,R,X
   11,R,J
-   5,R,U,X
-   9
-
-  77
-  40
+  58,R
+  15,R,X
+   6,R,G
+   1
+   5,J
+   1
+   4,R
+  21,R,J
+   2,R
+  10,R,D,X
+   1,R,J
+  15,R
+   2,R,D
+  12,R,X
+   1,R,J,G
+   1,R,K,G
+   7,R
+  11,U,X
+  47,R
+  12
+  15,D,X
+   1,R
+   4,R,Z
+   7,R,J
+   5,R
+   1,R,J
+   5,R,D
+   3,L,D
+  23,L,D,X
+  27,R
+  23,R,X
+ 117
 
 #lvl_iceCream_03
-  69
-   2,J
-   5,U,X
-  40
-  15,L
+  11
+  15,U,X
+  45,L
   21,R,J
+  15,R,X
+  22,R,D
+  26,L,D
+  17,D
+   7,R,D
    5,R,X
-  24,R
-   8,R,D
-  25,L
-  18,D
-   5,R,D,X
    1,J
-  18
-   8,D
-  52,R
-   4,D,X
-   1,R,U
-   8,R
-   6,L,J,G
-   1
-   7,L,J,G
-   6,L
+  17
+  53,R
+  12,R,U,Z
+   1,J
+   1,L,K,G
+  11,L,K
+  14,L
+   2
+   9,L,U,X
+  17,R
+  25,R,D,X
+   9,R
    5
-   5,L,U,X
-  26,R
-   5,R,D,X
-  32,R
-   4,L
-  45,R
-
-
-
-
-   1,R
-   5,R,X
-   9,R
-  17,L
+  46,R
+  14,R,X
+  17,L,J
+   1
+   8,K
+   2
+  12,L,Z
+  26,R,J
+   1,J
    1,R,J
-   7,R
-  10,R,J
-   6,R,D
-   5,R,D,X
-   9,R
-   1,R,J
-   4,D,X
-  11,R,U
-
-
-  75
+  15,U,X
+  24,L,J
+# the bird
+# madeline's position needs to be at the left half
   40
 
 #lvl_iceCream_04
-  69
-   5,U,X
- 119,R
-   1,R,J
-  16,R
-  13
-   1,J
-   2
-   8,R
-   4,D,X
-  13,R
-   5,D,X
-  10
-   2,L,D
-   6,D
-   5,D,X
-  13
-   5,R,D,X
-  61
-   4,R
-   5,R,U,X
-  22,R
-  10,L
-   1,D
-   1,L,D
-  36,R
-   7,D
-   1
-   2,D
-   1
-   1,D
-   4,D,X
-  12,R
-   4,D,X
-   1,L
-  13,R
-   1,J
-   1
-   4,J
-   1
-   1,R,J
+   3
+   2,R
+   6,J
+  13,U,X
+ 110,R
+  12,R,J
+   7,R
+   2,R,J
+   9,R
+  15,R,Z
+  19,R
+  34,R,U,X
+  14,L
+  27,R,J
+  14,R,Z
+   1,L,J
+   2,L
+  10,R,D,X
+   1,R,J,G
+   2,R,K,G
    1,R
-   4,R,J
-   5,R,X
-  21,R
-  71
+   2
+   3,R
+   1
+   1,R
+   1
+   1,L,J
+   3,L
+   6
+  27,R
+   3,R,D
+   2,R
+  27,R,U,Z
+   2
+   5,R
+  11,L,U,X
+  24,R,J
+  15,U,X
+   8,R
+   5,J
+   1,L,K,G
+   3,J,G
+  12,K
   40
 
 #lvl_iceCream_05
-  69
-   5,U,X
-  53,L
-   5,L,X
-  23,R
-
-  13,R
-   5,R,D,X
-  30,R
-   5,R
-   1,R,J,G
-  10,U,G
-   7,L
-   2,R
-   1,L
-   2,R
-   1,R,J
-   2,R
-   3,R
-   6
-   9,R,Z
-   1,J,G
-  10,R,D
-   1,L,D
-  11,R,D
-
-
-
-  44,R,D
-  12,R,D
-   9,R,D,X
-
-
-  16,R
-   4,K,G
-  11,J,G
+  11,L
+   6,L,D,X
    1,L,J
+   5,L
+   2
+   1,X
+   3,R,J
+  10,R,D,X
+   7,R,J
+  12,U,X
+  39,L
+  11,L,X
+  52,R
+   8,R,D
+  13,R,Z
+   1,R,J,G
+   4,R
+  24,L,D
+   1,R,D
+   1,D
+   1,R,D
+   1,D
+   1,L,D
+   1,R,D
+  55,R,D
+   9,R,D,X
+  17,R
+   6,R,K,G
+  10,J,G
    2,K
-
    5,R,Z
-  36,R,J,G
+  35,R,J,G
   81
   40
 
 #lvl_iceCream_06
-  69
-  15,U,X
-  37
-  18,L
-  18,L,X
-  20,L
-  10,L,G
-   1,G
-   6,D,G
-   1
-   2,L
-   1,L,J,G
+  11,L
+   7,L,D,X
+   3,L,J
    1,L,K,G
-   7,R,K
-
-  15,R,X
-   8,R,D
-   1,J,G
-  30,D
-
-
-# need 0.11 subpixel to save 1f
-#   6,L,D
-#   5,D
-#  15,L,D,X
-#   1,R
-
-   5,L,D
-   6,D
+   1,L,K
+   3,L,K,G
+   3,L
+   1,R
+   3,L
+   1,R
+   1,X
+   1,R,J
+   2,R
+  21,R,U,Z
+  56,L
+  18,L,X
+  19,L
+   8,L,J,G
+   7
+   3,L,G
+   2
+   1,L
+   1
+   1,J
+   4,K,G
+  21,R,D,X
+   1,R,J,G
+  21,D
+   7,L,D
+   8,D
   15,L,D,X
    2,R
-   
-  54,R
-
-   3,R
+  57,R
   14,R,X
   44
   32,R
    5,D,X
-  28,L,D
-  26
-   5,R,U,X
+  24,L,D
+   4,L,D
   28
-  20,L
-  21,R
+  14,R,U,X
+  17,L
+   3
+   7,L
+   2,L,D
+   4,L
+   2,D
+   2
+  20,R
+   2,L
    5,U,X
-   8
-  34,R,J
+   7
+  34,R
   15,R,X
   11,R,J
-
   14,D
    3,R,D
    3
-   1,D
-   2
+   1,R,D
+   1
+   1,R
   23,R
   15,R,X
    4,R,J
@@ -313,34 +280,36 @@ console load DreamCollab2022/1-Maps/DancerInRain
   40
 
 #lvl_iceCream_07
-  69
-
-  15,U,X
-  32
-
-  13,L,J
+   4
+   7,L
+  14,L,C
+   1,X
+   1,R,J
+   2,R
+  15,R,U,X
+   2,R
+  43,L
   15,L,X
-  15,R,J
-   9,R,J
-  24,R,J
-   7,R
-   6
-  15,L,Z
+   2,L
+
+   5,L
+  10,L,X
+  43,R,D
+   1,R,D
+   3,L,D
+   4
+   3,D
+   9,L,X
   32,R
-  15,U,X
+  13,U,X
    6,R
-  15,R,D,X
-   3,R
-   9,R,D
-
-
+  27,R,D,X
   41,R
   15,R,D,X
   18,R
   49
   15,L,U,Z
    1,J
-
   20,L,J
    1,K
    6,R,K
@@ -348,62 +317,46 @@ console load DreamCollab2022/1-Maps/DancerInRain
    1,J,G
    1,K,G
    1,L,J,G
-  19,R,J
-   1,R,J
+  20,R,J
   15,R,D,X
    2,L
   84,R,J
    7,R,D
   15,R,X
    3,R
-
    1
   14,U,X
   48,R,J
-   
-
    5,R,D,X
   14,R
    1,J,G
   31,D
-  16,R,X
-  16
-   5,R,D,X
-  19,L,J
-   5,L,X
-  10,R,J
-
-
-   5,U,X
-   9
-   1,R,J
-  10
-   5,L,Z
-  12
-  11,R,J
-
+  32,R,X
+  14,R,D,C
+   8,L,J
+   2,L
+   7,L,X
+   8,R,J
+  16,U,X
+   3,R
+  18,L,U,X
    1,R
-   2,R
-   2,R
-   2,R,J
-   1,R
-   1,R,J
-  11,R
-  21,R
-
-  15,R,U,X
-  14,R,J
-  15,R,C
-  12,R,J
-
+   9,D,C
+   1,L,J
+   2,L
+   3,R
+  10,R,D,X
+   7,R,J
+  14,R
+  16,D,X
+  43,R
+  14,R,X
   79
   40
 
 #lvl_iceCream_08
-  71
-   3,J
-  15,U,X
- 137
+  11
+  14,U,X
+ 135,D
 
-ChapterTime: 1:19.798(4694)
-
+ChapterTime: 1:12.437(4261)
