@@ -1,7 +1,7 @@
 # DashlessCollab
 # https://gamebanana.com/mods/403284
 
-RecordCount: 2031
+RecordCount: 2117
 
 console load DashlessCollab/1-lobby/17_phant
    1
@@ -301,26 +301,29 @@ console load DashlessCollab/1-lobby/17_phant
   16,R
   13,D
   43,D,G
-  51,L,D
+  31,L,D
+  20,L,D,G
    1,L,J
   15,L
    2
-   6,L,J
-  15,L
-   3,R
-   6,R,J
-  27,R
+   1,L,J
+  21,L,D
+   1,L,G
+   5,R,J
+   2,R
+  18,R,G
+   1,R,J
+  14,R
    1,R,J
   13,R
    1,R,J
    7,R
    1,R,J
-   7,R
-   1,R,J
-  27,R
-  17,D
-   4,R,J
-   3,R,J,G
+  18,R
+   3,R,D
+  10,D
+   3,R,J
+   4,R,J,G
   21,R
    1,R,J
    2
@@ -329,7 +332,7 @@ console load DashlessCollab/1-lobby/17_phant
    8,R
    1,G
    8,L,J
-  14,L
+  15,L
   23,R
   41,R,J
    1,G
@@ -337,11 +340,11 @@ console load DashlessCollab/1-lobby/17_phant
    7,K,G
    7,R
    1,R,J
-  10
-  30,L
+  11
+  29,L
    6,G
-  16,D,G
-  15,G
+  14,D,G
+  17,G
    6,R,J
   20,R
   26,L
@@ -365,4 +368,4 @@ console load DashlessCollab/1-lobby/17_phant
    8,R,J
  163,R
 
-ChapterTime: 1:04.107(3771)
+ChapterTime: 1:03.869(3757)
