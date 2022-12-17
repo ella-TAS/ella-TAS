@@ -1,4 +1,4 @@
-RecordCount: 7772
+RecordCount: 7778
 
 #TAS by Knox.
 #User ID:
@@ -30,8 +30,7 @@ AnalogueMode, Precise
   14,L,D,X
    1,L,J
    1,F,312.9
-   3,F,180.001
-   4,F,180.001
+   7,F,180.001
    2,F,270.001
    1,F,275.2
    1,L,J
@@ -375,6 +374,7 @@ AnalogueMode, Precise
   19,G
    7,D
    1
+***
   13,L,Z
    1,R,J
    1,K

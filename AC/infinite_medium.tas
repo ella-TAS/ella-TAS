@@ -1,4 +1,4 @@
-RecordCount: 935
+RecordCount: 1313
 
 console load AnarchyCollab2022/1-Submissions/13_infinite
    1
@@ -51,12 +51,11 @@ console load AnarchyCollab2022/1-Submissions/13_infinite
    4,L
   15,R,Z
   29,L
+
    3,L,K,G
    4,L
    2
    1,L
-
-
    6,R,X
   23,R,J
    5,R
@@ -102,28 +101,31 @@ console load AnarchyCollab2022/1-Submissions/13_infinite
   12,R,D
   10,L,D,X
   27,R,J
-   9,U,X
-  15,R,J
-  36,R,D
-  14,R,D,X
+  10,U,X
+  25,R,J
+  31,R,D,X
+   6,R,Z
    1,R,J
+   7,R
+  12,R,J
+  15,R,D,X
+   1,R,D,J
+   8,R,D,X
+   3,R
+   2
    5,R
-   2,R,K
-  13,R,J
-  16,R,D,X
-   6,R,J
-  14,U,Z
-   7,R,J
-   4,L,J
-   1,R,J
-  11,R
-   7,R,Z
+  15,U,X
+   3,J
+   1
+   1,R,K,G
+   7,R
+   6,R,Z
    1,R,J
    1,R
   40
 
 #lvl_b-01
-   5,R
+   6,R
    1,R,J
    9,R,D,X
    1,S,N
@@ -132,19 +134,16 @@ console load AnarchyCollab2022/1-Submissions/13_infinite
   51,R,J
   25,R,U,X
   10,R,D,C
+   2,R,J
+   6,R
+  14,R,Z
    1,R,J
-   5,R
-  15,R,X
-   4,Z
-   3,R,J
-  11,R
-   3
-   1,R
-   3
+  18,R
+   2,K
   14,U,X
   11,L,J
   11,L
-   4,L,Z
+   4,Z
    5,L,J
    9,L
    1
@@ -217,10 +216,9 @@ console load AnarchyCollab2022/1-Submissions/13_infinite
   12,L,D
   27,L,J
   15,L,X
-   1,R
-   1,R
 
 #lvl_b-06
+   2,R
    9,R,J
   15,U,X
   33,R,D
@@ -232,6 +230,7 @@ console load AnarchyCollab2022/1-Submissions/13_infinite
   15,R,X
   16,R,D,C
    4,R,J
+#0:35.717(2101)
   12,U,X
    5,R,J
   13,R
@@ -256,4 +255,4 @@ console load AnarchyCollab2022/1-Submissions/13_infinite
   46,R
   80,K
 
-ChapterTime: 0:40.052(2356)
+ChapterTime: 0:39.933(2349)

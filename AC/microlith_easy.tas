@@ -1,4 +1,4 @@
-RecordCount: 477
+RecordCount: 480
 
 console load AnarchyCollab2022/1-Submissions/09_microlith
    1
@@ -115,15 +115,6 @@ console load AnarchyCollab2022/1-Submissions/09_microlith
 
 #lvl_c3a00
   16
-   2,R
-  10,R,D,X
-   2,J
-   5,R,J
-   9,R,K,G
-  15,U,X
-   6,R
-  90,R,J,G
-
   10,R,D,X
    1,L,J
    1,L,K

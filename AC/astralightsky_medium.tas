@@ -1,4 +1,4 @@
-RecordCount: 154
+RecordCount: 289
 
 console load AnarchyCollab2022/1-Submissions/18_astra
    1
@@ -12,11 +12,10 @@ console load AnarchyCollab2022/1-Submissions/18_astra
    1,L,J
    3,R,J
    5,R,K,G
-   5,R
+   7,R
    1,R,K
-   5,R,D
-  13,D
-   4,Z
+   5,R
+  13,L,D,X
    2,R,J
    1,R,K
    1,R,J
@@ -32,37 +31,47 @@ console load AnarchyCollab2022/1-Submissions/18_astra
   40
 
 #lvl_a-01
-***
    1,R
-   5,R,J
-   2,J
+   4,R,D,J
+   3
   13,U,X
-   9,R,J
-  21,R,D
-   3,R,D
-  11,D
-   1,R,D
-   5,L,Z
-   1,R,J
-   7,R
-   1,R,J
+   8,R,J
+   2,R,K,G
    8,R
-  16,R,D,X
-  50,R,J
-  38,R,U,X
-   7,R,Z
-***
+   3,R,K
+   8,R,D
+  10,L,D
+   2,R,D
+   4,Z
+   1,R,J
+   6,R
    1,R,J
    3,R
+  15,R,D,X
+  50,R,J
+  19,R,X
+   1,R,J,G
+   3,L,J
+   2,R,J
+   7,R
+   4,Z
+   1,R,J
+   5,R
   40
 
 #lvl_a-02
-***
+   1,R
+  37,R,J
+   3,R,D
+  19,R,X
+   1,G
+   5,R,J,G
+  90,R
+
    2,R
    2,R,K
   19,R,J
   14,U,X
-***
   12,L,J
    1,R,J
   15,U,X
@@ -71,7 +80,6 @@ console load AnarchyCollab2022/1-Submissions/18_astra
   10,L,X
    3,J
   11,L,J
-***
   11,U,X
   21,R,J
   90,L,K,G

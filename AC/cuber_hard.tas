@@ -1,9 +1,11 @@
-RecordCount: 974
-console load AnarchyCollab2022/ClumsyCuber/GlueChaliceIV
+RecordCount: 976
+
+console load AnarchyCollab2022/1-Submissions/29_cuber
    1
 
 #Start
-Set,CelesteTAS.SimplifiedGraphics,true
+Set CelesteTAS.SimplifiedGraphics true
+Set CelesteTAS.SimplifiedBackdrop true
 
 #lvl_1
  190
@@ -269,6 +271,7 @@ Endrepeat
    9,R,J
  114,L,X
  135,R
-Set,CelesteTAS.SimplifiedGraphics,false
+Set CelesteTAS.SimplifiedGraphics false
+Set CelesteTAS.SimplifiedBackdrop false
 
 ChapterTime: 0:42.738(2514)

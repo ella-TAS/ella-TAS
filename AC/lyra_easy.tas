@@ -1,4 +1,4 @@
-RecordCount: 1187
+RecordCount: 1206
 
 console load AnarchyCollab2022/1-Submissions/05_lyra
    1
@@ -168,12 +168,15 @@ console load AnarchyCollab2022/1-Submissions/05_lyra
    6,L,J
    4,J
   11,U,X
-  14,R,J
-  11,R
-  10,R,X
-   7,R,J
    4,J
-   8,U,X
+  10,R,J
+   3,R
+   1,R,K,G
+   7,R
+  10,R,X
+   4,R,J
+   6,J
+   9,U,X
   40
 
 #lvl_5

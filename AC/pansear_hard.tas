@@ -1,10 +1,9 @@
-RecordCount: 703
-console, load, AnarchyCollab2022/pansear/some dashless map
+RecordCount: 825
+
+console load AnarchyCollab2022/1-Submissions/26_pansear
    1
 
 #Start
-#Set,CelesteTAS.ShowGameplay,false
-
 #lvl_intro
   36
    4,R
@@ -98,40 +97,16 @@ console, load, AnarchyCollab2022/pansear/some dashless map
    2,L
    7,R,K
    8,R,J,G
-  17,R,D
-  90,L,D
-
-
-   7,R,J,G
-   6,R
-   3,R,K
-  90,R
-
-
-
-
    5,R
-   2,R,K
-   2,L,K
-   1,L,J,G
-   1,R,J
-   1,L,J
-   1,R,J
-  11,R,K
-   3,L,K
-   1,L,J,G
-   1,J
-   1
-   6,R,K
-   1,R,J,G
-   3,R,K,G
-  11,R
-  11,D
-   2,L
-   5,L,D
+   1,K
+  10,R,D
+   6,L,D
+   5,L
+   3,L
+   1,L,D
+   3,R,D
+   1,L,D
    6,D
-   1,R
-   1
   13,R
    1,R,J
   14,R
@@ -184,10 +159,32 @@ console, load, AnarchyCollab2022/pansear/some dashless map
    1,R,J
   14,R
    1,R,J
-  14,R
-   1,R,J
-  14,R
-   1,R,J
-  14,R
+   6,R
+  40
 
-Set,CelesteTAS.ShowGameplay,true
+#lvl_7
+   8,R
+   6,R,J
+   7,R
+   2,R,K
+  23,R,D
+   9,R,J
+   5,R
+  14,R,K
+  12,L,J
+   6,K,G
+   1,R,K
+  12,R,J
+   6,K,G
+   1,L,K
+   1,J
+   4,L,J
+  11,K
+   1
+   1,J
+  90,R
+
+
+   1,K
+   1,J,G
+  90,R,J
