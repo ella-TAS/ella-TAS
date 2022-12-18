@@ -1,4 +1,4 @@
-RecordCount: 825
+RecordCount: 1058
 
 console load AnarchyCollab2022/1-Submissions/26_pansear
    1
@@ -179,12 +179,122 @@ console load AnarchyCollab2022/1-Submissions/26_pansear
    1,L,K
    1,J
    4,L,J
-  11,K
-   1
-   1,J
-  90,R
-
-
-   1,K
+  12,K
    1,J,G
-  90,R,J
+   1,K
+   9,R,J
+  20,R,D
+   1,R,J
+   1,R
+   5,R,J
+  15,R,D
+   1,R,K,G
+   5,R,J,G
+   1,R
+   5,R,J
+  15,R,D
+   1,G
+   5,R,J,G
+  13,R,D
+   1,R,J
+  14,R
+   1,R,J
+  12,R
+  40
+
+#lvl_3
+   2,R
+   1,R,J
+  14,R
+   1,R,J
+  18,R
+  11,R,D,J
+   8,R,D,X
+   8,R,J,G
+   5,R
+   1,R,K
+   5,R
+  20,R,J
+  25,R
+   1,R,J
+  14,R
+   1,R,J
+  14,R
+   1,R,J
+  10,R
+  40
+
+#lvl_8
+   5,R
+   4,R,J
+  25,R,D
+   7,R,D,J
+   3,R
+  11,R,X
+   2,J,G
+   3,R,J
+  10,L,J
+  11,R,K
+   1,R
+   6,R,J
+  15,R,D
+   2,D
+   9,R,J
+   1,L,J
+   1,K
+   9,R,J
+  21,R,D
+  15,R,U,X
+  20,R,D
+   1,R,J
+   3,R
+  40
+
+#lvl_9
+  10,R,D
+   4,D
+  11,R,D
+   1,R,J
+  18,R
+   1,R,J
+  14,R
+   1,R,J
+  12,R
+   1
+   1,R
+   5,R,D,J
+  13,R,U,X
+   1,R,J,G
+   1,J
+   4
+   7,R
+  10,R,J
+  18,R
+   1,R,J
+  14,R
+   1,R,J
+  14,R
+   2,R,J
+  40
+
+#lvl_heart probably
+   3,R,J
+  23,R,D
+   1,D
+   1,R,D
+  13,D
+  11,R,J
+  18,R,D
+  12,R,J
+  19,R,D
+  10,R,J
+   1,R
+   9,R,J
+  10,R
+   4,R,D
+   1,R
+  11,R,D,J
+  19,U,X
+ 135
+
+ChapterTime: 0:36.924(2172)
