@@ -18,37 +18,6 @@ console load AnarchyCollab2022/1-Submissions/05_lyra
    3,R
   15,U,X
   10,R
-#+4f right route
-#  16,R,J
-# 119,U,X
-#   9,R,U,C
-#  40
-#  14,R
-#  10,R,J,G
-#  16,U,X
-#   6,L,J
-#  11,R,J
-#   1,K
-#  12,L,J
-#   1,K
-#   5,J,G
-#   5,R,J
-#   1,R
-#   1,R,K,G
-#   2,R,J,G
-#   1,J
-#   6,R,J
-#   7,R
-#   3,R,J
-#   1,L,J
-#   3,K,G
-#  17,R,K
-#  15,U,X
-#  17,L,J
-#   1,L,K,G
-#   7,L
-#0:06.919(407)
-#-----
    2,R,J
    2,J
  124,U,X
