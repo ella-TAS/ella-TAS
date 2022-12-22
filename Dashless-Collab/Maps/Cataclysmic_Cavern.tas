@@ -1,7 +1,7 @@
 # DashlessCollab
 # https://gamebanana.com/mods/403284
 
-RecordCount: 1287
+RecordCount: 1289
 
 console load DashlessCollab/1-lobby/10_ruR
    1
@@ -251,17 +251,19 @@ console load DashlessCollab/1-lobby/10_ruR
    8,R,J
   26
    1,R,U
-# featherline desyncs on this
-# feather and I have no idea why
-# so it's bad hand-done inputs
-# for now
-   5,F,50
-  10,F,120
-  25,F,180
-  10,F,115
-  15,F,30
-  22,F,0
-  18,F,60
+   3,F,37.165
+   1,F,42.246
+  11,F,102
+  11,F,162
+  10,F,198.981
+   1,F,194.28
+  11,F,134
+  11,F,74
+  11,F,14
+   9,F,347.32
+   1,F,352.571
+  11,F,53
+   6,F,78.774
   39,L
    3,R,J
   32,R
@@ -575,8 +577,7 @@ console load DashlessCollab/1-lobby/10_ruR
    3,F,0
   48,F,90
   46,F,122
- 135
-ChapterTime: 2:06.701(7453)
-
-
+ 134
+   1
+ChapterTime: 2:06.565(7445)
 
