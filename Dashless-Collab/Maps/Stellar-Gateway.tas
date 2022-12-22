@@ -1,7 +1,7 @@
 # DashlessCollab
 # https://gamebanana.com/mods/403284
 
-RecordCount: 1314
+RecordCount: 1479
 
 console load DashlessCollab/1-lobby/03_leafy
    1
@@ -38,34 +38,33 @@ console load DashlessCollab/1-lobby/03_leafy
   32,R
    2,R,J,G
   23,R
-   3,R,J
+  79,R,J
    1
-  40,R
+   1,R
+   1,R,K,G
+   4,R,J,G
+  22,R
+   1
+   1,R
    1,R,J,G
-   8,R,K,G
-  47,R
+  17,R,K,G
+  13,R,J,G
+  12,R,K,G
+  24,R
    1,R,J
-   9,R
-  10,R,J,G
-  36,R
-   7,R,J
-   7,R,K
-   1,K
-  27,R,K
-   1,J,G
-   1,L,J
-  21,R,J
-   1,R,K
-   1,R,J,G
-  21,R
-   8,R,J
-   7,R,D
+  28,R
+   2,R,J
+   1,J
+   2,R,J
+  28,R,D
    8,L,D
-  15,R,D
-   4,R
-   3,R,D
-   7,L,D
+   2,R,D
+   5,R
   10,R,D
+   5,L,D
+   3,R,D
+   1,L,D
+   6,R,D
    8,R,J
    4,R
   40
@@ -76,8 +75,8 @@ console load DashlessCollab/1-lobby/03_leafy
   28,R
   12,R,J
   24,R
-   1,R,X
-  46,R
+   1,X
+  46
    2,J,G
    1,L,J
    4,R,J
@@ -89,35 +88,38 @@ console load DashlessCollab/1-lobby/03_leafy
    9,R
    1,R,J
   24,R
-  42,R,J
-  28,R
-   2,J,G
-   1,L,J
-  17,R,K,G
-   4,L,K
-   4,R,K
-   1,L,J
+  70,R,J
+   2,K,G
+   1,L,K
+  17,R,J,G
    4,L,J
-   3,R,J
-   5,J
-  12,R,J
-  31,R,K
-   2,R,J
-  13,L,J
-  12,R,J
-  28,R,K,G
-  30,R,J
+   4,R,J
+   1,L,J
+   4,L,K
+   3,R,K
+   7,K
+  12,R,K
+   1,J,G
+   1,L,J
+  10,R,J
+  15,R,K
+   1,J,G
+   1,L,J
+   9,R,J
+  13,R
+  21,R,J,G
+  29,R,K
    1,R
    1,R,J
-  24,R
+  28,R
+   1,R,J
   40
 
 #lvl_Evilleafy_03a
-   4,R
-  12,R,J
-  19,R
-   1,R,X
-  52,R
+  11,R,J
+  24,R
+   1,X
+  52
   10,J,G
    1,L,J
   15,R,K,G
@@ -356,7 +358,7 @@ console load DashlessCollab/1-lobby/03_leafy
   13,L,J
  135
 
-ChapterTime: 1:09.768(4104)
+ChapterTime: 1:09.224(4072)
 
 
 
