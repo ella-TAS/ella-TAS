@@ -1,7 +1,7 @@
 # DashlessCollab
 # https://gamebanana.com/mods/403284
 
-RecordCount: 1289
+RecordCount: 1414
 
 console load DashlessCollab/1-lobby/10_ruR
    1
@@ -457,31 +457,31 @@ console load DashlessCollab/1-lobby/10_ruR
 # intentionally bad
 # because we have to
 # wait for it to respawn
-  13,F,180
-  34,F,80
-  17,F,90
-   3,F,110
-   3,F,40
-   3,F,0
-  25,F,280
-  13,F,260
-  54,L
-  26
+   9,F,185
+   3,F,176.55
+  11,F,119.497
+   1,F,90
+  21
+  29,F,90.073
+   1,F,87.699
+  11,F,28
+  11,F,328
+  11,F,268
+   1,F,265
+  55,L
+  27
    1,R,D
-   4,F,154.511
-  11,F,95
-  31,F,87.777
-   3,F,89.135
-   1,F,86.857
-  11,F,27
-  32,F,17
+   2,F,145.178
+   1,F,139.844
+  44,F,90.919
+   1,F,90.248
+  11,F,30
+  31,F,15.108
+   2,F,133.611
   42,L
   26
    1,R,D
-# I got tired of fighting
-# with featherline so from
-# this point on, feathers
-# are done (poorly) by hand
+# this feather still handdone, rest featherline
   14,F,180
    4,F,100
    4,F,40
@@ -495,29 +495,31 @@ console load DashlessCollab/1-lobby/10_ruR
   49,L
   26
    1,R,U
-  37,F,120
-  12,F,90
-   3,F,45
-   3,F,20
-  17,F,0
-   8,F,340
-  53,R,D
+  11,F,105
+  29,F,116.218
+   1,F,115.503
+  11,F,56
+  24,F,359.957
+  52,R,D
   45,L
   36,R
   26
-   8,F,65
-  18,F,25
-   5,F,90
-  20,F,140
-  35,F,180
-  12,F,90
-  18,F,42
-   1,R,J,G
-   2,R,K,G
-  11,R
-   1,R,J
-  18,R
-  32,R,J
+   1,F,50.25
+   6,F,68.406
+   1,F,63.072
+  12,F,19.582
+   1,F,24.249
+  11,F,84
+  11,F,144
+  24,F,185.369
+   1,F,183.469
+  11,F,123
+  11,F,63
+   4,F,44.556
+   3,F,49.89
+   9,F,99
+  14,F,110
+  18,R,J
   61,R,D
    3,R,J
   24,R,D
@@ -547,7 +549,6 @@ console load DashlessCollab/1-lobby/10_ruR
    1,R,K
   13,R
   40
-
 #lvl_boss5
    1,R
   19,D
@@ -579,5 +580,5 @@ console load DashlessCollab/1-lobby/10_ruR
   46,F,122
  134
    1
-ChapterTime: 2:06.565(7445)
+ChapterTime: 2:05.732(7396)
 
