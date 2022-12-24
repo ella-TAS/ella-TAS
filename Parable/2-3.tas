@@ -1,127 +1,270 @@
-RecordCount: 634
+RecordCount: 653
 
 console load stanley/celeste-parable 2-0
    1
 
 #Start
 #The Fall
-read 2-0a Start Kevin
+read 2-0a Start lvl_2-3
 
-#lvl_2-5
-   6,L,X
-  20,L
-  11,K
-  40,D
-  80,D,X
-   1,R
-  39,L,U,G
-   5,L,X
-  18,L
+#lvl_2-3
+   3,R,K
+   1,R,J
+  14,R,D,X
+   1,R,J
+  14,R,D,X
+   1,R,J
+   4,Z
+   1,R,J
+   7,R
+   7,R,J
+   4,R,K,G
+   1,S,N
+   1,D,J
+  34
+   4,R
+  11,D,X
+   4,J
    3
-   1,L
-   7
-  18,L
-   2
-  14,L,Z
+  11,D,X
+  40
+
+#lvl_2-A
+   7,R,D
+   2,D
+   1,R,D
+  11,R,D,X
+   1,R,J
+   3,R
+  14,R,D,X
+   2,R,J
+   8,R
+   1,R,J
+  15,D,X
+   1,R,D
+  13,L,D
+   6,L,Z
+   1,L,J
+   7,L
+   1,L,J
+  14,L,D,X
+   1,L,J
+  14,L,D,X
+   1,L,J
+  15,D,X
+   1,L,D
+  10,R,D
+   6,R,Z
    1,R,J
    7,R
    1,R,J
-   1,R
-   5,R,D,X
-   1,L,J,G
-  41,R,J
-   2,R,K
-  15,R,D,X
-  24,R
-  63,R,D
-  40
-
-#lvl_2-6
-#Bottom of the Main Control Room of the Mind Control Facility Ending
-   8,R,D
-   1,S,N
-   1,D,J
-  34
-  29,R,D
- 313,D
-  53,L,D
-  27
-   1,S,N
-   1,D,J
-  34
-#deathwarp
-   1,S,N
-   1,D,J
-  65,O
-   1,S,N
-   1,D,J
-  34,G
-   1,R,J
-  13,R,U,X
-   1,R,J,G
-   1,L
-   6,R
-  14,R,Z
-   1,L,J
-  14,L,Z
-   1,R,J
-   6,R,D,X
-   1,R,J,G
-  12,R
-   1,R,J
-  13,R,U,X
-   2,R,J,G
-  11,R
-   7,R,J
-  20,R,D,X
-   5,R,J
-   2,J
-  20,R,D,X
-   1,R,J
-   6,R,D,X
-   1,S,N
-   1,D,J
-  34
-   1,R,J
-  14,R
-   1,R,J
-  14,R
-   1,R,J
-  14,R
-   1,R,J
-  13,R,U,X
-  31,R,D
-  21,U,X
+  14,R,D,X
    1,R,J
    5,R
-  13,R,D,X
-   2,R,J
-  14,R,D,X
-   1,R,J
-  10,R,D,X
+  15,D,X
+   1,R,D
+  13,L,D
+   6,L,Z
+   1,L,J
+   7,L
+   1,L,J
+  14,L,D,X
+   1,L,J
+   1,L
+   3
+  15,D,X
+   2,L,D
+  16,R,D
+   6,R,Z
    1,R,J
    7,R
    1,R,J
   14,R,D,X
    1,R,J
-   8,R,D,X
-  40
+   5,R
+  15,D,X
+   1,R,D
+  19,L,D
+   6,L,Z
+   1,L,J
+   7,L
+   1,L,J
+  14,L,D,X
+   1,L,J
+  15,D,X
+   3,L,D
+  15,R,D
+   6,R,Z
+   1,R,J
+   7,R
+   1,R,J
+  14,R,D,X
+   1,R,J
+  15,D,X
+   1,R,D
+  10,L,D
+   6,L,Z
+   1,L,J
+   7,L
+   1,L,J
+  14,L,D,X
+   1,L,J
+   7,L
+  15,D,X
+   1,L,D
+  12,R,D
+   6,R,Z
+   1,R,J
+   7,R
+   1,R,J
+  14,R,D,X
+   1,R,J
+   9,R
+   1
+   1,R,J
+  15,D,X
+  10,L,D
+   6,L,Z
+   1,L,J
+   7,L
+   1,L,J
+  14,L,D,X
+   1,L,J
+   7,L
+   1
+   1,L,J
+  15,D,X
+   2,L,D
+  18,R,D
+   6,R,Z
+   1,R,J
+   7,R
+   1,R,J
+  14,R,D,X
+   1,R,J
+   5,R
+  15,D,X
+   1,R,D
+  13,L,D
+   6,L,Z
+   1,L,J
+   7,L
+   1,L,J
+  14,L,D,X
+   1,L,J
+   5,L
+  15,D,X
+   4,L,D
+  18,R,D
+   6,R,Z
+   1,R,J
+   7,R
+   1,R,J
+  14,R,D,X
+   1,R,J
+   2,R
+  15,D,X
+   1,R,D
+  13,L,D
+   6,L,Z
+   1,L,J
+   7,L
+   1,L,J
+  14,L,D,X
+   1,L,J
+  15,D,X
+   1,L,D
+  15,R,D
+   6,R,Z
+   1,R,J
+   7,R
+   1,R,J
+  14,R,D,X
+   1,R,J
+  15,D,X
+   1,R,D
+   7,L,D
+   1,D
+   1,L,D
+   6,L,Z
+   1,L,J
+   7,L
+   1,L,J
+  14,L,D,X
+   1,L,J
+  14,L,D,X
+   1,L,J
+  15,D,X
+   2,R,D
+   6,R,Z
+   1,R,J
+   7,R
+   1,R,J
+  14,R,D,X
+   1,R,J
+  14,R,D,X
+   1,R,J
+  14,R,D,X
+   1,R,J
+  14,R,D,X
 
-#lvl_2-7
-#Freedom Ending
+#lvl_BTS-0
+   1,R,J
+Repeat 10
+  14,R,D,X
+   1,R,J
+Endrepeat
    6,R
+  11,R,D,X
+   2,R,J
+   1,S,N
+   1,D,J
+  34
+  18,R,D,X
    1,R,J
   14,R,D,X
    1,R,J
   14,R,D,X
    1,R,J
    7,R,D,X
+  40
+
+#lvl_BTS-1
+   7,R
+   1,R,J
+Repeat 11
+  14,R,D,X
+   1,R,J
+Endrepeat
+  14,R,D,X
    1,S,N
    1,D,J
   34
-   3,R
-   8,R,J
-  15,R,U,X
-  43,R,D
+   1,R,J
+  14,R
+   1,R,J
+  14,R,D,X
+   1,R,J
+  14,R,D,X
+   1,R,J
+  12,R,D,X
+   1,R,J
+   7,R
+   5,R,J
+   5,R,U,X
+  40
 
-#0:58.021(3413)
+#lvl_BTS-2
+#Museum Ending
+   8,R
+   1,S,N
+   1,D,J
+  34
+   2,R
+  14,R,D,X
+   9,R,J
+  29,R
+  14,R,Z
+   1,L,J
+
+#0:51.476(3028)

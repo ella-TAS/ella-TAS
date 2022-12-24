@@ -1,4 +1,4 @@
-RecordCount: 127
+RecordCount: 296
 
 console load stanley/celeste-parable B-0
    1
@@ -7,23 +7,24 @@ console load stanley/celeste-parable B-0
 #Storage Area
 #lvl_B-0
   36
-  11,L,Z
-  18,L,J
-  12,L,K,G
-   1,J
+   4,Z
+   1,L,J
+   3,L
+   1,L,K
+   3,L
+  15,L,J
   12,K
   12,J
   12,K
   12,J
   12,K
-  11,J
-   1
-   3,L,K,G
-   1,L
+  13,J
+   7,L,K,G
+   1,R,K
+   1,L,K
    1,J
    7,K,G
-   1,G
-   1,R
+   1,R,K
    1,R,J,G
    1,R,K,G
    9,R
@@ -54,37 +55,65 @@ console load stanley/celeste-parable B-0
    1,R,J
   14,R
    1,R,J
-  14,R
-   6
-Repeat 288
-   3,L,D
-   3,R,D
-Endrepeat
-   1,R,J
-  22,R
-   1
-  19,J
-  16,U,X
-   3,L
-  18,L,K
-  12,L,J,G
-   3,L,K,G
+  20,R
+  80,D
+Repeat 33
    1,J
-   2,L,K,G
+   1,O
+Endrepeat
+ 441,D,K,G
+   1,L,K
+   1,K
+   1,L,K
+   2,D,K
+  19,L,K
+  32,L,J
+  15,U,X
+   4,L
+  12,L,J,G
+  12,L,K,G
+  12,L,J,G
+   8,L,K,G
+  43
+
+#lvl_B-fill0
+   1,K
+  10
+   7,D,X
+  40
+
+#lvl_B-0
+  19,L,D
+   1,D
+   1,G
+   1,L,J,G
+  14,L,D
+   1,L
+  19,L,U,Z
+   1,R
+   1,K
+   2,J,G
+  19,L,J
+  12,L,K,G
+   5,L,J,G
+   1,R,J
+   4,J
+   1,K
+   2,R,J
   43
 
 #lvl_H-0
 #Too Lazy to Add Ending
-   5,L
+   7,L
    1,L,J,G
    1,L,K,G
-   1
-  10,L
-Repeat 12
+  14,L
+Repeat 10
    1,L,J
   14,L
 Endrepeat
-   1,L
+   1,L,D,J
+  25,L
    1,L,J
    1,L,K,G
    1,L,J,G
@@ -99,4 +128,4 @@ Endrepeat
   15,L,U,X
   41,L,D
 
-#0:43.282(2546)
+#0:27.404(1612)

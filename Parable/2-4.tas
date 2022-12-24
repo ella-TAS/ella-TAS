@@ -1,11 +1,12 @@
-RecordCount: 112
+RecordCount: 145
 
 console load stanley/celeste-parable 2-0
    1
 
 #Start
 #The Fall
-read 2-3 Start lvl_2-6
+read 2-0a Start Kevin
+read 3-1 Kevin lvl_2-6
 
 #lvl_2-6
 #Countdown Ending
@@ -55,4 +56,4 @@ read 2-3 Start lvl_2-6
   35,O
  114
 
-#0:46.036(2708)
+#0:45.067(2651)

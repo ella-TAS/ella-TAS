@@ -1,4 +1,4 @@
-RecordCount: 1885
+RecordCount: 2123
 
 console load stanley/celeste-parable 1-0
    1
@@ -90,20 +90,20 @@ console load stanley/celeste-parable 1-0
    7,R,D,X
    1,R,J,G
   11,R
-   4,R,D,J
-  17,R,D,X
-   1,R,J,G
-  11,R
+   3,R,J
+   3,R
+  16,R,D,X
    1,R,J
   14,R
    1,R,J
-   2,R
+   9,R
   40
 
 #The 2 Doors
 #lvl_1-5
-   4,R
-  14,R,D,X
+   5,R
+   1,R,J
+  13,R,D,X
    1,S,N
    1,D,J
   34
@@ -112,10 +112,10 @@ console load stanley/celeste-parable 1-0
    1,R,J
   12,R
   10,R,D,X
-  43
+  40
 
 #lvl_A-1
-   4,R
+   7,R
    1,S,N
    1,D,J
   34
@@ -140,9 +140,9 @@ console load stanley/celeste-parable 1-0
    5,R,D,X
    1,R,J,G
    2
-   3,R
+   4,R
    1,R,K
-   8,R
+   7,R
    2,R,J
    5,R,U,X
   40
@@ -159,22 +159,23 @@ console load stanley/celeste-parable 1-0
   12,R,J
   12,R,K,G
    3,R,J,G
-   2,K
   15,U,X
-  18,R,J
+  20,R,J
   40
 
 #lvl_A-3
-  19,R
-  16,U,X
+  15,R
+  15,U,X
+   3,R
   12,L,J,G
    8,K,G
    1,J,G
    3,L
    1
    1,L
-   2
-   4,R
+   1
+   1,R
+   4
   15,U,X
   10,L
   15,D,X
@@ -200,11 +201,10 @@ console load stanley/celeste-parable 1-0
   19,L,X
   10,L,C
    5,J
-  19,R,U,Z
+  22,R,U,Z
    1,S,N
    1,D,J
   34
-   3,R
   12,L,K,G
    1,J,G
    3,L,J
@@ -228,23 +228,26 @@ console load stanley/celeste-parable 1-0
 
 #Storage Area
 #lvl_B-0
-  11,L
-  10,L,D,X
-  15,L,J
-  12,L,K,G
-   1,J
+  11
+   6,L,D,X
+   1,L,J
+   3,L
+   1,L,K
+   3,L
+  12,L,K
+  12,L,J,G
   12,K
   12,J
   12,K
   12,J
   12,K
-  12,J
-   3,L,K,G
-   1,L
+   8,J
+   2,L,K,G
+   1,R,K
+   1,L,K
    1,J
    7,K,G
-   1
-   1,R
+   1,R,K
 #dcb
    1,R,J,G
    1,R,K,G
@@ -330,10 +333,10 @@ console load stanley/celeste-parable 1-0
    6,L,D,X
    1,L,J
    7,L
-   2,L,J
+   2,L,D,J
 
 #multiple
-1203,L,X
+1202,L,X
  610,L,C
 
 #lvl_I-6
@@ -634,4 +637,4 @@ console load stanley/celeste-parable 1-0
    7,L
    4,L,J
 
-#2:01.499(7147)
+#2:01.040(7120)

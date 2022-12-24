@@ -1,4 +1,4 @@
-RecordCount: 75
+RecordCount: 599
 
 console load stanley/celeste-parable 2-0
    1
@@ -16,33 +16,46 @@ console load stanley/celeste-parable 2-0
   47,L,D
  160,R,D
  200,L,D
-  18,D
- 212,R,D
+ 163,D
+  92,R,D
+   1,J,G
+   4,R
+   3
+   9,L
+   4,Z
+   1,R,J
+   1,R,K,G
+   9,R
+   1,R,J
+  18,R,D,X
+   4,R
+   4,R,D,J
   40
 
 #lvl_2-1
-  32,R,D
+   5,R,J
+   3,R
   13,R,D,X
-  14,R,J
-   2,R
-   1,G
-  12,R,J,G
-   3,R,K,G
-  14,R
-  72,R,X
-  12,R,U,C
    1,R,J,G
+  11,R,D
+   1,R,J
+   4,J
+  14,R,U,X
+   1,R,J,G
+   2,J
+   2
+   3,R
+   2,R,K
+   7,R
+   5,R,J,G
   30,R,D
-   4,Z
-   4,R,J
-   2,R,K,G
-   7,R,J,G
+   5,R,J
   40
 
 #lvl_2-2
-  14,R,J
-  17,U,X
-   5,R,J
+  11,R,J
+  16,U,X
+   7,R,J
   67,R,X
   32,R,D,C
    1,G
@@ -61,7 +74,7 @@ console load stanley/celeste-parable 2-0
    1,R,J
   14,R,D,X
    1,R,J
-   4,R,Z
+   4,Z
    1,R,J
    7,R
    7,R,J
@@ -80,13 +93,11 @@ console load stanley/celeste-parable 2-0
 #lvl_2-4
   14,R,D,X
    1,R,J
+  13,R,D,X
+   2,R,J
+  13,R,D,X
+   2,R,J
   14,R,D,X
-   1,R,J
-  14,R,D,X
-   1,R,J
-  14,R,D,X
-   1,R,J
-   8,R,D,X
    1,R,J
    7,R
    7,R,J
@@ -94,22 +105,19 @@ console load stanley/celeste-parable 2-0
    1,R,J
   14,R
    1,R,J
-   4,R
-  15,R,D,X
-   1,R
-   5,R,J
-   8,R,U,X
+  14,R
+  23,R,J
+   5,R,U,Z
   40
 
 #lvl_2-5
-   7,R
-  19,U,X
-   1,R
-  35,L,J
-  11,K,G
+  11,R
+   2,L
+   1,K,G
    1,R,K
-   1,L,K
-  16,L,J,G
+  15,U,X
+   4,L
+  35,L,J
   11,K,G
    1,R,K
    1,J
@@ -124,15 +132,16 @@ console load stanley/celeste-parable 2-0
   16,L,J,G
   11,K,G
    1,R,K
-   1,J
-  24,L,J
+   1,L,K
+  15,L,J,G
   11,K,G
    1,R,K
    1,L,K
   12,L,J,G
    7,L
 #Kevin
-  12,L,J
+  11,L,J
+   1,J
    1,K
   12,L,J,G
    1,K,G
@@ -147,7 +156,7 @@ console load stanley/celeste-parable 2-0
    2,R,K
   12,R,J
    1,K
-  13,R,J
+  12,R,J
    5,L,K,G
    1,R,K
   12,R,J
@@ -156,4 +165,4 @@ console load stanley/celeste-parable 2-0
    7,L,U,X
   12
 
-#0:33.490(1970)
+#0:32.504(1912)

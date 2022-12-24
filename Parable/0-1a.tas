@@ -1,4 +1,4 @@
-RecordCount: 66
+RecordCount: 67
 
 console load stanley/celeste-parable
    1
@@ -25,5 +25,6 @@ console load stanley/celeste-parable
    7,R
   11,R,J
   14,R,U,X
+#   1,S
 
 ChapterTime: 0:02.533(149)
