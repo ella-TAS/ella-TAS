@@ -20,8 +20,9 @@ console load DashlessCollab/1-lobby/12_avT
    1,R,J
    1,R,K,G
    1,R,J,G
-   4,R
-   2,R,J,G
+   3,R,J
+   1,R
+   1,R,K,G
   11,R
    1,R,J
   18,R
@@ -922,4 +923,4 @@ Repeat 37
 EndRepeat
    1
 
-ChapterTime: 2:36.502(9206)
+ChapterTime: 2:36.485(9205)
