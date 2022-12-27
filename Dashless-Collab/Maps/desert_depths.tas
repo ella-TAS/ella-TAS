@@ -1,7 +1,7 @@
 # DashlessCollab
 # https://gamebanana.com/mods/403284
 
-RecordCount: 4485
+RecordCount: 4535
 
 console load DashlessCollab/1-lobby/07_avS
    1
@@ -224,26 +224,27 @@ EndRepeat
    9,G
    2,D,G
   28,G
-  22,R,D
-  69,R
-   8,R,U
+  18,R,D
+  43,F,99
+  31,F,79
+   6,F,45
    1,R,J
    1,R,K
    1,R,J
    1,R,K
    1,R,J
    5,L,K
-   6,R,J
-   3,R,K,G
-  18,R
+   7,R,J
+   1,R,K,G
+  17,R
    1,R,J
   14,R
    2,R,J
-   1,J
+   3,R
    2
    1,R,J,G
-   2,R,K,G
-  11,R
+   1,R,K,G
+  10,R
    1,R,J
   26,R,D
    1,J
@@ -1149,4 +1150,4 @@ Repeat 37
 EndRepeat
    1
 
-ChapterTime: 3:19.070(11710)
+ChapterTime: 3:19.019(11707)
