@@ -1,7 +1,7 @@
 # DashlessCollab
 # https://gamebanana.com/mods/403284
 
-RecordCount: 5080
+RecordCount: 5153
 
 console load DashlessCollab/1-lobby/07_avS
    1
@@ -292,13 +292,14 @@ endrepeat
    1,R,J
    1,R,K
   25,R,D
-
    7,R,J
    9,R
    1,R,J
   13,R,D
    9,L,D
   40
+
+#lvl_a-3
   10,L
    7,L,D
   13,R,D
@@ -314,6 +315,8 @@ endrepeat
    1,R,J
    5,R
   43
+
+#lvl_a-4
    9,R
 repeat 4
    1,R,J
@@ -329,7 +332,7 @@ endrepeat
   10,L,J
   43
 
-#lvl_a-5
+#lvl_a-5 (2)
    6,L
    1,L,J,G
    1,L,K,G
@@ -379,18 +382,15 @@ endrepeat
   12,J
    1,K
    8,L,K
-  29,J
-Repeat 3
-  10,R,D
-  10,L,D
-EndRepeat
-   5,R,D
-   5,L,D
-Repeat 2
-   2,R,D
-   2,L,D
-EndRepeat
-   4,R
+  56,J
+  10,K
+   5
+   1,R,J,G
+   5,L
+   1,L,J
+   1,R,K,G
+   4,K
+  27,R,D
    1
    5,R
    1,R,J
@@ -399,29 +399,26 @@ EndRepeat
   16,R
    1,R,J
   12,R
-  35
-  12,R
-  18,G
-  11,L,J
-   1,L
-   1,L,K,G
+   4
+   8,L
    1,L,J,G
-   9,L
-  17,L,J
-   1,R,K
-   6,R
-   2,R,J,G
-   5,R
-   2,R,J,G
-   5,R
+   1,L,K,G
+  12,L
+  12,L,J
+   2
+   6,R,K
    1,R,J,G
+   4,R,K,G
+   2,R,J,G
+   3,R
+   1,R,K,G
   10,R
-   1,R,J
-  14,R
-   1,R,J
-  22,R
-  47,L,D
-  10,R
+   7,R,J
+  40,R,D
+  12,L,D
+   3,D
+   1,L,D
+  12,R
   11
    6,R,J
    6,L,K
@@ -444,7 +441,7 @@ EndRepeat
   14,L
    9,L,J
    8,L
-  88,U
+  90,U
    5,L
    9,L,J
    8,L,J
@@ -1135,4 +1132,4 @@ Repeat 37
 EndRepeat
    1
 
-ChapterTime: 3:15.721(11513)
+ChapterTime: 3:14.208(11424)
