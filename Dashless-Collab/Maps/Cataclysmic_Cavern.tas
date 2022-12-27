@@ -1,7 +1,7 @@
 # DashlessCollab
 # https://gamebanana.com/mods/403284
 
-RecordCount: 2065
+RecordCount: 2068
 
 console load DashlessCollab/1-lobby/10_ruR
    1
@@ -396,7 +396,7 @@ console load DashlessCollab/1-lobby/10_ruR
   50,F,90
   40
 
-#lvl_boss3
+#lvl_boss6
   14,F,90
    1,R,J
   18,R
@@ -594,9 +594,13 @@ console load DashlessCollab/1-lobby/10_ruR
    9,R
   26
    1,R,U
-   5,F,39
-  49,F,93
- 177,F,122
+   2,F,33.836
+   1,F,35.17
+  50,F,91.848
+   1,F,94.102
+  42,F,121.711
+ 135
+
 
 ChapterTime: 2:05.290(7370)
 
