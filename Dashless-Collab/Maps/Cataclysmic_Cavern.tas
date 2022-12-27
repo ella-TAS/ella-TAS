@@ -1,7 +1,7 @@
 # DashlessCollab
 # https://gamebanana.com/mods/403284
 
-RecordCount: 1414
+RecordCount: 2065
 
 console load DashlessCollab/1-lobby/10_ruR
    1
@@ -37,9 +37,23 @@ console load DashlessCollab/1-lobby/10_ruR
   40
 
 #lvl_a3
+#  50,F,101
+#  50,F,77
+#  33,F,323
+#  38,F,275
+#  74,F,95
+#  35,F,180
+#  17,F,135
+#  76,F,83
+#  69,F,57
+#  31,F,340
+#  25,F,344
+#  25,F,200
+#  30,F,135
+#  79,F,56
+#  23,F,90
+#hits feather: 890
 
-# Water is not remotely
-# optimized, sorry
   95,R
    9,R,U
   35,L,U
@@ -57,6 +71,8 @@ console load DashlessCollab/1-lobby/10_ruR
   27,R
   53,R,U
   32,R
+#hits feather: 895
+
   26
    1,R,U
   50,F,74.481
@@ -171,45 +187,42 @@ console load DashlessCollab/1-lobby/10_ruR
   37,F,178.64
   15,R,D
   20,L,D
-  32,R,D
-  21,R
-  54,L
-  23,L,D
-  44,R,D
-  55,R,U
+  22,R,D
+  31,F,100
+  71,F,263
+  39,F,154
+  62,F,50
+  26,F,115
+  38,F,142
+  33,F,73
+   8,F,36
+   1,R,J
+   1,R,K
+   1,R,J
+   1,R,K
+   1,R,J
+   1,R,K
+   1,R,J
+   4,R,K,G
   11,R
-  50,R,D
-  16,R,U
-  22,R
-   1,R,D
-   1,R
-   8,R,U
    1,R,J
-   1,R,K
-   1,R,J
-   1,R,K
-   1,R,J
-   1,R,K
-   4,R,J,G
-   9,R
-   1,R,J
-   1,J
-   3,R
   40
 
 #lvl_boss1
-  11,R
-   1,R,J,G
-  10,R
    1,R,J
-  14,R
+   5,R
+   1,R,J
+   4,R
+   1,R,J
+   5,R
+   4,R,J
+   8,R
    1,R,J
    4,R
    1,S
-   1,D,J
-  34
+  35,D,J
   10,R
-   7,R,J
+   6,R,J
   43
   26,R,D
    1,R,J
@@ -442,12 +455,18 @@ console load DashlessCollab/1-lobby/10_ruR
   17
   40,R,J
   43
-  40,R,J
-   8
-  10,R
-   1,R,J
-  14,R
-  17,R,J
+  11,R,J
+  19,R
+  19
+   1,R
+   9,G
+   3,D,G
+   1
+   1,R,J,G
+   1,R,K,G
+   1,R,J,G
+   7,R
+  10,R,J
   48,L
   61,R
   34,L
@@ -575,10 +594,9 @@ console load DashlessCollab/1-lobby/10_ruR
    9,R
   26
    1,R,U
-   3,F,0
-  48,F,90
-  46,F,122
- 134
-   1
-ChapterTime: 2:05.732(7396)
+   5,F,39
+  49,F,93
+ 177,F,122
+
+ChapterTime: 2:05.290(7370)
 
