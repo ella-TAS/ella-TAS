@@ -1,7 +1,7 @@
 # DashlessCollab
 # https://gamebanana.com/mods/403284
 
-RecordCount: 2068
+RecordCount: 2126
 
 console load DashlessCollab/1-lobby/10_ruR
    1
@@ -37,42 +37,21 @@ console load DashlessCollab/1-lobby/10_ruR
   40
 
 #lvl_a3
-#  50,F,101
-#  50,F,77
-#  33,F,323
-#  38,F,275
-#  74,F,95
-#  35,F,180
-#  17,F,135
-#  76,F,83
-#  69,F,57
-#  31,F,340
-#  25,F,344
-#  25,F,200
-#  30,F,135
-#  79,F,56
-#  23,F,90
-#hits feather: 890
-
-  95,R
-   9,R,U
-  35,L,U
-  33,L
-  65,R
-  48,R,D
-  89,R
-  47,R,U
-  23,R
-   1,R,U
-  25,L,U
-  31,U
-  40,D
-   7,R,D
-  27,R
-  53,R,U
-  32,R
-#hits feather: 895
-
+  50,F,101
+  50,F,77
+  33,F,323
+  38,F,275
+  74,F,95
+  35,F,180
+  17,F,135
+  76,F,83
+  69,F,57
+  31,F,340
+  25,F,344
+  25,F,200
+  30,F,135
+  79,F,56
+  23,F,88.9
   26
    1,R,U
   50,F,74.481
@@ -80,8 +59,9 @@ console load DashlessCollab/1-lobby/10_ruR
   11,F,102
   29,F,126.358
    1,F,87.868
-  15,R,D
-  10,L,D
+  14,R,D
+   7,L,D
+   5,L
   29,R
   26
    1,R,D
@@ -104,13 +84,13 @@ console load DashlessCollab/1-lobby/10_ruR
   11,F,55
   44,F,40.19
    5,F,40.486
-   1,F,40.001
-  11,F,340
-  20,F,316.95
-  39,R,D
+   2,F,40.001
+   3,F,340
+  28,F,316.95
+  41,R,D
    9,D
-  40,R
-   9,D
+  36,R
+  12,D
   23,R
    1,R,J,G
    1,R,K,G
@@ -134,10 +114,10 @@ console load DashlessCollab/1-lobby/10_ruR
   26,F,20
   12,F,70
   13,F,81.5
-  26,F,87.241
+  26,F,87.258
   20,F,66.618
    1,F,68.618
-  32,F,119.243
+  32,F,119.248
    1,F,116.356
   36,F,108.113
    2,F,90
@@ -602,5 +582,5 @@ console load DashlessCollab/1-lobby/10_ruR
  135
 
 
-ChapterTime: 2:05.290(7370)
+ChapterTime: 2:05.256(7368)
 
