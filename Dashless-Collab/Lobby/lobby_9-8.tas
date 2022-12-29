@@ -1,0 +1,43 @@
+# DashlessCollab
+# https://gamebanana.com/mods/403284
+
+RecordCount: 48
+
+console load DashlessCollab/0-Lobbies/1-lobby 2080 1040
+   1
+
+  36
+   1,R
+   1
+   7,R
+   1,R,J
+   1,R,K,G
+   1,R,J,G
+  11,R
+   1,R,J
+  14,R
+   1,R,J
+   9,R
+   1
+  18,R
+   0
+   1,R,J
+   1,R,K,G
+   1,R,J,G
+   5,R
+   1,R,J
+   1,R
+   1,R,J,G
+  10,R
+   1,R,J
+  23,R,D
+   1,R,J
+  14,R
+   1,R,J
+  18,R
+   1,R,J
+  18,R
+   1,R,J
+  16,R
+   1,X
+#0:03.111(183)
