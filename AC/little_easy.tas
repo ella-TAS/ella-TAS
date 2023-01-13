@@ -1,4 +1,4 @@
-RecordCount: 920
+RecordCount: 1081
 
 console load AnarchyCollab2022/1-Submissions/06_little
    1
@@ -172,7 +172,6 @@ console load AnarchyCollab2022/1-Submissions/06_little
    6,R
    1,L
    1,L,J
-***S
   12,R,J
    1,L,J
   15,U,X
@@ -182,15 +181,43 @@ console load AnarchyCollab2022/1-Submissions/06_little
    5,L
   23,L,D,X
   17,L,D,J
-***
   18,U,X
    8,R
   15,U,X
   15,U,C
   15,L,U,X
-   1,L,U,C
-***
-   1,L,J,G
-   8,L
+  11,L,U,C
+   2,L,J,G
+   7,L
    9,J
-  90,U,X
+  24,U,X
+   1,R
+   4,C
+  15,R,J
+  41
+   5,R
+  20,R,X
+  41
+  10,L
+  50,L,C
+  39
+  17,R,X
+ 482
+
+#lvl_heart
+  72
+   5,L,J
+  24,L,U,X
+   1,L,J
+  25,U,C
+   5,L,J
+  16,U,X
+   9,L
+   1,L,D,J
+  13,U,X
+  21,L,J
+  25,R,U,X
+   1,R,J,G
+ 114,R,D
+
+ChapterTime: 0:38.318(2254)
