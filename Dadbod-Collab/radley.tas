@@ -1,4 +1,4 @@
-RecordCount: 49
+RecordCount: 85
 
 console load DadCollab2018/1-DadCollab2018/Radley
    1
@@ -6,24 +6,38 @@ console load DadCollab2018/1-DadCollab2018/Radley
 #Start
 #lvl_Radley-1
  190
+***
    4,Z
    1,R,J
-   7,R,G
+   6,R
+   1,G
+   2
+  90,G
+
+
+
    2
   16,U,X
    2,J
    6,L
    3
    1,N
-  26,R,D
+  20,R,D
   14,R,D,X
    1,R,J
-  11,R,U,Z
-   1,R,J,G
+   5,R
+   1,G
+   4,Z
+   1,R,J
    1,R,K,G
    1,R,J,G
    1,R,K,G
-  11,R
-  90,R,J
-  90,R,J
-   1,R,K,G
+   4,R,J,G
+   8,J
+   7,R
+   1,L,D,J
+  35,R,J
+   1,R,K
+  13,R
+   1,G
+#0:02.499(147)
