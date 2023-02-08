@@ -1,4 +1,4 @@
-RecordCount: 3412
+RecordCount: 3470
 console load SecretSanta2022/1-Main/bosssauce
    1
 
@@ -144,19 +144,25 @@ console load SecretSanta2022/1-Main/bosssauce
    6,R,Z
    1,R,J
    6,R
-  16,R,J
-  15,R,Z
-  46,U,X
+  10,R,J
+   6,R
+  15,R,X
+   9,U,Z
+  39
   13,L,C
-   8,R,J
-  19,L,K
-  17,L,Z
+   8,J
+  10,L,K
+   5,L
+   2,L,K
+   1,L
+  14,L,Z
    1,R,J
-   6
+   3
   15,R
+   3,R,D
+   1,R
    1,R,D
-   2,D
-   2,J,G
+   1,J,G
    7,R
    8,L,D
   15,R,X
@@ -184,7 +190,7 @@ console load SecretSanta2022/1-Main/bosssauce
    5,R,K
    7,R
 #Spinner cycle frame
-   2
+   0
 #:)
    7,R,J
   14,R,Z
@@ -556,4 +562,4 @@ console load SecretSanta2022/1-Main/bosssauce
   15,D,X
  109,L
 
-ChapterTime: 1:19.713(4689)
+ChapterTime: 1:19.611(4683)
