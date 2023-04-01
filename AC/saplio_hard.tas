@@ -1,4 +1,4 @@
-RecordCount: 2423
+RecordCount: 2808
 
 console load AnarchyCollab2022/1-Submissions/28_saplio
    1
@@ -457,10 +457,8 @@ console load AnarchyCollab2022/1-Submissions/28_saplio
    2,L,J
   10,U,Z
   26
-***S
    1,L,U
   61,F,3.5
-***
    7,F,0
   14,L,Z
    4,L,J,G
@@ -624,7 +622,55 @@ Endrepeat
    7
    4,Z
    4,R,J
-   9,R
+   4,R
+   5
+   1,R,J
+   1,R
+  19,R,X
+  17
+   4,L,J
+  23,J
+  30,U,X
+  90,L
+
+
+
+   4,Z
+   5,R,J
+  10,R
+  15,D,X
+   2,L,J
+  10,J
+  15,U,X
+  40,D
+  10,J
+  90,U,X
+
+
+
+
+  32,D,X
+   2,L,J
+  20,J
+  38,U,X
+  20,J
+  11,R,J
+  18,U,X
+  90,R
+
+
+
+  64,D,X
+   6,L,J
+  24,L,X
+  15,R,C
+  15
+  10
+   8,L
+   9,L,J
+  90,L,U,X
+
+
   15,D,X
   11,L,J
    2
@@ -632,7 +678,6 @@ Endrepeat
    8
   28,R
    1
-***S
   12,J
   45,U,X
   66,J
@@ -792,134 +837,139 @@ Endrepeat
    2,R,K
    1,R,J
   14,R
-Repeat 128
+Repeat 167
    3,R,J
    1,R
    1,R,K
    4,R
 Endrepeat
-   5,R,J
+   3,R
+   5,R,D,J
+   2,R
+   2,K
+   1,L,K
+   1,J,G
+   6,L
+   1,R
+   4,L
+   4,Z
+   1,L,J
+   4,L,K,G
+   1,L
+   1,L,K
+   4,L
+Repeat 157
+   3,L,J
+   1,L
+   1,L,K
+   4,L
+Endrepeat
+   1,L
+   5
+   2,R,J
+   2,R
+   1,K
+   1,L
+   1,L,K,G
+   1,J
+   1,K,G
+   1,R
+   1,R,J,G
+   1,R,K,G
+   9,R
+Repeat 187
+   3,R,J
+   1,R
    1,R,K
-   5,R
-  14,R,Z
+   4,R
+Endrepeat
+   3,R,J
+   2,R
+   1,R,K
+   3,R
+   4,R,J
+   2
+   1,R
+   1,K
+   1,J,G
+   1,L,J
+   1,L,K,G
+   1,L,J,G
+   9,L
+Repeat 187
+   3,L,J
+   1,L
+   1,L,K
+   4,L
+Endrepeat
+   3,L,J
+   2,L
+   1,L,K
+   3,L
+   4,L,J
+   2
+   1,L
+   1,K
+   1,J,G
    1,R,J
+   1,R,K,G
+   1,R,J,G
+   9,R
+Repeat 187
+   3,R,J
+   1,R
+   1,R,K
+   4,R
+Endrepeat
+   3,R,J
+   2,R
+   1,R,K
+   3,R
+   4,R,J
+   2
+   1,R
+   1,K
+   1,J,G
+   1,L,J
+   1,L,K,G
+   1,L,J,G
+   9,L
+Repeat 187
+   3,L,J
+   1,L
+   1,L,K
+   4,L
+Endrepeat
+   3,L,J
+   2,L
+   1,L,K
+   3,L
+   4,L,J
+   2
+   1,L
+   1,K
+   1,J,G
+   1,R,J
+   1,R,K,G
+   1,R,J,G
+   9,R
+Repeat 187
+   3,R,J
+   1,R
+   1,R,K
+   4,R
+Endrepeat
+   4,R,J
    6,R
-Repeat 482
-   3,R,J
-   1,R
-   1,R,K
-   4,R
-Endrepeat
-***S
-   5,R
-   5,R,J
-   3,L,J
-   1,L,K
-   1,L
-   1,L,J,G
-   1,L,K,G
-   9,L
-Repeat 830
-   3,L,J
-   1,L
-   1,L,K
-   4,L
-Endrepeat
-***
-   1,J
-   2,L,J
-   1,K
-   1,R,J,G
-   1,L,J
-   1,L
-   2,R,K
-   1,R,J,G
-   1,R,K,G
-   9,R
-Repeat 830
-   3,R,J
-   1,R
-   1,R,K
-   4,R
-Endrepeat
-***
-   1,J
-   2,R,J
-   1,K
-   1,L,J,G
-   1,R,J
-   1,R
-   2,L,K
-   1,L,J,G
-   1,L,K,G
-   9,L
-Repeat 830
-   3,L,J
-   1,L
-   1,L,K
-   4,L
-Endrepeat
-   1,J
-   2,L,J
-   1,K
-   1,R,J,G
-   1,L,J
-   1,L
-   2,R,K
-   1,R,J,G
-   1,R,K,G
-   9,R
-Repeat 830
-   3,R,J
-   1,R
-   1,R,K
-   4,R
-Endrepeat
-   1,J
-   2,R,J
-   1,K
-   1,L,J,G
-   1,R,J
-   1,R
-   2,L,K
-   1,L,J,G
-   1,L,K,G
-   9,L
-Repeat 830
-   3,L,J
-   1,L
-   1,L,K
-   4,L
-Endrepeat
-   1,J
-   2,L,J
-   1,K
-   1,R,J,G
-   1,L,J
-   1,L
-   2,R,K
-   1,R,J,G
-   1,R,K,G
-   9,R
-Repeat 827
-   3,R,J
-   1,R
-   1,R,K
-   4,R
-Endrepeat
-   6,R,D,J
-   9,R
-   4,R,Z
-   1,R,J
-   7,R
-   2,R,J
+   7,R,U,Z
   40
 
 #lvl_13
-  11,R,J
+   8,R
   16,U,X
-  12,K,G
-   7,J,G
+  11,R,K,G
+   1,R
+   3,R,J,G
    7,R
    8,R,Z
    1,R,J
@@ -952,4 +1002,4 @@ Endrepeat
   16,U,X
  135,L,D
 
-ChapterTime: 16:02.982(56646)
+ChapterTime: 5:00.968(17704)

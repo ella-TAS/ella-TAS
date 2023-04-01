@@ -1,4 +1,4 @@
-RecordCount: 17925
+RecordCount: 17963
 
 #console load motonine/3/Lovestory 3668 -433
 #play Love 37
@@ -729,6 +729,8 @@ Endrepeat
   92,D
   15,R,Z
   15,U,V
+#can save double dash
+#to skip buffer
  360,L,D
   17,R
   17,L,Z

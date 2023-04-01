@@ -1,4 +1,4 @@
-RecordCount: 739
+RecordCount: 743
 
 console load DadCollab2018/1-DadCollab2018/RocketGuy
    1
@@ -91,7 +91,6 @@ console load DadCollab2018/1-DadCollab2018/RocketGuy
    3,L,D
   15,D,X
    8,L,D,C
-#0:10.540(620)
   15,L,X
   15,L,C
   90,R,U
