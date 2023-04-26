@@ -1,4 +1,4 @@
-RecordCount: 479
+RecordCount: 574
 
 console load stanley/celeste-parable B-0
    1
@@ -105,22 +105,23 @@ console load stanley/celeste-parable B-0
   15,R,X
   14,R,Z
    1,R,J
-  14,R,D,X
-  10,R,J
-  17,R
-  15,R,X
-  14,R,D,C
+   7,R,D,X
    1,R,J
-  14,R,D,X
-   1,R,J
-  40
-
-#lvl_D-1
-   2,R,J
+   7,R
+  20,R,J
   15,R,D,X
   17,R,D,C
    1,R,J
-  13,R
+  13,R,D,X
+   2,R,J
+  40
+
+#lvl_D-1
+   1,R,J
+  15,R,D,X
+  17,R,D,C
+   1,R,J
+  14,R
   15,D,X
    1,R,D
   40
@@ -135,16 +136,17 @@ console load stanley/celeste-parable B-0
   14,R,D,X
    1,R,J
    9,R,D,X
-   1,S,N
-   1,D,J
-  34
-   5
+Repeat 29
+   1,J
+   1,O
+Endrepeat
+   1
+   4,Z
    1,R,J
-  14,R,D,X
-   5
-  12,J
+   7,R
+  12,R,J
   37,U,G
- 131,G
+  85,G
   10
   14,U,Z
    1,R,J
@@ -199,7 +201,7 @@ console load stanley/celeste-parable B-0
   40
 
 #lvl_D-4
-   2
+   2,R
    1,R,J
    7,R
    4,R,J
@@ -218,13 +220,17 @@ console load stanley/celeste-parable B-0
    6,R
    9,R,J
   13,R,D,X
-  15,R,J,G
+  19,R,J,G
   15,R,X
-   7,R,G
-  11,R,J,G
-   3
+   1,G
+   1,R,J,G
+   2,R
+   2,J,G
+   1,R,J
+   2,R
+   1
    1,R
-  34
+  39
   10,R,X
   17,L,J
   15,U,X
@@ -244,40 +250,30 @@ console load stanley/celeste-parable B-0
   14,L
    1,R,J
   23,R,K
- 218,G
+ 214,G
    1
    1,J
-   6,L,J
-   8,R,J
-   4,K
-  10
-  10,R,X
    7,L,J
-   5,L
+   7,R,J
+   3,K
+   6
+   3,K
+  14,R,X
+   9,L,J
   14,L,U,X
-  11,L,J,G
-   4,L
+   1,L,J,G
+  22,L,K,G
+  14,L,D,X
    1,L,J
-   1,L
+  14,L,D,X
    1,L,J
-   1,L
-   1,L,J
-   3,L
-  15,L,X
-  14,L
-   1,L,D
-   6,L,Z
-   1,L,J
-   6,L
-   1,L,J
-   1,L
-  12,L,D,X
+   8,L,D,X
   40
 
 #lvl_D-5
-   2
+   6,L
    1,L,J
-  14,L,D,X
+  10,L,D,X
    8,L,J
    2,L
    9,L,U,X
@@ -289,21 +285,19 @@ console load stanley/celeste-parable B-0
    7,L
   10,L,D,X
   15,R,J
-   7,U,X
-   8,L,J
-  13,L,X
-   1,R,J
-   1,L,J
+  15,U,Z
+   5,L
   12,U,X
   40
 
 #lvl_D-6
    2,R
    1,R,J,G
-   8,R
-   6,R,Z
-   1,R,J
+   1,L
    7,R
+   7,R,Z
+   1,R,J
+   6,R
    1,R,J
   14,R,D,X
    1,R,J
@@ -348,4 +342,4 @@ console load stanley/celeste-parable B-0
    1,R,J
   26,L
 
-#0:46.733(2749)
+#0:45.509(2677)

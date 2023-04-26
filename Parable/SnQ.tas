@@ -6,12 +6,12 @@
   14
    1,J
   56
-Repeat 2
+Repeat 30
    1,D
    1,F,180
 Endrepeat
-#   1,D
-#   1,U
+   1,D
+   1,U
    1,J
   14
    1,J

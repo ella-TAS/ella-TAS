@@ -1,4 +1,4 @@
-RecordCount: 2123
+RecordCount: 2134
 
 console load stanley/celeste-parable 1-0
    1
@@ -164,6 +164,7 @@ console load stanley/celeste-parable 1-0
   40
 
 #lvl_A-3
+#Lounge Ending
   15,R
   15,U,X
    3,R
@@ -182,20 +183,16 @@ console load stanley/celeste-parable 1-0
   15,D,C
   15,L,Z
   15,R,C
-  14,L,Z
-   1,L,J
-  10,R,X
-   5,R,J
-   1,S,N
-   1,D,J
-  34
-  15,U,X
-   8,R,J,G
+  10,L,X
+   6,R,J
+   5,R,X
+  12,R,J,G
+  12,R,K,G
+   7,R,J,G
    1,K
   40
 
 #lvl_A-4
-#Lounge Ending
    2,L,J
    9,L
   19,L,X
@@ -637,4 +634,4 @@ console load stanley/celeste-parable 1-0
    7,L
    4,L,J
 
-#2:01.040(7120)
+#2:00.462(7086)

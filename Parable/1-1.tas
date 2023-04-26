@@ -1,4 +1,4 @@
-RecordCount: 1338
+RecordCount: 1346
 
 console wipedebug
 Set CheatMode true
@@ -352,6 +352,7 @@ Endrepeat
   12
   10,R,C
   13,R,J
+AnalogMode Ignore
    4,X,F,310
   11,R,U,X
   11,L,U,C
@@ -374,8 +375,7 @@ Endrepeat
    4,R,X
   13,U,X
   10,R,C
-   4,R,X
-  11,R,X
+  15,R,X
   27,D
    3,R,D
   12,R,Z
@@ -534,7 +534,6 @@ Endrepeat
    3,R,J
   10,R
   10,D
-
 Repeat 31
    2,D
    1,R
@@ -543,12 +542,12 @@ Endrepeat
    1,R
   10,R,U,X
   38
-#Escape Pod Ending
    1,S,N
    1,D,J
   18
 
 #lvl_end-granny
+#Escape Pod Ending
    4,Z
    2,J
    2,R,J
