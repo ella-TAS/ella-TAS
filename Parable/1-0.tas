@@ -1,4 +1,4 @@
-RecordCount: 1750
+RecordCount: 1915
 
 console load stanley/celeste-parable 1-5
    1
@@ -31,29 +31,40 @@ console load stanley/celeste-parable 1-5
    4,Z
    1,R,J
    7,R
-  12,R,J
+   1,R,J
+   9,R
+   6,R,U,Z
   43
 
 #lvl_1-6
-  12,R,J
-  14,R,U,X
-   4,R,J,G
+   7,R,U,Z
+   1,L
+   1,J,G
+   9,J
+   1
    1,R
-   2,R,K,G
-   7,R
-   1,R,J
-  12,J
+   9,R,J,G
+   9,K,G
+   3,L,K
   15,U,X
-  12,L,J,G
-  10,L,K,G
+  10,K,G
+   1,J,G
+   2,L,J
+   5,J
+   1,L,J
+   1,R,J
+   1,L,J
+  13,L,K,G
+   1,L,J,G
    2,L
-  10,L,J,G
-   7,L
+   1
+   1,L
+   3,L
    6,L,Z
    1,L,J
    7,L
    1,L,J
-  13,L,D,X
+  12,L,D,X
   43
 
 #lvl_1-7
@@ -121,7 +132,11 @@ console load stanley/celeste-parable 1-5
   19,U,X
   16,U,C
   24,L,U,X
- 101,D
+Repeat,50
+   1,R,D
+   1,L,D
+EndRepeat
+   1,R,D
   14,L,D,X
    1,R,J
    3,R
@@ -915,4 +930,4 @@ Endrepeat
   16,D,X
    1,J
 
-#6:02.202(21306)
+#6:02.066(21298)
