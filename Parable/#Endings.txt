@@ -51,6 +51,7 @@
       [Subending 1: Happiness]
       [Subending 2: Escape Pod Clue]
     - Games Ending (Blue Doors Only)
+    - Mario Ending (FEZ key door)
     *==> A quick Demonstration (CP6) Entrance*
     *==> Classic Edition (CP7) Entrance*
   [Bottom Path]
