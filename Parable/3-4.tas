@@ -5,7 +5,7 @@ console load stanley/celeste-parable B-0
 
 #Start
 #Storage Area
-read 3-7 Start lvl_B-5
+read 3-5 Start lvl_B-5
 
 #lvl_B-5
    1,R
@@ -64,8 +64,3 @@ read 3-7 Start lvl_B-5
    1,L,J
   11,L,U,X
    1,L,J,G
-  90,L
-
-
-
-

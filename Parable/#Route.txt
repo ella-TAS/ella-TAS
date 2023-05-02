@@ -22,22 +22,23 @@ First number is the checkpoint the file starts from, second number is the file's
 3-2: Too Lazy to Add Ending
 3-3: Zending
 +3-4: Choice Ending
-3-5: Games Ending
-3-6: Mario Ending
-3-7: Apartment Ending
-*3-8: Unlock CP6 (Demo) --> Demo Ending
-*3-9: Unlock CP7 (Classic) --> Trap Ending
+3-5: Apartment Ending
 
 2-0a: Go above the Mind Control Facility --> CF-0
 2-0b: Unlock CP4 --> Whiteboard Ending --> Confusion Ending
 2-1a: Adventure Line Ending
 2-1b^: Bottom of the Mind Control Facility Ending
 2-2: No Free Will Ending
-2-3: Museum Ending 
-2-4: Countdown Ending
+2-3: Museum Ending
 2-5: Broken Elevator Ending
+2-4: Countdown Ending
 
 5-0: Escape Ending
+
+3-6: Mario Ending
+3-7: Games Ending
+3-8: Unlock CP6 (Demo) --> Demo Ending
++3-9: Unlock CP7 (Classic) --> Trap Ending
 
 *7-0: Classic Freedom Ending
 *7-1: Classic Countdown Ending
