@@ -28,17 +28,20 @@ console load DreamBlockContest2021/1-Submissions/phrog
    4,R,J
    2,R,K
   17,R,D,X
-   2,R,J
-   7,R
+   1,R,J
+   2,R
+   9,R,D,X
   40
 
 #lvl_phrog-3
-  79,R,Z
-  26,D,C
-  13,R,X
+   6,R,D,X
+  73,R,C
+  24,D,X
+  13,R,C
    4,R,J
-  17,R,K
-   5,R
+  18,R,K
+   2,R
+   2,R,K
   15,U,X
    1,R
   10,R,J
@@ -75,27 +78,27 @@ console load DreamBlockContest2021/1-Submissions/phrog
 
 #lvl_phrog-5
    4,R
-   1,R,J
-  36,R,X
-  23,D,C
-  21,L,X
-  22,R,C
-  21,D,X
-  16,R,C
-  13,D,X
-  19,L,C
+   2,R,J
+   7,R
+  20,G
+   3,U,G
+   1,G
+  30,R,C
+  31,D,X
+  14,D,C
+  19,R,X
+  14,D,C
+  19,L,X
    4,L,J
-   1,L,K
+   3,L,K
   15,L,D,X
    6,L
    1,L,J
-   3,L,K,G
-   2,L
    8,L,D,X
   40
 
 #lvl_phrog-6
-  56
+  57
   29,L,D,X
   43,L,C
    4,L,J
@@ -108,38 +111,26 @@ console load DreamBlockContest2021/1-Submissions/phrog
   40
 
 #lvl_phrog-7
-  13,L
+  11,L
    7,L,D,X
    4,L,J
-   1,L,K
+   4,L,K
   27,L,D,X
   30,L,C
    4,L,J
-   3,L,K
-   5,L
+   1,L,K
+  20,L
+  55,L,U,Z
+   4,L,J,X
+   1,L,K
+  19,L,D,X
    3,L,J
-   5,L
-  17,L,X
-  24,U,C
-  39,L,D,X
-  26,U,C
-   6,L,X
-   4,L,J
-   5,Z
-   1,L,J
-   8,L
-   1,L,J
-  10,L,D,X
-   1,L,J
-   1,J
+   1,L
   40
 
 #lvl_phrog-8
-   3,L,J
-   2,L,K,G
    1,L
-
-  47,L,X
+  49,L,X
    4,L,J
    1,L,K
   60,L,Z
@@ -159,55 +150,43 @@ console load DreamBlockContest2021/1-Submissions/phrog
   50,U,X
 
 #lvl_phrog-9
-#ftie
-#  16,R,D
-#  72,R,Z
-#   5,R
-#   1,R,J
-#   5,R
-#   8,R,K
-#  46,R,U,X
-#  50,D,C
-#  34,L,X
-#---
   20,R,D
-   1,G
-  71,R,Z
-   4,R,K
-  14,R,J
-  44,R,U,X
-  47,D,C
-  33,L,X
-#---
-  28,R,U,C
-   1,L
-  15,L,X
-   3
-  10,R
-  31,R,X
+  37,R,Z
+  33,R,Z
+   5,R,U,C
    4,R,J
    1,R,K
+   5
+   2
+   3,G
+  13,R
+   5,R
+  42,U,Z
+  20,D,C
+   2,R,D
+  22,D,X
+  38,R,U,C
+   8,L,J
+   3,L,K
+   5,R,K
+  11,R,U,Z
+  10,R,X
+   4,R,J
+   3,R,K
    2,R,J,G
-   3,R,K,G
-   2,R,J,G
-  12,R,K,G
+   2,R,K,G
+   5,R,J,G
+  10,R,K,G
   15,R,D,X
-   3,R,D,J
+   1,R
+   1,R,J
+   5,R,U,X
   40
 
 #lvl_phrog-RealEnd
-   8,R,J
-   1,J
+  34,R,U,X
+  37,R,C
    4,R,J
-  26,U,X
-  45,R,C
-   4,R,J
-   1,R,K
-  28,R,U,X
-   1,R,J,G
-   1,R,K,G
-   1,R,J,G
-   1,R,K,G
- 108,J
-   1
-#0:37.689(2217)
+   9,R,U,X
+ 136,J
+ChapterTime: 0:36.227(2131)
