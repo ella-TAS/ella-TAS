@@ -152,27 +152,28 @@ console load DreamBlockContest2021/1-Submissions/oknano
   31,U,X
    6,R
   70
-   4,R,X
+   6,R,X
    6,R,J
   12,R
-  15,G
+  13,G
    6,R,J,G
    2,R
    1,R,K,G
    7,R
    7,J
    9,R,D,X
-   1,R,J
-  20,R,D
-  23,D,X
+   2,R,J
+   8,R
+  15,R,D,X
+  20,D
    4,Z
    6,R,J
    4,R
    1,R,J
-   7,R,D
-   4,L,D
-   4,R,D
-   1,D
+   6,R
+   4,L
+   5,R,D
+   1,R,D
    4,R,D
    3,R
   21,R,X
@@ -278,4 +279,4 @@ console load DreamBlockContest2021/1-Submissions/oknano
    1,L,J
   55,L
    1
-ChapterTime: 0:33.711(1983)
+ChapterTime: 0:33.728(1984)
