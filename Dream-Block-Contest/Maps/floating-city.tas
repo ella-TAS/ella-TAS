@@ -73,7 +73,7 @@ console load DreamBlockContest2021/1-Submissions/ceph
    6,L,Z
    1,R,J
    8,R,D
-  16,R,D,J
+  16,R,J
    5,J
   12,R,K,G
    5,J,G
@@ -382,5 +382,5 @@ EndStunPause
    4,L,J
    7,L,U,X
  136,L,D
+
 ChapterTime: 1:01.234(3602)
-#74.222(4366)
