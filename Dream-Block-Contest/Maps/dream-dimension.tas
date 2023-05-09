@@ -152,8 +152,9 @@ EndStunPause
   40
 
 #lvl_Quinnigan4
-#spinner cycle
+#Spinner cycle
    2
+#-----
    1,R,J
    7,R
   10,R,J
@@ -195,6 +196,7 @@ EndStunPause
   25,R,D
 #spinner cycle
    0,D
+#-----
    6,R,D,X
    1,R,J
    7,R
@@ -209,7 +211,8 @@ EndStunPause
   20,L,U,Z
   49,U,X
   21,L,D
-  21,D
+  20,D
+   2
   18,R,D,X
    4,R,K
    1,R,J
@@ -218,13 +221,12 @@ EndStunPause
    4,R,J
    1,R,K
    5,R
-   1,R,K
+   5,R,J
+   7,R,U,Z
 #StunPauseMode Simulate
 #2/3
 StunPause
-   5,R,K
-SkipInput 3 1
-  18,R,U,Z
+  12,R,U,Z
 SkipInput 3
    7
    2,J
@@ -267,5 +269,4 @@ EndStunPause
    1,L,J
   45,L
    1,R
-
-ChapterTime: 0:48.280(2840)
+ChapterTime: 0:47.549(2797)
