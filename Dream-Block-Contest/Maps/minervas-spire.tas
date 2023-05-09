@@ -21,9 +21,8 @@ console load DreamBlockContest2021/1-Submissions/elissv
   15,R,D,X
    1,R,J
    4,R
-  14,R,D,X
-   1
-   1,X
+  15,R,D,X
+   1,N
  155
 
 #lvl_eliss_spire_01
@@ -263,4 +262,5 @@ console load DreamBlockContest2021/1-Submissions/elissv
   15,U,X
  134,R,D
    1,L
+
 ChapterTime: 0:47.872(2816)
