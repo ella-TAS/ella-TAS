@@ -4,8 +4,9 @@ console load DreamBlockContest2021/1-Submissions/dilly
 #Start
 #lvl_a04
  114
-#spinner cycle
-   0
+#Spinner cycle
+   2
+#-----
   10,R,X
    8,R,J
   17,R,X
@@ -60,18 +61,21 @@ console load DreamBlockContest2021/1-Submissions/dilly
    2,R,J,G
   11,R
   15,R,Z
-  24,R,X
-   4,R,J
-  19,R,K
-  15,R,D,X
-  24,R,J
-  15,R,D,X
-   1,R
+   7,R,X
+   8,R,C
+   5,R,J
+#StunPauseMode Simulate
+StunPause
+   1,R,J
+   3,R,K
+EndStunPause
+  13,R,K
+  21,R,D,X
   40
 
 #lvl_a06
-  16,R,D,X
-   5,R
+   7,R,D
+   3,R
   18,D,X
   14,R,C
    4,L,J
@@ -82,22 +86,26 @@ console load DreamBlockContest2021/1-Submissions/dilly
   22,L,U,X
    4,R,J
    6,R,Z
-   1,R,J
+   3,R,J
+   1,R
    8,R
    1,R,J
-  12,R,U,Z
+  11,R,U,Z
+   1,K
   40
 
 #lvl_a12
-   1,R,J,G
-   3,R,K,G
-   7,R
-  14,R,U,Z
+   1,K,G
+   2,K
+   5,R,K
    1,K
-   2,J,G
-   7,L
-  19,L,X
-   2,D
+   2,R,K
+   6,U,X
+   6,J
+   1,L,K,G
+   1,L,J,G
+   9,L
+  15,L,Z
    5,L,X
   12,L,C
    6,R,U,X
@@ -143,6 +151,9 @@ console load DreamBlockContest2021/1-Submissions/dilly
    4,R
   15,R,U,X
    9,R
+#Spinner cycle
+   0
+#-----
   14,R,U,X
    1,R,J,G
    2,R
@@ -184,17 +195,15 @@ console load DreamBlockContest2021/1-Submissions/dilly
    4,R,J
    1,R,K
    7,R
-   2,R,K
-#StunPauseMode Simulate
-   8,R
+   2,K
+  10
    6,D,X
 StunPause
-  16,R,D
+  16,D
 EndStunPause
-   9,R
-  14,R,D
-  10,L
-  47,L,X
+  15,R,D
+   9,L
+  48,L,X
    4,L,J
    1,L,K
   15,L,D,X
@@ -278,7 +287,7 @@ EndStunPause
    1,R,K
   15,R,D,X
    2,R
-   5,L
+   5
   15,R,D,X
    2,R,C
    7,R,X
@@ -298,5 +307,4 @@ EndStunPause
    2,R,C
    4,R,U,J,X
  144,R,C
-
-ChapterTime: 0:43.214(2542)
+ChapterTime: 0:42.619(2507)
