@@ -1,0 +1,219 @@
+RecordCount: 419
+
+console load stanley/celeste-parable OG-0-0
+   1
+
+#Start
+read 7-3 Start lvl_OG-C-7
+
+#lvl_OG-C-7
+   7,R
+   1,R,J
+  16,R,D,X
+   1,R,J
+   8,R,D,X
+   1,S,N
+   1,D,J
+  34
+   1,R,J
+  14,R
+   1,R,J
+  14,R
+   1,R,J
+   9,R
+  40
+
+#lvl_OG-C-A
+   5,R
+   1,R,J
+  18,R,D,X
+   1,S,N
+   1,D,J
+  34
+  14,R,D
+   3,R
+   1,R,J
+  14,R
+   1,R,J
+  14,R
+  40
+
+#lvl_OG-C-C
+   2,R,J
+   5,R
+   1,R,K
+   9,R
+  12,D,X
+  40
+
+#lvl_OG-C-E
+   3,R,D
+   6,L,D
+   1,S,N
+   1,D,J
+  34
+  28,L,D
+  18,L,X
+   1,D
+  12,L,X
+  40
+
+#lvl_OG-D-0
+   2,L
+   3,L,J
+  16,L,D,X
+   2,R,D
+   1,S,N
+   1,D,J
+  34
+  28,R,D
+   6,L
+   2,L,D
+   6,R,Z
+   1,R,J
+   6,R
+   2,R,J
+  15,R,D,X
+   8,R,J
+  40
+
+#lvl_OG-D-1
+   4,R,J
+  15,R,D,X
+   1,R,J
+  14,R
+   1,R,J
+  14,R
+   1,R,J
+  14,R
+   1,R,J
+  14,R
+   1,R,J
+  14,R,D,X
+   1,R,J
+   8,D,X
+  40
+
+#lvl_OG-D-2
+  13,R,D
+ 187,D
+  40
+
+#lvl_OG-D-3
+   3,R,D
+  10,R,D,X
+   1,R,J
+  20,L,D
+  14,L,D,X
+   3,L,J
+  27,L,D,X
+   1,L,J
+  15,D,X
+   1,L
+   1,L,D
+   3,D
+   9,R,D
+   1,R
+  24,R,D
+  15,R,D,X
+  14,R,D,J
+  11,U,X
+  32,R,J
+   4,Z
+   2,R,J
+   9,R
+  15,D,X
+  17,R,D
+   5,R,Z
+   1,R,J
+   2,R
+  40
+
+#lvl_OG-D-4
+   1,R,K
+   5,R
+   1,R,J
+  14,R,D,X
+   1,R,J
+  14,R,D,X
+   1,R,J
+  14,R,D,X
+   1,S,N
+   1,D,J
+  34
+   1,R,J
+  14,R
+  16,R,J
+ 151
+
+#lvl_OG-D-5
+   4
+   1,S,N
+   1,D,J
+  34
+   7,R
+  10,R,D,X
+   4,R,J
+   2,J
+   2,R,K,G
+   3,K
+   7,J,G
+   1,L,J
+   1,R,J
+  17,R,U,X
+  12,R,J,G
+  11,R,K,G
+   5,R,U,X
+  13,L
+  17,U,X
+  20,R,J
+  38,R,U,X
+   2,R,D
+  10,R,J
+   2,K
+  14,U,X
+   8,R,J
+   1,L,J
+   5,R,J
+  10,R
+  13,G
+  30,R,U,G
+   3,U,G
+   5,R,U,G
+   1,G
+   4,R,G
+   1,L
+  36,R,U,X
+   1,R,J,G
+   3,L,J
+   1,R,K,G
+   1,R,J,G
+   1,R,K,G
+  11,R
+   3
+  15,R,Z
+  19,L
+   5,L,U,X
+  27,R
+  15,U,X
+  26
+AnalogMode Ignore
+   1,R,D
+  39,F,126.186
+   1,F,124.225
+  54,F,76.66
+   1,F,81.263
+  25,F,132.23
+   5,R
+  14,R,X
+  12,R,J
+Repeat 4
+   1,K,G
+   3,R,K
+   5,K
+   1,R,K
+   1,L,K
+   1,R,K
+  13,R,J,G
+Endrepeat
+  90,L,K
