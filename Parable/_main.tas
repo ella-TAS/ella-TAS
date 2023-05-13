@@ -28,8 +28,6 @@ read Restart
 read 3-3 Start
 read Restart
 read 3-4 Start
-read Restart
-read 3-5 Start
 read RTM
    1,R
    1,F,90
@@ -92,6 +90,8 @@ read RTM
    1,J
   46
 
+read 7-2 Start
+read Restart
 read 7-3 Start
 read Restart
 read 7-4 Start
