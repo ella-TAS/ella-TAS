@@ -1,7 +1,7 @@
 # DashlessCollab
 # https://gamebanana.com/mods/403284
 
-RecordCount: 101
+RecordCount: 170
 
 console load DashlessCollab/0-Lobbies/1-lobby
    1
@@ -26,39 +26,35 @@ console load DashlessCollab/0-Lobbies/1-lobby
    7,R
    9
   12,L,J,G
-   3,K,G
-   9,J,G
-   3,L,J
-   7,L
-   4,J
-   8,L,J
-  12,K,G
-  10,R,J
-  10,R
+   2,K,G
    1,R,J
-  14,R
-   1,R,J
-  14,R
+  17,R,K
+   1,J,G
+   2,K
+  14,L
+   9,R,J
+   5,R
+   6,R,J
+   7,R
+   1,R,K,G
+   1,R,J,G
+   9,R
    1,R,J
   18,R
    1,R,J
-  21,R,D
+  18,R
    1,R,J
-  14,R
+  17,R
    1,R,J
-  21,R,D
-   2,R,J
-   5,R
-   2,R,J
-  11,R
-   2,R,J
+  21,R
+   1,R,J
+   2
+  27,R
+   1,R,J
    1,R,K,G
    1,R,J,G
   11,R
    1,R,J
   23,R,D
-# likely possible to touch
-# the ground a frame quicker
-# but eh lol
    1,X
-#0:05.899(347)
+#0:05.695(335)
