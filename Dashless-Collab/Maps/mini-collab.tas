@@ -1,18 +1,16 @@
-RecordCount: 2144
+RecordCount: 4148
 
 console load DashlessCollab/1-lobby/14_nyanMC
    1
-
-#lvl_start
+#Start
  190
+#lvl_start (0)
   10,J
   16,R,D,X
    1,R,J
   18,R
    1
    4,R,D
-
-
    1,R,J,G
    1,R,K,G
    9,R
@@ -247,7 +245,7 @@ console load DashlessCollab/1-lobby/14_nyanMC
    1,R,J,G
    3,R
 
-#lvl_start
+#lvl_start (1)
    7,R
    1,R,J
    5,R
@@ -368,9 +366,9 @@ console load DashlessCollab/1-lobby/14_nyanMC
   22,L
   32,L,D
    1,L,J
-  20,L,D
+  21,L,D
    1,L,J
-  21,L
+  20,L
    6,L,J
   11,L
   31,U,X
@@ -393,19 +391,21 @@ console load DashlessCollab/1-lobby/14_nyanMC
    1,L,J,G
    3,L
 
-#lvl_start
+#lvl_start (2)
    7,L
    1,L,J
    5,L
   22,R,D
    6,L,D
-  13,R,D
-   7,R,J
-   5,R
-   1,R,K
-  26,R,D
-  21,D
-   1,L,N
+   1,R,D
+   1,D
+   3,L,D
+  27,R,D
+   1,R,J
+  33,R,D
+  32,D
+  15,L,D
+   1,L,D,N
  155
 
 #lvl_e-01
@@ -435,10 +435,11 @@ console load DashlessCollab/1-lobby/14_nyanMC
   27,D
    7,R,D
   20,L,D
-   4,R,U,X
-  19,U
+   4,R,X
+  19,U,X
   24,R
   28,D,X
+   1
   16,L
   10,R
    1,R,J
@@ -500,23 +501,158 @@ AnalogMode Square
    1,L,J,G
    1,L
 
-#lvl_start
+#lvl_start (3)
   11,L
    4,L,J
   22,L
    1,L,N
  155
+#lvl_b-00
+   5,R
+   1,R,J
+  14,R
+   1,D
+   1,R,J
+   1,R,K,G
+   1,R,J,G
+  11,R
+   1,R,J
+  18,R
+#If you waterboost too well you struggle to stop your momentup to go up. This can probably be optimized better though
+   1,R,J
+   1,R,K
+  14,R
+  16,R,K
+  31,F,351.615
+   1,R,J
+   1,R,K
+   1,R,J
+   1,R,K
+   1,R,J
+   1,R,K
+   1,R,J
+   1,R,K,G
+   1,R,J
+  14,R
+   1,R,J
+   2,R
+  40
+#lvl_b-02
+  12,R
+   1,J
+   9,R,J
+   1,R,K
+   1,R,J
+   1,R,K
+   1,R,J
+   3,R,K
+  19,L,J
+   1,R,K
+   1,R,J
+   1,R,K
+  22,R,J
+#for some reason you can't start your dash until the second frame of custom boost
+  34,R
+  15,R,X
+   4,R,J
+   5,D
+  21,R,D
+   3,D
+  12,R,D
+   1,R,J
+  14,R
+   1,R,J
+  14,R
+   1,R,J
+  14,R
+   1,R,J
+  40
+#lvl_b-01
+#Normal dashless movement is 10f slower than restarting here
+   1,S
+   1,D,J
+  69,O
+   1,R,J
+   3,J
+   9,R,J
+repeat 11
+   1,R
+   1,U
+endRepeat
+  53,R
+  15,R,X
+   4,R,J
+  11,R,K
+  58,R
+  15,R,X
+   4,R,J
+   4,R,K
+   5,R
+   2,R,K
+   8,R
+  16
+  80,F,104.179
+  12,F,183.258
+  12,F,236.189
+  68,F,256.658
+  63,F,254.815
+  24,L
+   1,L,J
+  16,R
+  42,F,134.91
+  78,F,76.689
+  66,F,58.895
+  23,F,41.448
+  71,F,78.506
+  51,R
+  15,R,X
+   4,R,J
+   4,R,K
+  20,R,D
+   6,J,G
+   1,L,J
+  34,L,D
+  12,R,D
+   1,R,J
+   1,R,K
+   1,R,J
+   1,R,K
+  16,R
+   1,R,J
+   1,R,K
+   1,R,J
+  14,R
+   1,R,J
+  13,R
+   1,R,J
+   1,R,K
+   1,R,J
+   1,R,K
+   7,R,J
+   1,R,K
+   1,R,J
+   2,R,K
+  10,J
+  36,F,27.355
+  69,F,106.918
+  33,F,205.693
+  16,L,D
+   6,L,J
+  21,L
+   1,L,J
+   1,L,K,G
+   1,L,J,G
 
-
-
-
-
-
-
-
-console load DashlessCollab/1-lobby/14_nyanMC f-00
-  37
-
+#lvl_start (4)
+   4,L,J
+   5,L
+   7,L,J
+   8,L,D
+  15,R,D
+  25,L,D
+   6,L
+   1,L,N
+ 155
 #lvl_f-00
    5,L
    1,L,J
@@ -532,8 +668,9 @@ console load DashlessCollab/1-lobby/14_nyanMC f-00
    1,L,J
   12,L
   40
+#lvl_f-01
+#The draft desyncs, I'll just guess
 
-#lvl_f-00
    2,L
    1,L,J
   14,L
@@ -546,98 +683,86 @@ console load DashlessCollab/1-lobby/14_nyanMC f-00
    1,L,J
   14,L
    7,L,J
-  19,L
-   1,L,J
-  14,L
-  35,D
+  86,R
+  62
    5,L
    1,L,J
-   7,L
-   7,J
-  12,L,K,G
-  12,L,J,G
-  12,L,K,G
-  12,L,J,G
-  20,L
-   2,J
-  31
-  45,R,D
-   1,R,J
-  14,R
-   1,R,J
-  14,R
-   1,R,J
-  14,R
-   1,R,J
-  14,R
-   1,R,J
-  14,R
-   1,R,D,J
-  31,L,J
-  19,L,K,G
-  34,K
-  51
-  19,L
-   1
-   1,R,J
-  16,R
-  16,L
-   6,G
-   1
-   1,L,J,G
-   1,L,K,G
-   1,L,J,G
-   1,L,K,G
-  22,L,D
-   1,L,J
   14,L
-   1,L,J
-  11,L
-   1
+  23
+ 100,L
+  48
+   5,J
+  10,K
+  20,R,K
+  11
+  68
+  64,L
+   5,D
+   4,L,D
+   1,D
+   1,L,D
+   1,D
+   1,L,D,J
+  12,L
+#setting up a seeker boost
+#right into the next room
+#might help i don't feel
+#like it though
   40
 
 #lvl_f-02
    2,L
-   6,L,J
-  10,L
-  11,L,J,G
- 154,L,G
-   5,R,J
-  84,L,J
- 200,G
-   6,D,G
-  40,G
-  24,D
-  21,R,D
-   1,L
-   1,D
+   1,L,J
+  14,L
+   1,L,J
+  14,L
+   8,L,J
+  19,L,D
+   1,L,J
+  14,L
+  12,L,J
+  25,R
+ 135
+  10,J
+ 148
+   5,J
+  48,L
+  85
+   1,J
+  12
+  20
+  10,L,D
    5,L
    1,L,J
   14,L
-   4,L,D,J
-   7,L
    1,L,J
-   3,L
-   1,L,K
-   1,L,J
-  17,L
+  39,L
+   1,L,D
+   1,L,D,J
+  14,L
    1,L,J
   14,L
    1,L,J
   14,L
-  21,L,J
-  13,D
-  18,J
-  20
-   7,K
+# reset cycle
+   1,S
+   1,D,J
+  69,O
+  20,L
+   1,L,J
+  21,J
+  10,L
+  38
+#-60
+  48
+  20,J
+  20,D
+   1
+#lvl_start (5)
+   7,J
   65,U,X
   40
-
 #lvl_finale
-console flag coyote
-console flag water
-console flag cliffs
-console flag time
   17
   84,R,X
   40
@@ -719,4 +844,241 @@ console flag time
    9,R,J
   10,R
    1,R,J,G
-  90,R,K,G
+   9,R,K,G
+   8,R,G
+   5,R,J,G
+   7,R
+  21,R
+  10,R,J
+   6,R
+   1,R,J
+   1,R
+   2,R
+  25
+  12,J
+  32,R
+  14,R,X
+   4,R,J
+  19,R,D
+  11,D
+   2,R,D
+   6,R
+   1,R,J
+   1,R,K
+   1,R,J
+   2,R,K
+   5,R
+   1,R,K
+   1,R,J
+   1,R,K
+   1,R,J
+   6,R,K
+   1,R,J
+   1,R,K
+   3,R,J
+   1,K
+   5,J
+  29,U
+  54,F,105.87
+  19,F,37.433
+  21,F,33.208
+  28,U
+  18,F,64.563
+   1,R,J
+   1,R,K
+   1,R,J
+   1,R,K
+   1,R,J,G
+  16,R
+  12,R,J
+  16,R
+   1,R,J
+   7,R
+   1,R,J
+   9,R
+   1,R,J
+  19,R
+  32,R,J
+   1,R,K
+   7,R
+   1,R,J
+  14,R
+  12,R,J
+  11,U,X
+  29,R,C
+   4,R,J
+   1,R,K
+   5,R
+   1,R,J
+   2,R
+   1,J
+   1,R,J
+   4
+   1,R
+   1,R,J,G
+  11,R
+   1,R,J
+   4,R
+   8
+   2,R
+   7,R,J
+   3,R
+   1,R,J
+  14,R
+   1,R,J,G
+   2,R,K,G
+   4,R
+   4,R,J
+  13,R
+   1,R,J
+  14,R
+   1,R,J
+   7,R
+  11,U,X
+  15,U,C
+   8
+  15,R
+   1,R
+   2,L
+   1,L,J
+  15,L,D
+  18
+  11,L,X
+ 127,R,C
+  15,D,X
+   3
+  14,L
+  28
+   5,R,J
+  15,R
+   3
+   2,R
+   2
+   7,R,J
+   5
+   1,R,J
+   3,R
+   7
+   5,R
+  13,R,J
+  27,U,X
+  17,R
+  16,U,X
+  16,R,C
+  40,D,X
+  14
+  59,R,C
+  16,L
+  47,R,D
+  67,D
+ 136
+   6,J
+   2,L
+  39,D
+  13
+   9,R
+   6,R,J
+   7,R
+  43,L
+ 102
+   6,J
+  18
+  19,L
+   3,G
+  38,J,G
+  36,L
+  72,U,G
+  22,G
+   1,R,J
+  37,R,D
+#normal movement is 6f slower to next room
+   1,S
+   1,D,J
+  69,O
+   5,R
+   1,R,J
+  14,R
+   1,R,J
+  14,R
+   1,R,J
+   6,R
+  40
+#lvl_finale-02
+#normal movement is 3f slower than restarting here(to the bubble)
+   1,S
+   1,D,J
+  69,O
+   5,R
+   1,R,J
+  14,R
+  12,R,J
+ 140,R,X
+  11,K,G
+   2,L
+  15,R,J,G
+   1,K,G
+   2,L,K
+   5,R,K
+  12,R,J,G
+   9,K,G
+   2,L,K
+  12,L,J
+   7,L,K,G
+   2,J,G
+   7,L
+   2,R
+  14,R,J
+   8,K
+   1,J,G
+   9,R,J
+   2,L,J
+   9,R,K,G
+   1,J,G
+   2,L
+   8,R,K,G
+   7,R
+   1,R,J,G
+   1,R,K,G
+  10,R
+   6,R,J
+  26,R,D
+   6,R,J
+  19,R,D
+   1,R,J,G
+  12,R
+  10,R,J
+  18,R
+   1,R,J
+  14,R
+   1,R,J
+  14,R
+   5,R,J
+  18,R
+  39,R,J
+   1,R,K
+  14,R
+   2,R,J
+  21,R
+   1,R,J
+  14,R
+   6,J
+   8,R,J
+  12,R,K,G
+  10,R,J,G
+   9,R,K,G
+   1,J
+   2,K,G
+   6,L,K
+  12,L,J
+   1,R,K
+  12,R,J
+   1,K
+   2,J,G
+   4,L,J
+   1,L,K
+   9,L,J
+  37,L,D
+#i'll just reset this here
+AnalogueMode,Ignore
+ 136,D
+ChapterTime: 3:35.390(12670)
