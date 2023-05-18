@@ -1,4 +1,4 @@
-RecordCount: 1419
+RecordCount: 1439
 
 console load BGD/Sorry/1-Temple
    1
@@ -170,12 +170,13 @@ console load BGD/Sorry/1-Temple
    4
    7,R,J
    8,R,U,Z
-  17,U,X
-   8,L,Z
-  23,R,X
-  14,U,C
-  21,R,J
-  13,R,D,X
+  19,U,X
+  20,R,C
+  13,U,X
+  12,R,J
+   9,R
+   3,R,K
+  12,R,D
   18,R,C
    6,R,D,X
    6
@@ -203,11 +204,6 @@ console load BGD/Sorry/1-Temple
   40
 
 #lvl_a-07
-#  90
-
-
-
-
    7
    1,J
    3,L
@@ -248,10 +244,10 @@ console load BGD/Sorry/1-Temple
   12,R,Z
    4,R,J
   18,R,Z
-  21,R,X
+  20,R,X
   15,U,C
-  28,D
-   4,R,D
+  24,D
+   8,R,D
   12,R,Z
   15,R,X
   20,R,U,C
@@ -390,4 +386,4 @@ console load BGD/Sorry/1-Temple
    1,R,J,G
   41,R,K,G
 
-ChapterTime: 1:23.283(4899)
+ChapterTime: 1:23.181(4893)
