@@ -1,7 +1,4 @@
-# DashlessCollab
-# https://gamebanana.com/mods/403284
-
-RecordCount: 3515
+RecordCount: 3989
 
 console load DashlessCollab/1-lobby/11_nyanCCC
    1
@@ -229,30 +226,10 @@ console load DashlessCollab/1-lobby/11_nyanCCC
    1,R,J,G
    2,R
   10
+Repeat 12
    1,G
    1
-   1,G
-   1
-   1,G
-   1
-   1,G
-   1
-   1,G
-   1
-   1,G
-   1
-   1,G
-   1
-   1,G
-   1
-   1,G
-   1
-   1,G
-   1
-   1,G
-   1
-   1,G
-   1
+endRepeat
   10,J
   14,L,D,X
    1,R,J
@@ -441,208 +418,19 @@ console load DashlessCollab/1-lobby/11_nyanCCC
    1,L,J
   21,L
    1,L,D
-   4,R
-   1,R,D
-   1,L
-   1,L,D
+   3,R
+Repeat 49
    1,R
    1,R,D
    1,L
    1,L,D
-   1,R
-   1,R,D
-   1,L
-   1,L,D
-   1,R
-   1,R,D
-   1,L
-   1,L,D
-   1,R
-   1,R,D
-   1,L
-   1,L,D
-   1,R
-   1,R,D
-   1,L
-   1,L,D
-   1,R
-   1,R,D
-   1,L
-   1,L,D
-   1,R
-   1,R,D
-   1,L
-   1,L,D
-   1,R
-   1,R,D
-   1,L
-   1,L,D
-   1,R
-   1,R,D
-   1,L
-   1,L,D
-   1,R
-   1,R,D
-   1,L
-   1,L,D
-   1,R
-   1,R,D
-   1,L
-   1,L,D
-   1,R
-   1,R,D
-   1,L
-   1,L,D
-   1,R
-   1,R,D
-   1,L
-   1,L,D
-   1,R
-   1,R,D
-   1,L
-   1,L,D
-   1,R
-   1,R,D
-   1,L
-   1,L,D
-   1,R
-   1,R,D
-   1,L
-   1,L,D
-   1,R
-   1,R,D
-   1,L
-   1,L,D
-   1,R
-   1,R,D
-   1,L
-   1,L,D
-   1,R
-   1,R,D
-   1,L
-   1,L,D
-   1,R
-   1,R,D
-   1,L
-   1,L,D
-   1,R
-   1,R,D
-   1,L
-   1,L,D
-   1,R
-   1,R,D
-   1,L
-   1,L,D
-   1,R
-   1,R,D
-   1,L
-   1,L,D
-   1,R
-   1,R,D
-   1,L
-   1,L,D
-   1,R
-   1,R,D
-   1,L
-   1,L,D
-   1,R
-   1,R,D
-   1,L
-   1,L,D
-   1,R
-   1,R,D
-   1,L
-   1,L,D
-   1,R
-   1,R,D
-   1,L
-   1,L,D
-   1,R
-   1,R,D
-   1,L
-   1,L,D
-   2,R
-   1,R,D
-   1,L
-   1,L,D
-   1,R
-   1,R,D
-   1,L
-   1,L,D
-   1,R
-   1,R,D
-   1,L
-   1,L,D
-   1,R
-   1,R,D
-   1,L
-   1,L,D
-   1,R
-   1,R,D
-   2,L
-   1,L,D
-   1,R
-   1,R,D
-   1,L
-   1,L,D
-   1,R
-   1,R,D
-   1,L
-   1,L,D
-   1,R
-   1,R,D
-   1,L
-   1,L,D
-   1,R
-   1,R,D
-   1,L
-   1,L,D
-   1,R
-   1,R,D
-   1,L
-   1,L,D
-   1,R
-   1,R,D
-   1,L
-   1,L,D
-   1,R
-   1,R,D
-   1,L
-   1,L,D
-   1,R
-   1,R,D
-   1,L
-   1,L,D
-   1,R
-   1,R,D
-   1,L
-   1,L,D
-   1,R
-   1,R,D
-   1,L
-   1,L,D
-   1,R
-   1,R,D
-   1,L
-   1,L,D
-   1,R
-   1,R,D
-   1,L
-   1,L,D
-   1,R
-   1,R,D
-   1,L
-   1,L,D
-   1,R
-   1,R,D
-   1,L
-   1,L,D
+endRepeat
    1,R
    1,R,D
    1,L
    1,L,J
    9,R,K
-  35,R,K,G
+  37,R,K,G
   37,R,J,G
    3,R,K,G
   13,R,G
@@ -652,256 +440,15 @@ console load DashlessCollab/1-lobby/11_nyanCCC
   14,L
    1,L,J
   14,L
-  14,J
-  10
-   9,L
-   1,L,D
-   6,R
-   1,R,D
+   1,L,J
    1,L
-   1,L,D
-   1,R
-   1,R,D
+  13
+   2,R
+Repeat 134
+   1,D
+   1
+endRepeat
    1,L
-   1,L,D
-   1,R
-   1,R,D
-   1,L
-   1,L,D
-   1,R
-   1,R,D
-   1,L
-   1,L,D
-   1,R
-   1,R,D
-   1,L
-   1,L,D
-   1,R
-   1,R,D
-   1,L
-   1,L,D
-   1,R
-   1,R,D
-   1,L
-   1,L,D
-   1,R
-   1,R,D
-   1,L
-   1,L,D
-   1,R
-   1,R,D
-   1,L
-   1,L,D
-   1,R
-   1,R,D
-   1,L
-   1,L,D
-   1,R
-   1,R,D
-   1,L
-   1,L,D
-   1,R
-   1,R,D
-   1,L
-   1,L,D
-   1,R
-   1,R,D
-   1,L
-   1,L,D
-   1,R
-   1,R,D
-   1,L
-   1,L,D
-   1,R
-   1,R,D
-   1,L
-   1,L,D
-   1,R
-   1,R,D
-   1,L
-   1,L,D
-   1,R
-   1,R,D
-   1,L
-   1,L,D
-   1,R
-   1,R,D
-   1,L
-   1,L,D
-   1,R
-   1,R,D
-   1,L
-   1,L,D
-   1,R
-   1,R,D
-   1,L
-   1,L,D
-   1,R
-   1,R,D
-   1,L
-   1,L,D
-   1,R
-   1,R,D
-   1,L
-   1,L,D
-   1,R
-   1,R,D
-   1,L
-   1,L,D
-   1,R
-   1,R,D
-   1,L
-   1,L,D
-   1,R
-   1,R,D
-   1,L
-   1,L,D
-   1,R
-   1,R,D
-   1,L
-   1,L,D
-   1,R
-   1,R,D
-   1,L
-   1,L,D
-   1,R
-   1,R,D
-   1,L
-   1,L,D
-   1,R
-   1,R,D
-   1,L
-   1,L,D
-   1,R
-   1,R,D
-   1,L
-   1,L,D
-   1,R
-   1,R,D
-   1,L
-   1,L,D
-   1,R
-   1,R,D
-   1,L
-   1,L,D
-   1,R
-   1,R,D
-   1,L
-   1,L,D
-   1,R
-   1,R,D
-   1,L
-   1,L,D
-   1,R
-   1,R,D
-   1,L
-   1,L,D
-   1,R
-   1,R,D
-   1,L
-   1,L,D
-   1,R
-   1,R,D
-   1,L
-   1,L,D
-   1,R
-   1,R,D
-   1,L
-   1,L,D
-   1,R
-   1,R,D
-   1,L
-   1,L,D
-   1,R
-   1,R,D
-   1,L
-   1,L,D
-   1,R
-   1,R,D
-   2,L
-   1,L,D
-   1,R
-   1,R,D
-   1,L
-   1,L,D
-   1,R
-   1,R,D
-   1,L
-   1,L,D
-   1,R
-   1,R,D
-   1,L
-   1,L,D
-   1,R
-   1,R,D
-   1,L
-   1,L,D
-   1,R
-   1,R,D
-   1,L
-   1,L,D
-   1,R
-   1,R,D
-   1,L
-   1,L,D
-   1,R
-   1,R,D
-   1,L
-   1,L,D
-   1,R
-   1,R,D
-   1,L
-   1,L,D
-   1,R
-   1,R,D
-   1,L
-   1,L,D
-   1,R
-   1,R,D
-   1,L
-   1,L,D
-   1,R
-   1,R,D
-   1,L
-   1,L,D
-   1,R
-   1,R,D
-   1,L
-   1,L,D
-   1,R
-   1,R,D
-   1,L
-   1,L,D
-   1,R
-   1,R,D
-   1,L
-   1,L,D
-   1,R
-   1,R,D
-   1,L
-   1,L,D
-   1,R
-   1,R,D
-   1,L
-   1,L,D
-   1,R
-   1,R,D
-   1,L
-   1,L,D
-   1,R
-   1,R,D
-   1,L
-   1,L,D
-   1,R
-   1,R,D
-   1,L
-   1,L,D
-   1,R
-   1,R,D
-   1,L
-   1,L,D
-   1,R
-   1,R,D
    4,L,D,J
    1,K,G
    4,R,K
@@ -929,16 +476,10 @@ console load DashlessCollab/1-lobby/11_nyanCCC
 
 #lvl_a-04
   29,R
+Repeat 5
    1,R,J
   14,R
-   1,R,J
-  14,R
-   1,R,J
-  14,R
-   1,R,J
-  14,R
-   1,R,J
-  14,R
+endRepeat
    1,R,J
    9,R
   40
@@ -1031,46 +572,10 @@ console load DashlessCollab/1-lobby/11_nyanCCC
    5,R
    1,R,J
    3,R
+Repeat 20
    1,L,D
    1,R
-   1,L,D
-   1,R
-   1,L,D
-   1,R
-   1,L,D
-   1,R
-   1,L,D
-   1,R
-   1,L,D
-   1,R
-   1,L,D
-   1,R
-   1,L,D
-   1,R
-   1,L,D
-   1,R
-   1,L,D
-   1,R
-   1,L,D
-   1,R
-   1,L,D
-   1,R
-   1,L,D
-   1,R
-   1,L,D
-   1,R
-   1,L,D
-   1,R
-   1,L,D
-   1,R
-   1,L,D
-   1,R
-   1,L,D
-   1,R
-   1,L,D
-   1,R
-   1,L,D
-   1,R
+endRepeat
    1,L,D
    2,R
    6,R,J
@@ -1117,47 +622,43 @@ console load DashlessCollab/1-lobby/11_nyanCCC
    3,R,J
   13,R
    3,R,J
-   2,R
+   2
    1,R,J
   16,R
   29,R,J
    3,R
    1,R,J
-  44,R
-   1,R,J,G
+  35,R
+   9,R,D
    1,R,K,G
-  13,R
-   1,R,J
+   1,R,J,G
+   9,R
+Repeat 4
+   1,R,K
   14,R
-   1,R,J
-  14,R
-   1,R,J
-  14,R
-   1,R,J
-  14,R
-   1,R,J
-   4,R
+endRepeat
+   1,R,K
+   6,R
   40
 
 #lvl_a-new
-  10,R
+  11
+   9,R
    1,R,J
-   2,R
+   1,R
    1,R,J,G
    1,R,K,G
   13,R
    2,R,J
-  22,R
-   2
-   2,R
+  18,R
    3,R,J
    4,R,K,G
    7,R
   24,R,G
   12,R,J,G
    1,L,J
-  25,R,J
-   3,J
+  27,R,J
+   1,J
   12,R,K,G
    3,J,G
    1,L,J
@@ -1210,134 +711,115 @@ console load DashlessCollab/1-lobby/11_nyanCCC
    4,L,G
   11,R,G
    1,R,J,G
+   2,G
   12,R,G
-   1,G
    5,R,G
    7,R,J,G
-   5,R,G
-   2,R,J,G
-   1,L,D,J
-   1,K
-   4,L,K
-  29,L,K,G
-  11,R,J,G
-   1
-  11,D
-  16,R,D
-   4,R
+   4,R,G
    1,R,J,G
+   1,K
+   3,L,K
+   5,L,K
+  25,L,D
+  18,R
+   7,R,J
+  14,R
    1,R,K,G
-  13,R
-   1,R,J
   14,R
-   1,R,J
-  14,R
-   8,R,J
-  25,R,J,G
-  20,R
-   9,R,J
+   1,R,K
+   3
+  12,R
+  10,R,K
+  21,R,K,G
+   1,R
+  21,D
    5,R
-   3,R,J
-   1,J
-   4,L,J
+   1,R,J
+  12,R
+   4
+  21,G
+   1,D
+   2,R
+   1,L,K
+  16,L
    1,L,K,G
    3,L,J,G
-   3,R,D
-   4,L,D
-   1,L
-   1,L,G
-   7,L,D,G
+  17,L
    1,L,J,G
-   8,L,D
-   2,L,G
-   5,L,D,G
-   2,L,J,G
-  10,L,J
-   8,L
-   1,L,J
-  14,L
-   1,L,J
-   4,L
-  10,R
-   1,R,J
-  14,R
-   1,R,J
-  14,R
-   1,R,J
-   8,R
-   1,L
-   1,R
-   1,L
-   1,R
-   9,L
-   6,L,J,G
-   5,L
-   1,L,J
-   5,L
-   1,L,J,G
-   7,L
-  13,L,G
-   6,L,D
-   1,L,J
-   3
-  12,L
-   1,K,G
-   4
-  11,R
-   1,R,J,G
-   1,R,K,G
-  10,R
-  22,R,G
-   1,R,J,G
-  17,R,G
-  11,R,J,G
-   5,R,G
-   1,R,J,G
-   5,R,K,G
-   7,R,J,G
-   7,R,G
-   1,R,J,G
-  14,R,G
-  11,R,J,G
-   8,R,G
-   4,R,J,G
-   2,R
-   1,R,J,G
-   1,R,K,G
-   1,R,J,G
-  14,R
-  12,R,J
-   1
-   8,R
-   1,R,J
-  10,R
-   1,R,J,G
-   1,R,K,G
+   1,L,K,G
+   1,J
   13,R
-  15,R,G
-   1,R,J,G
-  14,R,G
-   1,R
-   3,R,J
-   5,R
-   1,R,J
-  43,R
-   4
-   4,J,G
-  13,R,J
-   1,K,G
+   4,R,K
+  16,R
+  27
+  20,R
+   1,K
    1,L,K
-   1,R,J,G
-   6,R,J
+   4,L
+   4
+   9,L
+   8,L
+  15,G
+   1,D
+   1,L
+   1,L,K
+  20,L,D
+   3,L
+   8,U,G
+   1,K,G
+   1,R
+   1
    7,R
    1,R,K,G
    1,R,J,G
-  26,R
-   1,R,J
+  11,R
+  22,R,G
+   1,R,K,G
+  22,R,G
+  17,R,J,G
+   1,D
+   1,K
+   4,R,K
+  21,R,K,G
+   6,R,G
+   1,R,K,G
   14,R
-   1,R,J
+   8,R,K
+   1,K
+   2
+   9,R
+   1,R,K,G
+   1,R,J,G
+  10,R
+   9,R,K
+  41,R,K,G
+   1,R,J,G
+  14,R,G
+   1,R,J,G
+  14,R,G
+   1,R,J,G
+  15,R,J
+  20,R
+  24,R,D
+   2,D
+   1,R,K,G
+   3,L,K
+  17,R,K
+   1,J
+   7,R,K,G
+   1,R
+   2
+   7,R
+   1,R,J,G
+   1,R,K,G
+  24,R,D
+   1,R,K
   14,R
-   1,R,J
+   1,R,K
+   1,R
+   8
+   5,R
+   1,R,K
    6,R
   40
 
@@ -1373,22 +855,10 @@ console load DashlessCollab/1-lobby/11_nyanCCC
    5,R
    1,R,J
   14,R
+Repeat 8
    1,G
    1
-   1,G
-   1
-   1,G
-   1
-   1,G
-   1
-   1,G
-   1
-   1,G
-   1
-   1,G
-   1
-   1,G
-   1
+endRepeat
    2,G
    1
    7,R,D,G
@@ -1503,184 +973,22 @@ console load DashlessCollab/1-lobby/11_nyanCCC
   10,L
    1,L,J
   12,L,G
+Repeat 58
    1,G
    1
-   1,G
-   1
-   1,G
-   1
-   1,G
-   1
-   1,G
-   1
-   1,G
-   1
-   1,G
-   1
-   1,G
-   1
-   1,G
-   1
-   1,G
-   1
-   1,G
-   1
-   1,G
-   1
-   1,G
-   1
-   1,G
-   1
-   1,G
-   1
-   1,G
-   1
-   1,G
-   1
-   1,G
-   1
-   1,G
-   1
-   1,G
-   1
-   1,G
-   1
-   1,G
-   1
-   1,G
-   1
-   1,G
-   1
-   1,G
-   1
-   1,G
-   1
-   1,G
-   1
-   1,G
-   1
-   1,G
-   1
-   1,G
-   1
-   1,G
-   1
-   1,G
-   1
-   1,G
-   1
-   1,G
-   1
-   1,G
-   1
-   1,G
-   1
-   1,G
-   1
-   1,G
-   1
-   1,G
-   1
-   1,G
-   1
-   1,G
-   1
-   1,G
-   1
-   1,G
-   1
-   1,G
-   1
-   1,G
-   1
-   1,G
-   1
-   1,G
-   1
-   1,G
-   1
-   1,G
-   1
-   1,G
-   1
-   1,G
-   1
-   1,G
-   1
-   1,G
-   1
-   1,G
-   1
-   1,G
-   1
-   1,G
-   1
-   1,G
-   1
-   1,G
-   1
+endRepeat
   35,L
    1,L,J
    1,L
   22,R
    7,L
    3,R
+Repeat 14
    1,L,D
    1,L
    1,R,D
    1,R
-   1,L,D
-   1,L
-   1,R,D
-   1,R
-   1,L,D
-   1,L
-   1,R,D
-   1,R
-   1,L,D
-   1,L
-   1,R,D
-   1,R
-   1,L,D
-   1,L
-   1,R,D
-   1,R
-   1,L,D
-   1,L
-   1,R,D
-   1,R
-   1,L,D
-   1,L
-   1,R,D
-   1,R
-   1,L,D
-   1,L
-   1,R,D
-   1,R
-   1,L,D
-   1,L
-   1,R,D
-   1,R
-   1,L,D
-   1,L
-   1,R,D
-   1,R
-   1,L,D
-   1,L
-   1,R,D
-   1,R
-   1,L,D
-   1,L
-   1,R,D
-   1,R
-   1,L,D
-   1,L
-   1,R,D
-   1,R
-   1,L,D
-   1,L
-   1,R,D
-   1,R
+endRepeat
    1,L,D
    2,L
    3,R,D
@@ -1744,4 +1052,7 @@ console load DashlessCollab/1-lobby/11_nyanCCC
    1,L
   54
   59,R
-ChapterTime: 2:19.400(8451)
+
+
+
+ChapterTime: 2:19.706(8218)
