@@ -1,4 +1,4 @@
-RecordCount: 858
+RecordCount: 1110
 
 console load DashlessCollab/1-lobby/02_ceph
    1
@@ -338,60 +338,53 @@ AnalogueMode, Ignore
    7,L
    8,L,J
   15,L
-   1,L,J
-  12,L
-  12,L,J
-  10,K,G
-  10,J,G
-   2,R,J
-  11,K,G
-   2,L,K
-  15,R,J,G
-  12,R,K,G
-   5,R,J,G
-   7,R
-   1,R,J
-  11,R
-   1
-   1,R,J
-   1,R
-   4
-   1,J
+  18,L,J
+   1,K,G
+  11,R,J
+   3,R,K
+   1,L,J,G
    3,R,J
-   1,R
-   1,J
+   9,J
+  12,L,K,G
+  11,L,J,G
+   5,L
+   6,R
+   2,R,J
+   2,J
+   5,R,J
    1,R,K,G
    1,R,J,G
    7,R
   12,R,J
+  11,R
+   1,R,K,G
+   1,R,J,G
    7,R
    1,R,J
   10,R
    1,R,J
-  10,R
-   1,R,J
-  10,R
-   1,R,J
-   1,R
+   6,R
   40
 #lvl_a6
-  12,R
+   6,R
    1,R,J
   14,R
    1,R,J
-  26,R
-   1
    1,R
+   1
+  27,R
+   1
    1,R,J
    1,R,K,G
-   8,R,J,G
-  13,R
    1,R,J,G
-   8,R,K,G
-   7,R
-   1,R,J
-  15,R
-  15,R,J
+  11,R
+   7,R,J
+   5,R,K,G
+   6,R
+   1,R,J,G
+  11,R
+   9,R,J
+   4,R
   26
    1,R,D
   39,F,100.974
@@ -423,7 +416,7 @@ AnalogueMode, Ignore
    2,F,78.712
   11,F,19
   11,F,319
-   2,F,319
+   3,F,319
 #featherline didn't want to do this bounce, here goes manual
    8,F,280
   10,R,U
@@ -437,27 +430,27 @@ AnalogueMode, Ignore
    1,F,71.753
   31,F,120
   11,R,D
-  32,R
+  29,R
   26
    1,R,D
   82,F,82.692
    1,F,84.111
   37,F,90.013
-   5,R
-   1,D
+   8
+   9,R
    1,R,J
-   6,R
-   6,R,J,G
-   9,R,K,G
+   8,R,K,G
+   7,R,J,G
+   1,R
   26
    1,R,D
   15,F,98.377
    1,F,98.011
-  51,F,83.182
+  51,F,81.182
    1,F,87.321
-  42,F,101.21
+  41,F,101.21
    1,F,102.73
-   9,F,135
+  10,F,135
    4,R
    1,R,J
   14,R
@@ -634,9 +627,11 @@ endRepeat
    6,R,J
   96
   10,D
- 105
-   1,J
-  50,D
+  45
+  37,L,J
+  21,R,K
+  20,R,D
+  29,D
    5,R,D
   40
 #lvl_a8
@@ -661,4 +656,4 @@ endRepeat
   14,R
   12,R,J
  165
-ChapterTime: 1:41.473(5969)
+ChapterTime: 1:40.521(5913)
