@@ -1,4 +1,4 @@
-RecordCount: 835
+RecordCount: 1046
 console load DashlessCollab/1-lobby/09_gnommisEG
    1
 
@@ -148,14 +148,26 @@ endrepeat
    8,R
    1,R,J
   18,R
-  22,R,J
-  20,R,D
-  10,R
-  48
-  45,L
-  30
+  35,R,J
+   5,R,D
+   7,R
+  17
   42,R
-  43
+   4
+   2,D
+  23
+  43,R
+  26,D
+ 140
+  66,L
+  12,L,D
+   1,L
+   1
+   1,D
+  23
+  45,L
+  47,R
+  68
   40
 
 #lvl_Surface-04
@@ -164,37 +176,41 @@ endrepeat
    7,L
    2,L,J
    7,L,K
-   6
+   5
    1,J
-   1
+   2
    7,J
    6,R
    1,J
    1,R
    1,R,J
    6,J
-   6,L
-   1,L,J
-   1,L
+   5,L
+   2,L,J
+   1,R,J
+   1,R
    5,R,J
    1,J
    2,R,J
-  11,R
+  12,R
    1,R,J
-  24,R
+  22,R
   66,R,J
   52,R
   20,L
-  10
+  19
    6,L,J
-   7,L
+   8,L
    1,L,J
   18,L
   23,L,J
-  88,R,D
-  10,D
-  61,R,J
-  50,R
+  84,R,D
+   1,R
+   1,R,D
+   2,R
+  11,D
+  60,R,J
+  51,R
   58,R
   21,L,J
   37,D
@@ -266,4 +282,4 @@ endrepeat
   14,L,J
  135
 
-ChapterTime: 1:25.085(5005)
+ChapterTime: 1:31.188(5364)
