@@ -1,7 +1,7 @@
 # DashlessCollab
 # https://gamebanana.com/mods/403284
 
-RecordCount: 1626
+RecordCount: 1627
 
 console load DashlessCollab/1-lobby/06_jan89
    1
@@ -324,6 +324,5 @@ console load DashlessCollab/1-lobby/06_jan89
    1,L,J,G
   26,L,K,G
   36,L,J,G
- 191
 
 ChapterTime: 0:42.058(2474)
