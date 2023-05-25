@@ -1,7 +1,7 @@
 c# DashlessCollab
 # https://gamebanana.com/mods/403284
 
-RecordCount: 1718
+RecordCount: 1972
 
 console load DashlessCollab/1-lobby/05_ellis
    1
@@ -488,17 +488,29 @@ console load DashlessCollab/1-lobby/05_ellis
   28,R
    1,R,J
   14,R
-   3,R,J
+   1,R,J
+   6,R
+   1,R,J
+   1,R
+   1
+   1,R
+   1
+   1,R
+   1
+   1,R
+   1
+   1,R
+   1,R,J,G
+   1,R,K,G
+   9,R
+   1,R,J
+  18,R
+  18,R,J
   12,R
    1,R,J
-  14,R
-   1,R,J
-  17,R
-  12,R,J
-  18,R
-   1,R,J
-   3,L,J
-  24,R,J
+   3,R,J
+  20,R,J
+   4,R
    1,R,K,G
   20,R
   53,R,J
@@ -508,29 +520,88 @@ console load DashlessCollab/1-lobby/05_ellis
   41,R
    1,R,J
   17,R
-  33,R,J
-  40,R,K
-  50,R,J
-  33,R,K
+   9,R,J
+   6,R
+   2,R,J
+   1,R
    1,R,J
-   6,L,J
-   3,R,J
-  18,R
+   8,R
    1,R,J,G
-  41,R
+   1,R,K,G
+   9,R
+  20,R,K
+  13,R
+  19,R,J
+   1,R
+   1,R,J
+  23,R
+   1
+   2,R
+   1,R,J,G
+   1,R,K,G
+  10,R
+   7,R,K
+   5,R
+   2,R,J
+   7,R
+   1
+   1,R
+   1,R,J,G
+   1,R,K,G
+  10,R
+#   3,R,J
+#   5,R
+#   1,R,J
+#   7,R
+#   1,R,J,G
+   3,R,J
+  13,R
+   1,R,J,G
+   1,R,K,G
+  32,R
+   8,R,D
    1,R,J
   15,R
-  19,R,J,G
+  17,R,J,G
    9,R,K,G
    2,L,K
   49,L,U,G
    1,R,J
   26,R
-  42,R,J
-  44,R,K
-  55,R,J
-  36,R,K
-  49,R,J
+  19,R,J
+  22,R
+   1,R,J,G
+   1,R,K,G
+  10,R
+   4,R,K
+  12,R
+   1
+   1,R
+   4
+   4,R
+   1,R,J,G
+   1,R,K,G
+  10,R
+  50,R,J
+  18,R,K
+   4,R
+   1
+   1,R
+   1
+   1,R
+   1
+   1,R
+   1
+   1,R
+   1
+   1,R
+   1
+   1,R
+   1,R,J,G
+   1,R,K,G
+  10,R
+  10,R,J
+  29,R
   25,R,K
   38,R,G
   56,R,K,G
@@ -574,4 +645,4 @@ console load DashlessCollab/1-lobby/05_ellis
    1,L,J
   58,L
 
-ChapterTime: 1:20.733(4749)
+ChapterTime: 1:20.631(4743)
