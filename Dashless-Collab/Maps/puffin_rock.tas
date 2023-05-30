@@ -1,14 +1,15 @@
 # DashlessCollab
 # https://gamebanana.com/mods/403284
 
-RecordCount: 2149
-
+RecordCount: 2262
 console load DashlessCollab/1-lobby/17_phant
+#rebind activation to something other than grab
+set,CommunalHelper.AllowActivateRebinding,true
+set,CommunalHelper.ActivateSyncedZipMovers,A
    1
-
 #lvl_a00
  104
-   5,R,G
+   5,R,PA
    1,R,J
   14,R
    1,R,J
@@ -17,7 +18,7 @@ console load DashlessCollab/1-lobby/17_phant
   14,R
    5,R,J
    7,R
-   7,G
+   7,G,PA
    9,U,G
    3,R
   18,R,J,G
@@ -42,26 +43,27 @@ console load DashlessCollab/1-lobby/17_phant
   18,R
    6,R,J
    3,R
-   1,R,G
+   1,R,PA
   43,R
    8,R,D
    4,D
   12,R
-  31,R,D,G
+   1,R,D,PA
+  30,R,D,G
    7,J
   19,R
    8,J
-  16,R,G
+  16,R,G,PA
    3,L
    8,L,J
   33,L
   16,J
   10,L
-   3,L,G
+   3,L,G,PA
   13,L
   25
   11,L
-  27,G
+  27,G,PA
    7,D,G
   16,G
    1,J,G
@@ -73,24 +75,21 @@ console load DashlessCollab/1-lobby/17_phant
 #lvl_a02
    4,R,D
   17,R,J
-   1,K
-  24,R,K
-  18,J
-  18,R,J
-   1,K
-  11,R,K
-  17,R
-   1,R,J
-  14,R
+  12,R,K,G
+   8,R,J,G
+   3,R
+   1,R,J,G
+   1,R,K,G
+  10,R
    6,R,J
    6,R
-  15,R,G
+  15,R,PA
   27,L
    1,L,J
   14,L
    8,L,J
   12,L
-   3,L,G
+   2,L,G,PA
    2,R
    1,R,J
    8,R
@@ -102,7 +101,8 @@ console load DashlessCollab/1-lobby/17_phant
    8,R
   10,D
   26,R
-   3,R,G
+   2,R,PA
+   1,PA
    6
   18,R,J
    1,R,K
@@ -110,7 +110,7 @@ console load DashlessCollab/1-lobby/17_phant
    1,G
   10,L,J
    2,L
-  29,L,G
+  29,L,G,PA
    1,R,J
   12,R
    8,R,J,G
@@ -140,7 +140,7 @@ console load DashlessCollab/1-lobby/17_phant
   10,R
   11,R,J
   17,R
-  19,G
+  19,G,PA
    3,L
   11,R
    1
@@ -158,7 +158,7 @@ console load DashlessCollab/1-lobby/17_phant
    3,R,K
   16,R
    1,G
-   1,R,J,G
+   1,R,J,G,PA
   31,R,D
    6,D
    5
@@ -166,7 +166,7 @@ console load DashlessCollab/1-lobby/17_phant
    3,R,D
    8,R
   10
-   1,L,G
+   1,L,G,PA
    1
    1,J
    1,R,J
@@ -174,7 +174,7 @@ console load DashlessCollab/1-lobby/17_phant
    4,L,K,G
    8,L
   41
-  14,G
+  14,PA
    6,R
   17,R,J
   10,R,K,G
@@ -195,38 +195,41 @@ console load DashlessCollab/1-lobby/17_phant
    1,J
    1,R,J
   10,J
-  27,L,K,G
-  58,R,G
+  27,L,K,G,PA
+  58,R,G,PA
    2
    7,R
    3
    1,L,G
    1,J
    1,R,J
-  13,J
+  12,J
+   1,J
   12,L,K,G
    5,L,J,G
    4,L
-  26
+   4
    5,R
-   1,R,G
-   1,R,J
-  13,J
-  12,R,J
-   1,R,K,G
-   1,R,J,G
-  19,R
-   1,R,J
-  14,R
-   1,R,J
-  14,R
-   1,R,J
-  12,R
-   1,R,J
+   8,R,J
    7,R
-   1,R,J
+   1
    1,R
-  46,R,J
+   1,R,K,G
+   2,R,J,G
+  13,R
+   1,R,J
+  13,R
+   1,R,J
+  11,R
+   1,R,J
+  20,R
+   1,R,J
+  11,R
+   4
+   2,R,J
+   5,R
+  32,R,J
+   9
    4,R
   20,R,K
    4,L,J,G
@@ -237,7 +240,7 @@ console load DashlessCollab/1-lobby/17_phant
   12,R,J,G
   19,R,K,G
   51,R,D
-  24,L
+  23,L
   20,R,D
    2,R
    1,R,D,J
@@ -267,11 +270,11 @@ console load DashlessCollab/1-lobby/17_phant
    9,D
    8,L,D
   52,R
-  38,G
+  38,G,PA
    1,L,J
   23,L
    6
-   7,G
+   7,PA
   10,R,J
   41
    6,L
@@ -287,7 +290,8 @@ console load DashlessCollab/1-lobby/17_phant
   12,L
    5,L,J
    7,L
-  26,G
+  15,G
+  11,G,PA
    1,J,G
    1,K,G
    1,L,J,G
@@ -300,9 +304,9 @@ console load DashlessCollab/1-lobby/17_phant
   10,R,J
   16,R
   13,D
-  43,D,G
+  43,D,PA
   31,L,D
-  20,L,D,G
+  20,L,D,PA
    1,L,J
   15,L
    2
@@ -311,7 +315,7 @@ console load DashlessCollab/1-lobby/17_phant
    1,L,G
    5,R,J
    2,R
-  18,R,G
+  18,R,G,PA
    1,R,J
   14,R
    1,R,J
@@ -323,7 +327,7 @@ console load DashlessCollab/1-lobby/17_phant
    3,R,D
   10,D
    3,R,J
-   4,R,J,G
+   4,R,J,PA
   21,R
    1,R,J
    2
@@ -368,4 +372,4 @@ console load DashlessCollab/1-lobby/17_phant
    8,R,J
  163,R
 
-ChapterTime: 1:03.852(3756)
+ChapterTime: 1:02.203(3659)
