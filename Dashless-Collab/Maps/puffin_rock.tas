@@ -3,11 +3,11 @@
 
 RecordCount: 2262
 console load DashlessCollab/1-lobby/17_phant
+   1
+#lvl_a00
 #rebind activation to something other than grab
 set,CommunalHelper.AllowActivateRebinding,true
 set,CommunalHelper.ActivateSyncedZipMovers,A
-   1
-#lvl_a00
  104
    5,R,PA
    1,R,J
