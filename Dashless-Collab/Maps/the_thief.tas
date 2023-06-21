@@ -1,4 +1,4 @@
-RecordCount: 2983
+RecordCount: 3342
 
 console load DashlessCollab/1-lobby/04_ema
    1
@@ -210,65 +210,44 @@ endRepeat
    1,L,K
    8
    7,L
-#-16f (bad Walkline cycle)
-#   7,L,K
-#  27,L
-#   6,R
-#  10,R,J
-#   6,R
-#   9,R,J
-#  15,R,D
-   6,L,K
-   1,L
-   4,K
-   1,L,K
-  12,L
-   1,L,K,G
-  14,L,D
-  19,R,D
-  10,R,J
-  28,R,D
+   7,L,K
+  17,L
+   2,R
+  17,R,J
+  17,R
    1,R,K
-   8
+   7
    7,R
-  27,R,J
-   2,J
+  23,R,J
+   6,R
    1,R,K,G
    2,L,K
    1,R,J,G
    1,R,K,G
-  11,R
+  10,R
    1,R,K
-  14,R
-#-3f fastfall
-#   2,K
-#   5,R,K
+  19
+  10,R
+   7,R,K
+   2,R
+   7,L
+   1,L,J
+  35,L,D
+#use when you dont
+#need to wait
+#  14,R
+#   7,R,K
 #   3,R
-#   6,L
+#   5,L
 #   1,L,J
-#  36,L,D
-#   1,L,K
-#  14,L
-#   1,L,K
-#   6
-#   8,L
-#  13,L,K
-#  10,L,J,G
-#   2,L,K,G
-#   5,R,K
-#   1,L,J,G
-#   3,L,K,G
-   2,K
-   5,R,K
-   3,R
-  46,L
+#  35,L,D
+##
    1,L,K
   14,L
    1,L,K
-   9
-   5,L
-  14,L,K
-   9,L,J,G
+  14,L
+  13,L,K
+  10,L,J,G
    2,L,K,G
    5,R,K
    1,L,J,G
@@ -279,8 +258,8 @@ endRepeat
   12,R,J,G
    2,R,K,G
    9,R
-  10,D
-  10,L,D
+  11,D
+  23,L,D
    5,R,D
    5,R
    9,R,K
@@ -490,4 +469,5 @@ endRepeat
  157,U,X
 
 
-ChapterTime: 1:18.523(4619)
+
+ChapterTime: 1:18.302(4606)
