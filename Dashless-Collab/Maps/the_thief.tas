@@ -1,4 +1,4 @@
-RecordCount: 3342
+RecordCount: 3477
 
 console load DashlessCollab/1-lobby/04_ema
    1
@@ -61,12 +61,13 @@ endRepeat
    1,L,J,G
    1,L,K,G
   13,R
-Repeat 4
+Repeat 3
    1,R,K
   14,R
 endRepeat
-   6,R
- 128,D
+   5,R,K
+   3,R,D
+ 135,D
   40
 
 #lvl_02
@@ -349,24 +350,20 @@ endRepeat
    5,L
    1,L,J
   18,L
-  22,L,J
-   1,K
-  11,J,G
-   1,R,J
-   5,J
-   2,R,J
+  19,L,J
+   1,K,G
+   7,L
+   1,R
+  11,R,J
+   4,R
    1,R,K,G
-   2,L,K
    1,R,J,G
-   1,R,K,G
-  13,R
-   1,R,K
-  14,R
+  11,R
    1,R,K
   14,R
   12,R,K
    2,J,G
-  13,L,J
+  14,L,J
    4,R,K,G
    1,L,K
    6,L,J
@@ -377,6 +374,9 @@ endRepeat
   14,L
    1,L,J
   13
+#cycle
+  18
+##
    5,L
    9,L,K
    5,K
@@ -470,4 +470,4 @@ endRepeat
 
 
 
-ChapterTime: 1:18.302(4606)
+ChapterTime: 1:18.200(4600)
