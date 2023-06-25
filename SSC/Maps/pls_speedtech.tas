@@ -1,7 +1,8 @@
-RecordCount: 519
+RecordCount: 786
 
 console load SecretSanta2022/1-Main/goose2
    1
+
 #Start
   82
 
@@ -123,6 +124,142 @@ console load SecretSanta2022/1-Main/goose2
    1,R,J
   12,R,D,X
   13,R,G
-  11,R,J,G
+   1,R,J,G
+  12,R,G
    1,R
-  99,R,D,X
+  22,R,D
+   9,R,U,Z
+   1,L
+   1,J,G
+   2,J
+   1,R,J
+   5,J
+  11,R,K
+   5,R
+  13,R,K
+   3
+  25,R,Z
+   7,R,J,G
+   5,R
+  23,R
+   3,R,D
+   2,R
+   8,L,Z
+   1,R,J
+   8,R
+   8,R,J
+  29,R,J,G
+   1,R
+  14,R,U,X
+  21,R,G
+   1,R
+  33,L
+   6
+   1,L
+  15,R,X
+   6,R,Z
+   1,R,J
+   7,R
+   1,R,J
+  12,R,D,X
+   2,R,J
+  40
+
+#lvl_3
+#up right before transition
+  13,R,U,X
+   1,R,J,G
+   7,R
+  12,R,J
+  15,U,X
+  27,R,J
+  30,R,U,X
+  13,U,C
+  29,L,J
+   1
+   5,L
+   1,L,J,G
+   6,L
+   1,L,J
+  15,L,D
+  15,U,X
+  24,R,D
+  15,R,X
+  26,R
+   4
+  15,R,Z
+   1
+   8,L,J,G
+   2
+  11,R,U,X
+   1,J,G
+  16
+   4,R
+   9,R,J
+  10,L,D,X
+  11,R,J
+  60,R,J
+#wehh
+#   3,R,J
+#  18,R,U,X
+#  21,R,G
+#   1,R
+#   9,R,U,X
+#  21,R,G
+#  20,G
+#   1,R
+#   8,D
+#  13,R,D
+#   6,R,D
+#  15,R,U,Z
+#   3
+#   3,R
+#   3
+#   1,L,J,G
+#   1,R,J
+#   1,J
+#   1,R,J
+#   1,K
+#  25,L,K
+# 500,R,J
+   4,R,J
+  17,R,U,X
+  64,R,G
+   1,R
+  14,R,U,X
+  24,R,G
+   1,D
+  10,U,X
+  21,R,G
+   1,R
+   7,L,J
+  18
+  12,R,J
+  15,R,X
+  15,R,C
+  18,R,X
+   3,R
+  22,R,U,C
+   5,R
+  15,R,X
+  15,R,C
+   9,R,D,X
+   1,R,J
+   7,R
+   1,R,J
+   6,R,D,X
+  40
+
+#lvl_4
+   7,R,D,X
+   1,R,J
+   7,R
+   1,R,J
+   9,R,D,X
+  32,R,J
+   3,R,J
+  17,R,X
+  15,R,C
+ 135
+
+ChapterTime: 0:36.431(2143)
