@@ -1,4 +1,4 @@
-RecordCount: 1982
+RecordCount: 3161
 
 console load AnarchyCollab2022/1-Submissions/09_microlith
    1
@@ -6,6 +6,8 @@ console load AnarchyCollab2022/1-Submissions/09_microlith
 #Start
 #lvl_a00
  190
+#spinner cycle
+   1
   14,L,Z
    1,L,J
    8,L,U,X
@@ -13,7 +15,7 @@ console load AnarchyCollab2022/1-Submissions/09_microlith
    2,L,K,G
    1,L,J,G
    3,L,K,G
-   7,L
+   7,L,G
    1,L,J
   10,L
   15,L,U,X
@@ -167,21 +169,20 @@ console load AnarchyCollab2022/1-Submissions/09_microlith
   10,L
    2,L,J
    5,L
-   8
+   7,L
   15,U,X
-  53,L,D
-  13,L,Z
+  54,L,D
+  14,L,Z
 
 #lvl_b03
-   1,L
    2,R,J
-  13,R,D,X
-   5,R,J
-   7,R,K,G
+  14,R,D,X
+   3,R,J
+   8,R,K,G
   16,U,Z
-   1,L,K,G
-   8,L
-  16,U,X
+   1,L,J,G
+   8
+  15,U,X
   15,J
   61
 
@@ -291,6 +292,8 @@ console load AnarchyCollab2022/1-Submissions/09_microlith
   14,R,D
    2,L,D
   11,R,Z
+
+#lvl_b03
    3,L,J
    2,L
   14,L,U,Z
@@ -370,16 +373,18 @@ console load AnarchyCollab2022/1-Submissions/09_microlith
    2,L,J
   48,L,D
   15,R,D
-  15,D
+  16,D
+#1/3
 StunPause
   18,D
 SkipInput 3 1
-  14,D,X
+  12,D,X
 EndStunPause
-  27,D
+  28,D
   72,R,D
    4,L,J
-   6,R,J
+   5,R,J
+   1,L,J
   22,R,U,X
    4,C
   35,L,D,C
@@ -387,6 +392,8 @@ EndStunPause
    1,L,J
    4,L
   14,L,D,X
+
+#lvl_b03
    3,R,J
   15,R,D,X
    1,R,J
@@ -399,7 +406,261 @@ EndStunPause
    3,R,D,J
    6,R,K,G
    4,R
-  14,U,X
-  11,J
-#0:52.037(3061)
-  
+  12,J
+  16,U,X
+  61
+
+#lvl_b02
+  18,L,J
+   9,L,K,G
+   5,L,J,G
+  18,U,X
+   8,L,J,G
+   7,L
+  12,L,J
+  15,U,X
+  18,L,J
+   9,L,K,G
+  12,L,J,G
+   7,L
+   5,R,X
+   6,L,J
+   1,L,K,G
+   8
+   1,K
+  31,L,D
+  15,R,Z
+  16,D
+   3,L,D
+   1,D
+   3,L,D
+   2,L,J
+   6,L
+  21,L,K
+   5,L,Z
+   1,L,J
+   3,L
+   1,L,K
+   3,L
+  13,L,J
+  15,L,U,X
+   6,L,J,G
+   5,L,K,G
+   5,K
+   1,J,G
+   8,L
+   4,L,J
+   2,L
+  15,L,D,X
+   7,L,D
+   1,R,J
+   2,R,K
+  19,R,D
+   1,L,D
+   1,R,D
+   1,J
+   1,K
+   1,L,K
+   9,L,D
+  21,R,D
+   1,R,J
+  10
+  19,D,X
+
+#lvl_c2a00
+  16
+  10,R,D,X
+   6,R,J
+   1,R,K,G
+   8,R,G
+  10,R,D,X
+   2,R,J
+   1,R,K,G
+   2,R,J,G
+   3,R,K,G
+   1,R,J,G
+   5,R
+  11,R,U,Z
+  40
+
+#lvl_c2a01
+   2,R
+   1,L,J,G
+  57,R,J
+  16,D,X
+   1,R
+  12,L,D,C
+   1,R,J
+  10,R,K,G
+  34,R
+   7,R,D
+  23,R,Z
+  34,G
+   1,R,J,G
+   3,R
+   1
+  36,R,J,G
+   7
+   9,K,G
+   1,L,K
+   1,J
+  24,R,J
+   1,K
+  25,R,K
+   1,R,J,G
+  40,R,D
+   7,R
+   1,R,J
+  15,R,U,X
+  45,R,D
+   2,R
+   2,R,D
+  12,R,X
+   5,R,J
+  14,R,U,X
+   2,R,J,G
+   2,J
+   1,R,J
+   1,J
+
+#lvl_b04
+   6,L,Z
+   1,L,J
+   7,L
+   2,L,D,J
+   3,L
+   5,L,J
+   3,L
+   9,L,D,X
+   3,L,J,G
+  11,L
+   5,L,J
+   5,L,U,Z
+  61
+
+#lvl_b02
+   9,L
+   3,R,J,G
+  16,U,X
+  18,J
+   7,R,K,G
+   1,R,J,G
+   4,L,J
+   6,R,J
+   1,R,K,G
+   7,R
+   9,R,J
+   3,R
+   8,R,Z
+   1,R,J
+   6,R
+   4,R,J
+  40
+
+#lvl_b01
+   6,R,J
+   5,R
+  15,U,X
+   1,R,J,G
+   7,R
+  12,R,J
+   8,R,K,G
+   2,J
+   5,R,X
+   2,R,J,G
+   5,R
+   1,R,K
+   7,R,D
+  49,D
+   2,L
+  11,L,Z
+   1,R,J
+   1,R,K,G
+   2,K
+   7,R,K
+  11,R,J,G
+  15,R,D,X
+   9,R
+  18,R,D
+   2,R
+   1,R,D
+   4,Z
+   1,R,J
+   6,R
+   4,R,J
+  13,R,U,X
+   7,R,J,G
+   9,R
+   2,R,K
+  12,R,J
+  12,R,X
+
+#lvl_a01
+   2,R
+   4,R,J
+   3,R,K
+  11,R,D,X
+  40
+
+#lvl_a00
+   4,R,D
+   1,R,J
+  11,R,D,X
+   1,R,J,G
+   2,R,K,G
+   1,R,J,G
+   7,R,K,G
+   3,R
+  10,R,D,X
+   1,R,J
+   1,R,K,G
+   2,R,J,G
+   1,R,K,G
+   5,R,D,X
+   1,L,J,G
+   2,R,J
+   5,R
+   1,R,K
+   9,R
+   6,R,J
+  15,R,D,X
+   1,R,J
+  67,R,G
+  15,D,G
+   2,G
+   4,L
+  14,L,Z
+   1,L,J
+   4,R,K,G
+   1,L,J,G
+   7,L,D,X
+   1,L,J
+   1,L,K,G
+   2,L,J,G
+   1,L,K,G
+  16,L,J,G
+  11,L,Z
+   4,R,J
+  19,R,D,X
+   1,R,J
+   9,R,U,X
+   1,R,J,G
+   2,R,K,G
+   1,R,J,G
+   6,R,K,G
+  14,R,D,X
+   1,R,D,J
+   2,R,K,G
+   1,R,J,G
+   1,R,K,G
+  18,R
+   1,R,J
+  90,R
+
+
+
+
+  24,L,J,G
+  14,R,D,X
+   1,R,J
+  90,R,D,X
