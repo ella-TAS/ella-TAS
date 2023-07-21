@@ -1,0 +1,182 @@
+RecordCount: 461
+
+console load stanley/celeste-parable OG-0-0
+   1
+
+#Start
+read 7-2 Start lvl_OG-1-11
+
+#lvl_OG-1-11
+   8,L,D,X
+   1,S,N
+   1,D,J
+  34
+  19,L,J
+   6,L
+   8,L,J
+  17,L,U,X
+   9,L,J,G
+   7,L
+   6,L,Z
+   1,L,J
+   2,L
+  40
+
+#lvl_OG-1-12
+   5,L
+   1,L,J
+  14,L,D,X
+   4,L,J
+   5,L,G
+  10,L,J,G
+  11,L,Z
+   1,L,J
+   7,L
+   7,L,J
+   6,L
+   2,L,K
+   5,L
+   5,L,J,G
+   5,L
+   9,L,K
+   8,L
+  14,U,Z
+   7,J
+  43,D
+   2,G
+   1,J,G
+   1,K
+   2,J,G
+  35,R,J
+   2,R,K,G
+   4,L,K
+   6,R,K
+   3,R,J,G
+   1,R,K
+  12,L,J,G
+  15,U,X
+  18,R,J
+  40
+
+#lvl_OG-1-13
+  11
+   6,U,X
+Repeat 6
+   9,U,C
+   9,U,X
+Endrepeat
+  14,L,U,C
+   2,L,J,G
+   5,L,Z
+   1,L,J
+   1,S,N
+   1,D,J
+  34
+   5,L
+   2,L,K
+  13,L,J
+  12,L,K,G
+   7,L,J,G
+   1,K
+   2,J,G
+  11,R,J
+  14,L,U,X
+  20,L,D
+   1,R,D
+   2,L,D
+   5,R,D
+   3,R
+   6,R,Z
+   1,L,J
+   2,L,K,G
+   1,L,J,G
+   6,L
+   1,S,N
+   1,D,J
+  34
+   3,L
+   1,L,D,J
+  40
+
+#lvl_OG-1-14
+   1,L,J
+   5,L
+  47,L,K
+  15,L,U,Z
+  37,L,U,X
+  15,L,U,Z
+   1,R
+   1,J
+   2,K,G
+  31,L,D
+  15,L,X
+  15,L,C
+  22,L,D
+   4,Z
+   2,L,J
+   7,L
+  40
+
+#lvl_OG-1-15
+   1,L
+   1,L,J
+   2,L
+  61,L,D,X
+   4,Z
+   1,L,J
+   7,L
+   3,L,J
+   4,Z
+   1,L,J
+  10,L
+   9,L,J
+   5,L
+  12,L,Z
+   1,L,J
+   4,L
+  40
+
+#lvl_OG-1-16
+   2,L
+   2,L,J
+   4,L,K,G
+   3,L,J,G
+  14,L,U,X
+   3,L,J,G
+   2,L,K,G
+  11,L
+  19,U,G
+   6,L,J,G
+   2,L
+  24,L,U,X
+  12,L,D,J
+   2,J
+  15,U,X
+   3,L
+  36,L,K
+   1,J,G
+   4,L,J
+   4,J
+   1,L,J
+   1,R,J
+   1,L,J
+  13,L,K,G
+   1,J,G
+   3,L,J
+   3,J
+   1,L,J
+   1,R,J
+   1,L,J
+  13,L,K,G
+  11,J,G
+   1,R,J
+  13,K
+   9,L,J,G
+   1,R,J
+   1,L,J
+   1,J
+   1,K
+   2,J,G
+  66,R,J
+  15,R,X
+  90,D
