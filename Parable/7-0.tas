@@ -1,9 +1,12 @@
-RecordCount: 1206
+RecordCount: 1226
 
 console load stanley/celeste-parable OG-0-0
    1
 
 #Start
+#spinner cycle
+   2
+
 read 7-2 Start lvl_OG-1-11
 
 #lvl_OG-1-11
@@ -299,6 +302,7 @@ Endrepeat
    1,R
   18,R,X
   17,R,U,Z
+#facility
    2,R,J,G
    2,L,J
    1,R,K,G
@@ -340,16 +344,17 @@ Endrepeat
    1,S,N
    1,D,J
   34
-   1,R
+   2,R
+#1/3
 StunPause
-   3,R
+   2,R
    1,R,J
    4,R
 SkipInput 3 1
   18,R,D,X
    2,R,J
-   1,R
 EndStunPause
+   1,R
   40
 
 #lvl_OG-1-21
@@ -368,4 +373,4 @@ EndStunPause
   30,R,D
   11,L,Z
    1,L,J
-#1:51.928(6584)
+#1:51.775(6575)

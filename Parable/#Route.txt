@@ -40,11 +40,11 @@ First number is the checkpoint the file starts from, second number is the file's
 3-9: Unlock CP7 (Classic) --> Trap Ending
 
 7-0: Classic Freedom Ending
-*7-1: Classic Countdown Ending
+7-1: Classic Countdown Ending
 7-2: Classic Theo Ending
 7-3: Classic Apartment Ending
 7-4: Classic Games Ending
 
 1-1: Escape Pod Ending --> Heart Collect
 
-* Epilogue
++ Epilogue
