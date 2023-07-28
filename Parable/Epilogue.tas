@@ -1,11 +1,11 @@
-RecordCount: 436
+RecordCount: 437
 
 console load stanley/epilogue
    1
 
 #Start
 #lvl_0-0
-  88
+  84
    7,R,Z
    1,R,J
    1,R

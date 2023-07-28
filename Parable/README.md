@@ -1,3 +1,3 @@
 # Contributors
-Main TASer: EllaTAS
-other TASers: Twist (senate), Vamp, autorice202, Waxy14Duke, Janosch
+TASer: EllaTAS
+Support: Twist (senate), Vamp, RichConnerGMN, Destoma, SSM24, autorice202, Waxy14Duke, Janosch
