@@ -16,7 +16,7 @@ read 3-0 dcb drop
 read 3-0 lvl_A-fill4 multiple1
 read 0-1b lvl_C-0 lvl_F-4
 read 3-1 multiple deathwarp
-read 2-4 lvl_2-6
+read 2-5 lvl_2-6
  164
    1,J
   83
@@ -34,7 +34,7 @@ read 2-4 lvl_2-6
    1,J
   46
 
-read 3-2 Start
+read 3-2 Start collect
 read RTM
    1,R
    1,F,90
@@ -50,4 +50,4 @@ read SnQ
  164
    1,J
 
-FileTime: 3:59.768(14104)
+FileTime: 3:59.190(14070)

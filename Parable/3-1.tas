@@ -1,4 +1,4 @@
-RecordCount: 1609
+RecordCount: 1610
 
 console load stanley/celeste-parable B-0
    1
@@ -247,7 +247,7 @@ read 0-1b dcb lvl_F-4
   65,O
    1,S,N
    1,D,J
-  34,G
+  34
    1,R,J
   13,R,U,X
    1,R,J,G

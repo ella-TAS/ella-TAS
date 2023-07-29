@@ -29,8 +29,8 @@ First number is the checkpoint the file starts from, second number is the file's
 2-1b^: Bottom of the Mind Control Facility Ending
 2-2: No Free Will Ending
 2-3: Museum Ending
-2-5: Broken Elevator Ending
-2-4: Countdown Ending
+2-4: Broken Elevator Ending
+2-5: Countdown Ending
 
 5-0: Escape Ending
 
@@ -47,4 +47,4 @@ First number is the checkpoint the file starts from, second number is the file's
 
 1-1: Escape Pod Ending --> Heart Collect
 
-+ Epilogue
+Epilogue

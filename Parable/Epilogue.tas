@@ -1,4 +1,4 @@
-RecordCount: 917
+RecordCount: 1411
 
 console load stanley/epilogue
    1
@@ -212,14 +212,12 @@ Endrepeat
 
 #lvl_1-3
  700,R,U,G
-***S
   24,D,X
    4,Z
    3,R,J
 
 #lvl_1-3-1
  712,L,D,K
-***
   14,Z
    1,R,J
    4,R
@@ -227,5 +225,225 @@ Endrepeat
   15,R,D,X
   30,R,D,C
  652,R,U,G
+  23,R,D,X
+   9,L,Z
+   1,R,J
+   2,R
+
+#lvl_1-5
+  31,R,D
+  15,L,D,X
+ 532
+  16,R,C
+  14,L,Z
+   1,R,J
+  16,R,D,X
+   5,R,J
+  13,R,D,X
+   7,R,J,G
+   1,R,K,G
+   3,R
+   4,R,J,G
+   5,R
+   1,R,K
+   2,R
+   4,R,J
+   6,R,D,X
+   2,R,J,G
+   1
+  11,R
+   1,R,J
+   1,R
   21,R,D,X
-  90
+   4,R
+   1,R,J
+   1,R,K
+   1,R,J
+   1,R,K
+   1,R,J
+   1,R,K
+   1,R,J
+   8,R,U,X
+   7,R,J,G
+  11,R,D,X
+   2,R,J
+  10,R,K,G
+  17,R
+   7,R,J
+  15,R,D,X
+  15,R,D,C
+   1,R,J
+   8,R
+  40
+
+#lvl_1-7
+   6,R
+   1,R,J
+   9,R,D,X
+   1,S,N
+   1,D,J
+  34
+   1,R,J
+  14,R
+  40
+
+#lvl_1-8
+   1,R,J
+   8,R,D,X
+   1,S,N
+   1,D,J
+  34
+   6,R
+   1,G
+   1,L,J
+  15
+  14,L,D,X
+   1,R,J
+  14,R,D,X
+   1,R,J
+   8,R,U,Z
+  40
+
+#lvl_1-9
+   3,R
+   3,L,J,G
+   1
+  10,R,U,X
+   1,S,N
+   1,D,J
+  34
+   5,R
+  14,R,U,X
+   1,R,J,G
+   7,R
+   6,R,Z
+   1,R,J
+   7,R
+   1,R,J
+  14,R,D,X
+   1,R,J
+   9,R,D,X
+  26,C
+  14,L,D,X
+   1,R,J
+   2,R
+  19,R,D,X
+   1,R,J
+  11,R,D,X
+  40
+
+#lvl_1-10
+   3,R
+   1,R,J
+  14,R,D,X
+   1,R,J
+  14,R,D,X
+   1,R,J
+   7,R,D,X
+   1,S,N
+   1,D,J
+  34
+   4,R,J
+   6,R
+   1,R,J
+  14,R,D,X
+   1,R,J
+  13,R,D,X
+   7,R,J
+   4,R,K,G
+   6,R,Z
+  40
+
+#lvl_1-11
+   2,R
+   5,R,J
+   1,J
+   2,R,K,G
+  10,R,U,Z
+   1,S,N
+   1,D,J
+  34
+   5
+   9,U,X
+   7,R,J
+  11,R
+   4,Z
+   2,R,J
+   8,R
+   1,R,J
+   7,R,D,X
+   8,J
+  11,L,D,X
+   1,L,J
+   7,L
+   1,L,J
+  14,L,D,X
+   1,R,J
+   6,R,D,X
+   1,J,G
+  10,R
+   2,L
+   2,L,J
+  16,L,D
+  18,R,D
+   1,K
+   7,R,K
+   1,R,J,G
+   1,R,K,G
+  10,R,J,G
+   1,R
+   1
+   1,R
+  35,G
+  15,D,X
+  13,R,D,C
+   2,R,J
+  14,R,D,X
+   1,R,J
+  14,R,D,X
+   1,R,J
+  40
+
+#lvl_1-12
+  14,R,D,X
+   1,R,J
+   4,R
+   4,Z
+   1,R,J
+   5,R
+   2,R,K
+   7,R,J
+   5,R,D,X
+   3,R,J,G
+  13,R
+   1,R,J
+  10,R,D,X
+   1,S,N
+   1,D,J
+  34
+   9,R,J
+  15,R,D,X
+   1,R,J
+  14,R
+   1,R,J
+   3,R
+   9,R,D,X
+  43
+
+#lvl_1-13
+   5,R
+   1,S,N
+   1,D,J
+  34
+   1,R,J
+  14,R
+   1,R,J
+  14,R
+   1,R,J
+  14,R
+   7,R,J
+   1,S,N
+   1,D,J
+  18
+
+ChapterTime: 2:48.402(9906)
