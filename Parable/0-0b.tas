@@ -1,6 +1,8 @@
-RecordCount: 124
+RecordCount: 135
 
 console load stanley/celeste-parable 0-2 1
+console flag DoNotLoad0-2:777 1
+console flag DoNotLoad0-2:778 1
    1
 
 #Start

@@ -1,13 +1,31 @@
-RecordCount: 653
+RecordCount: 661
 
 console load stanley/celeste-parable 2-0
    1
 
 #Start
-#The Fall
-read 2-0a Start lvl_2-3
+read 2-0a Start storage
 
 #lvl_2-3
+   5,R,J
+  40
+
+#lvl_2-2
+  11,R,J
+  16,U,X
+   7,R,J
+  67,R,X
+  32,R,D,C
+   1,G
+   1,J,G
+  35,D
+  27,R,D
+   4,Z
+   2,R,J
+   5,R
+  43
+
+#lvl_2-A
    3,R,K
    1,R,J
   14,R,D,X

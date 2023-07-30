@@ -1,4 +1,4 @@
-RecordCount: 1610
+RecordCount: 1718
 
 console load stanley/celeste-parable B-0
    1
@@ -10,7 +10,7 @@ read 0-1b dcb lvl_F-4
 #multiple
  265
 
-#lvl_2-2 (0)
+#lvl_2-2
   12
   15,D,C
    5,L,D
@@ -80,7 +80,7 @@ read 0-1b dcb lvl_F-4
    1,R,J
   40
 
-#lvl_2-1 (1)
+#lvl_2-1
    3,R
    2,R,K
    3,R
@@ -101,76 +101,72 @@ read 0-1b dcb lvl_F-4
    1,J
    1,R,J
   16,R
-  12,R,J,G
-  34,R,D
+   3,R,J,G
    5,R
-  14,L,D,X
+   2,R,K
+  10,R
+   6,R,J,G
+  29,R
+   3,R,D
+   4,Z
    1,R,J
-   5,R,D,X
-   7,R,J,G
-   2,R,K,G
-   3
-   3,R
-   1,R,J,G
-   9,R
+   5,R
   40
 
 #lvl_2-2
-   2,R
-  10,R,J
-   5,R
-  24,R,J,G
-  22,R,D
-  15,R,U,X
-  23,R
+   3,R
+   1,R,N
+   4,R,J
+  16,U,Z
+   2,R,J
+   8,R
+   2,R,K
+   1,R
+   5,R,J
+   2,K
+  67,R,X
+  32,R,D,C
    1,G
    1,J,G
-  44,D
-  14,R,D
-   4,R
-   7,R,Z
+  38,D
+  21,L,D
+   2,L
+   1,L,D
+   7,L,Z
    1,R,J
-   5,R
+   6,R
+   1,R,J
+  14,R,D,X
   43
 
 #lvl_2-3
-   1,R
    1,R,J
-   9,R,D,X
+   8,R,D,X
    1,S,N
    1,D,J
   34
-   1,R,J
-  14,R
-  13,R,J
-   9,R,D,X
+   2,R
+  19,R,J
+  10,R,D,X
    1,S,N
    1,D,J
   34
-   1,R
   12,R,J
   15,R,D,X
-   1,R,J
-   5,R
   43
 
 #lvl_2-4
-   9,R
    1,R,J
   14,R
-   1,R,J
-  14,R
-   7,R,J
-  15,R,D,X
-   1,R,J
-  14,R
-  16,R,J
-   9,R,U,Z
+  11,R,J
+  17,R,D,X
+  11,R,J
+   8,J
+  10,R,U,Z
   40
 
 #lvl_2-5
-   7,R
-   3,L
+   7,L
    1,K,G
    1,R,K
   15,U,X
@@ -316,4 +312,4 @@ read 0-1b dcb lvl_F-4
   15,R,U,X
   43,R,D
 
-#1:48.834(6402)
+#1:48.443(6379)
