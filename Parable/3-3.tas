@@ -1,4 +1,4 @@
-RecordCount: 644
+RecordCount: 645
 
 console load stanley/celeste-parable B-0
    1
@@ -27,17 +27,17 @@ console load stanley/celeste-parable B-0
    1,R,K
    1,R,J,G
    1,R,K,G
-   9,R
+   1,R
+   1
+   7,R
    1,R,J
   14,R
    1,R,J
   14,R
-   1,R,D,J
+   1,R,J
   14,R
   20,R,J
-   1,J
-   1,R,K,G
-   1,K
+   2,R,K,G
    1,L,K
    1,R,J,G
    1,R,K,G
@@ -347,4 +347,4 @@ console load stanley/celeste-parable B-0
    1,R,J
   26,L
 
-#0:44.234(2602)
+#0:44.217(2601)

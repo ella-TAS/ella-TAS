@@ -1,4 +1,4 @@
-RecordCount: 382
+RecordCount: 383
 
 console load stanley/celeste-parable B-0
    1
@@ -28,17 +28,17 @@ console load stanley/celeste-parable B-0
 #dcb
    1,R,J,G
    1,R,K,G
-   9,R
+   1,R
+   1
+   7,R
    1,R,J
   14,R
    1,R,J
   14,R
-   1,R,D,J
+   1,R,J
   14,R
   20,R,J
-   1,J
-   1,R,K,G
-   1,K
+   2,R,K,G
    1,L,K
    1,R,J,G
    1,R,K,G
@@ -166,4 +166,4 @@ read 0-1b lvl_C-0 lvl_I-7
   15,R,D,X
    1,N
 
-#1:16.194(4482)
+#1:16.177(4481)

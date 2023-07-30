@@ -12,7 +12,7 @@ read SnQ
 read 0-1b Start dcb
 read 3-0 dcb drop
 #+1f berry
-  15,L
+  14,L
 read 3-0 lvl_A-fill4 multiple1
 read 0-1b lvl_C-0 lvl_F-4
 read 3-1 multiple deathwarp
@@ -34,7 +34,8 @@ read 2-5 lvl_2-6
    1,J
   46
 
-read 3-2 Start collect
+  36
+read 3-2 nocycle collect
 read RTM
    1,R
    1,F,90
@@ -50,4 +51,4 @@ read SnQ
  164
    1,J
 
-FileTime: 3:59.190(14070)
+FileTime: 3:58.561(14033)
