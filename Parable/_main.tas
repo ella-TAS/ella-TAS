@@ -72,13 +72,13 @@ read RTM
    1,J
   46
 
+read 3-5 Start
+read Restart
 read 3-6 Start
 read Restart
 read 3-7 Start
 read Restart
 read 3-8 Start
-read Restart
-read 3-9 Start
 read RTM
    1,R
    1,F,90
@@ -105,7 +105,6 @@ read RTM
   46
 
 read 1-1 Start
-***
   59
    1,J
  196
@@ -130,4 +129,4 @@ read Epilogue
   30
    1,R
 
-FileTime: 55:19.267(195251)
+FileTime: 55:51.091(197123)

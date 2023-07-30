@@ -6,7 +6,7 @@ console load stanley/celeste-parable OG-0-0
 #Start
 read 7-0 Start facility
 
-
+#lvl_OG-1-19
    5,R,J,G
    7,R
    7,L,J

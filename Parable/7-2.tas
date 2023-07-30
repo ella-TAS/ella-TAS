@@ -15,7 +15,7 @@ console load stanley/celeste-parable OG-0-0
   13,D,X
   40
 
-read 3-9 lvl_OG-1-0 lvl_OG-1-4
+read 3-8 lvl_OG-1-0 lvl_OG-1-4
 
 #lvl_OG-1-4
    6,R,K
