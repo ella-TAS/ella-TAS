@@ -122,9 +122,12 @@ read 1-1 Start
   46
 
 read Epilogue
+
+#journal
    1
    1,X
   20
+   1,L
    1,N
   30
    1,R

@@ -1,4 +1,4 @@
-RecordCount: 637
+RecordCount: 657
 
 console load stanley/celeste-parable 2-0
    1
@@ -9,15 +9,18 @@ console load stanley/celeste-parable 2-0
   36
    2,L,J
   15,L,D,X
-  79,L,D
-   1,S,N
-   1,D,J
-  34
-  47,L,D
- 160,R,D
- 200,L,D
- 163,D
-  92,R,D
+  80,L,D
+Repeat 40
+   1,J
+   1,O
+Endrepeat
+ 106,R,D
+ 148,L,D
+ 191,R,D
+ 136,L,D
+  22,R,D
+   6,R
+   1,D
    1,J,G
    4,R
    3
@@ -168,4 +171,4 @@ console load stanley/celeste-parable 2-0
    7,L,U,X
   12
 
-#0:32.317(1901)
+#0:32.198(1894)

@@ -1,4 +1,4 @@
-RecordCount: 2277
+RecordCount: 2344
 
 console load stanley/celeste-parable 1-0
    1
@@ -277,8 +277,6 @@ console load stanley/celeste-parable 1-0
   14,R
    1,R,J
   14,R
-#0:35.411(2083)
-
    1,R,J
   14,R
    1,R,J
@@ -334,18 +332,34 @@ console load stanley/celeste-parable 1-0
    2,L,D,J
 
 #multiple
-1202,L,X
+1018,L,X
+
+#lvl_1-9
+  83
+   4,D
+  43
+  40
+
+#lvl_1-fill2
+  13
+
+#multiple
  610,L,C
 
 #lvl_I-6
-  73
-   4,L,J
-   1,L
-   3,L,K
+  30
+   6,L,Z
+   1,L,J
+   7,L
+   1,L,J
+  14,L,D,X
+   1,L,J
+  12,L,D,X
+   3,L,J
   40
 
 #lvl_I-7
-   5,L
+   7,L,D,C
 
 #multiple
  475,D,X
@@ -357,7 +371,7 @@ console load stanley/celeste-parable 1-0
    4,Z
    1,L,J
   10,L
-   4,R,Z
+   4,Z
 
 #lvl_I-24
    2,R
@@ -635,4 +649,4 @@ console load stanley/celeste-parable 1-0
    3,L
   24,L,J
 
-#2:00.428(7084)
+#2:00.190(7070)
