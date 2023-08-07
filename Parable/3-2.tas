@@ -5,7 +5,7 @@ console load stanley/celeste-parable B-0
 
 #Start
 #Storage Area
-#lvl_B-0
+#lvl_B-0 (1)
   36
    4,Z
    1,L,J
@@ -25,6 +25,7 @@ console load stanley/celeste-parable B-0
    1,J
    7,K,G
    1,R,K
+#dcb
    1,R,J,G
    1,R,K,G
    1,R
@@ -97,7 +98,7 @@ Endrepeat
    7,D,X
   40
 
-#lvl_B-0
+#lvl_B-0 (2)
   19,L,D
    1,D
    1,G
@@ -155,7 +156,7 @@ Endrepeat
    2,L,D
   40
 
-#lvl_B-0
+#lvl_B-0 (3)
   20,R,D
    1,G
    1,R,J,G
@@ -180,7 +181,7 @@ Endrepeat
    7,D,X
   40
 
-#lvl_B-0
+#lvl_B-0 (4)
    1,S,N
    1,D,J
   72,O
