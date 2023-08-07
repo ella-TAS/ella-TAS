@@ -1,4 +1,4 @@
-RecordCount: 1718
+RecordCount: 1726
 
 console load stanley/celeste-parable B-0
    1
@@ -226,14 +226,14 @@ read 0-1b dcb lvl_F-4
 
 #lvl_2-6
 #Bottom of the Main Control Room of the Mind Control Facility Ending
-   8,R,D
-   1,S,N
-   1,D,J
-  34
-  29,R,D
- 313,D
-  53,L,D
-  27
+   9,R,D
+Repeat 33
+   1,J
+   1,O
+Endrepeat
+  16,R,D
+ 280,D
+  83,L,D
    1,S,N
    1,D,J
   34
@@ -312,4 +312,4 @@ read 0-1b dcb lvl_F-4
   15,R,U,X
   43,R,D
 
-#1:48.443(6379)
+#1:47.984(6352)

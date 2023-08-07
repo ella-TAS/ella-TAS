@@ -1,10 +1,10 @@
-RecordCount: 4708
+RecordCount: 4750
 
 console load stanley/celeste-parable CF-0
    1
 
-#Start
 #The Fall
+#Start
   36
    6,R,Z
    1,R,J
@@ -324,10 +324,9 @@ console load stanley/celeste-parable CF-0
    4,Z
    1,L,J
    8,L
-  15,G
+  14,G
   15,U,G
-   1,L,J,G
-   5,L,K,G
+   6,L,J,G
   10,R,D,X
   10,R,J
   14,R,U,Z
@@ -1338,7 +1337,7 @@ Endrepeat
    1,L,J
   12,L
   15,X
-   5,L,Z
+   4,Z
    9,L,J
    2,L
    1,R,K,G
@@ -2155,4 +2154,4 @@ Endrepeat
   16,L,D,X
    1,R,J
 
-#5:50.047(20591)
+#5:50.013(20589)

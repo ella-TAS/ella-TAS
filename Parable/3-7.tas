@@ -1,4 +1,4 @@
-RecordCount: 322
+RecordCount: 326
 
 Set CheatMode true
 console load stanley/celeste-parable B-0
@@ -9,7 +9,7 @@ read 3-5 Start key
 
 #lvl_FEZ-0
 #spinner cycle
-   2
+   1
    1,S,N
    1,D,J
   34
@@ -476,4 +476,4 @@ EndStunPause
    1,R,J
   14,R,D,X
 
-#2:18.839(8167)
+#2:17.581(8093)

@@ -1,4 +1,4 @@
-RecordCount: 427
+RecordCount: 439
 
 console load stanley/celeste-parable ID-8
    1
@@ -78,21 +78,12 @@ read 1-0 lvl_ID-9 lvl_ID-17
   40
 
 #lvl_ID-19
- 113
-   5,R,Z
+   1,S,N
+   1,D,J
+  69,O
+   6,L,D,X
    1,R,J
-   5,R
-   1,R,K
-   1,R
-   3,R,J
-  14,R,U,X
-   1,J,G
-   1,L,J
-  12,R,K,G
-   7,R
-   7,R,D,X
-   1,R,J
-   3,R
+   4,R
    2
   40
 
@@ -137,4 +128,4 @@ read 1-0 lvl_ID-9 lvl_ID-17
    6,R,J
   14,R,U,X
 
-#0:54.519(3207)
+#0:53.040(3120)

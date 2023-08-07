@@ -1,4 +1,4 @@
-RecordCount: 1037
+RecordCount: 1041
 
 console load stanley/celeste-parable B-0
    1
@@ -63,14 +63,17 @@ read 3-3 Start doors
   40
 
 #lvl_E-0
- 113,D
-  32,R,D
-  13,R,D,X
+   1,S,N
+   1,D,J
+  69,O
+   6,R,Z
+   1,R,J
+   7,R
+   1,R,J
+  14,R,D,X
+   1,R,J
+  14,R,D,X
    2,R,J
-  14,R,D,X
-   1,R,J
-  14,R,D,X
-   1,R,J
   14,R,D,X
    1,R,J
   40
@@ -489,4 +492,4 @@ read 3-3 Start doors
    4,Z
    1,R,J
 
-#1:27.465(5145)
+#1:26.207(5071)

@@ -1,4 +1,4 @@
-RecordCount: 1675
+RecordCount: 1683
 
 Set CheatMode true
 console load stanley/celeste-parable 1-5
@@ -280,35 +280,37 @@ read 1-0 lvl_1-12 lvl_1-14
    1,L,J
    1,L
    6,L,D,X
-Repeat 29
-   1,J
-   1,O
-Endrepeat
-   2,D
+   1,S,N
+   1,D,J
+  34
+  12,D
   40
 
 #lvl_escape-0
- 309,D
-  25,L,D
-  13,L,D,X
-   2,L,J
-  14,L,D,X
+   1,S,N
+   1,D,J
+  69,O
+   6,L,Z
    1,L,J
-  14,L,D,X
-   1,L,J
-   7,L,D,X
-  40
-
-#lvl_escape-1
    7,L
    1,L,J
   14,L,D,X
    1,L,J
   14,L,D,X
    1,L,J
+   9,L,D,X
+  40
+
+#lvl_escape-1
+   5,L
+   1,L,J
   14,L,D,X
    1,L,J
-   8,L,D,X
+  14,L,D,X
+   1,L,J
+  14,L,D,X
+   1,L,J
+  10,L,D,X
    1,L,J
    7,L
   13,L,J
@@ -568,4 +570,4 @@ Endrepeat
   16,R,U,X
  135,R,D
 
-#2:12.192(7776)
+#2:07.551(7503)
