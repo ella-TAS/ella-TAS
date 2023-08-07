@@ -1,34 +1,43 @@
-RecordCount: 2807
+RecordCount: 3226
 
 console load DreamCollab2022/1-Maps/gray
    1
 
 #Start
  190
+
+#lvl_a_01
   14,R,Z
-   1,R,J
-  14,R,U,X
-   4,R,J,G
-  12,R
    2,R,J
-   3,R,K,G
-  13,R,D,X
-   1,R,J
+  13,R,U,X
+   1,R,J,G
+  12,R
+   3,R,J
+   3,R
+   1,R,J,G
+   1,R
+   1
+   7,R
+   5,R,J
   40
 
 #lvl_a_02
-  18,R,J
-  13,R,X
-   6,R,J
-  19,J
-  17,U,X
-   8,L,J,G
-   6,L,K,G
-   2,L
-   1,L,K,G
+   7,R,J
+   5,R
+   1,R,J
+   1,R
+   1,R,J
+   6,R
+   3
+  15,J,G
+  15,U,X
+   3,L
+   5,J
+  14,L,J
+   2,L,K,G
    7,L
-   1,L,J
-  11,U,X
+   2,L,J
+  10,U,X
   40
 
 #lvl_a_03easy
@@ -48,27 +57,40 @@ console load DreamCollab2022/1-Maps/gray
    7,L,J,G
    7,L
    4,L,J
-   8,J
+   4,J
+   2,L,K,G
+   2,K
+   2,R,K
+   1,K
+   1,R,K
+   1,K
+   2,R,K
+   1,L,K
+  12,J,G
    2,R,J
+  15,U,Z
+   5,L
+   1,R,J,G
    1,L,J
    1,R,J
    1,L,J
-  13,K
-   7,R,K
+   1,R
+   1,L
+   3,R
+   2,L
+   2,R,J,G
+  10,R
+  22
+   4,R
+   4,R,J
+   1,J
+   1
+   1,K,G
+   1,R,K
+   9,K
+   7,L,K
   15,U,X
-   6,R
-   1,L,J,G
-   4,R,J
-   7,L,J
-   7,L
-   8,R
-  28
-   2,J
-   4,R,J
-  12,K,G
-   6,L,K
-  16,U,X
-   9,R
+  10,R
   14,R,Z
    1,R,J
    2,R
@@ -263,25 +285,18 @@ console load DreamCollab2022/1-Maps/gray
 #lvl_a_08
    2
    3,R
-   6,J
+   2
+   5,J
   12,L,J
-   1,K,G
-   3,K
-   4,J
-  11,R,Z
-   1,R,J
-   1,R,K,G
-   1
-   1,R,J,G
-   1,R,K,G
-   2,R
-   7,R,D,X
-   1,L
-   1,J,G
    1,K
-   9,R,J,G
-   6,R
-  15,R
+   6,R,K
+   1,R,J,G
+   3,R,K,G
+  10,R,Z
+   1,R,J
+   7,R
+   6,R,J
+  25,R
   14,R,D,X
    1,L,J
   12,L,D,X
@@ -294,4 +309,4 @@ console load DreamCollab2022/1-Maps/gray
    1,R,J
    8,R,K,G
 
-ChapterTime: 0:35.921(2113)
+ChapterTime: 0:35.598(2094)
