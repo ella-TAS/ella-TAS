@@ -6,6 +6,7 @@ console load stanley/celeste-parable OG-0-0
 #Start
 #spinner cycle
    2
+#nocycle
 
 read 7-2 Start lvl_OG-1-11
 
@@ -373,4 +374,5 @@ EndStunPause
   30,R,D
   11,L,Z
    1,L,J
+
 #1:51.775(6575)

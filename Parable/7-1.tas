@@ -1,10 +1,10 @@
-RecordCount: 236
+RecordCount: 237
 
 console load stanley/celeste-parable OG-0-0
    1
 
 #Start
-read 7-0 Start facility
+read 7-0 nocycle facility
 
 #lvl_OG-1-19
    5,R,J,G
@@ -102,4 +102,5 @@ read 7-0 Start facility
   15,L,Z
   25,R,D
   12,D,X
+
 #1:54.784(6752)

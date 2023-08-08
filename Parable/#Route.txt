@@ -6,7 +6,6 @@ X-X.tas
 
 First number is the checkpoint the file starts from, second number is the file's placement within other files starting from that checkpoint.
 
-P = not passed
 * = not drafted
 + = in progress
 ^ = in master file
@@ -35,16 +34,16 @@ P = not passed
 
 5-0: Escape Ending
 
-P3-5: Mario Ending
-P3-6: Games Ending
-P3-7: Unlock CP6 (Demo) --> Demo Ending
-P3-8: Unlock CP7 (Classic) --> Trap Ending
+3-5: Mario Ending
+3-6: Games Ending
+3-7: Unlock CP6 (Demo) --> Demo Ending
+3-8: Unlock CP7 (Classic) --> Trap Ending
 
-P7-0: Classic Freedom Ending
-P7-1: Classic Countdown Ending
-P7-2: Classic Theo Ending
-P7-3: Classic Apartment Ending
-P7-4: Classic Games Ending
+7-0: Classic Freedom Ending
+7-1: Classic Countdown Ending
+7-2: Classic Theo Ending
+7-3: Classic Apartment Ending
+7-4: Classic Games Ending
 
 1-1: Escape Pod Ending --> Heart Collect
 
