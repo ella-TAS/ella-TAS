@@ -1,4 +1,4 @@
-RecordCount: 1389
+RecordCount: 2766
 
 console, load, DreamCollab2022/1-Maps/booster heaven
    1
@@ -128,236 +128,229 @@ console, load, DreamCollab2022/1-Maps/booster heaven
   29,L,J
   13,U,X
   11,R,C
-   6,R,J,G
+   1,R,J,G
+   1,L,J
+   2,L
+   2,R,J,G
   20,R
   10
-  10,J
-  14,R,J
+   1,J
+  19,R,J
+   3,R,K,G
    5,R,Z
-  25,L,J
-  14,L,X
+  26,L,J
+  13,L,X
    1,R
   16,U,X
-  13,J,G
-  13,K,G
-  13,J,G
+  12,J,G
+  12,K,G
+  12,J,G
    1,K,G
-   4,R,K
+   1,K
+   1,L,K
+   2,L
    5,R,X
-  13,R
-   4,D,X
-  10,R
+   1,R,J,G
+  11,R
+  14,R,Z
    1,R,J
-   7,R
-   7,L,J
+   5,R
    1
-  12,R,J
-   1,R
-   4,J,G
+   1,J
+  11,L,D,K
+   1,J
+   8,R,J
+   2,J
+   1,R,K,G
+   1,R,J,G
+   1,K
   40
 
 #lvl_a_03
-   2
-   5,R,J,G
-   1,R
-   3,R,J
-   5,U,X
-   7
-   5,R,D,X
-   9
-   1,R,J
-   1,R
-  11,R,J
-   5,U,X
-  20,L,G
-   6,L,D,G
-  26,L,G
-   4,D,X
-  42,R,J
-   5,U,X
-  11
-  11,J,G
    1
-  11,J,G
-   1
-  11,J,G
-   1
-  11,J,G
-   1,L
-  14,R,J,G
-   5,U,X
-  12
-  20,J
-   5,U,X
-  14
-  22,J
-   4,D,X
-   8,R
-   1,L,J
-   5,L
-   5,L,D,X
-  10,L
-   5,L,D,X
-  21,L
-   5,D,X
-  10
-   5,L,X
-   4
-   4,D,X
-  11,L,J
-   5,R,D,X
-   9
-   1,R,J
-   5,R,D,X
-   5
-   4,D,X
-   2,R,J
-   1,R
-   4,J
-   4
-   3
-   5,D,X
-  10
-   5,L,X
-   5
-   4,D,X
-  10
-   7,L,J
-   1,L
-  20,L,J
-   5,R,D,X
-   8
-   5,R,X
-  13
-   4,D,X
-   1,R
-   9
-   1,R,J
-   5,R,X
-   3
-   4,D,X
-  30,R,J
-  62
-   5,R,X
-   4
-   4,D,X
-  26,R,J
-   5,R,U,X
-  26,R
-   5,R,X
-  20,R
-  11,J,G
-   1,L
-  13,R,J,G
-   1,R
-  11,J,G
-   1,L
-  13,R,J,G
-   1,R
-  11,J,G
-   1,L
-  13,R,J,G
-   1
-   1,R
-   1
-  11,K,G
-   1,L
+  10,R,J,G
    1,K
-  22,R,K
-   1,L,K
+   1,J
+   5,L,J
+   1,L
+   1,K,G
+   1,L
+   5
+   1,L
+   1,R
+   2,R,J
+   8,R
+  24,R,U,Z
+   2,R,G
+   5,R,X
+   1,R,J,G
+   2,R,K,G
+   1,R,J,G
+   2,R,K,G
+  12,R,J,G
+  22,R,D
+  16,U,X
+  12,K,G
+  12,J,G
+  12,K,G
+  11,J,G
+   1,L,J
+  14,R,K,G
+  15,U,X
+   3,R
+  20,J
+  18,U,X
+  21,J
+  12,R,Z
+   6,L,J
+  15,L,D,X
+   8,L
+  23,L,D
+   5,L
+   4,L,Z
+  12,L,J
+  14,R,D,X
+   1,R,J
+   9,R,D,X
+   4,R,Z
+   2,R,J
+   2,R
+  10
+  15,D,X
+  10,L,C
+  13,L,Z
+   1,L,J
+   1,L
+   8,L,D,X
+   4,L,J
+   2,L
+   1,L,J
+   6,L
+   7
+  12,R,D,C
+  18,R,X
+  13,R,Z
+   1,R,J
+   1,R
+   7,R,D,X
+   8,R,Z
+   9,R,J
+  15,R
+   1,R,D
+  13,D
+  29,L
+  17
+   4,R
+   2,J
+   2
+  12,R,D,X
+   7,R,Z
+  29,R,J
+  28,R,U,X
+  28,R,U,C
+   2,J,G
+   1,R,J
+   7,J
+   1,R,J
+   1,L,J
+   1,R,J
+  13,R,K,G
+   1,J,G
+   5,J
+   1,R,J
+   3,J
+   1,R,J
+   1,L,J
+  13,R,K,G
+   3,K
    1,R,K
+   1,K
    8,J,G
+   2,R,J
+   1,J
+   1,L,J
+   1,R,J
+  13,R,K,G
+  10,J,G
+   1,R,J
    1,L,J
   10,R,K,G
    4,R
-   3,L,K
-   1,R,K
-  15,L,K
-  36,R,D
+  16,L
+  34,R,D
    1,R,J
   14,R
    1,R,J
   14,R
    1,R,J
-   8,R
+   7,R
   40
 
 #lvl_a_06
-   1
-   5,R
+   7,R
    1,R,J
   14,R
    1,R,J
   14,R
-   1,R,D,J
-   1,R
-   5,R,J
-   9,R
-   3,R,J
-   1
-   4,L,J,G
-  42,L,U,G
-   4,D,X
-  28,R,J
-  32,U,G
-   4,D,X
-  21,L,J
-   5,L,X
-  13
-   5,U,X
-  10
-   5,R,X
-   9
-   4,D,X
+   1,R,J
   10,R
+   7,R,D,J
+   1,L,K,G
+  41,L,U,G
+   4,R,Z
+  28,R,J
+  10,R,U,G
+  22,R,G
+   4,L,Z
+  21,L,J
+  18,L,X
+  15,U,C
+  14,R,X
+  14,R,Z
    1,R,J
-   5,R,D,X
-  10
-   5,R,D,X
-  18,R
-  37,R,J
-   5,R,D,X
-   9
+  15,R,D,X
+  15,R,D,C
+   7,R,D
+  38,R,J
+  14,R,D,X
    1,R,J
-   5,R,D,X
-  11,R
+  16,R,D,X
    2,R,J
-   5,R,D,X
-  12,R
+  17,R,D,X
   37,R,J
-   5,R,D,X
-  10
-   5,R,U,X
-  10
-   5,R,X
-   7
-   5,R,U,X
-   9
-  24,L,J
+  15,R,D,X
+  15,R,U,C
+  12,R,Z
+  14,R,U,C
+   7,L,J
+   5,L
+   3,L,J
+   3,L
    1
-  37,R,J
-   4,D,X
-  16,R
-   9,R,J
-   1,R
-  32,R,J
-   1,R
-   5,R,J,G
-   3,R
-   2
-   5,R,X
-  19
-   4,R,J
-   1,R
-  18,R,J
-   3
-   1,R
-   7
-  13,R,J,G
-   1,R
-  21,R,J
-   1,R
-   1,R,J
+   5,G
+   1
+   1,K
+   1,J
+  33,R,J
+  17,R,Z
+   4,L
+   1,J
+   5,K,G
+   3,R,K
+   5,R
+  30,R,K
+   1,R,J,G
+  12,R,K,G
+   5,R
+   3,R,J
+   2,R
+  15,R,X
+  13,R,D
+   8,D
+   1
+   1,G
+  35,R,J,G
+   1,R,K
   17,R
    1,R,J
   14,R
@@ -368,179 +361,136 @@ console, load, DreamCollab2022/1-Maps/booster heaven
   40
 
 #lvl_a_08
-   4,D,X
+   6,R,Z
    1,R,J
    7,R
    1,R,J
-  14,R
+  10,R,D,X
    1,R,J
-   5,R,X
-   4
-   4,D,X
+   9,R
+   4,R,Z
   20,R,J
-   4,D,X
-   1,R,U
-  11
-   5,L,U,X
-   3
-   5,U,X
-  10
-  16,L,J
-   5,L,X
-  10
-   5,L,X
-   7
-   4,D,X
+  16,R,U,Z
+   8,L,U,X
+  12,U,C
+  23,L,J
+  14,L,Z
+   1,L,J
+   7,L,X
+   4,R,Z
   18,L,J
    6
-   5,U,X
-  10
-   5,R,X
-   7
-   5,R,X
-  11
-   5,R,X
-  11
-   5,R,X
-  13
-   5,R,U,X
-  40
-   5,U,X
-  10
-   5,L,D,X
-  16
-   5,U,X
-  10
-   5,L,X
-  11
-   5,L,X
-  12,L
-   5,L,X
-  10
-   5,U,X
-  10
-   5,R,X
-   7
-   4,D,X
-   5,R
-  28,R,J
-   5,U,X
-  10
-   5,L,X
-   6
-   4,D,X
+  15,U,X
+  12,R,C
+  16,R,X
+  16,R,C
+  18,R,X
+  15,R,U,C
+  30
+  15,U,X
+  21,L,D,C
+  15,U,X
+  16,L,C
+  16,L,X
+  15,L,C
+  15,U,X
+  12,R,C
+  12,R,Z
+  25,R,J
+  15,U,X
+  10,L,C
+   4,L,Z
   16,L,J
    6,J
-   5,U,X
-  10
-   5,R,U,X
-   9
-  10,J,G
-   1
-  10,J,G
-   1
-  10,J,G
-   3
-   7,L,J
-  12,L
+  15,U,X
+  14,R,U,C
+  11,J,G
+  11,K,G
+  11,J,G
+   7,L,K
+   6,L
+   1,L,K
+   5,L
    1,G
    8
-   5,L,D,X
-  10
-   5,L,D,X
-   6
+  15,L,D,X
+  11,L,D,C
   17,L,J
-   5,U,X
-   7
-   5,L,D,X
-  19
-   5,U,X
-  10
-   4,D,X
-   1,R
-  10
-   2,R
-   5,U,X
-  10
-   5,U,X
-  10
-   5,L,U,X
-  17
-   5,L,D,X
-   6
+  12,U,X
+  15,L,D,C
+   9
+  15,U,X
+  17,R,Z
+  15,U,X
+  15,U,C
+  22,L,U,X
+  11,L,D,C
    4,R,J
-   5,R,D,X
-  16,R
-  24,R,J
-   1
-   1,J
-  24,R,J
-   1
-   1,J
-  24,R,J
-   1
-   1,J
-  24,R,J
-   1,R
-  27,L,J
-   5,U,X
-  10
+  15,R,D,X
+   6,R
+  19,R,J
+   6,J
+  14,U,X
+  30,L,J
+   1,K,G
+   6,L,K
+   1,R,K
+   1,L,K
+   1,L,J,G
+   2,L,K,G
+   1,R,K
+  12,J
+  17,L,D,X
+  10,L,J
    1,L
-   5,L,D,X
-  12
-  35,L,J
-   5,U,X
-   7
-  39,L,J,G
-  31,G
-   4,D,X
+   1,L,J
+   5,L
+   2
+   1,L
+   3
+   1,R,J,G
+   8,L,J
+   9,L
+  15,U,X
+  43,L,G
+   4,R,Z
   23,R,J
-   5,R,X
-  17,R
-   5,U,X
-  10
-   6,L,J
-  20,R,J
-   1
-  14,J,G
-   5,U,X
-  14
-  14,J,G
-   1
-  14,J,G
-   1
-  11,J,G
-   1,L
-  14,R,J,G
-   1
+  21,R,X
+  15,U,C
+   4,R
+   5,L,J
+  21,R,J
    1,J
-  24,R,J
-   1,R
-   1,J
-  18,R,J
-   1,R
+   4,K,G
+   1,R,K
+   6,K
+   1,L,K
+  15,U,X
+   3,R
+  13,J,G
+  13,K,G
+  12,J,G
+  10,K,G
+   1,R,K
+   1,L,K
+  19,R,J,G
+   1,K
+  19,R,K
    1,J
   19,R,J
-   1
+   1,K
+  25,R,K
    1,J
-  24,R,J
-   1,R
-   1
-   1,J
-  19,R,J
-   1
-   1,J
-  24,R,J
-   1
+  21,R,J
+   1,K
+  25,R,K
    1,J
   19,R,J
-   1
-   1,J
-  24,R,J
-   1
+   1,K
+  26,R,K
    1,J
    9,R,J
-  18,R
+  17,R
    1,R,J
   14,R
    1,R,J
@@ -552,142 +502,146 @@ console, load, DreamCollab2022/1-Maps/booster heaven
   40
 
 #lvl_a_09
-   4,D,X
+   6,R,Z
    1,R,J
    7,R
    1,R,J
-  13,R
-   5,R,X
-   6
+  10,R,D,X
+   1,R,J
+   9,R
    4,D,X
   26,R,J
-   5,R,X
-  10
-   5,R,X
-  10
-   5,U,X
-  11,L
-  29,L,J
+  15,R,X
+  15,R,C
+  15,U,X
+   1,L
+  26,L,J
+   3,J
   32,G
    3,R,J
-   5,R,D,X
-  10,R
+  15,R,D,X
    2,R,J
-   5,R,D,X
-  12,R
-  38,R,J
-   1,R
-  28,R,J
-   4,D,X
-   9,R
+  17,R,D,X
+  12,R,J
+   5,R
+   2,R,J
+  16,R
    1,R,J
-   9,R
-   6,R,J
-   1,R
-   7,R,J
-   4,D,X
-  10
-   1,R,J
-   9,R
-   1,R,J
-  12,R
-   5,R,D,X
-   9
-   1,R,J
-  14,R
-   4,D,X
-  29,R,J
-   5,L,D,X
-   6
-   4,R,J
-   5,R,D,X
-  18,R
-  23,R,J
-   5,R,D,X
-   9
-   1,R,J
-   5,R,D,X
   17,R
+  12,R,J
+  14,R,Z
    1,R,J
-   5,R,D,X
-  33,R
-   5,R,J
-   5,R,X
-  13,R
-   5,R,U,X
-  14,R
-   5,R,X
-  24,R
-   5,R,D
-   5,R,U,X
-  10
-   5,R,X
-  10
-   5,R,D,X
-  11
-   5,U,X
-  50,L,G
+  12,R
+   8,R,J
+   1,R
+  14,R,Z
+   1,R,J
+   8,R
+   1,R,J
+  14,R,D,X
+   1,R,J
+  25,R
+   4,D,X
+  20,R,J
+   8,R,D
+  11,L,D,X
+   4,R,J
+  17,R,D,X
+   6,R
+  24,R,J
+  14,R,D,X
+   1,R,J
+  16,R,D,X
+   1,R
+   2,R,J
+  18,R,D,X
+  17,R
+  10,R,D,J
+  18,R,X
+  18,R,U,C
+  15,R,X
+  19,R,D
+  15,R,U,X
+  15,R,C
+  16,R,D,X
+  15,U,C
+  40,L,G
    6,D,G
    4,D,X
   11,R,J
    5,R,D,X
   19,R
-   4,D,X
-  43,R,J
-   5,U,X
-   9
-  20,L,J
-  15,L,J,G
-   9,D,G
-  23,L,G
-   4,D,X
-  42,R,J
-  15,R,D
-   5,U,X
-  11,R
-   9,R,J
+   8,R,Z
+   2,R,J
    1,R
-  43,R,J
-   7
-   5,L,D,X
-   7
-   3,R,J
-   5,R,D,X
-  18,R
-  60,R,J
-   3
- 117,F,88.7
-  18,R
-   5,R,X
-  15,R
-   5,R,X
-  30,R
-   7
- 107,F,100.3
-   4,D,X
-  10
    1,R,J
-   7,R
+   1,R
+   1,R,J
+   1,R
    1,R,J
   14,R
+  15,R,U,Z
+   1,R
+   4
+   1,L
+   1,L,J,G
+   1,R,J
+   1,L,J
+   1,R,J
+   1,L,J
+   1,R,J
+   1,L,J
+   1,R,J
+   1,L,J
+   1,R,J
+   1,L,J
+   2,R,J
+   1,L,J
+   1,K,G
+   1,R,K
+   7,L,J,G
+  42,L,G
+   7,R,Z
+  23,R,J
+  30,R,D
+  15,U,X
+   1,R
+  11,R,J
+   8,R
+   1,R,J
+  19,R,D
+  14,R
+   2
+  10,L,Z
+   5,R,J
+  16,R,D,X
+  22,R,J
+  40
+   7,R,U
+ 122,F,89.9
+   2,F,90,0.69
+  20,R,X
+  20,R,C
+  26
+   1,R,D
+ 120,F,94.72
+  14,R,Z
+   1,R,J
+   9,R
+   1,R,J
+   1,R
+   7,R,D,X
+   1,R,J,G
+  12,R
    1,R,J
   14,R
-   1,R,J
+   1,R,D,J
   14,R
    1,R,J
-  14,R
+  16,R
    1,R,J
-  14,R
-   1,R,J
-  14,R
-   1,R,J
+   1,R,K,G
   13,R
-   4,D,X
-  10
-   1,R,J
-   7,R
-   1,R,J
-  14,R
    1,R,J
   14,R
    1,R,J
@@ -701,26 +655,17 @@ console, load, DreamCollab2022/1-Maps/booster heaven
    1,R,J
   17,R
    1,R,J
-  14,R
-   1,R,J
-  14,R
-   1,R,J
-   3,R
+  10,R
   40
 
 #lvl_a_10
-   5,R,D,X
-   9
+   6,R,D,X
    1,R,J
-   5,R,X
-   4
-   4,D,X
+  11,R
+   5,R,Z
    6,R,J
-   1,R
-   6,R,J
-   5,R,X
-  40,R
-   5,R,U,X
- 103
-ChapterTime: 1:45.417(6201)
-
+  10,R
+  15,R,U,X
+  89,R,D
+  42,R,Z
+ChapterTime: 1:40.538(5914)
