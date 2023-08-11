@@ -1,11 +1,14 @@
-RecordCount: 2802
+RecordCount: 3041
 
 console load DreamCollab2022/1-Maps/zzmFEZ
- 101
+   1
+
 #Start
+ 100
+
+#lvl_intro
   14,R,Z
    1,R,J
-
   15,R,D,X
    1,R
    9,R,D,J
@@ -14,7 +17,6 @@ console load DreamCollab2022/1-Maps/zzmFEZ
    1,R,J,G
    8,R,K,G
    3,R
-
   15,R,D,X
    5,R
   22,R,J
@@ -35,8 +37,6 @@ console load DreamCollab2022/1-Maps/zzmFEZ
   10,R,J
    1,R,K,G
    4,R
-
-   ,R,J
   13,R,D,X
    1,L,J
    1,L
@@ -62,68 +62,59 @@ console load DreamCollab2022/1-Maps/zzmFEZ
    1,R,J,G
    9,R
    1,R,J
-   6,R,D,X
-  21,R,U,G
-  17,R,D,X
-
-  10,R,J
-   4,R
-
+   5,R,D,X
+  13,R,G
+   1,R,D
+   1,R,D,J
+  19,R,D,X
+  14,R,J
   15,R,D,X
-   1
-  10,R
-   1,R
-   6,R,J
-   1,R,K,G
-   6,R
+  13,R
+   1,R,J
+   9,R,U,X
+   3,R,J,G
+   1,J
   40
+
 #lvl_fez-0
-   4,R
+   2,R,J
+   5,R
    5,R,J
    1,R
-   4,R,J
-   1,R,K,G
-   9,K
-   1,R,K
-  11,U,X
-  13,R,J
-   9,R
-   1,R,K,G
    1,R,J,G
-  ,R,K,G
-  13,R
-  13,R,X
-  22,R,J,G
+   9,R,K,G
+   1,R
+  12,U,X
+  12,R,K
+  12,R
+   1,R,J,G
+   1,R,K,G
   14,R
-  12,R,K,G
-
+  12,R,X
+  21,R,J,G
+  15,R
+  11,R,K,G
+   1,R
   21,R,Z
    1,L
    1,J
-   6,L,J
-#0:10.659(627)
-
-  19,D,X
+   2,L,J
+   3,J
+  22,D,X
    6,L,D
    7,L
-   1,L,D
-
   10,L,D,X
   23,R,J
   14,R,D,X
   35,R,J
   22,R,X
    3,L
-
   15,U,X
   21,L,U,C
   14,R,X
    6,J,G
   15,U,X
-   4,L
-   6,L
-   
-   1,L
+  11,L
   14,L,Z
    1,R,J
    1,R
@@ -132,36 +123,29 @@ console load DreamCollab2022/1-Maps/zzmFEZ
   15,R,D,X
    2,D
    2,R,D
-   ,L,J
    1,R
-   ,R
-
   21,R,D,X
    5,R,D,C
   13,R,G
    1,G
    2,R,G
-
   11,R,J,G
    1,L,J
   13,R,U,X
   67,R,D,G
-
    1,L
   44,R,D
    1,R,J
-
    7,R,U,X
   40
 
+#lvl_fez-1
    2,R
    7,R,J,G
-
    3,R,K,G
    5,R,J,G
   15,R,D,X
    7,R,D
-
   18,U,X
   15,R,C
    3,R,D
@@ -173,10 +157,8 @@ console load DreamCollab2022/1-Maps/zzmFEZ
   15,R,U,X
   36,R
   24,U,X
-
   19,L,U,C
   14
-
   19,R,U,X
    7,R
   13
@@ -192,7 +174,6 @@ console load DreamCollab2022/1-Maps/zzmFEZ
    1
   11,R
    6,R,D
-   ,R
    1,G
    2
    1,G
@@ -239,6 +220,8 @@ console load DreamCollab2022/1-Maps/zzmFEZ
   40,R
    5,R,J
   40
+
+#lvl_fez-2
    2,R,J
    2,R
    1,R,J,G
@@ -311,12 +294,6 @@ console load DreamCollab2022/1-Maps/zzmFEZ
   13,R,D
   14,R,D,K
   10,U,X
-#   5,R
-#  19,R,J
-#  12,R,U,Z
-#  22,R,D
-#  14,R,D,K
-#  10,U,X
    3,R,J
    1,L,K
    2,L,J
@@ -365,6 +342,8 @@ console load DreamCollab2022/1-Maps/zzmFEZ
    9,R,Z
    7,R,J,G
   40
+
+#lvl_final
    4,R,J
    4,R,J,G
   10,R,D,X
@@ -374,16 +353,14 @@ console load DreamCollab2022/1-Maps/zzmFEZ
   13,R,U,X
    3,R,K,G
    3,R,J,G
-  11,R,K,G
+   8,R,K,G
+
+#lvl_final_2
+   3,R,K
   15,R,D
    1,R
    4
-
    1,R,J
-  60,R,U,X
- 190
-
-ChapterTime: 0:57.851(3403)
-
-
-
+   9,R,U,X
+ 135
+ChapterTime: 0:57.800(3400)
