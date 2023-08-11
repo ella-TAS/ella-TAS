@@ -17,7 +17,7 @@ First number is the checkpoint the file starts from, second number is the file's
 
 1-0: Broom Closet Ending --> Elevator Ending --> Unlock CP5 --> Death by Lava Ending
 
-3-0: Collectables Ending --> Archive Ending
+3-0: Collectibles Ending --> Archive Ending
 3-1: Unlock The Fall (CP2) --> BotMCRotMCF Ending --> Freedom Ending
 3-2: Too Lazy to Add Ending --> Choice Ending
 3-3: Zending (Happiness)
