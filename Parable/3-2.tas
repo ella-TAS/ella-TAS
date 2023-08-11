@@ -1004,19 +1004,7 @@ EndStunPause
    1,L,J
   19,L
   15,D,X
-Repeat 10
-   1,R
-  11,D
-Endrepeat
-***1
-console display_message 0 2 1000 true >> 10x
-Repeat 575
-   1,R
-  11,D
-Endrepeat
-console hide_message 0
-***10
-Repeat 10
+Repeat 595
    1,R
   11,D
 Endrepeat
@@ -1033,6 +1021,5 @@ Endrepeat
    9,R
    1,N
   17
-***1
 
 #4:41.945(16585)

@@ -36,8 +36,6 @@ console load stanley/celeste-parable CF-0
   40
 
 #lvl_CF-2
-Set CelesteTAS.SimplifiedGraphics true
-console display_message 0 1 1000 true Darkness removed for better visibility
    8,R
    1,R,J
   42,R,D,X
@@ -78,7 +76,6 @@ console display_message 0 1 1000 true Darkness removed for better visibility
    5,R,J
   21,R
    3,R,J
-console hide_message 0
   43
 
 #lvl_CF-4
@@ -2156,6 +2153,5 @@ Endrepeat
    1,L,J
   16,L,D,X
    1,R,J
-Set CelesteTAS.SimplifiedGraphics false
 
 #5:50.013(20589)
