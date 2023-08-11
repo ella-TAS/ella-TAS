@@ -1,4 +1,4 @@
-RecordCount: 2277
+RecordCount: 2292
 
 console load stanley/celeste-parable 1-5
    1
@@ -187,7 +187,19 @@ EndRepeat
    1,J,G
    1,L
    9
-Repeat 302
+Repeat 5
+   1,L
+  44,D
+Endrepeat
+***1
+console display_message 0 2 1000 true >> 10x
+Repeat 292
+   1,L
+  44,D
+Endrepeat
+console hide_message 0
+***10
+Repeat 5
    1,L
   44,D
 Endrepeat
@@ -891,7 +903,6 @@ Endrepeat
   13,R,D,X
 
 #lvl_ID-17
-
    1,R,J
    1,J
    4,R,K,G
@@ -928,6 +939,7 @@ Endrepeat
   14,R,D,X
    1,L,J
    3,L
-  14,D,X
+  13,D,X
+***1
 
 #6:01.522(21266)

@@ -16,7 +16,10 @@ Set,DisableFlashes,true
 Set,CrouchDashMode,Press
 Set,GrabMode,Hold
 
+#start on begin
+#   1,D
 #Play StartOnBegin
+#-----
 
 console overworld
    2
@@ -24,10 +27,11 @@ console overworld
   94
    1,J
   56
-Repeat 30
+#Repeat 15
+#   1,D
+#   1,F,180
+#Endrepeat
    1,D
-   1,F,180
-Endrepeat
    1,J
   14,L
    1,D
@@ -42,10 +46,91 @@ Endrepeat
 #-----
 
    1,U
+
+#enable variant mode
+#   1,J
+#-----
+
    1,F,
+
+#enable assist mode
+#   1,J
+#  27
+#   1,J
+#  14
+#   1,J
+#  14
+#   1,J
+#  13
+#   1,U
+#   1,J
+#  33
+#-----
+
+   1,U
+#StartOnBegin
+   1,J
+  44
+
+#choose the file name
+#and input S
+#-----
+Repeat 3
+   1,R
+   1,D
+Endrepeat
+   1,J
+   1,L
+   1,F,270
+   1,J
+   1,R
+   1,F,90
+   1,R
+   1,F,90
+   1,R
+   1,J
+   1,D
+   1,F,180
+   1,J
+   1,L
    1,U
    1,F,
-#StartOnBegin
+   1,L
+   1,U
+   1,J
+Repeat 4
+   1,R
+   1,F,90
+Endrepeat
+   1,R
+   1,J
+   1,U
+   1,L
+   1,U
+   1,J
+   1,R
+   1,F,90
+   1,R
+   1,D
+   1,R
+   1,J
+   1,L
+   1,F,270
+   1,J
+   1,R
+   1,U
+   1,R
+   1,J
+   1,R
+   1,D
+   1,R
+   1,D
+   1,J
+   1,S
+#-----
+
+  48
+   1,U
    1,J
 
 #Postcard
