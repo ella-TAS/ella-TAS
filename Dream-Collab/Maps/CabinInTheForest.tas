@@ -1,4 +1,4 @@
-RecordCount: 2108
+RecordCount: 2609
 
 console load DreamCollab2022/1-Maps/zzmCF
    1
@@ -31,7 +31,7 @@ console load DreamCollab2022/1-Maps/zzmCF
   34
    8,R,J
   22,R
-   1,X
+   1,R,N
  155
 
 #lvl_CF_B_stairs
@@ -100,55 +100,33 @@ endrepeat
   14,R
    1,R,J
    9,R
-  20,R,U,G
-  13,R
-   7,R,J
-   1,R,K,G
-   5,R,D
-  20,L,D
-   1,R,D
-  31
-   3,R
+  18,R,G
+   2,D,G
+   2,G
    1,R,J,G
-   3,R,J
-   8,R
-   1,R,J
-   5,R
+   1,R,K,G
+   1,R,J,G
+   2,J
    3
-   5,D
-   1,R,D
-   1,L,D
-   1,R,D
-   1,L,D
-   1,R,D
-   2,D
-   8,R,D
-   1,R,G
+   4,R
+   6,R,J
+   1,J
+   6,R,K,G
+  12,R
    1,R,J
-   6,R,D
-   6,L,D
+   9,R
+   2,R,D
+   2,R
+   1,J,G
+  19
+  12,D
+   4,R,D
+   1,R,G
+   1,R,J,G
+   5,R,D
+   5,D
+   2,R,D
   40
-
-
-## original strat, cost same time
-#  12,R
-#   1,R,J
-#  14,R
-#   1,R,J
-#   9,R
-#  34,G
-#   1
-#   1,R,J,G
-#   1,R,K,G
-#   1,R,J,G
-#  30,R,K,G
-#  20,L,D
-#  39
-#   8,L
-#  10,D
-#  11,R,D
-#  40
-
 
 #lvl_CF_B_01a
    1,R
@@ -171,14 +149,19 @@ endrepeat
    1,R,J
   21,R,D
    1,R,J
-  14,R
-  12,R,J
-  15,R
-   1,K
-  12,R
-   6,R,D
-   6,D
-   2,R,D
+   8,R
+   1
+   6,R
+  10,R,J
+   2,R
+   2
+   1,R
+   1,R,J
+   1,J
+   2,R
+  10
+   3,L,D
+   5,R,D
    2,D
    1,R,D
    1,D
@@ -196,8 +179,6 @@ endrepeat
    3,L,J
    9,L
   20,L,D
-   
-
    6,L
    8,R
    6,R,D
@@ -208,8 +189,6 @@ endrepeat
    3,J
    6
    1,L
-
-
   20,U,G
    6,G
    3,L,J,G
@@ -344,7 +323,6 @@ endrepeat
    1,R
    1,R,D
    5,R
-
    1,R,J,G
    5,R
    1,R,J
@@ -355,12 +333,9 @@ endrepeat
    6,R
    3,R,J
    6,R
-
    2
    2,R,J
-   1,R,K,G
-
-  10,R,K
+  11,R,K,G
   22,L,J
    1,J
    1,G
@@ -389,7 +364,6 @@ endrepeat
    6,L
    1,G
    1,J
-
    5
    1,R
    1
@@ -404,41 +378,45 @@ endrepeat
    1,L,J,G
    1,L,K,G
   21,R,J
+
+
    1,R
    1,R,J
    9,R
    7,L,D
   13,R,D
+   1,R
    1,R,D,J
 repeat,5
    4,R
    1,R,J
 endrepeat
-  14,R
-   1,R,J
-  14,R
-   1,R,J
 
-
-  11,R
-   2
-  21,R
+  14,R
+   4,R,J
+  37,R
+#slow down vertical speed
+   1,R
    1,S
    1,D,J
-  17
+#this cutscene only takes 33frames?
+  33
 
 #lvl_CF_C_intro
-  16
    1,R
    1,S
    1,D,J
   34
-   7,R
-repeat,8
+   4,R
+repeat,7
    1,R,J
   14,R
 endrepeat
-   1,X
+   1,R,J
+  15,R
+
+   1,R,X
+
  154
 
 #lvl_CF_C_0
@@ -681,6 +659,6 @@ endrepeat
   34
    5,R
    2,R,J
-   5,R,U,X
- 145
-ChapterTime: 1:20.223(4719)
+  15,R,U,X
+ 135
+ChapterTime: 1:19.237(4661)
