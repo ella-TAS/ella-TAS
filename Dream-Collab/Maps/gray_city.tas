@@ -1,4 +1,4 @@
-RecordCount: 3595
+RecordCount: 3725
 
 console load DreamCollab2022/1-Maps/gray
    1
@@ -178,41 +178,39 @@ console load DreamCollab2022/1-Maps/gray
   40
 
 #lvl_a_06
-  10
-   1,L,J
-  14,R,J
+   3
+  17,L,J
+  15,U,X
+  11,R,G
+  12,G
+   1,U,G
+   1
+   1,R,J,G
+   1,R,K,G
+   1,R,J,G
+   1,R
+   1,R,K,G
+  30,R,D
+  22,R
+  13,U,X
+   2,R,J
+  15,L,J
+   1,J
+   3,K,G
+   5,R,K
+  14,R,U,X
+  12,R,J,G
    5,R
-  10,L,Z
    1,R,J
-   7,R
-  12,R,U,X
-   1,R,J,G
+  12,R
+  12,D
+  16,R,G
    1,R
-  47,R,J
-  26,R,X
-  10,U,C
-  11,R,J
-   6,R
-   1,R,J,G
-  21,R
-  13,L,U,X
-  11,J,G
-  17,U,X
-   9,R,G
-  15,G
-   1,R,J,G
-   1,R,K,G
-   1,R
-   3,R,J,G
-  20,R
-   1,L
-   1,R,D
-   9,D
-  17,R,G
    1,R,J,G
    1,R,K,G
    1,R,J,G
-   5,R,K,G
+   2,R,K,G
+   3,R
   13,R,U,X
    1,J
   28,L,D
@@ -300,4 +298,4 @@ console load DreamCollab2022/1-Maps/gray
    1,R,J
    8,R,K,G
 
-ChapterTime: 0:35.020(2060)
+ChapterTime: 0:33.966(1998)
