@@ -1,4 +1,4 @@
-RecordCount: 1091
+RecordCount: 1360
 
 console load DreamCollab2022/1-Maps/journey
    1
@@ -50,7 +50,9 @@ console load DreamCollab2022/1-Maps/journey
    4,R,J
   88,R,X
    1,K
-   9,L,J
+   1,J
+   3,L,J
+   3,L
   10,R,Z
    1,R,J
    1,R,K,G
@@ -136,7 +138,7 @@ console load DreamCollab2022/1-Maps/journey
   15,U,X
    6,L
   26,U,X
-   8,R,Z
+   9,R,D,C
    1,R,J
    1,R,K,G
    1,R,J,G
@@ -164,7 +166,8 @@ console load DreamCollab2022/1-Maps/journey
 #lvl_a_07
    6
    1,J
-   5,L
+   3,L
+   2
   11,R,D,X
    1,R,J
    1,R,K,G
@@ -221,4 +224,4 @@ console load DreamCollab2022/1-Maps/journey
   17,U,X
  135,L,D
 
-ChapterTime: 1:09.071(4063)
+ChapterTime: 1:09.054(4062)
