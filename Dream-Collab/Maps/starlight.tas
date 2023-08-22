@@ -1,7 +1,8 @@
-RecordCount: 2204
+RecordCount: 2414
 
 console load DreamCollab2022/1-Maps/zhimatang
    1
+
 #Start
  190
 
@@ -36,7 +37,6 @@ console load DreamCollab2022/1-Maps/zhimatang
    5,R,D,X
    1,R,J,G
   10,R
-#0:03.298(194)
   40
 
 #lvl_01
@@ -63,58 +63,55 @@ console load DreamCollab2022/1-Maps/zhimatang
    2,R
    5,R,D,X
    1,R,J,G
-   8,R
-  40
-   1
-   1,R
-   1,R
-   4,R,J
-   1,R,J
-  13,R,X
-   3,R,J,G
    5,R
-   1,K
-   4,R,K
+   2,R,J
    1,R
-   2,R
-   2,R
-  33,R,J,G
+  40
 
-   1,K
-   8,R,K
-   1,R,J,G
-   1,L,J
+#lvl_02
    1,R,J
+   4,R
+   5,R,D,J
+   5,R
+   3,R,J
+   1,R,K,G
+   1
+   4,R
+   2,R,J
+   1,R
+   3,R,J
+   5,R
+  27,R,J,G
    7,R
-
-   7,R,Z
-
+   4,R,D
+  17,R,X
    1,R,J
+  13,R,C
+   1,L,J
+   1
+  14,L,D,X
+   1,R,J
+   6,R,D,X
+   1,R,J,G
+   5
    7,R
    3,R,J
    5,R,D,X
    1,R,J,G
   11,R
-   1,R,J
-  14,R
-  12,R,J
-  18,R,X
-   8,R,J
-  45,R,K
-  33,R,U,X
-   6,L,D,C
-   1,R,J
+  13,R,D,J
+  16,R,D,X
+  32,R,J
+  14,R,U,X
+   2,R,K,G
+   1,R
+   7,R,J,G
    7,R
-   5,R,J
-   7,R,K,G
-   2,R
-   6,R,D,X
-   3,R,J,G
    2,R,J
-   4,R
-#0:11.254(662)
-# +2f
-# for -5f in lvl_03 
+   2,R
+   5,R,D,X
+   4,R,J,G
+   3,R
   40
   
 #lvl_03
@@ -122,8 +119,7 @@ console load DreamCollab2022/1-Maps/zhimatang
    1,R,J
    1,R
    4,R,J
-   1,R,K,G
-   5,R
+   6,R
   20,D,X
   13,R
    1,R,J,G
@@ -158,9 +154,8 @@ console load DreamCollab2022/1-Maps/zhimatang
    1,R,J
   17,R
   11,R,U,Z
-#0:18.734(1102)
-
   40
+
 #lvl_04
    3
    1,L,J,G
@@ -184,15 +179,11 @@ console load DreamCollab2022/1-Maps/zhimatang
    3,L,J
    1,R,J
    4,L,J
-   0,K
-
-
   36,U,X
-#0:22.763(1339)
-# -30f
    3
   40
-#lvl_05
+
+#lvl_05(0)
    6,L
    1,L,J,G
    6,L,K,G
@@ -202,13 +193,11 @@ console load DreamCollab2022/1-Maps/zhimatang
    1,L,J
    8,L
    5,L,D,J
-
   15,L,D,X
    2,L
    1,L,J
-#0:24.514(1442)
-# -4f
   40
+
 #lvl_08
    4,L,J
   18,L,D
@@ -232,30 +221,24 @@ console load DreamCollab2022/1-Maps/zhimatang
   24,L,K
   24,U,X
    3
-
   11,L,Z
-
    1,L,J
   11,L,D
    5,R,D
-
   13,L,D
    4,L
-
    4,L,Z
    1,L,J
    6,L
    4,L,K
   85,L,U,X
-
   15,D,C
    8,R
    6,R,D,C
    2,R,J
-#0:30.566(1798)
-# -60f
   40
-#lvl_05
+
+#lvl_05(1)
    3,R,J
    6,R,K,G
   30,R,D
@@ -276,10 +259,8 @@ console load DreamCollab2022/1-Maps/zhimatang
    2,R
   10,R,J
    5,R
-#0:34.884(2052)
-# +1f
-# (lvl_05~07 route -2f)
   40
+
 #lvl_07
   15,R,D,X
    3,R
@@ -325,7 +306,6 @@ console load DreamCollab2022/1-Maps/zhimatang
    1,R,K
    1,K
    6,R
-
   15,R,D,X
   14,R,D
   15,R,U,Z
@@ -354,25 +334,18 @@ console load DreamCollab2022/1-Maps/zhimatang
    3,R,D
   10,R,J
   26,R,U,X
-
    6,R,J
-   
-
    5,R,Z
   22,R,J
-
   77
   15,D,X
    7,L
-
    4,L,D,C
    1,L,J
    4,L
-#0:47.549(2797)
-# -104f
   40
 
-#lvl_05
+#lvl_05(2)
    3,L
    4,L,J
    4,L
@@ -380,7 +353,6 @@ console load DreamCollab2022/1-Maps/zhimatang
    1,L,J
   14,L,D,X
    1,L,J
-
   88,D,X
   15,R,D
   10,R,Z
@@ -395,16 +367,12 @@ console load DreamCollab2022/1-Maps/zhimatang
    1,R
    3,R,J,G
    3,R
-
    9,R,D,X
-#0:51.272(3016)
-# -1f
   40
+
 #lvl_06
    5,R,D
-   4,L
-   3,L
-   
+   7,L
   10,L,Z
    1,R,J
    7,R
@@ -414,8 +382,6 @@ console load DreamCollab2022/1-Maps/zhimatang
   31,R,D,G
    3,R
    1,R,D
-
-
    9,R,D,G
    2,R,G
    5,R,U,G
@@ -443,11 +409,9 @@ console load DreamCollab2022/1-Maps/zhimatang
    1,R,J,G
    1,R,J
    6,R
-
    1,R,J
    1
    6,R,J
-
   13,R,G
   12,R,U,G
    1,R
@@ -459,24 +423,19 @@ console load DreamCollab2022/1-Maps/zhimatang
    1,R,J
    3
    1,R,K
-
    1,L,J,G
   26,R,J
-
   15,R,D,X
    1,R
   77
-
   15,D,X
    1,L
    4,L,D,C
    1,L,J
    5,L
-#0:58.752(3456)
-# -37f
   40
 
-#lvl_05
+#lvl_05(3)
    1,R
    1,L,J
    1,R,J
@@ -485,10 +444,7 @@ console load DreamCollab2022/1-Maps/zhimatang
    1,L,J
    1,L
   22,L,J
- 131,U,X
-#1:02.356(3668)
-# -3f
-   3
+ 134,U,X
   40
 
 #lvl_09
@@ -502,17 +458,13 @@ console load DreamCollab2022/1-Maps/zhimatang
   11,R
    1,R,J
   13,J
-
   15,U,X
-   2,R
-   1,R
-
+   3,R
   15,R,J
    1,K
    6,R,J
    5,R
    2
-
    7,L,J
   17,L,X
    8,L,J
@@ -528,9 +480,7 @@ console load DreamCollab2022/1-Maps/zhimatang
    1,R,K,G
    3,L,K
    4,K
-
    2,R,K
-   
    1,R,J,G
    5,R,K,G
   23,R,U,X
@@ -547,8 +497,6 @@ console load DreamCollab2022/1-Maps/zhimatang
    1,R
    1,R,J
   16,R,D
-
-
    4,R,D,X
    1,R,J
    6,R
@@ -556,9 +504,8 @@ console load DreamCollab2022/1-Maps/zhimatang
    5,R
    5,R,J,G
    6,R,U,X
-#1:08.323(4019)
-# -27f
   40
+
 #lvl_10
    9,R
   15,U,X
@@ -580,7 +527,6 @@ console load DreamCollab2022/1-Maps/zhimatang
    1,R,K,G
   10,R
    4,R,J
-
   15,U,Z
    1,L,J,G
    1,L
@@ -595,5 +541,5 @@ console load DreamCollab2022/1-Maps/zhimatang
    2,R
   13,U,C
  136
-# -27f
-ChapterTime: 1:14.766(4398)
+
+ChapterTime: 1:14.222(4366)
