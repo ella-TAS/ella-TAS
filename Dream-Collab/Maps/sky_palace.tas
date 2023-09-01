@@ -1,4 +1,4 @@
-RecordCount: 2867
+RecordCount: 2891
 
 console load DreamCollab2022/1-Maps/SkyPalace
    1
@@ -537,15 +537,17 @@ EndStunPause
   40
 
 #lvl_iceCream_6
-   5,R
+   4,R
    1,R,J
+   4,R,K
+   1,R
+   5,R,D,X
+   5,R,J,G
    6,R
-   1,R,J,G
-   7,R
-   1,R,J,G
+   1,R,J
+   2,R
    3,R,J
-   6,R
   14,R,U,X
  135
 
-ChapterTime: 1:24.864(4992)
+ChapterTime: 1:24.847(4991)
