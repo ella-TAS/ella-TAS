@@ -1,4 +1,4 @@
-RecordCount: 1754
+RecordCount: 1977
 
 console load DreamCollab2022/1-Maps/JellyfishArea
    1
@@ -127,34 +127,33 @@ console load DreamCollab2022/1-Maps/JellyfishArea
    4
   22,L
   14,R,X
- 122,R,U,J,G
+ 120,R,U,J,G
+  18,R,G
+  11,R,D,G
    1,R
-  37,R,D
-  10,L,X
-   1,J,G
-   1,L,K,G
-   1,L,J,G
+  16,L,D
+   9,D
+   1,D
+   3
+   2,D
+  14,U,X
    1,R,J
-   9,R
-  10,R,J
-  13,R,D,X
-   1,J,G
-   1,R,K,G
-   1,R,J,G
-   4,L,J
-  11,J
-  13,U,X
-  90,R,G
+   5,J
+   5,R,J
+   3
+  13,R,D,G
    3,D,G
-  16,R,D,G
-  35,R,J,G
-  94,R,U,G
-  10,R,G
-   1,L
-  10,R,D
-   8,U,X
-  15,R,J
-  31,R,D
+  40,R,D,G
+  60,R,G
+  39,R,U,G
+   1,L,J
+   9,R,J
+   8,U,Z
+  14,R,J
+  32,R
+#Spinner Cycle
+   2
+#in iceCream_ja_06
   10,R,X
    7,R,J
   11,R,U,X
@@ -292,4 +291,4 @@ EndStunPause
   15,U,X
  132
 
-ChapterTime: 0:49.351(2903)
+ChapterTime: 0:47.464(2792)
