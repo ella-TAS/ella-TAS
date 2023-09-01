@@ -1,4 +1,4 @@
-RecordCount: 2372
+RecordCount: 2513
 
 console load DreamCollab2022/1-Maps/JellyfishArea
    1
@@ -161,34 +161,23 @@ console load DreamCollab2022/1-Maps/JellyfishArea
   11,R
    1,R,J
   20,R
-#Spinner Cycle
-   1
-#in iceCream_ja_06
-  10,R,X
-   7,R,J
-  11,R,U,X
+   8,R,Z
+   1,R,J
+   7,R
+   1,R,J
+   7,R,D,X
   40
 
 #lvl_iceCream_ja_05
-   4
-   9,U,Z
-   1,L,J
-   1,K
-   7,L
-   1,L,N
-   1,J
-   2,R,D
-  15,D,X
-  10,R,D
-   6,R,Z
+   7
    1,R,J
-   7,R
-   3,R,J
-  11,R,U,X
-   1,K
-  10,R
+  10,R,D,X
+   2,R,J
+   3,J
+  10,R,U,X
+  11,K
   13,L,U,X
-  17,L,U,J,G
+  17,L,G
   43,R,U,J,G
    1,R
    6,R,D
@@ -203,7 +192,7 @@ console load DreamCollab2022/1-Maps/JellyfishArea
    5,R,J
   25,R,U,K,G
   24,R
-  13,L
+  14,L
    8,L,U,G
    1
    1,J,G
@@ -211,30 +200,35 @@ console load DreamCollab2022/1-Maps/JellyfishArea
    1,L,J,G
    1,L,K,G
    1,K
-   4,R,K
-   2,R
+   5,R,K
+   1,R
   13,R,U,Z
    4,L
    1,J,G
   15,R,D,X
    2,R,D
-   1,R
-   1,R,J
-   5,R,D,X
-  40,J
+   3,R
+  40
 
 #lvl_iceCream_ja_06
-   1,R
    1
-   2,R,D
-   2,R,K
+   2,R
+   1,R,D
+   4,R,D,K
 StunPause
-   4,R,K
+   4,R
 EndStunPause
+   1,R
    2,R,K
-  14,R,J,G
-  15,U,X
-  20,R
+   1,R,J,G
+   5,R,K,G
+   5,K
+   8
+   8,U,X
+StunPause
+   2,R
+EndStunPause
+  23,R
   15,U,X
   15,L,U,C
   15,L
@@ -256,13 +250,14 @@ EndStunPause
    6,R
   18,R,J
   15,R,D,X
+   2,R,J
 StunPause
-   8,R,J
+   6,R,J
 EndStunPause
    6,R,J
-  24,R,K
+  25,R,K
    1,K
-  17,R,K
+  16,R,K
    1,J,G
    1,R,J
    8,J
@@ -301,4 +296,4 @@ EndStunPause
   15,U,X
  132
 
-ChapterTime: 0:45.985(2705)
+ChapterTime: 0:45.322(2666)
