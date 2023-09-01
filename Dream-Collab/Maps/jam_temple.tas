@@ -1,7 +1,7 @@
 # DreamCollab2022
 # https://gamebanana.com/mods/391486
 
-RecordCount: 653
+RecordCount: 807
 
 console load DreamCollab2022/1-Maps/zzmJT
    1
@@ -181,22 +181,25 @@ console load DreamCollab2022/1-Maps/zzmJT
    5,R,J
    5,R
   22,R,U,X
-   4,R,J
-   4,R,K
-  11,L,J
-  10,L,Z
-   9,L,J,G
-   3,L
-  11,U,X
+   7,R,J
+   4,R,X
+   1,L,J
+   1,J
+  10,L,J
+   3,L,K,G
+   5,L
+   5,L,K
+  13,U,X
   40
 
 #lvl_a_4
-  11
+   5,L
+   6
   88,U,X
    9,R
    5,J,G
    2,K
-  15,U,X
- 135
+  14,U,X
+ 136
 
-ChapterTime: 0:27.948(1644)
+ChapterTime: 0:27.897(1641)
