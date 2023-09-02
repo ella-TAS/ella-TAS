@@ -1,4 +1,4 @@
-RecordCount: 5641
+RecordCount: 6129
 
 console load DreamCollab2022/1-Maps/zzmFEZ
    1
@@ -74,6 +74,7 @@ console load DreamCollab2022/1-Maps/zzmFEZ
   40
 
 #lvl_fez-0
+
    3,R,J
    5,R
    2,R,J
@@ -353,22 +354,20 @@ console load DreamCollab2022/1-Maps/zzmFEZ
   13,R,G
    1,R,D,J
    5,R,D,X
-  13,R,G
- 105,R,U,K,G
-  81,R,G
+  18,R,U,J,G
+ 167,R,U,K,G
    1,L
-   1,R,J
-   9,R,U,Z
-   6,R,J,G
+  17,R,D,X
+   9,R,U,C
+   5,R,J,G
   40
 
 #lvl_final
-   5,R,J
-   5,R
-  10,R,D,X
-   1,R,J,G
-   7,R
-  20,R,D,X
+   2,R,J
+   9,R
+   1,R,J
+   1,R
+  22,R,D,X
    2,R,J
    2,R
   14,R,U,X
@@ -380,10 +379,8 @@ console load DreamCollab2022/1-Maps/zzmFEZ
 
 #lvl_final_2
    4,R,J
-   5,R
-   4,R,J
-  11,R
-  13,R,U,X
+  15,R,D
+  14,R,X
  135
 
-ChapterTime: 0:45.866(2698)
+ChapterTime: 0:45.645(2685)
