@@ -1,4 +1,4 @@
-RecordCount: 2766
+RecordCount: 2846
 
 console, load, DreamCollab2022/1-Maps/booster heaven
    1
@@ -610,21 +610,19 @@ console, load, DreamCollab2022/1-Maps/booster heaven
    8,R
    1,R,J
   19,R,D
-  14,R
-   2
-  10,L,Z
-   5,R,J
+  13,R
+   9,L,Z
+   6,R,J
   16,R,D,X
-  22,R,J
-  40
-   7,R,U
- 122,F,89.9
-   2,F,90,0.69
+  69,R,D,J
+   1,R,U
+ 113,F,89.5
+  10,F,90
   20,R,X
   20,R,C
-  26
-   1,R,D
- 120,F,94.72
+  27,R,D
+ 119,F,94.52
+   1,F,90
   14,R,Z
    1,R,J
    9,R
@@ -668,4 +666,4 @@ console, load, DreamCollab2022/1-Maps/booster heaven
   15,R,U,X
   89,R,D
   42,R,Z
-ChapterTime: 1:40.538(5914)
+ChapterTime: 1:40.487(5911)
