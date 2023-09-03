@@ -1,0 +1,30 @@
+console load DreamCollab2022/0-Lobbies/1-Maps 960 1448
+   1
+
+#Start
+  36
+   4,L,Z
+   8,L,J
+   4,L
+  11,L,D,X
+   4,L,J
+   8,L,U,X
+   2,L,K,G
+   2,L,J,G
+   5,L
+   1,L,J
+   4,L
+   1,L,J
+   3,L
+   5,R
+  10,R,D
+  14,L,D,X
+   1,R,J
+  26,R,D,X
+   7,R,J
+  20,R,D,X
+  23,L,D
+  38,D
+   8,R,D
+   1,N
+#0:03.264(192)

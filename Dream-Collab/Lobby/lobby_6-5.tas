@@ -1,0 +1,55 @@
+RecordCount: 383
+
+console load DreamCollab2022/0-Lobbies/1-Maps DreamCollab 34
+   1
+
+#Start
+  36
+  10,L,C
+   5,L,J
+  15,U,X
+   8,L,J
+   9,R,J
+   1,K,G
+   4,L,K
+   6,R,K
+  10,R,J,G
+   2,R
+   1,R,K,G
+   4,L,K
+   2,R,J,G
+   7,R
+   2,J
+  14,R,U,X
+   6,R,J,G
+   7,R
+  10,R,X
+   5,R,J
+  10,R,U,X
+   2,R,J,G
+  11,R
+  14,R,U,X
+   2,R,J,G
+  24,R,D
+  14,L,D,X
+   1,R,J
+   1,R,K
+   1,R,J
+   1,R,K
+   1,R,J
+   1,R,K
+   1,R,J
+   1,R,K
+   1,R,J
+   1,R,K
+   4
+   7,R
+   1,R,J
+  33,R,D,X
+   9,R
+   3,R,J
+  15,R,D,X
+   5,R,J
+  15,R,D,X
+   1,N
+#0:04.726(278)
