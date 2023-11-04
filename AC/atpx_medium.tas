@@ -1,4 +1,4 @@
-RecordCount: 144
+RecordCount: 257
 
 console load AnarchyCollab2022/1-Submissions/19_atpx
    1
@@ -6,7 +6,6 @@ console load AnarchyCollab2022/1-Submissions/19_atpx
 #Start
 #lvl_0
  190
-***
   11,L,J
    5,R,J
   12,R,U,Z
@@ -21,15 +20,55 @@ console load AnarchyCollab2022/1-Submissions/19_atpx
    1,G
    2,L,J
  126,L,G
-***
    3,L,K,G
    1,J
    2,K,G
   35,R,K
-***
    5,R,J
    5,R
   15,U,X
-  24,R,C
-  10,D
-  90,R,D
+  23,R,C
+   7,D
+  18,R,D
+  40
+
+#lvl_1
+  14,R,Z
+   1,R,J
+  12,R
+  28,R,J
+  14,U,Z
+  12,R,J
+  12,R,G
+  29,L,J
+  93,G
+   2,L,K,G
+   1,R,J
+  28,R,K
+  11,L,K
+   1
+   4,L
+  15,L,J
+  24,L,U,X
+   8,J
+  16,U,X
+  10,L,G
+  21,R,J
+ 122,G
+   7,L,J
+   9,L
+  10
+  17,R,X
+   6,R
+   1,L
+   1,R
+  29,R,C
+   1,R,J,G
+   1,R,K,G
+  13,R
+   1,R,J
+   4,R
+  40
+
+#lvl_2
+  10,R
