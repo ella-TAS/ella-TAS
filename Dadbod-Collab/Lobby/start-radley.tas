@@ -16,24 +16,23 @@ console load DadCollab2018/0-Lobbies/1-DadCollab2018
    5,R,D,X
    1,R,J,G
   11,R
-   1,R,J
-   9,R,D,X
+   7,R,J
    1,S,N
    1,D,J
   34
-   1,R,J
-   5
-  13,R
+   6,R,J
+  15,R,D,X
+   2,R,D,J
+   7,R,D,X
   40
 
 #lvl_Lobby-2
-  18,R,D,X
+  13,R,D
    1,R,J
-   2,R
-  13,R,U,X
+  14,R,U,X
   10,R,J,G
-  15,R
-   1,N
+  13,R
+   1,R,N
   20
    1,J
   46

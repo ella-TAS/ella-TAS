@@ -8,11 +8,13 @@ console load DadCollab2018/0-Lobbies/1-DadCollab2018 Lobby-2
    3,R
    2,R,K
    5,R
-  22,R,D
-  15,R,D,X
-   6,R
-   1,X
+  24,R,D
+   5,R
+   1,R,D
+   9,R,Z
+   1,R,J
+   1,N
   20
    1,J
   46
-#0:00.918(54)
+#0:00.867(51)
