@@ -1,4 +1,4 @@
-RecordCount: 3428
+RecordCount: 3470
 
 console load DashlessCollab/1-lobby/05_ellis
    1
@@ -514,34 +514,34 @@ Endrepeat
    9,R
   45,R,J
   17,U,G
-  50,R,J,G
-   2,J
-   4,R,J
-   1,J
-   1,R,K,G
-   4,R,J,G
-   5,R
-   1,R,K
-   8,R
-  26,R,J
-   4,R
+   1,R,J,G
+  54,R,K,G
+   1,R,J
+  26,R
+  10,R,J
    3
-   2,R
+   1,R
    1
-   1,R,K,G
+   1,R
+   1,R,K
+  12,R
    1,R,J,G
+   1,R,K,G
    9,R
-  24,R,J
-   3
-  15,R
+  22,R,J
+   4
+  14,R
    4,R,D
+   1,R
    1,R,J,G
    1,R,K,G
    9,R
-   7,R,J
+   6,R,J
    5,R
    1,R,K
-  13,R
+   2,R
+   4,R,K
+   8,R
    1,R,J,G
    1,R,K,G
    9,R
@@ -580,4 +580,4 @@ Endrepeat
   58,R,D
   77,R,J
 
-ChapterTime: 1:15.089(4417)
+ChapterTime: 1:15.055(4415)
