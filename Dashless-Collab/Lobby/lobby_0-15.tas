@@ -1,11 +1,9 @@
-# DashlessCollab
-# https://gamebanana.com/mods/403284
-
 RecordCount: 30
 
 console load DashlessCollab/0-Lobbies/1-lobby
    1
 
+#Start
  190
    5,L
    1,L,J

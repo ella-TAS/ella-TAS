@@ -1,13 +1,15 @@
 # DashlessCollab
 # https://gamebanana.com/mods/403284
 
-RecordCount: 1628
+RecordCount: 1629
 console wipedebug
 console load DashlessCollab/0-Lobbies/1-lobby
    1
 console hearts 17
+
 #Start
  190
+
 #lvl_lobby
    5,R
    1,R,J
@@ -74,7 +76,7 @@ console hearts 17
   10,R
    1,R,J
    2,R
-   1,S
+   1,S,N
    1,D,J
   34
   16,R
@@ -604,5 +606,6 @@ Repeat 30
    2,L,D
    2,R,D
 EndRepeat
-   3
+   2
+
 #1:16.024(4472)
