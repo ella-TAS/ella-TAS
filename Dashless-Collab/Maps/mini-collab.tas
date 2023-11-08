@@ -1,9 +1,11 @@
-RecordCount: 4148
+RecordCount: 4199
 
 console load DashlessCollab/1-lobby/14_nyanMC
    1
+
 #Start
  190
+
 #lvl_start (0)
   10,J
   16,R,D,X
@@ -334,9 +336,6 @@ console load DashlessCollab/1-lobby/14_nyanMC
    8,L
    3,L,K
   10,L
-
-
-
    1,L,J,G
    1,L
    1
@@ -461,7 +460,7 @@ console load DashlessCollab/1-lobby/14_nyanMC
    3,R
    1,R,J
   14,R
-  30,R,J
+  30,R,J,A
    2
   23,U,X
   45,L
@@ -475,27 +474,30 @@ console load DashlessCollab/1-lobby/14_nyanMC
   35,D,X
    8,R
   46,R,X
-  27,L,U
+  28,L,U
 AnalogMode Square
    4,X,F,120
-  33,R
+  32,R
    1,J,G
    1,L,J
-   1,R,K,G
-   7,R,J,G
-   1,R,K,G
+   7,R,K,G
+   7,R
    1,R,J,G
-  17,R,D
-  88,D
+   1,R,K,G
+  12,R,D
+  94,D
    1,R
    1
    5,R
    1,R,J
   14,R
   20,R,J
+  39
    4,R,U,X
   53,U,X
+  13
   16,L,C
+  11
   16,L,X
   24,L,C
    1,L,J,G
@@ -507,6 +509,7 @@ AnalogMode Square
   22,L
    1,L,N
  155
+
 #lvl_b-00
    5,R
    1,R,J
@@ -537,6 +540,7 @@ AnalogMode Square
    1,R,J
    2,R
   40
+
 #lvl_b-02
   12,R
    1,J
@@ -567,6 +571,7 @@ AnalogMode Square
   14,R
    1,R,J
   40
+
 #lvl_b-01
 #Normal dashless movement is 10f slower than restarting here
    1,S
@@ -653,6 +658,7 @@ endRepeat
    6,L
    1,L,N
  155
+
 #lvl_f-00
    5,L
    1,L,J
@@ -668,9 +674,8 @@ endRepeat
    1,L,J
   12,L
   40
-#lvl_f-01
-#The draft desyncs, I'll just guess
 
+#lvl_f-01
    2,L
    1,L,J
   14,L
@@ -758,10 +763,12 @@ endRepeat
   20,J
   20,D
    1
+
 #lvl_start (5)
    7,J
   65,U,X
   40
+
 #lvl_finale
   17
   84,R,X
@@ -779,8 +786,6 @@ endRepeat
    9,R
    2,R,K
    5,R
-#0:30.447(1791)
-
   12,R,J,G
    1,K
    2,J,G
@@ -1003,6 +1008,7 @@ endRepeat
    1,R,J
    6,R
   40
+
 #lvl_finale-02
 #normal movement is 3f slower than restarting here(to the bubble)
    1,S
@@ -1081,4 +1087,5 @@ endRepeat
 #i'll just reset this here
 AnalogueMode,Ignore
  136,D
-ChapterTime: 3:35.390(12670)
+
+ChapterTime: 3:36.580(12740)
