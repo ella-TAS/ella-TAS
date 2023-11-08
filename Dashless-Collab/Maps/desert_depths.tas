@@ -1,11 +1,9 @@
-# DashlessCollab
-# https://gamebanana.com/mods/403284
-
-RecordCount: 5153
+RecordCount: 5327
 
 console load DashlessCollab/1-lobby/07_avS
    1
 
+#Start
 #lvl_a-1
   99
    5,R
@@ -152,7 +150,7 @@ EndRepeat
    2,R
   40
 
-#lvl_a-3
+#lvl_a-3 (1)
   15,R
    7,R,J
   31,R,D
@@ -167,7 +165,6 @@ EndRepeat
   42,R
   12,J,G
    1,K,G
-   ,L
    4,L
    2,L,J
    3,L
@@ -220,58 +217,19 @@ EndRepeat
    1,J
    1,L,K,G
    2,R,K
-repeat 6
-   1,S,N
-  10,J
-   2,R,J
-endrepeat
-   1,S,N
-  10,J
-   1,R,J
+#2/3
+StunPause
+  13,R,J
    1,K
-repeat 5
-   1,S,N
-  10,J
-   2,L,K,G
-endrepeat
-   1,S,N
-  10,J
-   1,L,K,G
-   1,L
-repeat 2
-   1,S,N
-  10,J
-   2,L
-endrepeat
-   1,S,N
-  10,J
-   1,L
-   1,L,J,G
-repeat 2
-   1,S,N
-  10,J
-   2,R,J
-endrepeat
-   1,S,N
-  10,J
+  16,L,J,G
+   1,K,G
+   1,R,K
+   7,L,J,G
+  15,L,K,G
+EndStunPause
+   1,R,K
    1,R,J
-   1,L,J
-repeat 3
-   1,S,N
-  10,J
-   2,L,J
-endrepeat
-   1,S,N
-  10,J
-   2,K,G
-repeat 4
-   1,S,N
-  10,J
-   2,J
-endrepeat
-   3,J
-  19,R,K
-   1,R
+  21,R,K
 repeat 4
    1,R,J
   14,R
@@ -282,7 +240,7 @@ endrepeat
    6,R,J
   40
 
-#lvl_a-5
+#lvl_a-5 (1)
    5,R,J
    5,R
    1,R,J
@@ -299,7 +257,7 @@ endrepeat
    9,L,D
   40
 
-#lvl_a-3
+#lvl_a-3 (2)
   10,L
    7,L,D
   13,R,D
@@ -381,118 +339,51 @@ endrepeat
    1,L,J
   12,J
    1,K
-   8,L,K
-  56,J
-  10,K
-   5
-   1,R,J,G
-   5,L
+#2/3
+StunPause
+   4,L,K
+   4,R,K
+   1,J,G
+  10,R,J
    1,L,J
-   1,R,K,G
-   4,K
-  27,R,D
-   1
-   5,R
-   1,R,J
-   1,R,K,G
-   1,R,J,G
-  16,R
-   1,R,J
-  12,R
-   4
-   8,L
-   1,L,J,G
-   1,L,K,G
-  12,L
+   1,K
+  12,J
+   5,L,K
   12,L,J
-   2
+   6,K,G
    6,R,K
-   1,R,J,G
-   4,R,K,G
-   2,R,J,G
-   3,R
-   1,R,K,G
-  10,R
-   7,R,J
-  40,R,D
-  12,L,D
-   3,D
-   1,L,D
-  12,R
-  11
-   6,R,J
-   6,L,K
-   6,R,J
-   6,L,K
-   6,R,J
-   6,L,K
-   6,R,J
-   6,L,K
-   6,R,J
-   6,L,K
-   8,R,J
-   1,L,K
+   1,J,G
    2,L,J
-   4,L
-   1,L,K,G
-   1,L,J,G
-  10,L
-   1,L,J
-  14,L
-   9,L,J
-   8,L
-  90,U
-   5,L
-   9,L,J
-   8,L,J
-   2,J
-   1,L,J
-   1,L,K,G
-   4,L,J,G
-  15,L
+   2,L
+   5,R
+   2,D
+  10,R
+   4,R,D
+   4,D
    1,R,D
-   9,D
-   4,J,G
-   4,R,J
-   2,R,K,G
-  11,R
-   1,R,J
-  21,R,D
-  15,D
-   8,L,J
-  12,K,G
-  12,J,G
-   8,G
-   5,D
-  23,R,D
-   3,R,J
-  16,R
+   6,D
+EndStunPause
   15,L,D
-   1,L
    1,L,J
-  14,L
-   1,L,J
-  14,L
-   1,L,J
-  19,L
-   4,L,J
-  19,L,D
-  21,D
-  29,R,D
+  14,L,D
+  51,R,D
    1,R,J
   14,R
-   2,R,J
-   9,R
-   1,R,J
-  12,R
-  86
+   6,R,J
+  17,R
+  83
 Repeat 5
    2,D
    2
 EndRepeat
    2,R
-   1
-   5,R
+   1,D
+   1,R
+   1,D
+   1,R
+   1,D
+   3,R
+   1,D
    1,R,J
    1,R,K,G
    1,R,J,G
@@ -601,7 +492,7 @@ EndRepeat
    4,R,J
   40
 
-#lvl_b-8
+#lvl_b-8 (1)
   12,R,J
    1,K
    1
@@ -678,7 +569,7 @@ EndRepeat
   12,R,K
   40
 
-#lvl_b-8
+#lvl_b-8 (2)
    1,L,J
   11,L,K
   12,R,J
@@ -800,7 +691,7 @@ EndRepeat
    5,L,J
   40
 
-#lvl_b-8
+#lvl_b-8 (3)
    5,L,J
   17,R,J
    1,R,K,G
@@ -847,7 +738,7 @@ EndRepeat
   11,R
   40
 
-#lvl_b-9
+#lvl_b-9 (1)
    3,R
    1,R,J
   21,R
@@ -1050,7 +941,7 @@ EndRepeat
   11,R
   40
 
-#lvl_b-9
+#lvl_b-9 (2)
    3,R
    1,R,J
   21,R
@@ -1132,4 +1023,4 @@ Repeat 37
 EndRepeat
    1
 
-ChapterTime: 3:14.208(11424)
+ChapterTime: 3:12.032(11296)
