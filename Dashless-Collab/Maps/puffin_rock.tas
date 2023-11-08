@@ -4,6 +4,7 @@
 RecordCount: 2262
 console load DashlessCollab/1-lobby/17_phant
    1
+
 #lvl_a00
 #rebind activation to something other than grab
 set,CommunalHelper.AllowActivateRebinding,true

@@ -5,6 +5,7 @@ console load DashlessCollab/1-lobby/02_ceph
 
 #Start
  190
+
 #lvl_a1
    5,R
    1,R,J
@@ -661,6 +662,7 @@ endRepeat
   29,D
    5,R,D
   40
+
 #lvl_a8
   13,R,D
    1,R,J
@@ -683,4 +685,5 @@ endRepeat
   14,R
   12,R,J
  135
+
 ChapterTime: 1:40.266(5898)
