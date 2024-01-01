@@ -74,50 +74,28 @@ Endrepeat
    1,J
   41
 
-   3
 #choose the file name
 #and input S
 #-----
-Repeat 3
-   1,L
-   1,F,270
-Endrepeat
-   1,J
-   1,L
-   1,F,270
-   1,L
-   1,J
    1,D
    1,F,180
-   1,J
-Repeat 3
+Repeat 4
    1,R
    1,F,90
 Endrepeat
-   1,U
+   1,J
+Repeat 2
    1,R
    1,U
-   1,J
-   1,L
-   1,F,270
-   1,D
-   1,L
-   1,J
-   1,D
-   1,L
-   1,D
-   1,L
-   1,D
-   1,L
-   1,F,270
-   1,L
-   1,F,270
-   1,L
-   1,J
-   1,U
-   1,F,
    1,R
-   1,F,90
+   1,J
+Endrepeat
+   1,O
+   1,R
+   1,D
+   1,R
+   1,J
+   1,D
    1,J
    1,S
 #-----

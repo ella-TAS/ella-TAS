@@ -1,5 +1,12 @@
 read start
 
+read Prologue
+ 173
+   1,J
+  21
+   1,J
+  46
+
 read Lobby/lobby_0-15 Start
 read EnterLevel
 read Maps/space_journey Start
@@ -8,85 +15,85 @@ read Maps/space_journey Start
 
 read Lobby/lobby_15-6 Start
 read EnterLevel
-read dancer_in_rain Start
+read Maps/dancer_in_rain Start
   30
   34,O
 
 read Lobby/lobby_6-14 Start
 read EnterLevel
-read reincarnation Start
+read Maps/reincarnation Start
   30
   34,O
 
 read Lobby/lobby_14-13 Start
-read EnterLevel
-read jam_temple Start
+read EnterLevel No
+read Maps/jam_temple Start
   30
   34,O
 
 read Lobby/lobby_13-12 Start
 read EnterLevel
-read gray_city Start
+read Maps/gray_city Start
   30
   34,O
 
 read Lobby/lobby_12-11 Start
 read EnterLevel
-read fez Start
+read Maps/fez Start
   30
   34,O
 
 read Lobby/lobby_11-10 Start
 read EnterLevel
-read forest_encounter Start
+read Maps/forest_encounter Start
   30
   34,O
 
 read Lobby/lobby_10-9 Start
 read EnterLevel
-read forgotten_cave Start
+read Maps/forgotten_cave Start
   30
   34,O
 
 read Lobby/lobby_9-8 Start
 read EnterLevel
-read starlight Start
+read Maps/starlight Start
   30
   34,O
 
 read Lobby/lobby_8-7 Start
 read EnterLevel
-read jellyfish_area Start
+read Maps/jellyfish_area Start
   30
   34,O
 
 read Lobby/lobby_7-5 Start
 read EnterLevel
-read sky_palace Start
+read Maps/sky_palace Start
   30
   34,O
 
 read Lobby/lobby_5-4 Start
 read EnterLevel
-read reverse_void Start
+read Maps/reverse_void Start
   30
   34,O
 
 read Lobby/lobby_4-3 Start
 read EnterLevel
-read purple_summit Start
+read Maps/purple_summit Start
   30
   34,O
 
 read Lobby/lobby_3-2 Start
-read EnterLevel
-read rifsummit Start
+read EnterLevel No
+read Maps/rifsummit Start
   30
   34,O
 
 read Lobby/lobby_2-1 Start
 read EnterLevel
-read cabin_in_the_forest Start
+read Maps/cabin_in_the_forest Start
   30
   34,O
 
@@ -97,5 +104,13 @@ read cabin_in_the_forest Start
   31
 
 read Lobby/lobby_0-16 Start
-  59
-   1,O
+  58
+   1,J
+ 196
+ 300
+   1,J
+  83
+   1,S
+   1,J
+  46
+read Journal Start
