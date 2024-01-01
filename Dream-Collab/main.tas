@@ -1,0 +1,101 @@
+read start
+
+read Lobby/lobby_0-15 Start
+read EnterLevel
+read Maps/space_journey Start
+  30
+  34,O
+
+read Lobby/lobby_15-6 Start
+read EnterLevel
+read dancer_in_rain Start
+  30
+  34,O
+
+read Lobby/lobby_6-14 Start
+read EnterLevel
+read reincarnation Start
+  30
+  34,O
+
+read Lobby/lobby_14-13 Start
+read EnterLevel
+read jam_temple Start
+  30
+  34,O
+
+read Lobby/lobby_13-12 Start
+read EnterLevel
+read gray_city Start
+  30
+  34,O
+
+read Lobby/lobby_12-11 Start
+read EnterLevel
+read fez Start
+  30
+  34,O
+
+read Lobby/lobby_11-10 Start
+read EnterLevel
+read forest_encounter Start
+  30
+  34,O
+
+read Lobby/lobby_10-9 Start
+read EnterLevel
+read forgotten_cave Start
+  30
+  34,O
+
+read Lobby/lobby_9-8 Start
+read EnterLevel
+read starlight Start
+  30
+  34,O
+
+read Lobby/lobby_8-7 Start
+read EnterLevel
+read jellyfish_area Start
+  30
+  34,O
+
+read Lobby/lobby_7-5 Start
+read EnterLevel
+read sky_palace Start
+  30
+  34,O
+
+read Lobby/lobby_5-4 Start
+read EnterLevel
+read reverse_void Start
+  30
+  34,O
+
+read Lobby/lobby_4-3 Start
+read EnterLevel
+read purple_summit Start
+  30
+  34,O
+
+read Lobby/lobby_3-2 Start
+read EnterLevel
+read rifsummit Start
+  30
+  34,O
+
+read Lobby/lobby_2-1 Start
+read EnterLevel
+read cabin_in_the_forest Start
+  30
+  34,O
+
+#Restart
+  31
+   1,Q
+   1,J
+  31
+
+read Lobby/lobby_0-16 Start
+  59
+   1,O

@@ -1,4 +1,4 @@
-RecordCount: 473
+RecordCount: 488
 
 console wipedebug
 console load DreamCollab2022/0-Lobbies/1-Maps DreamCollab 9
@@ -79,6 +79,13 @@ console hearts 15
    2,R,J
    7,R
    1,R,J
-  10,R,U,X
- 136
+  11,R,U,X
+  20,L
+Repeat 20
+   1,L
+   1,R
+Endrepeat
+  27,R,D
+  18,D,J
+  90,R,J
 #0:09.843(579)
