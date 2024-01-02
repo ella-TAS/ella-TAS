@@ -30,10 +30,6 @@ console overworld
    1,J
   56
    1,D
-Repeat 15
-   1,D
-   1,F,180
-Endrepeat
    1,J
   14,L
    1,D
@@ -73,6 +69,8 @@ Endrepeat
 #StartOnBegin
    1,J
   41
+
+   3
 
 #choose the file name
 #and input S

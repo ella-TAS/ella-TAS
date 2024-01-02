@@ -1,4 +1,4 @@
-RecordCount: 1706
+RecordCount: 1724
 
 console, load, DreamCollab2022/1-Maps/Simple 0m
    1
@@ -245,12 +245,11 @@ EndStunPause
   10,R
    8
    1,J
-   5,L,J
-  11,J
-  31,U,X
-  40,L
-  14,R
-   5
+  10,L,J
+  42,U,X
+  35,L
+  12,R
+   7
   17,U,X
   10,R,C
    8,L,J
