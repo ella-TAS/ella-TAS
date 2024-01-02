@@ -56,7 +56,7 @@ read Maps/forgotten_cave Start
   34,O
 
 read Lobby/lobby_9-8 Start
-read EnterLevel
+read EnterLevel No
 read Maps/starlight Start
   30
   34,O
