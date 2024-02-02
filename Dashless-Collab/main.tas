@@ -1,0 +1,101 @@
+RecordCount: 51
+
+#Start
+read,start
+read,Maps/prologue
+ 173
+   1,J
+  21
+   1,O
+  46
+read,Lobby/lobby_0-16,Start
+read,EnterLevel
+read,Maps/celeste_89,lvl_start
+  33,O
+read,Lobby/lobby_16-15,Start
+read,EnterLevel
+read,Maps/stellar_gateway,Start
+  33,O
+read,Lobby/lobby_15-12,Start
+read,EnterLevel
+read,Maps/arctic_outpost,Start
+  33,O
+read,Lobby/lobby_12-13,Start
+read,EnterLevel
+read,Maps/lunar_gravitation,Start
+  33,O
+read,Lobby/lobby_13-10,Start
+read,EnterLevel
+read,Maps/midnight_dream,Start
+  33,O
+read,Lobby/lobby_10-9,Start
+read,EnterLevel
+read,Maps/long_way,Start
+  33,O
+read,Lobby/lobby_9-8,Start
+read,EnterLevel
+read,Maps/the_thief,Start
+  33,O
+read,Lobby/lobby_8-7,Start
+read,EnterLevel
+read,Maps/lonesome_mansion,Start
+  33,O
+read,Lobby/lobby_7-6,Start
+read,EnterLevel
+read,Maps/desert_depths,lvl_a-1
+  33,O
+read,Lobby/lobby_6-4,Start
+read,EnterLevel
+read,Maps/cataclysmic_cavern,Start
+  33,O
+read,Lobby/lobby_4-5,Start
+read,EnterLevel
+read,Maps/government_tower,lvl_a-1
+  33,O
+read,Lobby/lobby_5-1,Start
+read,EnterLevel
+read,Maps/hard_core,Start
+  33,O
+read,Lobby/lobby_1-17,Start
+read,EnterLevel
+read,Maps/garden_of_dreams,Start
+  33,O
+read,Lobby/lobby_17-2,Start
+  20
+   1,J
+  30
+   1,J
+ 230
+   1,J
+ 136
+read,Maps/puffin_rock,lvl_a00
+  33,O
+read,Lobby/lobby_2-3,Start
+read,EnterLevel
+read,Maps/mini_collab,Start
+  33,O
+  36
+   1,Q
+   1,J
+  31
+read,Lobby/lobby_0-11,Start
+read,EnterLevel
+read,Maps/cotton_candy_core,Start
+  33,O
+read,Lobby/lobby_11-14,Start
+read,EnterLevel
+read,Maps/rainbow_road,Start
+  33,O
+read,Lobby/lobby_14-end
+  58
+   1,J
+ 196
+ 300
+   1,J
+  83
+   1,S
+   1,J
+  46
+read Journal Start
+
+FileTime: 30:34.164
