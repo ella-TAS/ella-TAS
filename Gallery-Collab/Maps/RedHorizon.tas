@@ -246,11 +246,12 @@ console load ChineseNewYear2024/1-Maps/DX3906I
 #car6
   40
    7,R
- 370,R,X
-  99,L,X
- 335,R,X
-  16,L,X
- 228,R,X
+ 368,R,X
+  20,L,X
+  20,R
+ 352,R,X
+  12,L,X
+ 231,R,X
    3,R,G
   26,R,J,G
   19,R,D,X
@@ -289,4 +290,4 @@ console load ChineseNewYear2024/1-Maps/DX3906I
 
  135
 
-ChapterTime: 1:38.872(5816)
+ChapterTime: 1:38.107(5771)
