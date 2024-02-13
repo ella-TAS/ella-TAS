@@ -1,0 +1,243 @@
+RecordCount: 498
+
+console load ChineseNewYear2024/1-Maps/AuraMP
+   1
+
+#Start
+  82
+
+#lvl_t1
+  14,U,X
+  12,R,C
+  10,R,U,X
+  12,R,D,C
+  16,R,X
+  15,R,U,C
+  12,R,D,X
+  12,R,C
+  13,R,X
+   2,R
+  14,R,D,X
+  62,R
+
+#lvl_t2
+  12,R,J
+  12,R,K,G
+  10,R,J,G
+  40,R,G
+  14,R,Z
+  1,R,J
+  2,R
+  17,R,U,X
+  18,R,C
+  14,R,U,X
+  15,L,U,C
+  13,U,X
+   3,R,J
+  14,U,X
+  10,R,D,C
+   6,R,X
+  13,R,C
+  10,R,X
+  10,D,C
+  10,R,X
+   5,R,D,C
+  16,R,J
+   5,R,D,X
+  10,R,J
+   8,R,X
+   9,D,C
+   9,R,X
+  15,R,C
+  14,R,D,X
+  51,R
+
+#lvl_t3
+   9,R
+  61,R,U,G
+  31,R,D
+  60,R,D,X
+  35,D,C
+  11,R,X
+  11,R,C
+   6,R,D,X
+   9,R,J
+   6,R,X
+   7,D,C
+   9,R,X
+  27,U,C
+   5,R,D,X
+  10,R,J
+   5,R,C
+   7,U,X
+   7,U,C
+   6,U,X
+   1,U
+  22,R,C
+StunPause
+   2,R
+SkipInput,3,1
+  19,R,D,X
+SkipInput,3,1
+   6,D,C
+   1,D
+SkipInput,3,1
+   8,R,X
+EndStunPause
+   7,R
+  63,R,D,C
+
+#lvl_t4
+  33,R,D
+  14,R,Z
+   1,R,J
+  12,R,D,X
+   3,R,J
+  28,R,U,X
+  15,U,C
+  26,R
+  15,R,X
+  11,R,U,C
+   7,L,U
+  18,L,D,X
+   9,L
+   1,R
+  27,L,U,C
+  15,U,X
+  13,L,C
+  12,D,X
+  13,R,C
+  16,R,X
+  15,U,C
+  12,U,X
+
+#lvl_t5
+  67,L,D
+  14,L,Z
+   1,L,J
+  14,L,D,X
+   1,L,J
+   4,L
+  13,L,U,X
+   1,L
+  39,L,X
+   8,L,C
+  10,L,D,X
+  12,L,C
+  17,U,X
+   6,U,C
+   1,U
+  17,U,X
+  18,R,C
+   5,R,D,X
+   1,R,J
+  21,L,D
+  13,D,X
+   1,D
+  10,R,X
+   1,R
+  11,R,U,X
+   1,R,U
+  19,U,X
+   1,U
+  10,R,X
+   1,R
+  46,R,X
+  15,R,C
+StunPause
+SkipInput,3,1
+   5,R,D,X
+EndStunPause
+  84,R
+
+#lvl_t6
+ 107,L
+  10,L,Z
+   1,R,J
+   4,R
+  14,R,D,X
+   4,R,J
+   7,U,X
+   6,R,D,C
+   9,R,J
+   5,R,X
+AnalogMode, Precise
+ 101,F,352
+   6,L,X
+  10,L,C
+   6,L,D,X
+   7,L,J
+   1,R,J
+  10,R,X
+   1,R
+  14,D,X
+AnalogMode, Precise
+ 153,F,90
+  39,R,X
+  14,U,C
+  19,L,J
+  14,U,X
+  18,L,J
+  10,L,X
+  10,L,D,C
+  10,D,X
+  10,L,C
+   9,L,X
+   7,U,C
+   1,U
+   7,R,X
+   1,R
+  25,R,X
+AnalogMode, Precise
+ 117,F,0
+
+#lvl_t7
+  10,R,D,X
+   8,R,J
+ 102,R,K,G
+  11,R,J,G
+  14,R,Z
+   1,L,J
+   9,R,X
+   6,R,C
+   1,R
+   7,R,X
+   1,R
+  10,L,D,X
+  15,R,C
+   6,R,X
+   1,R
+  24,R,X
+AnalogMode, Precise
+  55,F,100
+  44,F,185
+  25,L,X
+  13,U,C
+AnalogMode, Precise
+  95,F,90
+  15,R,X
+  10,D,C
+   9,L,X
+   9,D,C
+  11,L,X
+   1,L
+  12,L,X
+   1,L
+  12,L,X
+   1,L
+  14,R,D,X
+   1,R,D
+  19,R,D,X
+   1,R,D
+  95,D,X
+
+#lvl_fin
+  15,U,C
+ 125,U,X
+   1,J
+  14,U,C
+
+AnalogMode, Ignore
+ 135
+
+ChapterTime: 0:56.848(3344)
