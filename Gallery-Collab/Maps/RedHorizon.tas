@@ -1,133 +1,173 @@
+# ChineseNewYear2024Collab
+# https://gamebanana.com/mods/494348
+
+RecordCount: 485
+# + whatever draft record count was
+
 console load ChineseNewYear2024/1-Maps/DX3906I
    1
 
 #Start
  190
 
-#car1
-  14,R,Z
-   2,R,J
-  12,R,K,G
-   9,R,D,X
-   1,S
-   1,D,J
-  34
-   3,R
- 136,R,X
-   3,R,J,G
-  20,R,K,G
-  24,R,D,X
-  10,R,J
-   6,R,D,X
-   6,R,J,G
-   1,R,K,G
-   2,R
-   1,S
-   1,D,J
-  34
-  11,R
-
-#car2
-  40
-  19,R,J
-  17,R,D,X
-  20,R,J
-  20,R,D,X
-  39,R,J
-  14,R,U,X
-   1,R,J,G
-  10,R
-  12,R,J
-  15,R,D,X
-  12,R,J
-  15,R,D,X
-  14,R,J
-  16,R,D,X
-   8,R,J
-   7,R,D,X
-   1,R,J,G
-  13,R
-  22,R,J
-  20,R,D,X
+#lvl_car1
+   4,Z
    1,R,J
-  14,R
-   7,R,J
-   9,R,D,X
-   1,R,J,G
-  14,R
-   2,R,J
    3,R
+   1,R,J
+   3,R
+   2,R,J
    2,R,K,G
-  12,R,J,G
+   8,R
+   1,R,J
    5,R,D,X
    1,R,J,G
-  13,R
-   9,R,J
-  21,R,D,X
-  12,R,J
-  11,R
-   9,R,J
-   8,R,D,X
-   2,R,J,G
-   9,R
-
-#car3
-  40
-   8,R
-   5,L,J
-  14,L
-   1,L,J
-  20,L
-   3,R
-  64,R,J
    1,L
-  21,R,D,X
-  28,R,J
-   9,R,U,X
-   1,R,J,G
-  13,R
-  10,R,J
-  17,R,D,X
-  39,R,J
-   6,R,U,X
-   2,R,J,G
-  13,R
-  12,R,J
-  15,R,D,X
-   7,R,J
-  20,R,D,X
-   7,R,J
-   7,R
-  15,U,X
+  11,R
+   1,S
+   1,D,J
+  34,O
   16,R
-  12,R,Z
-   3,R,J
-  18,R,D,X
-   9,R,J
-  16,R,D,X
+  33,X
+  93,R,X
+   2,R,J,G
+  11,R
+  11,R,K
+  15,R,D,X
+   8,R
+   7,R,J
+   2,R
+   5,R,K,G
+   6,R,D,X
+   1,S
+   1,D,J
+  34
+   6,R,J
+  40
+
+#lvl_car2
+  13,R,J
+  15,R,D,X
+  11,R
+  18,R,J
+   1,R
    1,R,J
-  14,R
-  38,R,J
-  31,R,U,X
-  14,R,Z
+   1,R
    2,R,J
    3,R
-  18,R,D,X
-  12,R,J
+   5,R,D,X
+   1,R,J,G
+   7,R
+   1,R,J
+   3,R
+   6,R,J
+   1,J
+  15,R,D,X
+   8,R,J
+  11,R,D,X
+   1,R,J,G
+   5
+   3,R
+   1,R,J
+   2,R
+   7,R,J
+  15,R,D,X
+   6,R,J
+   1,L,K,G
+   9,R,K
+  11,R
+   6,R,J
+  15,R,D,X
+   5
+  11,L,J
+   8
+   1,L,K
+   4
+   5,R,D,X
+   2,R,K,G
+   8,J,G
+  40
+
+#lvl_car3
+  14,J
+  14
+  12,J
+   5
+   9,R,J
+  11,R
+   1
+   4,L,K
+  14,D
+   1,R,D
+   5,D
+   6,R,D
+   1,D
+   5,R,D
+   1,R,D,J
+   5,R
+   2,R,J
+   4,R
+  14,R,U,X
+   1,R,J,G
+   5
+   4,R
+   1,R,J
+   1,J
+   5,R,J
+  15,R,D,X
+  11,R,J
+   2,R
+  11,R,D,X
+   1,R,J,G
+   8,R
+   1,R,J
+   2,R
+   1,R,D,J
+   4
+  15,R,D,X
+   1
+  13,R,U,Z
+  11
+  15,R,X
+   3
+   6,R,D,X
+   1,R,J
+   6,R
+   1,R,J
+   1,J
+  17,R,D,X
+   6,R,J
+   3,R
   15,R,D,X
    1,R,J
   14,R
-  41,R,J
-  13,R,U,X
-   2,R,J,G
-  12,R
+  23,R,J
+   1,R
    1,R,J
-  14,R,D,X
+  13,R
+  14,R,U,X
+   1,R,J,G
+   9,R
+   5,R,J
+  16,R,D,X
+   8,R,J
+  15,R,D,X
+   1,R,J
+  14,R
+   8,R,D,J
+   5,R
+   2,R,J
+  17,R
+  14,R,U,X
+   1,R,J,G
+   9,R
+   1,R,J
+  12,R,D,X
    1,R,J
    3,R
-
-#car4
   40
+
+#lvl_car4
    5,R
  370,R,X
    9,L,X
@@ -179,9 +219,10 @@ console load ChineseNewYear2024/1-Maps/DX3906I
    6,L,J
    3,R,K,G
    5,R
+#0:34.748(2044) 525
+  40
 
 #car5
-  40
    7,R
   21,R,D,X
   12,R,J
@@ -287,7 +328,6 @@ console load ChineseNewYear2024/1-Maps/DX3906I
    4,R
   80,R,J,G
   17,R,U,X
-
  135
 
-ChapterTime: 1:38.107(5771)
+ChapterTime: 1:32.174(5422)
