@@ -1,4 +1,4 @@
-RecordCount: 498
+RecordCount: 553
 
 console load ChineseNewYear2024/1-Maps/AuraMP
    1
@@ -171,7 +171,6 @@ AnalogMode, Precise
   10,R,X
    1,R
   14,D,X
-AnalogMode, Precise
  153,F,90
   39,R,X
   14,U,C
@@ -188,7 +187,6 @@ AnalogMode, Precise
    7,R,X
    1,R
   25,R,X
-AnalogMode, Precise
  117,F,0
 
 #lvl_t7
@@ -196,26 +194,21 @@ AnalogMode, Precise
    8,R,J
  102,R,K,G
   11,R,J,G
-  14,R,Z
-   1,L,J
-   9,R,X
-   6,R,C
+  15,R,Z
+   7,R,C
+   6,R,X
    1,R
    7,R,X
    1,R
   10,L,D,X
-  15,R,C
-   6,R,X
+  11,R,C
+   7,L
    1,R
-  24,R,X
-AnalogMode, Precise
-  55,F,100
-  44,F,185
-  25,L,X
-  13,U,C
-AnalogMode, Precise
-  95,F,90
   15,R,X
+  16,R,C
+  62,F,0
+  55,F,85
+  14,R,X
   10,D,C
    9,L,X
    9,D,C
@@ -240,4 +233,4 @@ AnalogMode, Precise
 AnalogMode, Ignore
  135
 
-ChapterTime: 0:56.848(3344)
+ChapterTime: 0:55.012(3236)
