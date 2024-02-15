@@ -47,10 +47,11 @@ console load ChineseNewYear2024/0-Lobbies/1-Maps
    2,R,K,G
    2,R,J,G
    2,R,K,G
-   1,R,J,G
+   2,R,J,G
    1,R,K,G
-   1,R,J,G
-  11,R
+   8,R
+   1,R,J
+   2,R
    1,R,J
   14,R
    1,R,J
@@ -59,9 +60,7 @@ console load ChineseNewYear2024/0-Lobbies/1-Maps
   14,R
    1,R,J
   14,R
-   2,R,J
-   5,R
-   1,R,J
-  14
+   8,R,J
+  15,R,D,X
    1,N
-#0:05.185(305)
+#0:05.151(303)
