@@ -1,0 +1,263 @@
+RecordCount: 1067
+
+console load ChineseNewYear2024/1-Maps/fengchen
+   1
+
+#Start
+ 190
+
+#lvl_fengchen-00
+   4,R,Z
+   1,R,J
+  15,R
+   1,R,J
+   1,R,K
+   1,R,J
+   1,R,K
+   1,R,J
+   1,R,K
+  11,R,J
+   5,R
+   2,J
+  40
+
+#lvl_fengchen-01
+  15,R,D,X
+  20,R,J
+  17,R
+  12,U,X
+  14,R,J
+  18,R
+  14,R,D,X
+  42,R,J
+  40,R,U,X
+   2,R,D
+   1,R
+   2,R,D
+   2,R
+   1,R,D
+   4,R,Z
+   1,R,J
+   6,R
+   2,R,J
+   1,R,K,G
+  11,R
+  40
+
+#lvl_fengchen-02
+  12,R,J
+  15,R,U,X
+  15,R,U,C
+  16,R,Z
+  17,R,D,X
+  17,R,C
+   4,L,J
+  10,L
+   1,L,J,G
+   1,K,G
+   1,L,J,G
+   5,R,J
+  21,R,D,X
+   5,R,U,C
+  40
+
+#lvl_fengchen-03
+   8,R,U,C
+  20,R,D,X
+  17,R,C
+  26,U,X
+   6
+  15,D,C
+  17,R,X
+   4,R,J
+   5,R,K
+   5,R
+  20,R,D,X
+   8,R,J
+  40
+
+#lvl_fengchen-04
+   9,R,J
+  21,R,G
+  10,R,X
+   4,R,J
+  16,R,K
+  25,R,D,X
+   4,R,J
+   3,R,K,G
+   7,R,X
+  40
+
+#lvl_fengchen-05
+  15,R,X
+  17,L,G
+   7,J,G
+   3,R,J
+  10,R,Z
+  26,R,J
+  22,R,X
+   4,R,J
+   3,R,K
+  15,D,X
+   8,L,D
+  22,L,X
+  13,R,C
+   4,R,J
+  11,R,K
+  25,R,G
+  10,R,C
+   4,R,J
+  14,R,K
+  15,R,D,X
+  14,R
+   8,R,U,C
+   1,R,J,G
+   2,R
+   3
+   4,R
+  40
+
+#lvl_fengchen-06
+   2,R
+   3,R,J
+   5,J
+  24,D
+   7,R,D
+  13,L,D,X
+   7,L,J
+  15,L
+  26,L,X
+  19,D,C
+  15,L,X
+  17,R,G
+  10,R,X
+   4,R,J
+  17,R,K
+  15,R,D,X
+  13,R
+  10,R,J
+  40
+
+#lvl_fengchen-07
+  21,R,X
+  26,L,G
+   1,L,J,G
+   1,K,G
+   1,L,J,G
+  17,R,J
+  20,U,X
+  15
+   8,L
+  13,L,Z
+   4,L,J
+   1,L,K
+   8,L
+   8
+   8,U,X
+  16,R,J
+  14,R,Z
+  22,R,J
+  21,R,G
+  10,R,X
+   4,R,J
+  10,R,K
+   4,R
+  15,R,D,X
+  17,R
+   3,R,J
+   5,R,D,X
+   1,R,J,G
+   7,R
+  40
+
+#lvl_fengchen-08
+   4,R
+   3,R,J
+   8,R
+  12,R,J
+  16,R,D,X
+   1,R,J
+   7,R,D,X
+  40
+
+#lvl_fengchen-09
+  11,R,D,X
+   4,R,J
+   1,R,K
+  18,U,X
+   7,L,Z
+   1,L,J
+   5,L
+  15,R,X
+   4,R,J
+  21,R
+  15,U,X
+   1,L,J,G
+  40,G
+   1,J,G
+   1,L,K,G
+   1,L,J,G
+   2,R,J
+  13,R
+  17,R,X
+  22,L,G
+   1,L,J,G
+   1,K,G
+   1,L,J,G
+   3,R,J
+  15,R,D,X
+   7,R
+  18,R,D
+  10,R
+   4,R,D
+   4,R
+
+#lvl_fengchen-10
+   2,J
+   4
+   1,N
+   3,J
+  10,R,X
+   3,R,J
+   6,J
+   4,R,J
+  15,R,X
+  15,U,C
+  17,L,X
+   4,R,G
+   9,J,G
+   3
+  12,R,X
+   4,R,J
+  10,R,K
+  26,R,D,X
+  31,L,D,C
+  20,R,X
+  24,U,C
+   8,X
+  25,R,C
+  18,L,G
+   1,J,G
+   1,K,G
+   1,J,G
+  15,R,D,X
+   1,R,J
+   4,J
+   6,R,J
+  14,R,X
+  10,R,J,G
+  40,R
+  20,R,X
+  16,R,Z
+  18,R,U,X
+  15,U,C
+  15,U,X
+   2,L
+ 278
+
+#lvl_fengchen-11
+  11
+  15,U,X
+ 135
+
+ChapterTime: 0:46.172(2716)
