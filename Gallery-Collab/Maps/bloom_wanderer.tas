@@ -1,7 +1,7 @@
 # ChineseNewYear2024Collab
 # https://gamebanana.com/mods/494348
 
-RecordCount: 1328
+RecordCount: 1499
 
 console load ChineseNewYear2024/1-Maps/Underdragon1
    1
@@ -316,64 +316,101 @@ EndRepeat
    1,D,J
   69,O
    1,L,J
-  28,L,D
-  12,R,D
-  25,L,X
-  12,L,K,G
-  17,L,J,G
-   4,L,K,G
-   8,L
-  13,L,J
-  12,L,K,G
-   9,L,J,G
+  10,L,D
+  28,R,D
+  10,R
+   1,R,J,G
+   7,R,K,G
+   6,R
+   1
+   9,R
+   1,R,J,G
+  12,R,K,G
+  15,J
+  20,R,K
+   1
+  12,R,J
+  12,K,G
+   2,J,G
+   4,K
+  40
+
+#lvl_05k3
+   7,R
+   1,R,J,G
+   1,R,K,G
+  11,R
+   1,R,J
+  14,R
+   1,R,J
+  19,R
+   4,R,J
+  23,R
+   7,R,J
+  21,R
+   2,R,J
+   2,R
+   1
+   2,R
+   1,R,J
+   9,R
+   1,R,J,G
+  28,R,K,G
+   5,J
+   1,L,J
+   6,J
+   8,R,K
+   3,R
+  12,L
+   1,L,J,G
+  13,L
+   1,L,J
+  11,L
+   1
+   2,L
+   7,L,J
+  19,L,K
+  34,L,J
+   6,L,K
+  22,R
+  45,R,J
+  21,R,K
+   1,S
+   1,D,J
+  69,O
+   4,L
+   1,L,J
+  24,L,D
+  40
+
+#lvl_04 (2)
+  17,L,D
+  19,L
+   1,L,K
+  10,L,J
+  23,L
+  35,U,X
   40
 
 #lvl_05
-  10,L,J,G
-   6,L
-   1
-   1,L,J
+  13
+  17,L
+  12,L,J
+  12,R,K,G
   12,L
-   1
+ 101
    1,L
-   1,L,J
-  15,L
-   9,L,J
-  13,L
-   8,R
-   2,R,J
-StunPause
-   7,R,J
-  22,R
-   1,R,J,G
+   5
+   1,L
+   5
+   5,R
+   4,R,J
    1,R,K,G
-  13,R
-  27,R,J
-   1,J
-   1,J
-  10,K,G
-   1,L,K
-   1,R,K
-  10,R,J,G
-  10,R
-   5,R,D,J
-   1,R
-EndStunPause
-   4,R
-   7,R,J
-   9,R
+   3,R,J,G
+  12,R,K,G
+  12,L,J
+   5,K,G
    1,R,J
-   7,R
-  85
-   1,L
-   1
-   1,J
-   9,R,J
-   1,R,K,G
-   5,R,J,G
-   1,J
-  11,R,K
-  11,L,J
    7,R,K
   40
 
@@ -717,4 +754,4 @@ EndStunPause
   14,R,U,X
  135
 
-ChapterTime: 2:02.111(7183)
+ChapterTime: 2:00.377(7081)
