@@ -1,4 +1,4 @@
-RecordCount: 3161
+RecordCount: 3355
 
 console load AnarchyCollab2022/1-Submissions/09_microlith
    1
@@ -603,6 +603,7 @@ EndStunPause
   40
 
 #lvl_a00
+***
    4,R,D
    1,R,J
   11,R,D,X
@@ -649,18 +650,75 @@ EndStunPause
    1,R,J,G
    6,R,K,G
   14,R,D,X
+***
    1,R,D,J
    2,R,K,G
    1,R,J,G
    1,R,K,G
-  18,R
+***S
+   7,R
+   1
+   9,R,D,X
+   1,R,J,G
+   6,R
+***
+   4,R,J
+  17,R,D,X
    1,R,J
-  90,R
+   6,R,K,G
+   1,K
+  40
 
-
-
-
-  24,L,J,G
-  14,R,D,X
+#lvl_a02
+***
+   2,R,K
+   5,R,D,X
+   3,R,J,G
+  11,R
+   5,R,J
+   2,R
+   5,R,D,X
+  10,R,J,G
+   6,R
+   1,R,K
+   1,R
+   1,R,D,J
+  19,R,D
+   2,R,D,J
+   3,R
    1,R,J
-  90,R,D,X
+   8,R,D,X
+  47
+
+#lvl_d-elev01
+   5,R
+   1,R,J
+  11
+   2,N
+ 115
+***
+Repeat 400
+   1,R,J
+   1,R
+Endrepeat
+***
+   1,L,J
+  16
+   1,L,J
+   8
+   2,K
+   5
+***
+  14,R,Z
+   1,L,J
+   2
+   4,L
+   2,L,J
+   1,L
+   5,L,D,X
+   1,L,J,G
+  11,L
+   1,L,J
+  90,L
+
+#1:27.261(5133)
