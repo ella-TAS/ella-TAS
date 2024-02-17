@@ -1,0 +1,242 @@
+RecordCount: 827
+
+console load ChineseNewYear2024/1-Maps/AuraMP
+   1
+
+#Start
+  82
+
+#lvl_t1
+  14,U,X
+  12,R,C
+  10,R,U,X
+  12,R,D,C
+  16,R,X
+  15,R,U,C
+  12,R,D,X
+  12,R,C
+  15,R,X
+  14,R,D,C
+  62,R
+
+#lvl_t2
+  12,R,J
+  43
+  14,L,Z
+   1,R,J
+  10,R,U,X
+   2,R,K,G
+  17,R
+   2,R,J
+   3,R
+  18,R,C
+  14,R,U,X
+  15,L,U,C
+  13,U,X
+   3,R,J
+  14,U,X
+  10,R,D,C
+   6,R,X
+  13,R,C
+  10,R,X
+  10,D,C
+  10,R,X
+   6,R,D,C
+  15,R,J
+  10,R,D,X
+   5,R,J
+   9,R,X
+   9,D,C
+   9,R,X
+  15,R,C
+  14,R,D,X
+  49,R
+
+#lvl_t3
+   9,R
+  61,R,U,G
+  31,R,D
+  17,R,D,X
+  12,R,D,J
+   7,K,G
+  55,D
+  11,R,X
+  11,R,C
+   6,R,D,X
+   9,R,J
+   6,R,X
+   7,D,C
+   9,R,X
+  25,U,C
+  11,R,D,X
+   7,R,J
+   7,U,X
+   7,U,C
+   7,U,X
+#lightning cycle
+   0
+  24,R,C
+   5,R,D,X
+StunPause
+  14,R,D,X
+SkipInput,3,1
+   7,D,C
+SkipInput,3,1
+   8,R,X
+EndStunPause
+   7,R
+  62,R,D,C
+
+#lvl_t4
+  28,R,D
+  14,L,Z
+   1,R,J
+   5,R,D,X
+   1,R,J
+   7,R
+   5,R,J
+   9,R,X
+   5,R,J,G
+  16,R
+  16,U,C
+  20,R
+  15,R,X
+  11,R,U,C
+   7,L,U
+  18,L,D,X
+   9,L
+   1,R
+  27,L,U,C
+  15,U,X
+  13,L,C
+  12,D,X
+  13,R,C
+  16,R,X
+  15,U,C
+  12,U,X
+
+#lvl_t5
+  32,R,D
+   4,R,G
+   4,D,G
+  14,G
+   4
+  12,L,Z
+   1,L,J
+   6,L
+   1,L,J
+  12,L,D,X
+   1,L,J
+   7,L
+   1,L,J
+  12,L,U,C
+  31,L,X
+   7,L,C
+   9,L,D,X
+  11,L,C
+  15,U,X
+   7,U,C
+  17,U,X
+  18,R,C
+   5,R,D,X
+   1,R,J
+  21,L,D
+  14,D,X
+  11,R,C
+  12,R,U,X
+  20,U,C
+  11,R,X
+#lightning cycle
+   2
+  46,R,X
+  15,R,C
+StunPause
+SkipInput,3,1
+   5,R,D,X
+EndStunPause
+  84,R
+
+#lvl_t6
+ 107,L
+  10,L,Z
+   1,R,J
+   4,R
+  14,R,D,X
+   4,R,J
+   7,U,X
+   6,R,D,C
+   9,R,J
+   5,R,X
+AnalogMode, Precise
+ 101,F,352
+   6,L,X
+  10,L,C
+   6,L,D,X
+   7,L,J
+   1,R,J
+  11,R,X
+  14,D,C
+ 153,F,90
+  39,R,X
+  14,U,C
+  19,L,J
+  14,U,X
+  18,L,J
+  10,L,X
+  10,L,D,C
+  10,D,X
+  10,L,C
+   9,L,X
+   7,U,C
+   1,U
+   7,R,X
+   1,R
+  25,R,X
+ 117,F,0
+
+#lvl_t7
+  10,R,D,X
+   8,R,J
+ 102,R,K,G
+  11,R,J,G
+  15,R,Z
+   7,R,C
+   6,R,X
+   1,R
+   7,R,X
+   1,R
+  10,L,D,X
+  11,R,C
+   7,L
+   1,R
+  15,R,X
+  16,R,C
+  62,F,0
+  55,F,85
+  14,R,X
+  10,D,C
+   9,L,X
+   9,D,C
+  11,L,X
+   1,L
+  12,L,X
+   1,L
+  12,L,X
+   1,L
+  14,R,D,X
+   1,R,D
+  19,R,D,X
+   1,R,D
+  95,D,X
+
+#lvl_fin
+  15,U,C
+  66,U,X
+  40,D
+   8,R
+   5,U,X
+  18,R,J
+ 139,U,X
+AnalogMode, Ignore
+
+ChapterTime: 0:54.128(3184)
