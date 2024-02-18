@@ -1,4 +1,4 @@
-RecordCount: 330
+RecordCount: 367
 
 console load ChineseNewYear2024/1-Maps/StarSapphireSTLR
    1
@@ -298,26 +298,26 @@ console load ChineseNewYear2024/1-Maps/StarSapphireSTLR
    1
    5,R,J,G
    6,R,K,G
-   7
+   2,L
+   1
+   1,L
+   1,R
+   2
   14,R,D,X
    1,R,J
   14,R,D,X
-   6,R,J
+   7,R,J
    1,R
-   8,R,J
-   1,R
-   1,R,J
-   1,R
+   7,R,J
+   4,R
   15,R,Z
   12,R
    4,R,Z
    1,R,J
    2,R
    1,R,J
-   2,R
-   1,R,J
-   1,R
-   2,R,J
+   3,R
+   3,R,J
    3,R
    6,R,D,X
    1,R,J,G
@@ -728,15 +728,16 @@ console load ChineseNewYear2024/1-Maps/StarSapphireSTLR
    1,R,J,G
    1,R
    7,R,J
-   2,R,K
+   1,R,K
+   1,K
    5,U,X
-  15,R
-  20,L,U,X
+  15
+  21,L,U,X
    4,R,Z
   10,R,J
    5,R
    3,R,J
-   2,R,X
+   2,R
   15,D,X
   14,R,D,C
   14,R,J
@@ -1252,4 +1253,4 @@ console load ChineseNewYear2024/1-Maps/StarSapphireSTLR
   31
   32,D,J
 
-ChapterTime: 2:21.151(8303)
+ChapterTime: 2:21.185(8305)
