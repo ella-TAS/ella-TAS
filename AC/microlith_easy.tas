@@ -603,7 +603,6 @@ EndStunPause
   40
 
 #lvl_a00
-***
    4,R,D
    1,R,J
   11,R,D,X
@@ -650,18 +649,15 @@ EndStunPause
    1,R,J,G
    6,R,K,G
   14,R,D,X
-***
    1,R,D,J
    2,R,K,G
    1,R,J,G
    1,R,K,G
-***S
    7,R
    1
    9,R,D,X
    1,R,J,G
    6,R
-***
    4,R,J
   17,R,D,X
    1,R,J
@@ -670,7 +666,6 @@ EndStunPause
   40
 
 #lvl_a02
-***
    2,R,K
    5,R,D,X
    3,R,J,G
@@ -696,19 +691,16 @@ EndStunPause
   11
    2,N
  115
-***
 Repeat 400
    1,R,J
    1,R
 Endrepeat
-***
    1,L,J
   16
    1,L,J
    8
    2,K
    5
-***
   14,R,Z
    1,L,J
    2

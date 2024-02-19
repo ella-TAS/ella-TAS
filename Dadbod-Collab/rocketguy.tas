@@ -1,4 +1,4 @@
-RecordCount: 743
+RecordCount: 1214
 
 console load DadCollab2018/1-DadCollab2018/RocketGuy
    1
@@ -86,59 +86,169 @@ console load DadCollab2018/1-DadCollab2018/RocketGuy
    1,L
    2,L,J,G
   14,L
-   7,L,D
+   6,L,D
   15,L,D,X
-   3,L,D
+   3,L,U
   15,D,X
-   8,L,D,C
-  15,L,X
-  15,L,C
-  90,R,U
-
-#0:09.316(548)
-
-  15,L,D,X
-   1,L,D,J
-  90,L,K
-  14,R,Z
-   1,L,J
-  90,L,D,X
-
-  14,L,Z
-   1,L,J
-  10,L,D,X
-  90,L,J
-
-
-
-  33,D,X
-  72,R,D
-  14,L,Z
-   1,L,J
-   7,L,D,X
-  90,L,J
-
-
-  14,L,D,X
-   1,L,J
-  90,L,D,X
-#0:08.262(486)
-
-
-
-  90,R
-#0:06.562(386)
-
-  90,L,J,G
-
-   4,L,J,G
-   7,R,J
-   2,R,K,G
-   1,R
-   1
-  14,R,D
-   7,R,J
    5,R
-  90,R,K
-#0:04.437(261)
+   1,R,D
+   4,R
+  15,L,C
+   4,D
+  15,L,Z
+  15,L,V
+  15,L,Z
+  15,L,V
+   4,U
+   1,L,U
+  15,R,U,X
+  39,F,67
+  10,U
+   7,L,J
+   1,K,G
+   1,R,K
+   1,L,J,G
+   7,L,K,G
+   1,L,J,G
+   7,L,K,G
+   7,L,X
+  11,L,J
+   4,R,K
+   7,R
+  14,U,X
+   2,L,J
+  11,L
+   4,Z
+   1,L,J
+   4,L
+  40
 
+#lvl_RocketGuy-1(1)
+   3,L
+   2,L,J
+   1,L
+   7
+  15,U,X
+  16,L,D
+   8,R,Z
+   1,L,J
+   6,L
+   7,L,D,J
+   5,L
+   6,L,K
+  15,L,D,X
+   5,L
+   6,L
+   4,L,D
+   3,L,J
+   2,L
+  15,L,D,X
+   1,L,J
+  11,L,D,C
+   1,L,J
+   1,L
+   1,L,K
+  19,L,D
+   4,Z
+   2,L,J
+  10,L
+  20,U,G
+  75,D
+   1,J
+   8
+   2,K
+   2
+   3,L
+   9,L,D,J
+   2,L
+  15,U,X
+  18,J
+  12,R,K
+   2,J,G
+  40
+
+#lvl_RocketGuy-3
+   1,L
+   1,R,K,G
+   1,R,J,G
+   1,R,K,G
+   7,R
+  10,R,X
+   6,R,J
+  14,R,U,Z
+  12,R,J,G
+  24,R,C
+  15,R,U,X
+   1,R,J,G
+   2,L
+   5,R
+   4,Z,P
+   8,R,J
+  30,R
+   5,R,D
+  21,G
+   4,L,D
+  12,R,D
+   4,Z
+   1,R,J
+   7,R
+   3,R,J
+  14,R,U,X
+   2,R,J,G
+  28
+   8,D,X
+   1,J,G
+  42,G
+  15,L,D
+   1,L
+   1,L,D
+  10,L,Z
+   1,R,J
+   6,R
+   1,R,J
+   5,R,D,X
+   1,R,J
+   7,R
+   1,R,J
+   6,R
+  14,R,U,Z
+  14,R,J,G
+  14,R,U,X
+  21,R,C
+   5
+  15,R,D,X
+  15,R,C
+   1,R,J,G
+   9,R
+  16,R,Z
+   2,R,J
+  14,R,D,X
+   6,R,J
+  14,R,U,X
+  26,R,J
+  10,R,D,X
+   8,R,J
+  10,R,D,X
+   8,R,J
+  28,R,D,X
+   3
+   1,D
+   2
+   1,G
+  14,L,Z
+   1,R,J
+  15,R,D,X
+   3,R
+   1,R,J
+  40
+
+#lvl_RocketGuy-4
+  13,R,J
+  15,R,D,X
+  11,R
+   5
+   4,X
+  83,L,D
+  52,L,J
+
+ChapterTime: 0:33.813(1989)

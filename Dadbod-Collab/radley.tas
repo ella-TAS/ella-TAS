@@ -1,4 +1,4 @@
-RecordCount: 869
+RecordCount: 1751
 
 console load DadCollab2018/1-DadCollab2018/Radley
    1
@@ -67,188 +67,233 @@ console load DadCollab2018/1-DadCollab2018/Radley
    8,R,U,Z
    1,K
    7,L,J,G
-  70,D
-   2
-   9,R,Z
-   1,L,J
-   3
-   1,K
-   4
-  14,L,D,X
-   1,R,J
-  10,R,D,X
-   1,R,J,G
-   1,R,K,G
-   1,R,J,G
-   3,R,K,G
-   6,R
-   1,R,K
-   2,R
-Set Invincible true
-  13,R,D
-  11,R,U,Z
-   1,L,J,G
-  90,R,J
-
-
-StunPauseMode Simulate
-StunPause
-
-   2,R
-   9,R,J,G
-EndStunPause
-   2,R,J
-StunPause
-   6,R,J
-   3,R
-EndStunPause
-  90,R,K
-
-
-   4
-   1,R,D
-   1,R,J
-   4,J
-   1
-  11,R,D,X
-   1,J,G
-  90,R,J
-
-   1,R,J
-  90,R,U,X
-
-   1,R,D,J
-   2,R
-   7,R,U,X
-StunPauseMode Simulate
-StunPause
-   7,R,U
-   2,R,J,G
- 809,R
-EndStunPause
-
-
-
-   2,R,J
-  90,R,D,X
-
-   6,R
-   1,R,K
-  90,R
-
-
-  90,R
- 900,L
-
-
-  10,L,J
-   9
-   1,K
-   7,D
-   4,L,D
-#0:07.463(439)
-
-   1,L
-   3,D
-   4,Z
-   1,R,J
-   1,R,K,G
-   1,R,J,G
-   1,R,K,G
-   1,R,J,G
-  90,R
-
-
-
-
-  27,L
-  55,L,D
-   5,R,J
-  90
-
-
-
-   1,R,J
-  10
-   4,L
-   4
-   4,Z
-   1,R,J
-   1,R,K,G
-  90,R
-
-
-
-
-   1,L,J
-   8
-   2,R,K
-   9,R
-   1,G
-   5,R,D,X
-   1,R,J,G
-   1,R,K,G
-   1,R,J,G
-   1,R,K,G
-   6,R
-   1,R,K
-   2,R
-   2,R
-   1,R,D,J
-   3,R
-StunPauseMode Simulate
-   4,X
-StunPause
-  10,R,U,X
-   1,R,J,G
-   2,R
-EndStunPause
-  10,R
-StunPause
-   6,R
-EndStunPause
-   8,R
-StunPause
-   6,R
-EndStunPause
-  90,R
-
-
-
-
-   6,L,J
+  68,D
+   3,L
+   2,L,U
+   9,L,J
    6,L
-   1,R
-   1,L
-  15,R,D
-   7,U,G
-   1
+  16,D,X
+   4,Z
+   1,R,J
+   1,R,K,G
    1,R,J,G
    1,R,K,G
    1,R,J,G
-   3,R,K,G
+   8,R,D
+   1,S,N
+  10,J
+   1,R,J
+   5,R
+StunPause
+   5,R
+SkipInput 3 1
+   9,R,U,Z
+   4,L,J,G
+   2,R
+EndStunPause
+   3,R
+StunPause
+  10,R,D
+   1,D
+  10,R,D
+   3,R,J,G
+   3,R
+EndStunPause
+   2,R
+   1,R,K
+   4,R
+   1,R,J
+   3,R
+   9,R,U,Z
+StunPause
+   4,R
+   3,R,J,G
+   6,R,D
+EndStunPause
+   7,R,D
+   9,R,J
+  15,R,D,X
   10,R
-   1,R,D
-   3,R,J
-  20,R
-  10,R,D,J
-  90,R
-
-
-   1,L,D,X
-  90,R,G
-  83,L,D
-  19,L
+   2,G
+   1,J,G
+   5,L
+   3,L,K
+   3,L
+   8
+   1,L
+   5,L,Z
+   1,R,J
+   3,R
+   1,R
+   1,R,D,J
+   4,R,K,G
+   6,R,D,X
+   2,R,J
+   6,R
+  17,G
+   3
+   7,L
+   1,D
+   5,L
+   4,Z
+   1,R,J
+   2,R,K,G
+  11,R,J,G
+  19,R
+   8,R,J
+   6,R
+   2,R,K
+  19,R,Z
+   1
+  14,R
+   1,R,J,G
+   7,R,K,G
+   7,R
+   2,R,K
+  10,R
+   1,J
+  11,R
+   3,L
+  12,L,J
+  12,R,U,X
+   6,R,J,G
+   9,R
+   2,R,K
+  10,R
+   2
+#spinner cycle
+   1
+  14,R,Z
+   1,L,J
   14,L,Z
    1,R,J
-   7,R,D,X
+   6,R,D,X
    1,R,J,G
-   6,R
+  12,R
+   1,R,J
+  10,R,D,X
+  40
+
+#lvl_Radley-2
+   9,R,D,J
+   1,R
+   8,R,D,X
+#1/3?
+StunPause
+   8,R
+   2,R,J
+   1,R
+EndStunPause
+   4,R
    1,R,K
+   4,R
+   5,R,U,Z
+StunPause
+   7,R
+EndStunPause
+   1,R,J,G
+   9,R
+StunPause
+   3,R
+EndStunPause
    2,R
-   1,R,D,J
+   2,R,J
+   4,R
+   7,R,D,K,X
+StunPause
+   3,R,K
+EndStunPause
+   6,R,D,K
+   5,R,D,K
+  10,R,J
+StunPause
+   1,R,J
+EndStunPause
+  13,R,D,X
+StunPause
+   1,R
+EndStunPause
+   3,D
+StunPause
+   1,D
+EndStunPause
+   1,R,D
+   2,R,D,J
+StunPause
+   1,R
+   1,R,K,G
+   1,R
+EndStunPause
+   6,R
+StunPause
+   1,R
+EndStunPause
+   2,R
+  14,R,U,Z
+   4,R,J,G
+  23,R
+   1,R,J
+   8,R,G
+  13,L,D,X
+   1,L,J
+  10,L
+   6,R,Z
+   1,R,J
+   7,R
+   1,R,J
+   7,R,D,X
+   1,R,J
+   1,R,K,G
+   8,R,G
+   4,Z
+   1,L,J
+   1,L
+   3
+   8,L
+   8,L,D,X
+   1,R,J
    5,R
-   1,R,K
-   5,R
+   2,R,K
+  12,R,U,X
+   2,R,J,G
+   8,R
+#spinner cycle
+   2
+   7,U,G
+   1,R,J,G
+   2,L,J
+   3,L
+   2
+   1,K
    5
-  90,L,D,J
+   8,L
+   5,L,Z
+   1,R,J
+   1,R,K,G
+   7,R
+   1
+   1,R
+   5,R,D,J
+StunPause
+   6,R,J
+   6,R
+   1,R,J
+   1,R
+   5,R,J
+   4,R
+EndStunPause
+  21,R
+  19,R,Z
+   1
+   1,R
+   1
+  10,L,J,G
+   3,L
+   1,L,J,G
+   4
+   3,R
+  13,R,U,X
+  86,R
+  49,K
+
+ChapterTime: 0:36.346(2138)

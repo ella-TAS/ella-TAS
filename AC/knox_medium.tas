@@ -1,8 +1,6 @@
 RecordCount: 7778
 
-#TAS by Knox.
-#User ID:
-#d2d5f49b-573f-4e85-b79a-8b45e323b2f6
+#TAS by Neka.
 #Iter: 40
 
 console reset_vanilla_variants
@@ -10,13 +8,12 @@ console reset_extended_variants
 console load AnarchyCollab2022/1-Submissions/17_knox
    1
 
-AnalogueMode, Precise
 #EnforceLegal
 
-#lvl_intro
- 190
-
+#Start
 #lvl_a-1
+AnalogueMode, Precise
+ 190
    9,R,D,X
    2,L,D,J
    1,K

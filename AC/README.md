@@ -2,7 +2,7 @@ Mod download: https://gamebanana.com/mods/413521
 
 # Contributors
 EllaTAS  
-Knox  
+Neka  
 Toster  
 
 Special thanks:  
