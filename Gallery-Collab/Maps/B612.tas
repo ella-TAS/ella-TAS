@@ -1,0 +1,48 @@
+RecordCount: 162
+
+console load ChineseNewYear2024/1-Maps/B612
+   1
+
+#Start
+
+ 190
+#Spinner Cycle
+   0
+#------
+
+#lvl_a0
+
+   6,R,Z
+   2,R,J
+  11,R
+   1,R,J
+  10,R,D,X
+   1,R,J
+   6,R,D
+  12,D
+   6,U,X
+StunPause
+   7
+  24,R,J
+   2,R,K,G
+   1,L,K
+   1,R,K
+   1,K
+   1,J
+   4,R,K,G
+   1,L,K
+  16,R,K
+SkipInput,3,1
+   7,L,Z
+   8,L,J
+   1,L
+   5,L,J
+   7,J
+SkipInput,3,1
+   6,R,D,X
+SkipInput,12
+  14
+EndStunPause
+ 120
+
+ChapterTime: 0:12.546(738)
