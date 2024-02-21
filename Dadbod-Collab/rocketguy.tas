@@ -1,4 +1,4 @@
-RecordCount: 1214
+RecordCount: 1455
 
 console load DadCollab2018/1-DadCollab2018/RocketGuy
    1
@@ -38,6 +38,8 @@ console load DadCollab2018/1-DadCollab2018/RocketGuy
   40
 
 #lvl_RocketGuy-2
+#room has to be bad
+#for key cycle
    3,R,J
    2,R
   11,R,U,X
