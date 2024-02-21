@@ -1,0 +1,469 @@
+RecordCount: 1202
+
+console load ChineseNewYear2024/1-Maps/LittleV1
+   1
+
+#Start
+
+  76
+#Spinner Cycle
+   1
+#------
+
+#lvl_a-01
+
+   3,R
+   1,R,J
+  12,R,U,X
+   9,R,J,G
+   2,R
+   1,R,J,G
+   5,R
+   1,R,K
+   2,R
+   7,R,J
+   1,R,K,G
+   3,R,J,G
+   5,R,Z
+   1,R,J
+   6,R
+   2,R,J
+   2,R,K,G
+   2,R
+   8,R,D,X
+  40
+
+
+#lvl_a-03
+
+   6
+   1,R,J
+   3,R
+   7,R,Z
+   1,L,J
+   4
+   1,J
+   3
+   6,L,V
+   1,R,J
+   6,R
+  12,R,J
+   2,R,K,G
+   1,R
+  70,R,U,J,G
+   1,R,G
+   1,R,U,J,G
+   1,R,G
+   6,R
+   1
+   1,R
+   1
+   2,R
+  23,U,X,G
+   2
+   7,L
+  24,R
+  10
+   2,R,J
+   1,J
+   6
+   3,L
+   1,L,J
+   4,L
+   2
+   1,L
+   5,L,Z
+   1,R,J
+   4,R
+   4,R,J
+   1,J
+   3,R,J
+   8,R,K,G
+   2,R
+   8,R,U,Z
+  40
+
+
+#lvl_a-04
+
+   6
+   1,L,J,G
+   5,R
+   3,J
+   3,R,K
+   3,R
+  22,R,Z
+   2
+   4,V
+   1,R,J
+   7,R
+   9,R,J
+   3,J
+   8
+  17,U,X
+   6,R,J
+   2,R
+  47,R,D,G
+   1,R
+  20,R,D
+   4,D
+   1
+   2,D
+   4,R,Z
+   1,R,J
+   6,R
+  31,R,J
+  18,U,X
+   4,R
+   4,L
+  42,L,J,G
+   1,L
+  12,R,D
+  23,L,D
+  14,L
+   5,L,D
+   5,R,X
+  31,D,G
+  16,R,D,G
+   1,D,G
+   3,R,D,G
+   7,R,U,J,G
+   3,U,J,G
+ 133,R,U,J,G
+   1,R,J
+  41,R,U,X
+   5,R,D
+   1,J,G
+   5,R
+   3
+   1,J
+   3
+   4,Z
+   1,R,J
+  17,R,J,G
+  12,R,K,G
+   1,R
+   4
+   3,J
+   1
+   1,J
+   2
+  22,U,X,G
+   5,R,G
+   6,G
+   7,L,G
+   1,L
+  29,D
+   4,R,D
+   6,R
+   1,R,D
+   1,R
+   7,L,Z
+   1,R,J
+   6,R
+   1,R,J
+   5,R,D,X
+   1,R,J
+   7,R
+   1,R,J
+  40
+
+
+#lvl_a-05
+
+  14,R
+  22,R,J
+   1,J
+  13,U,X
+  56,R,D,G
+   1,R
+  22,R,D
+   7,D
+   1
+   1,D
+   6
+   1,D
+   2
+   4,Z
+   1,R,J
+   6,R
+  14,R,J
+  15,R,D,X
+   5,R,D
+   1,R
+   6,L,Z
+   1,R,J
+   6,R
+  12,R,J
+   5,R
+   6,R,J
+   2,R
+   1,R,J
+   3,R
+   5
+  14,R,X
+  11,L
+  15,U,X
+  15,L
+   6,L,Z
+   1,L,J
+   6,L
+  19,L,J
+   1,J
+   1,L,J
+   1,L
+  15,U,X
+   1
+  22,R,U,G
+   1,U,G
+   1,R,U,G
+   1,U,G
+  42,R,U,G
+  13,R,D,G
+   4,R,U,G
+   3,R,D,G
+   1,R
+  14,R,Z
+   4,L,J
+  16,U,X
+  23,L,J
+   5,L,U,X
+  34,R
+  18,R,X
+   8,L,Z
+   1,R,J
+   6,R
+   1,R,J
+   5,R,D,X
+   1,R,J
+   3,R
+   1,R,J
+   3,R
+   3,R,J
+  40
+
+
+#lvl_a-06
+
+  15,R,J
+  11,U,X
+ 116,R,U,J,G
+  15,R,D,G
+   1,R
+  18,R,D
+  17,D
+   1,R
+   9,L,Z
+   7,L,J
+   6,L
+   1,L,J
+  10,L
+   2
+   1,L
+  18,R
+  17,R,X
+  29,R,C
+  16,R,Z
+  14,L,V
+   1,R,J
+   7,R,D,X
+   1,R,J,G
+   6,R
+   1,R,J
+   2,R
+   4,R,J
+   9,R
+  14,R,X
+   1
+  15,D,X
+  17,D,C
+  15,D,X
+   6,L
+   9
+   4,L
+  15,U,X
+  38,L,G
+  77,R,U,G
+  24,R,D,G
+  32,L,D,G
+   1,L
+  15,D,X
+  16,L
+  35,R
+  40,R,U,X
+  14,R,Z
+   1,R,J
+  14,R,D,X
+   1,R,J
+  11,R,D,X
+  40
+
+
+#lvl_a-07
+
+   2
+   1,R,J
+   3,R
+   1,R,J
+   3,R
+  12,R,J
+  18,U,X
+   5,R,C
+  23,R,U,J,G
+   1
+  13,L
+  16
+   7,R
+   2
+  10,R,X
+   5,R,J
+  11,R,U,X
+  24,R,U,J,G
+  13,G
+   9,L,J
+  28,U,X,G
+  12,R,G
+   7,R
+  35,R,U,X,G
+  40,R,D,G
+  12,D,G
+   5,R,D,G
+   1,R,D,G
+  95,R,U,G
+  27,R,D,G
+   2,D,G
+   1,R,U,G
+   1,R
+  15,R,Z
+StunPause
+   1,D
+   1,D,J
+EndStunPause
+   3,L,J
+   5,L
+   1,L,J
+   7,L
+   1,R
+  21,R,U,J,G
+   1,R
+  15,R,Z
+  11
+   4,R
+   4
+   3,R
+  15,U,X
+  15,U,C
+   6,L,J,G
+   6,L
+   1,L
+  14,L,D,X
+   1,R,J
+   7,R,D,X
+  13,G
+   9,R,U,J,G
+  27,R,D,G
+   3,D,G
+   1,R
+  15,D,X
+  11,L,D
+   7
+   1,L,J
+   8,L
+   2,J
+   5
+   7,R,Z
+   1,R,J
+   6,R
+   1,R,J
+   8,R,D,X
+   1,R,J
+   7,R,K,G
+   3,R
+  40
+
+
+#lvl_a-08(0)
+
+  12,R,D,X
+   1,R,J,G
+  11,R
+   5,R,J
+   7,R
+   1,R,J
+   3
+  14,R,Z
+   1,R,J,G
+   1,L
+   4,R
+   6
+   5,J
+   2,L
+  16,R,Z
+   1,R,J,G
+  11,R
+   4,R,Z
+   7,R,J
+   5,R
+   2,R,J
+   9,R,D
+  27,R
+  18,U,X
+   9,R
+  30,R,U,X
+  15,R,U,C
+  26
+   8,L
+  10,R,X
+   5,J
+   1,K,G
+   7,R,K
+   2,R
+  35,R,Z
+   8,R,J
+   1,R
+  12,K,G
+  11,L,D
+  37,D
+  20,L,D
+  10,L,D,X
+   5,R,J
+  20,R,D,X
+  16,D,C
+  40
+
+
+#lvl_a-08b
+
+   6,U,X
+  40
+
+#lvl_a-08(1)
+
+   1,S
+   1,D,J
+  69,O
+   4,Z
+   4,R,J
+  40
+
+
+#lvl_a-09
+
+   7,J
+  15,U,X
+   4,L,J,G
+   4,L
+   2,J
+   1,L
+   1
+   9,R,Z
+  14,R,J
+   5,J
+   2,R,J
+   1,J
+   4,X
+  75,L,D
+  60,L,J
+
+ChapterTime: 1:08.442(4026)
+
