@@ -1,17 +1,16 @@
-RecordCount: 1202
+RecordCount: 1258
 
 console load ChineseNewYear2024/1-Maps/LittleV1
    1
 
 #Start
-
   76
+
 #Spinner Cycle
    1
 #------
 
 #lvl_a-01
-
    3,R
    1,R,J
   12,R,U,X
@@ -33,9 +32,7 @@ console load ChineseNewYear2024/1-Maps/LittleV1
    8,R,D,X
   40
 
-
 #lvl_a-03
-
    6
    1,R,J
    3,R
@@ -83,9 +80,7 @@ console load ChineseNewYear2024/1-Maps/LittleV1
    8,R,U,Z
   40
 
-
 #lvl_a-04
-
    6
    1,L,J,G
    5,R
@@ -168,9 +163,7 @@ console load ChineseNewYear2024/1-Maps/LittleV1
    1,R,J
   40
 
-
 #lvl_a-05
-
   14,R
   22,R,J
    1,J
@@ -242,9 +235,7 @@ console load ChineseNewYear2024/1-Maps/LittleV1
    3,R,J
   40
 
-
 #lvl_a-06
-
   15,R,J
   11,U,X
  116,R,U,J,G
@@ -298,9 +289,7 @@ console load ChineseNewYear2024/1-Maps/LittleV1
   11,R,D,X
   40
 
-
 #lvl_a-07
-
    2
    1,R,J
    3,R
@@ -381,9 +370,7 @@ EndStunPause
    3,R
   40
 
-
 #lvl_a-08(0)
-
   12,R,D,X
    1,R,J,G
   11,R
@@ -431,39 +418,38 @@ EndStunPause
   16,D,C
   40
 
-
 #lvl_a-08b
-
    6,U,X
   40
 
 #lvl_a-08(1)
-
    1,S
    1,D,J
   69,O
-   4,Z
-   4,R,J
+   7,R,X
+   2,R,J
   40
 
-
 #lvl_a-09
-
-   7,J
-  15,U,X
-   4,L,J,G
-   4,L
-   2,J
-   1,L
-   1
-   9,R,Z
-  14,R,J
-   5,J
-   2,R,J
+   7,R,J
+  15,U,Z
+   1,L,J,G
+   5
    1,J
+   1,L,J
+   1,L
+   9,R,Z
+   1,R,J
+   1,J
+  10,R,J
+   1,J
+   9,R,J
    4,X
-  75,L,D
-  60,L,J
+  75,L,D,X
+   1,L,Z
+   1,L,J
+  43,L
+  99,L,J
 
-ChapterTime: 1:08.442(4026)
+ChapterTime: 1:08.408(4024)
 
