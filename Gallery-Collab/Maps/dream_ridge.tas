@@ -1,4 +1,4 @@
-RecordCount: 1067
+RecordCount: 1158
 
 console load ChineseNewYear2024/1-Maps/fengchen
    1
@@ -129,31 +129,27 @@ console load ChineseNewYear2024/1-Maps/fengchen
   26,L,X
   19,D,C
   15,L,X
-  17,R,G
+  26,R,G
   10,R,X
    4,R,J
-  17,R,K
-  15,R,D,X
-  13,R
-  10,R,J
+  10,R,K
+   4,R
+  18,R,D,X
+   6,R
+   2,R,J,G
+   5,R
+   2,R
+   3,R,J
   40
 
 #lvl_fengchen-07
-  21,R,X
-  26,L,G
-   1,L,J,G
-   1,K,G
-   1,L,J,G
-  17,R,J
-  20,U,X
-  15
-   8,L
-  13,L,Z
+  22,R,J
+  24,R,U,X
+  14,L,Z
    4,L,J
-   1,L,K
-   8,L
-   8
-   8,U,X
+  22,L,K
+   7,K
+  14,U,X
   16,R,J
   14,R,Z
   22,R,J
@@ -162,8 +158,8 @@ console load ChineseNewYear2024/1-Maps/fengchen
    4,R,J
   10,R,K
    4,R
-  15,R,D,X
-  17,R
+  18,R,D,X
+  14,R
    3,R,J
    5,R,D,X
    1,R,J,G
@@ -260,4 +256,4 @@ console load ChineseNewYear2024/1-Maps/fengchen
   15,U,X
  135
 
-ChapterTime: 0:46.172(2716)
+ChapterTime: 0:45.577(2681)
