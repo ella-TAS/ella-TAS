@@ -1,14 +1,13 @@
 # ChineseNewYear2024Collab
 # https://gamebanana.com/mods/494348
 
-RecordCount: 945
+RecordCount: 962
 
 console load ChineseNewYear2024/1-Maps/StarSapphireGDDN
    1
 
 #Start
 #lvl_GDDN_00
-
   76
    5,R,X
   11,R,J
@@ -145,28 +144,35 @@ endrepeat
   10,R,G
    1,R
   36,R
-  37,U,G
-  50,L,J,G
+  36,G
+   1,J
+   1,R,K,G
+  10,L,K
+   0,L
+  13,G
+
+   5,L,G
+  14,R,G
    1,L
-  22,R,D
-  19,R,X
+  20,R,D
+  22,R,X
   15,L,U,G
   15,L,G
-  11,L,X
+  12,L,X
    1,L,J
    3
-   3,L,J
+   2,L,J
    5,L,D,X
   14,L,J,G
-   9,L,G
-  17,L,J,G
+  12,L,G
+  13,L,J,G
    1,D
   10,U,X
    1,R,J
-  24,R,J,G
+  23,J,G
    1,R
-  39,L,D
-   9,L,J,X
+  38,L,D
+  11,L,J,X
    1,S
    1,D,J
    1
@@ -470,6 +476,6 @@ endrepeat
    6
   15,U,X
  135
-ChapterTime: 1:28.485(5205)
+ChapterTime: 1:28.366(5198)
 
    
