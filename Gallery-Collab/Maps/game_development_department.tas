@@ -1,13 +1,14 @@
 # ChineseNewYear2024Collab
 # https://gamebanana.com/mods/494348
 
-RecordCount: 906
+RecordCount: 926
 
 console load ChineseNewYear2024/1-Maps/StarSapphireGDDN
    1
 
 #Start
 #lvl_GDDN_00
+
   76
    5,R,X
   11,R,J
@@ -68,11 +69,13 @@ endrepeat
    8,L,D,X
   20
 #lvl_GDDN_07
-   9,L
-  21,L,J
-  12,U,X
+   1,L,J
+   3
+  15,L,X
+  16,U,C
   18,L,J
-  18,L
+  18,L,J
+   5,L,K,G
   12,L,J,G
   13,L,D,X
   14,R,D
@@ -81,16 +84,16 @@ endrepeat
    2,L
   11,L,U,X
   21,G
-   1
-  15,R
+   3,L
+  13,R
   17,L,D,X
    1,R,J
    3
-   1,R,J
-   3,R
+   4,R,J
    5,R,X
   21,R,D,G
-  15,D,G
+  16,D,G
+
   15,L,X
    1,L,J
    3
@@ -117,6 +120,61 @@ endrepeat
    3,R,J
   29,R,X
 #lvl_GDDN_01_2
+   4,L
+  20,L,J,X
+  31,L,C
+#lvl_GDDN_09
+   4
+  11,L,J
+  15,L,X
+   1,L,J
+   3
+  32,L,J,G
+   1,L
+  14,U,X
+  14,L,J
+  25,L,D,G
+  14,D
+  21,D,G
+  10,R,D,X
+  27,L,J,G
+   1
+  47,U,X
+   7,L
+  13,U,X
+  25,R,J,G
+  10,R,G
+   1,R
+  36,R
+  37,U,G
+  50,L,J,G
+   1,L
+  22,R,D
+  19,R,X
+  15,L,U,G
+  15,L,G
+  11,L,X
+   1,L,J
+   3
+   3,L,J
+   5,L,D,X
+  14,L,J,G
+   9,L,G
+  17,L,J,G
+   1,D
+  10,U,X
+   1,R,J
+  24,R,J,G
+   1,R
+  39,L,D
+   9,L,J,X
+   1,S
+   1,D,J
+   1
+   1,J
+  68
+  39,R,X
+#lvl_GDDN_01_3
    1,L,J
    3
    4,L,J
@@ -191,7 +249,7 @@ endrepeat
   10,L
    5,L,X
   20
-#lvl_GDDN_01_3
+#lvl_GDDN_01_4
    1,R,J
    3
    4,R,J
@@ -254,12 +312,10 @@ endrepeat
   10,L
    5,L,X
   20
-#lvl_GDDN_01_4
-   4
-  10,L,Z
-   5,R,J
-  18,R,U,X
-   7,R,C
+#lvl_GDDN_01_5
+   4,R
+  20,R,J,X
+  13,R,C
   20
 #lvl_GDDN_04
    1,J
@@ -316,7 +372,7 @@ endrepeat
   10,L
    5,L,X
   20
-#lvl_GDDN_01_5
+#lvl_GDDN_01_6
    4
   10,L,Z
   10,R,J
@@ -376,91 +432,6 @@ endrepeat
   68
   10,L,X
   20
-#lvl_GDDN_01_6
-   4
-  10,L,Z
-   5,R,J
-  18,R,U,X
-   7,R,C
-  20
-#lvl_GDDN_23
-   4
-  15,R,X
-  22,R,C
-   1,R,J
-   3
-   8,R,J
-  22,R
-  18,L,D,X
-  10,L,D,C
-  28,L,J
-  21,U,X
-   4
-   1
-  13,G
-   9
-  13,U,X
-  13,G
-   2
-  15,R,U,X
-  13
-  18,L,U,X
-   1,L,J
-   3
-   5,L,J,G
-  15,R,X
-  12
-  15,R,D,X
-  11
-  15,R,X
-  12
-   1,R,J
-   3
-  17,R,J,G
-   1,R
-  13,U,X
-  13,G
-   2
-  12,L,X
-  23,R,J,G
-   1,R
-  27,U,X
-  21,R,C
-   1,R,J
-   3
-   6,R,J
-   5,R
-  13,G
-   8,R,J,G
-   1,R
-  32,D,X
-  52,R,C
-   3
-  32,L,X
-  18,U,C
-   6,R
-  14,R,D,X
-  14,R,J
-  13,G
-  13,R,J,G
-   1,R
-  15,R,U,X
-  13,G
-   9
-  28,D
-  19,R,D
-  15,R,X
-  13,R,D
-  14,R,J,Z
-   1,S
-   1,D,J
-   1
-   1,J
-  68
-   5,L,J,Z
-  10,L
-   5,L,X
-  20
 #lvl_GDDN_01_7
    1,R,J
    3
@@ -500,6 +471,6 @@ endrepeat
    6
   15,U,X
  135
-ChapterTime: 1:31.256(5368)
+ChapterTime: 1:28.553(5209)
 
    
