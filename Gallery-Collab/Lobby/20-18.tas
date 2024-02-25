@@ -1,0 +1,35 @@
+# ChineseNewYear2024Collab
+# https://gamebanana.com/mods/494348
+
+RecordCount: 177
+
+console load ChineseNewYear2024/0-Lobbies/1-Maps 2960 1208
+   1
+
+#Start
+  36
+
+#lvl_Flowing Gallery
+   1,L,J
+  14,R,D,X
+   1,R,K
+  25,L,D
+   6,R,D
+  14,R,D,X
+   1,R,J
+  14,R,D,X
+   1,R,J
+  14,R,D,X
+   1,R,J
+  13,R,D,X
+   1,R,J
+  34,R,D
+  14,R,D,X
+   1,R,J
+  14,R,D,X
+   1,R,J
+  14,R,D,X
+   1,R,J
+  16,R,D,X
+   1,N
+#0:02.975(175)
