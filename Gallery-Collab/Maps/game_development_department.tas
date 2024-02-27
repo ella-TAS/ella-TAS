@@ -1,7 +1,7 @@
 # ChineseNewYear2024Collab
 # https://gamebanana.com/mods/494348
 
-RecordCount: 1204
+RecordCount: 1268
 
 console load ChineseNewYear2024/1-Maps/StarSapphireGDDN
    1
@@ -53,8 +53,9 @@ console load ChineseNewYear2024/1-Maps/StarSapphireGDDN
   18,R,J
  321
   40
+
 #lvl_GDDN_01_1
-   6
+   5
    1,S
    1,D,J
   33
@@ -62,22 +63,29 @@ console load ChineseNewYear2024/1-Maps/StarSapphireGDDN
    7,L,D,X
    1,L,J
    7,L
-repeat 4
    1,L,J
   14,L,D,X
-endrepeat
+   1,L,J
+  14,L,D,X
+   1,L,J
+  14,L,D,X
+   1,L,J
+  14,L,D,X
    1,L,J
    8,L,D,X
   20
+
 #lvl_GDDN_07
    1,L,J
    3
-  15,L,X
-  16,U,C
+  10,L,X
+   5,L,J
+  15,U,C
   18,L,J
   18,L,J
-   5,L,K,G
-  12,L,J,G
+   1,L,G
+   2,L,K,G
+   9,L,J,G
   13,L,D,X
   14,R,D
   12,R,D,X
@@ -88,41 +96,50 @@ endrepeat
    3,L
   13,R
   17,L,D,X
-   1,R,J
-   3
-   4,R,J
-   5,R,X
-  21,R,D,G
-  16,D,G
-
-  15,L,X
+   4,L,K
    1,L,J
-   3
-  26,L,J,G
+   5,R,X
+  22,R,D,G
+  13,D,G
   15,L,X
-  11,L,U,C
-  38,L,G
+   4,L,J
+  11,L,K,G
+  18,L,G
+   1,L
+  15,L,U,X
+  14,L,C
+  20,L,G
   19,D,X,G
+   1,L
   18,U,C
-  10,L
+   9,L
   14,L,Z
   19,L,J
   15,U,X
   13,R,J
-  15,R
-  15,R,D,J,X
+  14,R
+   4,D,X
+   1,R,K
+   3,R
+   1,R,K
+   3,R
+   3,R,J
    1,S
    1,D,J
   69,O
-   4,R,Z
+   6,R,Z
    1,R,J
    7,R
-   3,R,J
-  29,R,X
+   1,R,J
+  28,R,D,X
+
 #lvl_GDDN_01_2
    4,L
-  20,L,J,X
-  31,L,C
+   8,L,J,X
+  10,R,K,G
+   4,L,K
+  29,L,C
+
 #lvl_GDDN_09
    4
   11,L,J
@@ -149,9 +166,7 @@ endrepeat
    1,J
    1,R,K,G
   10,L,K
-   0,L
   13,G
-
    5,L,G
   14,R,G
    1,L
@@ -318,6 +333,7 @@ endrepeat
   20,R,J,X
   13,R,C
   20
+
 #lvl_GDDN_04
    1,J
    3
@@ -371,14 +387,15 @@ endrepeat
   10,L
    5,L,X
   20
+
 #lvl_GDDN_01_6
    8,R
    8,R,J
   14,U,X
   15,R,J
   33,R,X
-#lvl_GDDN_05
 
+#lvl_GDDN_05
    4
    4,R,Z
    1,R,J
@@ -429,8 +446,8 @@ endrepeat
   68
   10,L,X
   20
-#lvl_GDDN_01_7
 
+#lvl_GDDN_01_7
   10,R
    1,R,J
    4,R
@@ -467,4 +484,4 @@ endrepeat
    6
   15,U,X
  135
-ChapterTime: 1:26.547(5091)
+ChapterTime: 1:26.122(5066)
