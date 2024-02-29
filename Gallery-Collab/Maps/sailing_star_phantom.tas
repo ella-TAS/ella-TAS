@@ -1,0 +1,232 @@
+RecordCount: 1896
+
+console load ChineseNewYear2024/1-Maps/LittleV5
+   1
+
+#Start
+  88
+
+#lvl_bits_01
+#spinner cycle 0-2
+   0
+#-----------------
+   5,L,Z
+   1,R,J
+   4,R
+   1,R,J
+   2,R
+   1,R,J
+   1,R,K,G
+   6,R
+   2,R,J
+   2,R
+   1,R,J
+   4,R
+   5,R,J,G
+   6,R
+  15,R,D,X
+   8,R,D
+   1,R
+   3,R,D,J
+   8,J
+   2
+  14,R,U,X
+   1,J,G
+   1,R
+   1
+   2,R
+   1
+   1,R
+   1
+   4,J
+   5
+  19,R,D,X
+   1,R,D,J
+   5,R
+   4,R,J
+   3,R
+  12,R,U,X
+   1,R,J,G
+   5
+  15,R
+  19,R,Z
+   2
+   7,R
+   1,R,D,J
+  27,R,J
+  12,J
+  15,R,U,X
+   4,J,G
+   2,R,J
+   1,J
+  40
+
+#lvl_bits_02
+  11
+   2,R
+  18,R,D,X
+  15,R,U,C
+  10,R,D,X
+  40
+
+#lvl_bits_03
+   5
+   1,R,J,G
+   2,R,D
+  12,R,D,X
+  40
+   2
+  15,R,D,X
+   3
+   8,R
+   1,R,J
+  40
+
+#lvl_rd_05
+   7,R,U,Z
+   1,L
+   6,J,G
+   5
+   4,J
+   3,R,J
+  40
+
+#lvl_rd_06
+  19,D
+   1
+   7,R,Z
+   1,R,J
+   6,R
+   2,R,J
+  12,R,D,X
+   1,R,J
+  40
+
+#lvl_rd_07
+   7,R
+   1,R,J
+   5,R,D,X
+   2,R,J,G
+   1,R,K,G
+  11,R
+   3,R,J
+  10,R,D,X
+   3
+   2,R,D
+  12,R,X
+   1,R,J
+   2,J
+  16,R,D,X
+   8,J
+   5,J
+   1,R,J
+  14,R,U,X
+   8,L,U,C
+  15,R,U,X
+  30,R,D,C
+   9,D
+  11,L,D
+   2,D
+   4,R,D,X
+   1,R,J
+   8
+   1,R,J
+   2
+  14,R,D,X
+   4,R
+   1
+   1,J
+   2
+   7,R,D,X
+   1,L,J,G
+  14,R
+   1,R,J
+   1,R
+  11,R,D,X
+   6,R,D
+   2
+  10,R,J
+  16,J
+  14,R,U,X
+   1,J,G
+   8,R,J,G
+   3,R
+  40
+
+#lvl_rd_08
+   1
+   4,R,D,X
+stunpause
+SkipInput,3,1
+   2,R,D
+   7,R,D
+endstunpause
+   5
+  16,R,D,X
+   3,R,J
+   5,R,Z
+  16,R,U,X
+  15,R,D,C
+   8,D
+   2,R,D
+   1,R
+  40
+
+#lvl_rd_09
+   5,R,D
+   1
+   1,J
+   4
+  15,R,D,X
+  15,D
+  10,L,D
+   8,R,D,X
+  10,R,J,G
+   2,R
+   1
+   2,R
+   1,R,J
+  40
+
+#lvl_rd_10
+   5,R
+  18,R,J
+  13,R,U,X
+   1,R,J,G
+   5,R
+   2
+   1,R
+  14,R,X
+   4
+  15,R,X
+   3,R,D
+  40
+
+#lvl_rd_11
+  15,R,D
+   1,R,J
+  14,R
+   4,R,J
+  14,R
+   9,R,D,X
+   9,U,C
+   4,R,U,Z
+   9,R,U,X
+  15,R,D,C
+  13,R
+  15,R,U,Z
+  40
+
+#lvl_rd_12
+   1
+   9,U,X
+  16,R,C
+  14,R,X
+  64,L,D
+   4,Z
+   1,L,J
+  28,L
+   1,L,J
+  42,L
+
+ChapterTime: 0:26.486(1558)
