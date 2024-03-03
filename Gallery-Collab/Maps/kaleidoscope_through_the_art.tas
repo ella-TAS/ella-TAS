@@ -1,4 +1,4 @@
-RecordCount: 7743
+RecordCount: 8403
 
 console load ChineseNewYear2024/1-Maps/ZZ-HeartSide
    1
@@ -8,6 +8,7 @@ console load ChineseNewYear2024/1-Maps/ZZ-HeartSide
 #lvl_GCHeartSide_a0
 
  341
+
    5,R,U
    1,R,J
    1,R,K
@@ -163,7 +164,6 @@ console load ChineseNewYear2024/1-Maps/ZZ-HeartSide
   40
 
 #lvl_GCHeartSide_a2
-
    8,R
   24,R,X
    3
@@ -393,22 +393,20 @@ console load ChineseNewYear2024/1-Maps/ZZ-HeartSide
   32,R,J
    1,K
   25,R,K
-   3,J,G
-   1,L,J
-  17,K
-   1,L,K
-   4,K
-  19,U,G
-  18,G
-   1
-   1,J
-   1,L,K,G
-   1,R,K
-  21,R
-  61,R,D
-   9,R
-   1,R,D
+   9,J
+  19,R
+   2,L
+   6,J
+   7,R
+   1,G
    1,R
+   2,R,J,G
+   2,R,K,G
+   3,R,J,G
+   1,R
+   9,R,K,G
+  83,R,D
+   8,R
   14,R,Z
   32,R,J
   29,R,X
@@ -911,7 +909,7 @@ console load ChineseNewYear2024/1-Maps/ZZ-HeartSide
   15,R,Z
   28,R,D
 #spinner cycle for next room
-   1
+   2
 #------
    4,Z
    1,R,J
@@ -922,8 +920,7 @@ console load ChineseNewYear2024/1-Maps/ZZ-HeartSide
    6,R,D,X
   12,R
   74
-   1,R,J
-  11,R,K
+  12,R,J
   11,U,X
   40
 
@@ -1778,16 +1775,23 @@ console load ChineseNewYear2024/1-Maps/ZZ-HeartSide
    1,R
   15,L,X
  120
-   5,R
-  74
-  12,U,X
-  15,R,J
-   4,R
-   1,J,G
-   4,R
+   7,R
+   1,L,J
+  11,J
    1
-   1,R
-   1
+   7,L
+   6
+   1,L
+   2,R
+  10,G
+   1,U,G
+   7,R,J,G
+   1,K
+  22,L,K
+  15,U,X
+  16,R,J
+   1,R,K,G
+   7,R
    4,Z
    1,R,J
    7,R
@@ -2885,7 +2889,7 @@ endrepeat
   24,R,J
   14,U,X
 #lightning cycle
-   0
+   2
 #------
    9,R,C
   13,R,J
@@ -3152,18 +3156,15 @@ EndStunPause
   11,R,Z
   10,R,J
   24,R,X
-  20,R,U,C
-  16,L,X
-  20,R,D,C
+  11,R,C
    4,U,X
-   9,U,C
-  31,U,X
-  74,U,C
-
-
+   4,U,C
+  11,U,X
+   5,L,U,C
+  19,R
+  72,U,X
 #lvl_GCHeartSide_final_fall
-
- 925
+ 926
   36,L,D
    1,L
    1
@@ -3217,4 +3218,4 @@ EndStunPause
   15,R,U,X
  135
 
-ChapterTime: 9:03.371(31963)
+ChapterTime: 9:02.521(31913)
