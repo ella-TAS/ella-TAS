@@ -1,4 +1,4 @@
-RecordCount: 3777
+RecordCount: 4066
 console load SecretSanta2022/1-Main/bosssauce
    1
 
@@ -353,16 +353,30 @@ console load SecretSanta2022/1-Main/bosssauce
   40
 
 #lvl_a-06
-   1,S
-   1,D,J
-  72,O
-   6,J
-   6,R,J
-  10,R,Z
-  22,R,J
-  18,R,U,X
-   4,R,J
-   4,Z
+   5,R
+   1,R,J
+   1,J
+   1,R,J
+  10,L,D,X
+   1,R,J
+   3,R
+   3,R,J
+  15,R
+   6,R,D
+  15,D,C
+   5,D
+   1,L,D
+   1,D
+   1,R
+   1,R,D
+   1,D
+   6,R,D
+  10,L,D,X
+   9,R,J
+   6,R
+  22,R,U,X
+   4,R,K
+   4,R,Z
    7,R,J
   10,R,Z
   10,R,J
@@ -488,13 +502,13 @@ console load SecretSanta2022/1-Main/bosssauce
    4,L,D
    3,D
   11,D,X
-  14,D,C
-  28,L,X
+  15,D,C
+   1,U,X
    1,U,C
-  27,U,X
-  17,L
-   9,L,X
-  27
+   4,U,X
+   1,L
+  19,R
+  16,R,X
   18,R,C
   21,U,X
   21,D,C
@@ -567,4 +581,4 @@ console load SecretSanta2022/1-Main/bosssauce
    2
    1,D
 
-ChapterTime: 1:19.152(4656)
+ChapterTime: 1:17.826(4578)
