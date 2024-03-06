@@ -1,7 +1,7 @@
 # ChineseNewYear2024Collab
 # https://gamebanana.com/mods/494348
 
-RecordCount: 4410
+RecordCount: 4555
 
 console load ChineseNewYear2024/1-Maps/ShadowRo
    1
@@ -130,7 +130,6 @@ console load ChineseNewYear2024/1-Maps/ShadowRo
   15,U,X
   56,R
 #lvl_d_01
-
   11,R
   12,R,J
   12,L,Z
@@ -234,26 +233,27 @@ AnalogueMode,Precise
 #lvl_d_03
   15,R,D,X
    1,R,J
-  14,R,D
+   9,R
+   1,R,J
+   4,R
   18,R,U,Z
-   6,L,J
-   1,R
-  10,R,K
-   1,R
-  15,L,U,X
-   2,L,U
+   6,R
+   3,J
+   6,R,J
+   1,R,J
+  17,L,U,X
    1,L,J,G
    7,K,G
    2,R,K
    9,K
   22,R,U,X
   27,R,U
+AnalogueMode,Ignore
   38,F,39.8
-  44,F,354
+  43,F,353.5
   40
 
 #lvl_d_04
-
   20,F,355.2
    1,L,J
    1,L,K,G
@@ -293,23 +293,21 @@ AnalogueMode,Precise
    3
   11,R,U,C
    1,R,J
-  19,R,K
-  53,R,G
-   2
-  18,R,X
-   1,L,G
-  16,L,U,Z
-   1,L,J
-  15,L,K
-  16,L,U,X
-   1,L,J
-  15,L,K
-  39,U,X
-  13,R
-   8,K,G
-   1,R,K
+  13,R,K
+  24,R,X
+   4,L,G
+  18,L,C
+   8,R,J
+  20,R,K
+  30,L,U,X
+   4,L,K
+   1,K
+   1,L,K
+   3,K
+  44,U,X
+   9,R
   14,U,X
-   8,J
+   8,R,J
   40
 
 #lvl_d_05
@@ -423,18 +421,20 @@ AnalogueMode,Precise
   19,L,X
   12,L,J,G
   12,L,K,G
-   8,J,G
-   1,L,J
-   1,R,J
+   8,L,J,G
+   2,R,J
    1,K
    6,R,J
-   5,R
+   8,R
    1,R,J
-  10,R
+   7,R
   34,R,U,Z
-  14,R,X
-  19,R,J
-   6,R
+   7,L,V
+   1,R,J
+   7,R
+  10,R,J
+   4,R
+   7,J
   15,U,X
   10,L
   10,L,X
@@ -444,18 +444,10 @@ AnalogueMode,Precise
   20,L,J
    3,L,K,G
    7,L
-  11,L,X
-  11,L,J
-   1
-   3,L,K,G
-   3
-   1,L
-   1
-   1,L
-   1,L,J
-   1
-   1,L,D
-   5,L,Z
+  12,L,J
+   2,K,G
+   2
+  14,L,Z
    1,R,J
    6,R
   25,R,J
@@ -530,10 +522,10 @@ AnalogueMode,Precise
    4,L,J
   15,U,Z
    9,R
-  16,R,X
+  15,R,X
    1,R,D,J
-   6,J
-   6,J
+   1,R,J
+  11,J
   15,U,X
    2
    3,L
@@ -994,7 +986,6 @@ AnalogueMode,Precise
    8,R,D
   40
 #lvl_Final
-AnalogueMode,Ignore
  143,D
    4,R,Z
    1,R,J
@@ -1042,5 +1033,5 @@ AnalogueMode,Ignore
    1,L,J
   38,L,D,X
   42,L,J
-ChapterTime: 2:20.267(8251)
+ChapterTime: 2:19.417(8201)
 
