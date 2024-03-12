@@ -1,4 +1,4 @@
-RecordCount: 8403
+RecordCount: 8798
 
 console load ChineseNewYear2024/1-Maps/ZZ-HeartSide
    1
@@ -302,27 +302,30 @@ console load ChineseNewYear2024/1-Maps/ZZ-HeartSide
   14,L,K
    8,L,Z
    1,L,J
-   6,L
-   2,L,J
-   2,L
+   6
+  15,R,J
   18,U,X
-  18,L,U,C
-  15,R,X
+   4,R
+  15,R,U,C
+  30
+   5,R
    6,R,J
-   7,R
-  15,U,Z
-   1,R
-  12,R,J
-  11,R
-   1,G
-  39,U,G
+   3,J
+  25,R,K
+   3,R
+   6,U,G
+   4,J,G
+  12
+   3,G
    1,L,J
-  41,L,K
-  25,R
-   1
-  22,R,J
-  28,R,X
-  32
+  25,L,K
+   1,K
+   1,L,K
+  10,R
+   1,R,J
+  18,R,K
+  31,R,X
+  30
    5,R,D
   20,R,J
   11,K,G
@@ -331,22 +334,22 @@ console load ChineseNewYear2024/1-Maps/ZZ-HeartSide
    1,L,J
   10,R,J
   11,K,G
-   1,L,K
-   8,R,J,G
-   3,L,J
+   1,L
+   7,R,J,G
+   1,L,J
+   1,R,J
+   2,L,J
    1,R,J
    2,K,G
-   1,L,K
+   1,L
    7,R,J,G
    4,L,J
-   1,R,J
+   1,R
    1,K,G
    2,L,K
-   9,R,K
-   4,R
-   1
-   1,R
-   1
+   8,R,K
+   1,L,K
+   7,R
   12,R,Z
    6,R,J
    4,R
@@ -417,6 +420,7 @@ console load ChineseNewYear2024/1-Maps/ZZ-HeartSide
   15,U,X
  153
   40
+
 
 #lvl_GCHeartSide_a4
 
@@ -2971,40 +2975,41 @@ EndStunPause
    9,U,X
    3,R,J
    7,R
-   4,L
-   1,R,J
+   3,L
+   4
    5,R,Z
    1,R,J
    1,R,K
-   5,R,J,G
-   8,R
-   1,R,J
+   2,R,J,G
    1,R
-  27,R,D,X
-   7,R,J
-   5,R
-   3,R,J
-   1,J
-   9
+   2
+   1,R,J,G
+   3
+   6,R
    1,R,J
+  25,R,D,X
+   5,R,J
+   8,R
+   2
+   1,J
+   7
+   1,R,K
   14,R,Z
-   2,R,J
+   1,R,J
   15,R
    1,R,J,G
-  40,R,K
-   5,R,D
-  20,R,X
-   1,J,G
-   3
-   1,R
-   1
-   9,R
+   1,R,K,G
+   9,R,J
+   5,R
+  26,R,J
+  25,R,X
    1,G
-   1,L,J
-  17,L
-  15,L,U,Z
+  10,L,Z
+   1,R,J,G
+  11,L,J
   15,U,X
-   6,R
+   4,R
+   2
   18,U,X
   14,R,Z
    1,R,J
@@ -3164,7 +3169,11 @@ EndStunPause
   19,R
   72,U,X
 #lvl_GCHeartSide_final_fall
- 926
+ 205
+
+#lvl_GCHeartSide_final_heart
+
+ 721
   36,L,D
    1,L
    1
@@ -3185,37 +3194,28 @@ EndStunPause
    1,R,K
    1,R,J
    1,R,K
+   2,R,J
+   6,R,D,X
+   2,R,J,G
+   7,R
+   3,R,J
+  15,R,D,X
+   3,R,J
+  20,R,D,X
    1,R,J
-   1,R
-   7,R,D,X
-   4,R,J,G
+   1,R,K
+   1,R,J
+   1,R,K
+   1,R,J
+   1,R,K
+   1,R,J
+   1,R,K
+   1,R,J
+  11,R,U,X
+   2,R,J,G
    7,R
    2,R,J
-  15,R,D,X
-   1,R,D,J
-   1,J
-   1,R,J
-  15,R,D,X
-   1,R
-   4,R,D
-   2,R
-   1,R,J
-   1,R,K
-   1,R,J
-   1,R,K
-   1,R,J
-   1,R,K
-   1,R,J
-   1,R,K
-   1,R,J
-   1,R,K
-   9,R,U,X
-   1,R,J,G
-   2
-   3,R,J,G
-   7,R
-   1,R,J
   15,R,U,X
  135
 
-ChapterTime: 9:02.521(31913)
+ChapterTime: 9:01.603(31859)
