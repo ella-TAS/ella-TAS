@@ -1,4 +1,4 @@
-RecordCount: 1205
+RecordCount: 1210
 
 console load ChineseNewYear2024/1-Maps/fengchen
    1
@@ -46,7 +46,7 @@ console load ChineseNewYear2024/1-Maps/fengchen
 
 #lvl_fengchen-02
   12,R,J
-  15,R,U,X
+  14,R,U,X
   15,R,U,C
   16,R,Z
   17,R,D,X
@@ -257,4 +257,4 @@ console load ChineseNewYear2024/1-Maps/fengchen
   15,U,X
  135
 
-ChapterTime: 0:45.475(2675)
+ChapterTime: 0:45.458(2674)
