@@ -1,4 +1,4 @@
-RecordCount: 5091
+RecordCount: 6243
 
 console load ChineseNewYear2024/1-Maps/StarSapphireSTLR
    1
@@ -7,7 +7,7 @@ console load ChineseNewYear2024/1-Maps/StarSapphireSTLR
  190
 #lvl_StarLR_00
 #spinner cycle 0-2
-   1
+   2
 #-----------------
   15,R,J
   19,R,X
@@ -154,6 +154,8 @@ console load ChineseNewYear2024/1-Maps/StarSapphireSTLR
   10,R
    7,R,J
    7,R,D,X
+#0:15.266(898)
+
   40
 #lvl_StarLR_03
    6,R
@@ -367,68 +369,50 @@ console load ChineseNewYear2024/1-Maps/StarSapphireSTLR
    6
    8,D
    4,R,D
+
   13,L,D,X
-  11,R,J
-   1,J
-  15,R,U,X
-   8
-   1,R
-   1,G
+  10,R,J
+   9,R
+   7
    1,R,J,G
    2,L,J
-   3,R,J
-   1,R,K,G
-   2,R,J,G
-   6
-   6,R
-  11,D
-   3,L,D
-   9,U,X
-  39,R,J
-   1,G
-  15,R,Z
-   4
-  14,L,U,C
-   1,K
-  32,R
-   1,G
-   7
-   1,R
-  15,R,Z
-   3
-   1,L
-   1,L,J,G
-  15,J
-   5,L,J
-   8,K,G
-   2,R,K
-  12,L,J,G
-   5
+   4,J
+   8,R,J
    1,J
-   1,L,J
-   1,L
-   2,L,J
-   3,L
-  10,L,D,X
-   5,R,J
-  20,R,D,X
+   3,R,J
+  13,U,Z
+  34,R,J
    6,R
-   1,L,D,J
-   2,R,J
-   6,J
-   5
-   5,J
-   3
-   4,R
    2
-  14,R,U,X
-   1,L
-   1,J,G
-   6,L
-   1,R
+   1,G
+   1,R,D
+   1,G
+   8,R,K,G
+   6,R
+   2
+   3,J,G
+   2,R,J
+   1,L,K,G
+   2,R,K
+   7,K
+   2,R
+  32,R
+   1,R,G
+   7,R,J,G
+  14,R,X
+   1,L,J,G
+  19,R,J
+  15,R,X
+  21,R,D
+  11,R,J
+   5,R
+   2,R,J
+  11,R
+  18,R,U,X
    5,R,U,G
    1
-   3,R,J,G
+   2,R,J,G
+   1,R
    2,R,K,G
    2,R,J,G
    1,R,K,G
@@ -438,10 +422,7 @@ console load ChineseNewYear2024/1-Maps/StarSapphireSTLR
   24,R,D,X
    1,R
    1,R,J
-#0:46.189(2717)
-
   40
-
 #lvl_StarLR_07
    5,R,D,X
    8,R
@@ -452,59 +433,88 @@ console load ChineseNewYear2024/1-Maps/StarSapphireSTLR
    1,R,J,G
    4,L,J
    6,J
-   4,L,J
+(
+   3,R
+   6
   14,R,Z
-   3,R,J
-   5,R
-   1,R,J
-  13,R
-  23,R,X
-   4,L,J
-   3,L,K
-  31,L
-  11,R,D,X
-   1,R,J
+  18,R,J
    6,R
+  20,R,D,X
+   3,L,D
+   4,L,J,G
+   1,L,K
+  18,L,D
+  11,R,D,C
+   5,R,K
+   2,R
    4,Z
   26,R,J
   15,U,Z
+
+
+
+(
+#   4,L,J
+#  14,R,Z
+#   1,R,J
+#  25,R,D
+#   2,R
+#  16,R,U,Z
+#   4,J
+#   3
+#   2,R
+#  24,L,D
+#  11,R,D,X
+#   1,R,J
+#   6,R
+#   4,Z
+#  26,R,J
+#  15,U,Z
    3,R
-  45,R,J
-   8,D
+  29,R,J
+   1,R
+   1,R,J
+  15,R,D
+   4,D
    1,J
    8,R,D
-  10,D
-   2,L,D
-  13,R,D,X
-   5,R,J
+   9,D
+   3,R,D
+  12,R,D,X
+   4,R,J
    4,Z
-   7,R,J
+   9,R,J
+   1,R
+   2,J
    1,R
    1,R,J
-   1,R
-   4,R,J
    3,R
-   7,L,V
+   1
+   1,R
+   7,L,D,X
    1,R,J
    6,R
-  17,R,J
-  16,R,U,Z
-   2
-   4,L,J,G
+  16,R,J
+  12,R,U,Z
+   1,L
+   2,J,G
    1,R,J
+   2,J
+   1,L,K,G
+   1,L,J,G
+   1,R,J
+   1,J
+   1,R
    8,R,K
-   5,R
-   3,R,J
-  15,R,D
-   4,R
-   1,R,D
+  23,R,D
+   1,R
+   2,R,D
    6,R,Z
    1,R,J
    6,R
    6,R,D,J
    1,J
   40
-
 #lvl_StarLR_08
    1,R
    8,R,D,X
@@ -516,36 +526,24 @@ console load ChineseNewYear2024/1-Maps/StarSapphireSTLR
   11,R
    1
    2,R
-  14,R,X
-  15,R,J
-   4,R
-   2
-  11,U,X
-   7,R
-  15,D,X
-   6,R,D
-   5,D
-   3,R,D
-  10,R,D,X
-  16,L,J
-   5,J
-  16,R,X
-   5,L,U,Z
-  32,R
-  15,R,Z
-   1
-  12
-   1,L
-   1
-   1,L
-   1,J,G
-   1,J
+  12,R,X
+  16,R,J
+  25,R,U,X
+  15,D,C
+   8,D
+   9,R,D
+   3,L,D
+  15,L,J
+  16,L,Z
+  11,R
+  18,R,C
+  14,R,Z
+   5,R,J
+   1,R
    3,R,J
-  10,L,D,X
-  13,R,J
+   5,R
   15,R,Z
-  19,R
-   2,R,D
+  20,R,D
   13,R,Z
    5,R,J
    3,R
@@ -553,9 +551,9 @@ console load ChineseNewYear2024/1-Maps/StarSapphireSTLR
   11,R
   11,R,D
    1,R
-   1,R,D
-   1,R
-   2
+   2,R,D
+   1,D
+   1
    5,R,Z
    3,R,J
    1,R,K,G
@@ -572,35 +570,31 @@ console load ChineseNewYear2024/1-Maps/StarSapphireSTLR
   10,R,D,X
   16,R,J
   12,L
-   8,L,D
-  15,L,Z
+   3,L,D
+  18,L,D,C
    4,R,J
-  18,R
-  12,R,D
-   7,R
-   1
-   1,D
-  15,R,X
-   3,R
-   4,L
+   2,L,D
+   3
+  12,D
+  14,R,D
+  18,R,X
+   1,G
+   8,D
    1,R,J
-   9,R,X
-   1,R,J,G
-   5,R
-   2,R,J
-  13,R,D
-  14,R,X
-  10,R,J
-   1,J
+   1
+   8,R,X
+   1,J,G
    5
+  14,R,D
   14,R,X
+  11,R,J
+   8,R
+  12,R,X
   22,L,J
    1,J
    2
   15,U,X
    5,L
-#1:05.263(3839)
-
    8
   15,U,X
    1
@@ -670,7 +664,6 @@ console load ChineseNewYear2024/1-Maps/StarSapphireSTLR
   15,U,X
    2,L
   10,L,C
-(
    2,L
   10,R,J
    5,L,J
@@ -705,7 +698,6 @@ console load ChineseNewYear2024/1-Maps/StarSapphireSTLR
    1,R
    1,J
    1,R
-#1:15.327(4431)
    1,G
   15,R,Z
    2,R
@@ -716,6 +708,8 @@ console load ChineseNewYear2024/1-Maps/StarSapphireSTLR
   10,L,Z
    2,R,J
   19,R,D
+#1:15.276(4428)
+
    1,L,D
    4,D
    5,R,D
@@ -841,7 +835,6 @@ console load ChineseNewYear2024/1-Maps/StarSapphireSTLR
    1,J,G
    7
    1,G
-(
    1,L,K,G
    2,R
    1,L,J,G
@@ -878,9 +871,11 @@ console load ChineseNewYear2024/1-Maps/StarSapphireSTLR
    1,R,J
    8,R
    3,R,J
-  21,R,D
-   5
-   1,D
+  18,R,D
+   2,R
+   1,R,D
+   4,D
+   2
    4,R,Z
    1,R,J
    6,R
@@ -888,8 +883,6 @@ console load ChineseNewYear2024/1-Maps/StarSapphireSTLR
    3,R,K,G
    1,R,J,G
   11,R,D,X
-#1:30.049(5297)
-
   40
 #lvl_StarLR_12
    2,J
@@ -897,12 +890,18 @@ console load ChineseNewYear2024/1-Maps/StarSapphireSTLR
    6,R,D,X
    1,R,J,G
   19,R,D
-  15,R,J
-  19,R,D,X
-  22,R,J
+   2,R,J
+   6,R,D,X
+   3,R,J,G
+   9,R
+   1,R,J
+   1,R
+  11,R,D
+  20,R,J
   18,R
   17,R,U,Z
-  16,R,J
+  10,R,J
+   6,R
   15,R,Z
   10,R
   10,R,X
@@ -910,23 +909,23 @@ console load ChineseNewYear2024/1-Maps/StarSapphireSTLR
    7,R
    1,R,J
   11,R
-   8,R,D
-  22,R,U,Z
-   4,R,J
-   5,R,K
-   6,R
-   3,R,J
-   8,R
-  14,R,X
-  10,R,J
-  18,R
-   8,R,D
-   1,R
-  15,R,U,X
-  22,R
+   2,R
    4,R,D
-   3,R
-   7,R,Z
+   2,R
+   1,R,D
+  22,R,U,X
+   5,R,J
+   6,R,Z
+  10,R,J
+  11,R
+  12,R,D,J
+   9,R
+   2,R,J
+   7,R
+  15,R,Z
+  15,R,D
+   6,R
+   8,R,Z
    1,R,J
    6,R
    3,R,J
@@ -1059,7 +1058,7 @@ console load ChineseNewYear2024/1-Maps/StarSapphireSTLR
   40
 #lvl_StarLR_14
    1,R
-   2,R,D,J
+   2,R,J
    8,R
    1,R,J
    1,J
@@ -1230,6 +1229,6 @@ EndStunPause
    4,R,Z
    1,R,J
   31
-  32,D,J
+  28,D,J
 
-ChapterTime: 2:10.662(7686)
+ChapterTime: 2:08.214(7542)
