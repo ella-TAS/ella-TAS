@@ -1,4 +1,4 @@
-RecordCount: 8798
+RecordCount: 9577
 
 console load ChineseNewYear2024/1-Maps/ZZ-HeartSide
    1
@@ -6,10 +6,8 @@ console load ChineseNewYear2024/1-Maps/ZZ-HeartSide
 #Start
 
 #lvl_GCHeartSide_a0
-
  341
-
-   5,R,U
+   5,R
    1,R,J
    1,R,K
    1,R,J
@@ -23,26 +21,25 @@ console load ChineseNewYear2024/1-Maps/ZZ-HeartSide
   15,R,D,X
   12,R,J
   15,R,D,X
-   1,R,J
-   1,J
-   4
+   3,R,D,J
+   2,R
    6,R,D,X
    1,R,J,G
-   4
-   7,R
-  12,R,J
-  15,R,D,X
-   1,R,J
-   7,R,K,G
-  40,K
+   1,R
+   1
+   9,R
+   8,R,J
+  12,R,D,X
+   9,R,J,G
+  40
 
 
 #lvl_GCHeartSide_a1
 
-   3,R,K
-   1,R
-   1,R,J,G
-  11,R,K,G
+   5,R,K
+   4,R,J,G
+   5,J
+   5
   17,U,X
   21,R,G
    4,R,D
@@ -54,11 +51,13 @@ console load ChineseNewYear2024/1-Maps/ZZ-HeartSide
   29,R,G
    1,R
   11,L,D
-  18,R,D
-   4,R
+  20,R,D
+   2,R
    1,R,J,G
    1,R,K,G
-  14,R
+   9,R
+   1,R,J
+   4,R
    8,R,J
   12,R
   14,R,U,Z
@@ -140,7 +139,6 @@ console load ChineseNewYear2024/1-Maps/ZZ-HeartSide
    3,R
    1,R
    6,R,J
-   0,R
    7,R,D,X
    1,R,J,G
    7,R
@@ -187,12 +185,15 @@ console load ChineseNewYear2024/1-Maps/ZZ-HeartSide
    4,R,J
    2,R,K
   11,R,X
-  24,L,J
-  15,U,X
-   3,L
-   8,R
-   9,R,J
-   8,R
+   5,L,J
+   2,L
+  10
+  15,L,U,X
+  10,R
+   1
+   3,R
+   4,R,D,J
+  16,R,K
   22,R,X
    3
    4,Z
@@ -233,15 +234,12 @@ console load ChineseNewYear2024/1-Maps/ZZ-HeartSide
   13,L,D,X
   18,R,C
    4,R,J
-  10,R,K
-   2,R
-  12,R,X
-   1,J,G
-   9,R
-   7,R,J
-  10,R
+  17,R,K
+  14,R,X
+   8,R,J
+  11,R
   22,R,X
-   4
+   3
   13,L,X
    4,R,J
    1,R,K
@@ -342,15 +340,16 @@ console load ChineseNewYear2024/1-Maps/ZZ-HeartSide
    1,R,J
    2,K,G
    1,L
-   7,R,J,G
-   4,L,J
-   1,R
+   6,R,J,G
+   3,L,J
+   1,J
+   1,R,J
    1,K,G
-   2,L,K
-   8,R,K
    1,L,K
-   7,R
-  12,R,Z
+   1,J
+   3,L,J
+  11,J
+  13,R,Z
    6,R,J
    4,R
   12,R,J
@@ -365,10 +364,10 @@ console load ChineseNewYear2024/1-Maps/ZZ-HeartSide
    7,L
    1,J
    1,L,J
-   1
+   2
    1,L
-   4
-  37,G
+   3
+  36,G
    1
    1,J
    1,K,G
@@ -913,7 +912,7 @@ console load ChineseNewYear2024/1-Maps/ZZ-HeartSide
   15,R,Z
   28,R,D
 #spinner cycle for next room
-   2
+   0
 #------
    4,Z
    1,R,J
@@ -922,8 +921,8 @@ console load ChineseNewYear2024/1-Maps/ZZ-HeartSide
    5,R
    2,R,J
    6,R,D,X
-  12,R
-  74
+  13,R
+  73
   12,R,J
   11,U,X
   40
@@ -1178,52 +1177,52 @@ console load ChineseNewYear2024/1-Maps/ZZ-HeartSide
    2,R,N
   88,R,X
  275,R
-   7,L,X
- 148,R,X
- 342,R
-  13,L,X
-  84,R,X
-  63,R
+   9,L,X
+  19,R
+ 125,R,X
+ 344,R
+   9,L,X
+  16,R
+  72,R,X
+  57,R
   49,L,X
- 321,R,X
+ 312,R,X
    1,R,G
-  34,R,D,X
+  33,R,D,X
   12,R,J
   15,R,D,X
   12,R,J
-  15,R,D,X
-  15,R,J
-  19,R,D,X
-   7,R,J
-   3,R
-  16,R,D,X
-  13,R,J
-  15,R,D,X
-   6,R,J
-   4,R
-  16,R,D,X
-  12,R,J
-   1,J
   15,R,D,X
    1,R,J
-   6,R
-   2,R,J
-   1,R
-   1
-  14,R,U,X
-   1,R,J,G
-   4
-   5,R
-   8,R,D,J
-  15,R,D,X
+  14,R
+   8,R,J
+   2,R
+  16,R,D,X
+   9,R,J
+  16,R,D,X
   12,R,J
   15,R,D,X
-   7,R,J
+   9,R,D,J
+  16,R,D,X
+   1,R,J
+  14,R
+   1,R,J
+   7,R
+   2,R,J
+   7,R
   14,R,U,X
-   1,R,J,G
-   3,J
-   4
-   9,R
+   1,J,G
+   6,R
+   3,R
+   8,R,J
+  16,R,D,X
+  12,R,J
+  15,R,D,X
+   7,R,D,J
+  14,R,U,Z
+   4,R,J,G
+   1
+  12,R
    4,R,J
    2,R
   16,R,D,X
@@ -2650,23 +2649,29 @@ endrepeat
   12,L
    1,L,X
    3,L
-   1,R,J
- 330
+   1,L,J
+ 344
 
 #lvl_GCHeartSide_e0
-   2
-# due to a subtle ooo issue, you can skip cutscene, https://github.com/Cruor/LuaCutscenes/issues/8
-# maybe it will be patched
+
    1,S
    1,D,J
-  34
-  40,L,D,X
-   2,L
-  10,L,D
-   1,R,D
-  43,R,D
-  15,R,D,X
- 251,D
+  69,O
+   4,L,Z
+   1,L,J
+   4,L
+   1,L,K,G
+   1,L,J,G
+  14,L
+  15,D,X
+   7,R,D
+  10,D
+   1,R
+   1
+   2,R
+   7,R,D
+  25,R,D,X
+ 249,D
 
 
 #lvl_GCHeartSide_e1
@@ -3218,4 +3223,4 @@ EndStunPause
   15,R,U,X
  135
 
-ChapterTime: 9:01.603(31859)
+ChapterTime: 9:01.552(31856)
