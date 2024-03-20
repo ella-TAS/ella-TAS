@@ -1,7 +1,7 @@
 # ChineseNewYear2024Collab
 # https://gamebanana.com/mods/494348
 
-RecordCount: 3088
+RecordCount: 3439
 
 console load ChineseNewYear2024/1-Maps/hoshiyakimu
    1
@@ -43,19 +43,17 @@ console load ChineseNewYear2024/1-Maps/hoshiyakimu
 
    3,R
    1,R,J
-   7,R,D,X
-   4,V
-   3,R,J
    4,R
-   4
-  12,R,U,X
-  13,L
-  15,U,X
-  11,L,C
-  20,R,J
-  25,R,D
+   9,R,X
+  10,R,J
+   3,J
+  10,L,U,X
+  15,U,C
+  11,L,X
+  10,R,J
+  26,R,D
   15,R,X
-  17,R,D
+  22,R,D
   10,L,D,X
   53,R
   18,U,Z
@@ -67,41 +65,39 @@ console load ChineseNewYear2024/1-Maps/hoshiyakimu
   13,D
    9,R,Z
    9,R,U,C
-  11,R,Z
-   4,R,J
-  11,R,U,X
-   9,D,C
+  12,R,X
+  10,R,J
+   9,R,D,X
   15,R,Z
    7,R
   12,R,X
   11,R,C
   11,L,D,X
-  21,R,J
-  16,R,D,X
-   6
-  15,U,C
-  14,R,Z
-   7,L,J
-  13,L,U,X
-   4,L,J,G
-  12,R,D,X
-  12,R,J
-   6,R,D
-   1,R,J
-  14,R,D
-  15,R
-  12,U,X
-   2,R,J
-   1,L,J
-   2,R,J
-   5,J
-   5
-   1,L
-   1
-   1,L
+  11,R,J
+  17,R,D
+   9,R,Z
+  15,U,X
+  14,R,C
+   3,L,J
+   4,L
+  13,R,U,X
+   1,R,J,G
+   7,R
+   9,G
+  21,R,D
+   1,L,D
+   1,D
+   2,L,D
+   1,D
    2
-   1,L
-   4,Z
+   2,R
+   1,R,J
+  17,R,K
+  15,U,X
+   2,L
+   2,R
+   6,L
+   4,R,Z
    4,R,J
   17,R,D
   40
@@ -217,11 +213,11 @@ console load ChineseNewYear2024/1-Maps/hoshiyakimu
   17,D
   13,R,X
   24,R,J
-  14,U,X
-   7,R,J
-  11,R
-   2,R,J
-  16,R,D
+  12,U,X
+   9,R,J
+  13,R
+   1,R,J
+  13,R,D
   12,Z
   40
 #lvl_SS_a_4
@@ -237,11 +233,12 @@ console load ChineseNewYear2024/1-Maps/hoshiyakimu
   15,R,J
    5,L,Z
    1,R,J
-   4
-   8,R,D,J
-  12,R
+   2
+   1,J
    1
-  12,L,D,X
+   7,R,D,J
+  14,R
+  11,L,D,X
   10,R,J
   11,R
   10,R,U,Z
@@ -396,10 +393,11 @@ console load ChineseNewYear2024/1-Maps/hoshiyakimu
 #lvl_SS_a_7
    1,R,J
   14,R,D,X
-   3,R,J
-   4,R
-  18,R,U,Z
-  15,U,X
+   4,R,J
+   1
+   3,R
+  16,R,U,X
+  15,U,C
    5,L
   15,U,C
    6,L
@@ -508,14 +506,14 @@ console load ChineseNewYear2024/1-Maps/hoshiyakimu
   14,R
    1,R,J
   28,R,D
-   4,Z
-   2,R,J
-   9,L,D,X
-  37,R,J
-  15,R,X
+   6,R,X
+   7,R,Z
+   7,R,J
+  22,R,D
+  15,R,Z
   10,D,C
   17
-  11,U,X
+  10,U,X
   26,R
   17,D,X
    9,R,D
@@ -548,10 +546,10 @@ console load ChineseNewYear2024/1-Maps/hoshiyakimu
    2,R
    5,R,Z
    1,R,J,G
-   3,J
-   7,R,J
-   6,J
-   7,L,K
+   1,J
+   2,K,G
+   8,R,K
+   6,L,K
   11,L,X
   27,R
    9,D,X
@@ -648,4 +646,4 @@ console load ChineseNewYear2024/1-Maps/hoshiyakimu
   15,U,C
   10,U,X
  141
-ChapterTime: 1:25.748(5044)
+ChapterTime: 1:25.204(5012)
