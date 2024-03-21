@@ -1,4 +1,4 @@
-RecordCount: 1209
+RecordCount: 1226
 
 console load ChineseNewYear2024/1-Maps/rifsAcetone
    1
@@ -113,11 +113,10 @@ console load ChineseNewYear2024/1-Maps/rifsAcetone
   17,R,D,X
    7,R,J
   14,R,U,Z
-   1,J
-  14,R
-  14,Z
-  18,R,J
-   3,R
+   1,L,J,G
+  13,R,J
+  26,R,K
+   1,R
    5,R,D,X
    6,R,J
    2,R
@@ -156,10 +155,8 @@ console load ChineseNewYear2024/1-Maps/rifsAcetone
    1,R,K
   14,R,D,X
    1,R,J
-
   10,R,D,X
    1,R,J
-
    5,R,K
    9,R
    1,R,J
@@ -196,4 +193,4 @@ console load ChineseNewYear2024/1-Maps/rifsAcetone
   30,J,G
    3,R,J
   62,K
-ChapterTime: 0:22.321(1313)
+ChapterTime: 0:22.219(1307)
