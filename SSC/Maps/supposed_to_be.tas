@@ -1,4 +1,4 @@
-RecordCount: 4581
+RecordCount: 4637
 
 console load SecretSanta2022/1-Main/rocketguy
    1
@@ -304,14 +304,21 @@ endRepeat
    5,R
   15,R,U,X
    7,R
-  17,L
-   6,U,Z
+  10,L
+   7,L
+   5,U,X
   32,R
-  15,R,D,X
-   2,R
-  34,R,G
-   7,R
-  24,L,D
+  15,R
+   6,R,G
+   1,R,G
+   1,R,J,G
+   1
+   6,G
+   1,G
+   1,R
+  14,R,X
+   7
+  24,L
   18,R,D
    1
    2,R
@@ -437,4 +444,4 @@ repeat 67
 endRepeat
    1
 
-ChapterTime: 0:56.338(3314)
+ChapterTime: 0:56.287(3311)
