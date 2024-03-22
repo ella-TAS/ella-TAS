@@ -1,4 +1,4 @@
-RecordCount: 4502
+RecordCount: 4959
 
 console load SecretSanta2022/1-Main/cheesesteak
    1
@@ -211,33 +211,31 @@ EndStunPause
    7,R,D
   18,L,D
   10,L,Z
-  23,R,J
-   1,D
-   4,R,D
-   1,D
-   5,R,D
+  12,R,J
+  16,R
+   2
   14,R,D,X
    1,R,J
   11,R
-   3,R,J
-   3,R
-  15,R,D,X
-  28,R,J
-   3,R
-  24,R,U,X
-   2,R,J
-  11,R,Z
+   1,R,J,G
+   7,R
    1,R,J
+  15,R,D,X
+  12,R,D,J
    6,R
-   4,R,J
+   9,R,J
+  14,R,U,X
+   3,R,J,G
+   7,R
+   8,R,J
   40
 
 #lvl_a-04
-   5,R,J
-   6,R
+   2,R,J
+   9,R
   15,U,X
-   3,R
-  11,G
+  13,R
+   1,R,G
   21,D,X
    4,Z
    1,R,J
@@ -247,30 +245,35 @@ EndStunPause
   30,L,U,X
   15,U,C
   17,R
-  17,R,J,G
-   2,R
-  14,L
-  19,L,U,G
-  30,G
-   2,R
-   2,L,G
-   2,R
-  14,L,G
-   2,G
-   1
-   1,L
-  23,U,G
-   3,L,J,G
+  33,J
    1,K
-   4,R,Z
-   9,R,J
-   1,R
-   1,R,J
-  10,R
-   6,R,D,J
-   1,J
-   1,R,J
-   2,J
+   8,L,K
+   1,R,K
+  29,K
+   6,R,G
+   1
+   6,G
+   1
+   6,G
+   1
+   6,G
+   1
+  20,G
+   7,D,G
+   1
+   1,R,J,G
+   1,R,K,G
+   1,R,J,G
+   5,R,U,Z
+   2,R,K,G
+   1,R,J,G
+   1,K,G
+   2,R,K
+   1,K
+   2,R,K
+   1,K
+   5
+   3,K
   11,L,D,X
    1,L,J
    3,L
@@ -329,6 +332,9 @@ EndStunPause
    1,D,O
    1,J
   68
+#lighting cycle
+   2
+#
    6,U,X
    7,L,J
   11,L
@@ -350,55 +356,51 @@ EndStunPause
   15,R,U,G
    1,J,G
    1,K
-   3,L,K
-  10,L,X
-   4,J
-   7,L,J
-   2,L
-  12,L,K,G
-   7,L
-  12,G
-   6,U,G
-   8,G
+   1,R,J,G
+   9,L,J
+  11,L
+   2
+  15,L,X
+  18,G
+   2,U,G
+   2,G
+   1,U,G
+   4,G
    1,J,G
    4
    2,L
    2
+   2
   20,R
-  24,R,G
-   2,D,G
+  25,R,G
+   1,G
+   1,D,G
    1,G
    1,R
    1,R,J,G
    1,R,K,G
+   1,R
    1,R,J,G
    1,R
    1,R,K,G
-   1,R
    2,R,J,G
-  21,R,D,X
-   5,R,J
-   5,R
-   1
-  13,R,U,Z
-StunPause
-   1,R,J,G
-EndStunPause
-   4,R,J
-   1,J
-  16,R,J
-   3,R,K,G
-StunPause
-   4,R,K
-EndStunPause
+  15,R,D,X
+   7,R
+   9,R,K
    3,R
-   2
-  11,R
-   7,R,D
-  34,R
-  11,R,D
-   1,R,J
-   7,R,D,X
+  10,R,U,Z
+   1,R,J,G
+   6,J
+  15,R,J
+   5,R,K,G
+StunPause
+   1,R,K
+EndStunPause
+   8,R
+   2,R,K
+   9,R
+   1
+  54,R
   36
    5,U,X
   40
@@ -455,4 +457,4 @@ EndStunPause
   14,R,U,X
  135
 
-ChapterTime: 0:58.905(3465)
+ChapterTime: 0:57.953(3409)
