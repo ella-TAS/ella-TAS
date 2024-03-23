@@ -1,42 +1,56 @@
-RecordCount: 1210
+RecordCount: 2269
 
 console load ChineseNewYear2024/1-Maps/fengchen
    1
 
 #Start
  190
-
 #lvl_fengchen-00
    4,R,Z
    1,R,J
-  15,R
+   7,R
+   2
+   1,L,J
+  10,R,D,X
+   1,R,J
+   1,U
    1,R,J
    1,R,K
    1,R,J
    1,R,K
    1,R,J
    1,R,K
-  11,R,J
-   5,R
-   2,J
+   1,R,J
+   1,R,K
+   1,R,J
+   1,J
+   1,R,K,G
+  10,R
   40
-
 #lvl_fengchen-01
-  15,R,D,X
-  20,R,J
-  17,R
-  12,U,X
-  14,R,J
-  18,R
-  14,R,D,X
-  42,R,J
-  40,R,U,X
-   2,R,D
+   6,R
+   1,R,D
+   3,D,J
+   5,R,J
+   8,R
+   1,R,J
+   1,R
+   3,R,J
+   1,J
+   6,R,D,J
+  10,U,X
+  25,R,J
+   1,R
+   1,R,J
+  19,R
+  14,R,Z
+  29,R,J
+  29,R,X
+   5,R,D
    1,R
    2,R,D
-   2,R
-   1,R,D
-   4,R,Z
+   2
+   4,Z
    1,R,J
    6,R
    2,R,J
@@ -58,12 +72,12 @@ console load ChineseNewYear2024/1-Maps/fengchen
    1,L,J,G
    5,R,J
   21,R,D,X
-   5,R,U,C
+   1,R
   40
-
 #lvl_fengchen-03
-   8,R,U,C
-  20,R,D,X
+   5,R
+   1
+  10,R,D,X
   17,R,C
   26,U,X
    6
@@ -91,170 +105,195 @@ console load ChineseNewYear2024/1-Maps/fengchen
 #lvl_fengchen-05
    2,R
   21,R,X
-  17,L,G
-   7,J,G
-   3,R,J
-  10,R,Z
-  26,R,J
+  12,L,U,G
+   9,J,G
+   1,K,G
+   3,R,K
+  14,R,Z
+  22,R,J
   21,R,X
    4,R,J
-   3,R,K
+   1,R,K
+   2,R
   15,D,X
    8,L,D
   22,L,X
   13,R,C
    4,R,J
   11,R,K
-  25,R,G
+   8,R
+   1,R,G
+   8,R,D
+   1,R
+   8,D,G
+   1,R
+   1,R,J,G
+   1,R,K,G
+   1,R,J,G
+   1,K,G
+   6,R
+   1
+  11,R,J
+   2,R
+  15,R,D,X
+   8,R
+   1,R
+   1,R,J
+   8,R,X
+  40
+ 
+#lvl_fengchen-06
+   5
+   1,R,J
+   6,J
+   1
+  12,R
+   9,D
+   1,R,D
+   1,D
+   6,R,D
+  12,D
+  18,L,X
+  16,D,C
+  15,L,X
+  17,R,G
+   1,R,J,G
+   1,R,K,G
+   1,R,J,G
+   5,R
   10,R,C
    4,R,J
-  14,R,K
-  15,R,D,X
-  14,R
-   8,R,U,C
-   1,R,J,G
-   2,R
-   3
-   4,R
-  40
-
-#lvl_fengchen-06
-   2,R
-   3,R,J
-   5,J
-  24,D
-   7,R,D
-  13,L,D,X
-   7,L,J
-  15,L
-  26,L,X
-  19,D,C
-  15,L,X
-  26,R,G
-  10,R,X
+   6,R,K
+  25,R,D,X
    4,R,J
-  10,R,K
-   4,R
-  18,R,D,X
-   6,R
-   2,R,J,G
-   5,R
-   2,R
-   3,R,J
+   5,R,K,G
   40
 
 #lvl_fengchen-07
-  22,R,J
-  24,R,U,X
-  14,L,Z
-   4,L,J
-  22,L,K
-   7,K
-  14,U,X
-  16,R,J
-  14,R,Z
-  22,R,J
-  21,R,G
-  10,R,X
-   4,R,J
   10,R,K
-   4,R
-  18,R,D,X
+  10,K
+  24,U,Z
+   9,L
   14,R
-   3,R,J
-   5,R,D,X
-   1,R,J,G
-   7,R
-  40
-
-#lvl_fengchen-08
-   4,R
-   3,R,J
-   8,R
-  12,R,J
-  16,R,D,X
+  10,R,J
+   5,J
    1,R,J
-   7,R,D,X
+   4,R,J
+  18,L,U,Z
+   4,R,G
+   9,G
+   2,D,G
+   1,R
+   1,R,J,G
+   1,R,K,G
+   1,R,J,G
+   1,K,G
+   3
+   3,R
+   1,R,J
+   1
+   1,R,J
+   2,R
+  29,R,D,X
+   8,R,J
   40
-
+#lvl_fengchen-08
+   5,R,J
+   5,R
+  11,R,J
+  15,R,D,X
+   5,R,D,C
+  40
 #lvl_fengchen-09
-  11,R,D,X
+  11
    4,R,J
    1,R,K
-  18,U,X
+  17,U,X
+   1,L
    7,L,Z
-   1,L,J
-   5,L
-  15,R,X
+   6,L,J
+  15,R,Z
    4,R,J
-  21,R
-  15,U,X
-   1,L,J,G
-  40,G
-   1,J,G
+   5,R,K
+  15,R
+  15,L,U,Z
+   4,R,J
+  15,R,X
+  14,L,D
+   1,J
    1,L,K,G
-   1,L,J,G
-   2,R,J
-  13,R
+   7,R,K
+   8,R
   17,R,X
-  22,L,G
-   1,L,J,G
-   1,K,G
-   1,L,J,G
-   3,R,J
-  15,R,D,X
-   7,R
-  18,R,D
-  10,R
-   4,R,D
-   4,R
+   4,R,J
+  13,L,C
+   4,R,J
+   1,R,K
+  13,R,X
+   4,R,J
+   1,R,K
+  24,R,D,X
+  16,D
+   8
+   2,D
 
 #lvl_fengchen-10
-   2,J
+   2,L,J
    4
    1,N
    3,J
   10,R,X
    3,R,J
    6,J
-   4,R,J
-  15,R,X
+   1,R,J
+   1,J
+   2,R,J
+  15,R,Z
   15,U,C
   17,L,X
    4,R,G
-   9,J,G
-   3
+  11,J,G
   12,R,X
    4,R,J
   10,R,K
   26,R,D,X
   31,L,D,C
   20,R,X
-  24,U,C
-   8,X
-  25,R,C
-  18,L,G
-   1,J,G
-   1,K,G
-   1,J,G
-  15,R,D,X
-   1,R,J
-   4,J
-   6,R,J
-  14,R,X
-  10,R,J,G
-  40,R
-  20,R,X
-  16,R,Z
-  18,R,U,X
+   5
   15,U,C
-  15,U,X
-   2,L
+  11,U,X
+  15,R,C
+  14,R
+  13,L,C
+   4,R,J
+   3,R,K
+  14,R,X
+   4,R,J
+   3,R,K
+  18,R
+   5,R,D
+   1,R,G
+   3,R,D
+  12,G
+   2,D,G
+   1
+   1,R,J,G
+   1,R,K,G
+   1,R,J,G
+   2,R
+   1,R,K,G
+   1,R,K
+   6
+   1,J
+   1
+   3,R,D
+  23,R,D,J
+  29,R,U,Z
  278
 
 #lvl_fengchen-11
-  11
-  15,U,X
+  14
+  12,U,X
  135
 
-ChapterTime: 0:45.458(2674)
+ChapterTime: 0:41.701(2453)
