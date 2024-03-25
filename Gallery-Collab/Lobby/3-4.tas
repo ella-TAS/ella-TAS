@@ -1,4 +1,4 @@
-RecordCount: 208
+RecordCount: 224
 
 console load ChineseNewYear2024/0-Lobbies/1-Maps 1120 480
    1
@@ -58,10 +58,7 @@ console load ChineseNewYear2024/0-Lobbies/1-Maps 1120 480
   17,U,X
    4,L,K,G
    7,L
-   7,Z
-   1,L,J
-   8,L
-   1,X
-#0:04.896(288)
-
-
+   9,L,Z
+   1,J
+   1,N
+#0:04.794(282)
