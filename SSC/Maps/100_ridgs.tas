@@ -1,4 +1,4 @@
-RecordCount: 1595
+RecordCount: 1701
 
 console load SecretSanta2022/1-Main/alice 
    1
@@ -83,6 +83,8 @@ console load SecretSanta2022/1-Main/alice
    4
    1,R
    1
+
+
    4,D,X
   13,R,X
    5,L,J,G
@@ -116,9 +118,13 @@ console load SecretSanta2022/1-Main/alice
    2,R,J
   22,R,D
   12,R,X
+  
+
   16,R,J
   15,R,X
   19,R,D
+
+#894
   37,R
   12,U,X
    5,R,J
@@ -166,18 +172,33 @@ console load SecretSanta2022/1-Main/alice
   10,L
    2,L,J
    2,L
-   4,D,X
-   4,L,X
-  28,L,J
+   9,L,Z
+  26,L,J
+  
   15,U,X
-   4,R
+
+
+#   4,D,X
+#   4,L,X
+#  28,L,J
+#  15,U,X
+
+#376
+
+   3,L
+   1
   24,R,J
    2,J
    1,R,K
-  14,R,J
+   8,R,J
+   5,R
+   1,R,J
   31,R,U,X
    2,R,J
   26,R
+
+
+
   15,U,X
    9,L
   15,L,X
@@ -192,6 +213,7 @@ console load SecretSanta2022/1-Main/alice
   13,U,C
    6,L,J
   40
+
 
 #lvl_a-06
    8,L,J
@@ -339,4 +361,4 @@ console load SecretSanta2022/1-Main/alice
   15,R,U,X
  135
 
-ChapterTime: 0:52.751(3103)
+ChapterTime: 0:52.734(3102)
