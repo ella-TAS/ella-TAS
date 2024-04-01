@@ -1,7 +1,7 @@
 # CatfishCollab
 # https://gamebanana.com/mods/502777
 
-RecordCount: 1544
+RecordCount: 1635
 
 console load CatCollab/1-LivingRoom/PufferLactose
    1
@@ -257,21 +257,20 @@ console load CatCollab/1-LivingRoom/PufferLactose
   10,L,D,X
   25,L,J
   91,C
-   1
-  15,R,D,X
-   2,R
-   5,R,D
-   1,R,J
-   9,R,D,X
+  15,C
+   3,R
+  14,R,D,X
   40
 
 #lvl_A8
-   4
-  81,C
-   6
-  11,L
-  15,L,D,X
-   8,L,D
+   4,R
+   2,R,D
+   1,R
+   4,D,X
+  20,C
+   9,R
+  15,U,X
+   1
   22,C
    4,R
   15,R,U,X
@@ -281,12 +280,10 @@ console load CatCollab/1-LivingRoom/PufferLactose
   15,R,U,X
    2,R
   12,R,J,G
-   1
-   3,R,K,G
-   1
+   5,R,K,G
   12,L,J
   15,C
-  27,R
+  28,R
   17,C
   25,L
   15,L,U,X
@@ -327,4 +324,4 @@ console load CatCollab/1-LivingRoom/PufferLactose
    1,L,J,G
   21,L,K,G
 
-ChapterTime: 0:53.142(3126)
+ChapterTime: 0:52.071(3063)
