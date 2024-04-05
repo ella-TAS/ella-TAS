@@ -1,0 +1,504 @@
+RecordCount: 1682
+
+console load ChineseNewYear2024/1-Maps/RoCas
+   1
+
+#Start
+
+ 190
+
+#lvl_a-01
+
+  14,R,Z
+   1,R,J
+   7,R
+  15,R,X
+  10,R,Z
+   5,R,J
+  15,R,D,X
+  16,R,J
+  16,R,D,X
+  15,R,D,C
+  14,R,D,X
+   1,R,J
+  15,L,X
+  15,R,C
+  15,L,D,X
+   4,Z
+   1,R,J
+   7,R
+  12,R,J
+  23,R,X
+   4,L,J
+  14,L,X
+   4,R,J
+  14,R,X
+   4,L,J
+  14,L,X
+   4,R,J
+  14,R,X
+   4,L,J
+  13,R,U,X
+   4,L,J
+   1,L,K
+  18,L,D,X
+  13,R,U,C
+   4,L,J
+   1,L,K
+  20,L,Z
+   6,L,J
+  17,L,X
+   4,R,J
+  10,R,X
+   4,L,J
+   4,L,K
+  17,L,U,Z
+   4,R,G
+  10,R,X
+   4,R,J
+  13,R,K
+  44,R,X
+   4,R,J
+  22,R,K
+  15,R,D,X
+   5,R
+   6,R,Z
+   1,R,J
+   7,R
+   1,R,J
+   6,R,U,X
+  40
+
+
+#lvl_a-02
+
+   9
+  14,L,D,X
+   1,R,J
+  14,R,D,X
+   1,R,J
+   2,R
+  15,R,X
+  10,R,Z
+   1,L,J
+   4,L
+   6,L,D,X
+   1,R,J
+   7,R
+  25,R,J
+  12,R,U,X
+   6,L,G
+  10,L,D,X
+   4,L,J
+   3,R,K
+   1,J
+  12,R,X
+   5,L,G
+   1,J
+  16,L,U,X
+   4,R,G
+  18,R,Z
+   7,R,J
+  15,R,X
+  15,L,C
+  11,R,Z
+   1,L,J
+   3,L
+   7,L,D,X
+   1,R,J
+   5,R
+   1,R,J
+   2,R
+   3,J
+   2
+  15,R,D,X
+   9,D
+  15,D,X
+  15,D,C
+  15,D,X
+  15,D,C
+  15,D,X
+  15,D,C
+   2,L,J
+  11,R,J
+  12,R,K,G
+  12,J,G
+   9,K,G
+   1,R,J,G
+  18,R,U,X
+  34,R,C
+   4,R,J
+  18,R,K
+  31,U,X
+  40
+
+
+#lvl_a-03
+
+   3,L
+   1,L,J,G
+   7,L
+#spinnce cycle
+#0-1
+   0
+#------
+  12,L,Z
+   1,R,J
+   2,R
+  14,L,Z
+   1,R,J
+  10,R,Z
+   1,R,J
+   4,J
+  15,U,X
+   1,R,J,G
+   7
+  14,R,Z
+   1,L,J
+  13,L,X
+   1,R,J
+   7,J
+   1,R,J
+   3,R
+  15,U,Z
+   5,R
+StunPause
+  24,R
+   1
+   1,R
+   2
+   1,R
+skipinput,3,1
+  11,U,X
+EndStunPause
+  14,L
+   4
+   1,L,J,G
+   1
+   1,J,G
+   4,L
+   1
+   1,L
+   1,R
+   1,R,J
+  16,U,X
+   1,R,J,G
+   3,L,J
+   4,R,J
+   1,R,K,G
+   2,R,J,G
+   1,K
+  40
+
+
+#lvl_a-04
+
+   1,R,J,G
+   4,R,K,G
+   6,R,J,G
+   7,R,Z
+   2,R,J
+   1,R,K,G
+   9,R
+   2,R,J
+   5,R
+  12,R,D,X
+   1,R,J,G
+   6,R
+   1,R,J
+   4,R
+   6,R,J
+   4,R
+   2,R,J,G
+   2,R
+   2,R,K,G
+   7,R,U,X
+   3,R,J,G
+  13,R
+  40
+
+
+#lvl_a-05
+
+  14,R,D,X
+   1,R,J
+  15,R,X
+  15,R,C
+   4,X
+   6,D
+   1,R,J,G
+   3,L,J
+   1,J
+  14,R,Z
+   1,L,J
+  11,L,C
+   5,R,J
+  15,U,X
+  20,R
+  14,R,Z
+  37,R,J
+  14,U,X
+  27,R,J
+   1,R
+  20,R,X
+   4,L,J
+  10,L,X
+   4,R,G
+   4,J
+  10,R,X
+   4,L,G
+   1,J
+   3
+  10,L,Z
+   4,L,J
+  26,L,K
+  15,R,U,X
+   3,J
+  18,L,U,X
+   4,L,J
+   8,L,K
+  15,L,D,X
+   4,L,J
+   1,L,K
+  15,L,U,X
+   4,L,J
+   4,L,Z
+   6,L,J
+  10,L
+   2
+  13,L,D,X
+   5,R,J
+  14,R,Z
+   1,R,J
+   5,R
+  20,R,U,X
+   4,R,J
+   3,K
+  14,L,U,C
+   4,R,J
+   4,Z
+   1,R,J
+   5,R
+   1,R,J
+   2,R
+  31,R,J
+  19,R,X
+   3,R,J,G
+   7,R
+   4,X
+   2,R,J
+   9,R
+  14,R,X
+   1,R,J
+  14,R,D,X
+   1,R,J
+  12,R,Z
+  40
+
+
+#lvl_a-06
+
+   2
+   1,R,J
+   4,X
+   2,R,J
+   7,R
+   1,R,N
+   2,R,J
+   1,R
+   5,R,Z
+   1,R,J
+   6,R
+  15,R,J
+  10,R,D,X
+   4,L,J
+   4,L,K
+  12,L,U,X
+   6,R,G
+  20,R,X
+   4,R,J
+   4,Z
+   8,R,J
+  10,R
+   1
+   1,R
+  10,R,D,X
+   1,L,J
+   4,L
+   8,L,D,X
+   1,R,J
+   8,R
+  12,R,D,J
+   5,R
+   2,R,J
+  12,R
+   1
+   1,R
+  25,L,U,X
+  15,L,D,C
+  15,L,X
+  19,L,C
+  23,R,D,X
+   1,R,J
+   1,R
+  25,D,C
+  14,R,U,X
+   4,R,J
+  14,R,Z
+   1,L,J
+   7,L,D,X
+   1,R,J
+   7,R
+   1,R,J
+   5,R
+   4,R,J
+   7,R
+  22,R,U,X
+   4,L,G
+  10,L,U,X
+   4,R,J
+   4,R
+  19,D,X
+   9,R,D
+  14,R,Z
+   2,R,J
+   3,R
+   2
+   1,J
+   1
+   1,R
+   2
+  15,U,X
+   5,L
+   7,R
+   4,R,Z
+   1,R,J
+   6,R
+  13,R,J
+   6,J
+  15,U,X
+   5,R
+  36,R,J
+   3,R,K,G
+   1,J
+   7,L
+   7,J
+#spinner cycle
+#0,1j,2
+   0
+#------
+  10,R,Z
+   1,R,J
+   5,R,K,G
+   2,R
+   1
+  15,R,D,X
+   1,R,J
+   5,R,D,X
+  40
+
+
+#lvl_a-07
+
+   1
+   1,D
+   4,R,D
+   4,R,J
+  15,R,D,X
+   5,R,D,J
+   1,R
+   5,R,D,X
+   5,R,J,G
+   6,R
+   1,R,J
+  40
+
+#lvl_a-08
+
+   4,R
+   5,R,J
+   9,R
+   1,R,J
+  11,R
+   1
+  17,R,Z
+   6,D
+   1,R,D
+  10,D
+   9,R,D
+   2,D
+   2,R,D
+   1,D
+   1,R,D
+   1,D
+   1,R,D
+   1,D
+   7,R,D
+StunPause
+   6,R
+   8,L
+SkipInput,3,1
+   4,Z
+   2,R,J
+   4,R
+   1,R,J
+EndStunPause
+  19,R,J
+   1,R
+  16,R,U,X
+  12,R,J,G
+   9,K,G
+   1,J
+   5,L,J
+   1,J
+   1,L,J
+   4
+  15,R,U,X
+  15,R,D,C
+   2,D
+   7,L,Z
+   1,R,J
+   6,R
+   4,R,J
+  12,J
+  10,R,X
+   1,L,J
+   5,J
+   1
+  24,R,U,X
+   8
+   1,R,J,G
+   5,R
+   2,L
+   9,L,J
+   4,J
+  15,U,X
+   2,R
+  13,L,J
+   2,R,J
+   2,R
+   1
+   1,L,J,G
+   3,R,J
+   5,R
+   1,R,J
+   2,R
+  10,R,Z
+   1,R,J
+   5,R,K,G
+  11,R,J,G
+  15,R,D,X
+   7,R,J
+   2,R
+  11,R,D,X
+  40
+
+
+#lvl_a-09
+
+   4
+  10,R,J
+  15,R,U,X
+ 135
+
+ChapterTime: 0:58.871(3463)
