@@ -20,18 +20,17 @@ console load ChineseNewYear2024/0-Lobbies/1-Maps 1736 696
    4,Z
    1,R,J
   27,R,D
-   6,R,J
-   6,Z
+   5,R,D,X
    1,R,J
-   8,R
-   2,R,J
+   1,R,K,G
+   1,R
+   1,R,J,G
+   2,R,K,G
+   1,R,J,G
+  12,R
+   1,R,J
   28,R,D,X
-   1,R,J
-  14,R
-   5,R,J
+   7,R,K
    7,R
    1,N
-#0:02.601(153)
-
-
-   
+#0:02.414(142)  
