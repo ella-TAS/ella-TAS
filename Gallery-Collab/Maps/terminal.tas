@@ -478,7 +478,7 @@ endrepeat
    7
    4,R,J
   14,R,D,X
-   1,L,J
+   1,R,J
   15,L,D,X
   24
   14,L,D,X
@@ -629,23 +629,16 @@ endstunpause
   44,R,G
    1,G
    1,R,J,G
-   7,J,G
-  43
+   7,R,G
+  40,G
 #lvl_StarMADWMY_08
-   3,G
-   3,G
+
+  10,R,G
+   6,R,J,G
+   5,L,G
+   3,R,G
+  10,U,X
    1,R,G
    1,G
-   1,J,G
-  11,R,G
-   4,R,J,G
-   1,R,J
-   5,U,X
-   5
-  10,U,X,G
-  97
- 135
- 100
-
-
-ChapterTime: 1:32.667(5451)
+ 168
+ChapterTime: 1:32.531(5443)
