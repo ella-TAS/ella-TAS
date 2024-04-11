@@ -3,16 +3,15 @@ console load ChineseNewYear2024/1-Maps/StarSapphireMADWMY
 
 #Start
  190
-
 #lvl_StarMADWMY_00
   10,L,X
   13,R,J
    7,R,K,G
   21,R,D
-   4,D
+   5
   15,R,X
-   2
-   6,L,J
+   5,L,J
+   1
   15,U,X
    4,L
    8,L,X
@@ -37,56 +36,57 @@ console load ChineseNewYear2024/1-Maps/StarSapphireMADWMY
   35,R,D
   41,R,X
    4,R,J
-   4,R,K
-   2,R
-  21,R,D,X
-   2,J
+   6,R,K
+  15,R,D,X
+   6,R
+   2,R,J
    5,R,C
   40,R,G
    4,L,G
    8,L,J,G
-   1,R
-   3,L,J,G
-   1,K
-   1,L,J,G
-   1,R
+   1,R,J
+   2,L,K,G
+   1,J
+   1,L,K,G
+   1,R,K
   14,R,Z
    1,R,J
   34,R,J,G
-  17,R,G
+  18,R,G
    1,R
   13,R,X
-   1,R,J,G
-   9,R
-   1,R,J
-   7,R,D,X
+   2,J,G
+   7,R
+   6,L,Z
    1,R,J
    7,R
    1,R,J
-   4,R,K,G
-   6,R,D,X
-   1,R,J
-   7,R
+   5,R,D,X
+  13,R,G
+   2,R,J,G
+   8,R,G
+   5,R,J,G
   43
 #lvl_StarMADWMY_01
-   2,R,J
-   2,R
-   3
-   2,J
-   9
-   1,R
-  39,L,G
-  36,L
-  14,L,Z
+   5,R,J,G
+   5,R,G
+   2,J,G
+  17,D,G
+   1,G
+  13,L,D,G
+  28,L
+   4,L,D
+  11,L,Z
    1,R,J
-  10,R,U,X
-  33,R,G
+   3,R
+   6,R,U,X
+  34,R,G
    1,R
   14,U,X
    2,L
    1,J,G
-   1,L,J
-   8,J
+   2,L,J
+   7,J
    1,L,J
    1,R
    7,L,K,G
@@ -95,198 +95,182 @@ console load ChineseNewYear2024/1-Maps/StarSapphireMADWMY
    1,R,K,G
   13,R
    5
-  11,R,J
-   5,R
-   1,R,J
-   1,R,K,G
-  19,R
-  18,R,Z
-   4,L,G
-  12,L,J,G
-   7,L,K,G
-  18,U,X
-   7,L
-  60,L,X
-   2,J,G
-   2,R
-   1,J
-  17,R,J
-  15,R
-  14,D
-   5,R,X
-  32,R,G
-   4,R,J,G
-   8,R,K,G
-   5,R,G
-   2,R,J,G
-   5,R,G
-   1,R
-  25,L
-  21,L,X
-   1,J
-   5,L,J
-   5,L
-   1,L,J
-   1,L
-   2,L,J
-   6,L
+  12,R,J
+  16,R,D
+  17,D
    2
-   2,L
-   1
-  26,G
-   1
+   5,R,X
+  32,G
+   4,L,J
+   1,R,J
+   2,L,J
+   4,R,X
+  12,R,J
+  24,R,J,G
+   2,J,G
+   1,R
+  25,L,D
+  14,L,X
+   1,J
+   7,L,J
+  18,L
+  16,D,G
+   7,G
    1,J,G
-   4,K,G
-   7,R,D,J,X
-  14,R,J,G
-  13,R,G
-   1,R,J,G
-   1,R,G
+   1,K,G
+   1,L,J,G
+   3,R,J,G
+   3,R
+  16,R,G
+   2,R,J,G
+   8,R,G
+   2,R,J,G
+   9,R,G
+   3,R,J,G
   40
 #lvl_StarMADWMY_02
-   4,R,G
-   1,R
-   5,J,G
-   1,L,J
-   6,J
-  11,U,X
-  13,G
-  10,L,G
-  32,R,G
+  10,R,J,G
+   1,R,J
+   5,R
+   2,R,J
+  14,U,X
+  16,G
+  34,R,G
    1,R
   14,L,D,X
-   1,J
-   7,R
-  32
-  14,R,D,X
-  16,R,J
-  14,R,D,X
-  25,R,J
-   1,J
-  18,U,X
-  26,L,J
-   7,L
-  15,R,X
-  17,R,D
-  14,R,X
-   6,R,J
-   8,R
-  21,R,G
-   1,R
-  11,D
-  11,L,D
-  20,L,X
-   1,L,G
-   4,R
-   6,L
-   3
-   1,L,G
-   1
-  17,G
-   1
-   1,K
    1,J,G
-   2
-   9,R
-  34,R,X
-   4,R,J
-   4,R,K
-   5,R
-  21,R,G
-   1,R
-   7,R,D
-  13,R,U,X
-   1,R,J,G
-  12,R,J
-   7,R,U,X
-  25,R,G
-   2,R
-  30,R,U,X,G
-   1,R
-  20,U,X
-  12,R
-  17,R,X
-   3
+  20,R,D
+  23,R,Z
+  22
+   1,D,J
    3,R
-   9
-repeat 23
-   1,D
-   1
-endrepeat
-   1,J
-   8
-   2,J
-   5
-   4,R,Z
-   1,R,J
-   6,R
-   3,R,J
-   8,R,K,G
-   4,R
-   6,R,D,X
-   1,R,J,G
-  11,R
-   1,R,J
+   2,L,K,G
+   2
+   6,J,G
+   2
    1,R
+   6,J
+   1,R
+   1
+   3,R,D
+   2,D
+   2,J
+   1,L,K,G
+   1,R,K
+   3
+   2,R
+   5,R,J
+   3,J
+  16,D
+   6,J,G
+   3,R,J
+   4,L
+   2
+   1,J
+   1
+  24,G
+   1,D,G
+   1,D
+   1,L,G
+   8,R,Z
+   1,L
+   1,J,G
+   9
+   2,R
+   2
+   1,R
+  15,L,D
+  15,R,D,X
+   6,D
+   1,R,D
+   5,D
+   2
+   1,R
+  13,R,J
+   2,R
+   6,R,Z
+   2,R,J,G
+   1,R,K,G
+  20,R,D,K
+  21,R,K,G
+   1,R,D
+  14,U,X
+  21,R,G
+   1,R,D
+   8,U,X
+  28,R,G
+   5,R
+  30,R,X
+   1,R,D
+   6,R,Z
+   1,R,J
+   7,R
+   1,R,J
+  12,R,U,X
+  11,R,K,G
   40
 #lvl_StarMADWMY_03
-   1,R
-  14,R,D,X
-  35,R,D,G
+   5,R,K
+  16,R,D,X
+   1,R,J
+   5,R,D,X
+  17,R,G
+  15,R,D,G
    1,D
-  31,D,X
-   4,R,D
-   3,D
-  25
+   9,D,X
+  29,R,G
+  10,D
+  18
    5,L,Z
    1,R,J
+  13,G
+   5,R,J,G
   13,R,G
-   3,R,J,G
-  13,R,G
-  17,R,J,G
-   1,R
-  15,U,Z
-   6,R
-   1
-   1,R
-   1,J,G
-  15,L,J
-  10,R,K,G
-   5
+   4,R,J,G
+   6,J,G
+   1,J
+  16,R,U,Z
    1,R,J,G
-   7
-  31,R,Z
-  15,D,X
-  12,D
-   5,D,X
-  56
+   1,L,J
+   1,R,J
+   3,J
+   1,K,G
+   1,L,K
+   1,R,K
+   1,J,G
+  11,L,J
+   1,R,K,G
+   3,L
+  22,R,D
+  17,R,Z
+   4,R,J
+   1,R,K
+   5,R
+   2
+  18,D,X
+   2,L
+  55
   13,J
   10,L,J
    8,L,X
   11,R,J
   32,R,D
-   4,R
+   2,R
    2,R,D
+   2,R
    8,R,X
   32,R,G
    4,L,G
-  13,D,X
-   1,J
-   3,R
-   2
-   1,J
-   8
-   3,L
-   1
-   1,L
-   6,L,Z
-   1,R,J
-   1,R,K,G
-  27,R,G
+  20,D,G
+  14,R,D,X
+   3,R,J,G
+   9,R,G
   10,R,J,G
-  18,R,G
+   5,R,G
+   1,R,J,G
+  12,R,G
    1,R
-   8,R,U,X
+  12,R,U,X,G
   25,R,G
    6,R,J
    3,J
@@ -301,79 +285,42 @@ endrepeat
   40
 #lvl_StarMADWMY_04
    7,R,G
-   1,J,G
+   2,L,J,G
+  23,L,D,G
+   3,R,D,G
+   3,D,G
+   2,G
    1,R,G
-   8,G
    1,R
-  11,L,D
-   1,R,D
-  10,D
    2
   10,L,X
-  24,R,J
-  16,U,X
-   1,L,J
-   5,R,J
-  12,L,J
-   1,K
-   3,J,G
-  13,R,J
-   1,R,K,G
-   9,K
-   1,L,K
-   1,R,K
-   1,J
-   3,K,G
-  14,L,K
-   1,J
-   1,K
-   7,L,K
-   5,L
-   1,L,K
-  21,L,D
-   5,D
-   4,R
-  11,L,J,G
-   1
-   1,L,K,G
-   1,K
-   1
-   1,J
-   3,K,G
-   6,R,K
-  18,R
-  10,R,D
-   9,D
+  14,R,J
+  13,R,G
+   6,R
+   1,R,J
+   9,R
+  37,R,Z
    6,R,D
-   4,R
-   2,R,D
-   6,R,X
-  30,R,G
-   7,R,J,G
-   1,J,G
-   1,R,K,G
-   1,K,G
-   1,R,K,G
-  13,K,G
-   3,R
-   8,D
+   1,R
    1,R,D
-   1,D
-  22,R,D
+   1,R,J
+  19,R,K
+   9,J,G
+   1,L,J
+   1,K
+   1,J
+   5,R,X
+   6,R,J,G
+   8,R
    2,R,J,G
    5,R
    2,R,J
-  12,R
+  13,R
+  21,R,D,X
+   1,L,J
+  31,R,D
+   4,D
    2,R,D
-   1,R
-   1,R,J,G
-   1,R,K,G
-  21,R,D
-  14,R,X
-   1,J
-  13,L
-  25,R,D
-   5,D
    1,J
   11,R
   53,L,D
@@ -397,28 +344,32 @@ endrepeat
    1
    1,R
    4
-   2,R
-   1,L
    1,R
-   1,L
-   2
-  38,G
-   4,D,G
-   4,G
-   2,D,G
-  26,G
-   1,K,G
-   5
-   1,J,G
-   1,L,K,G
-   5,R,K
-  37,R,K,G
-   4,J,G
-   2,L,J,G
+  11,R,D
+   4,D
+   5,U,X
+   1,R,J
+  35,G
+   6,J,G
+  16,G
    4,J,G
    5,G
-   5,J,G
-  22,G
+  15,J,G
+   4,K,G
+   8,G
+   1,G
+   1,R,J,G
+  13,R,G
+   1,G
+   1,R,G
+   7,R,J,G
+   5,R,G
+   3,R,K,G
+   2,J,G
+   2,G
+   2,L,G
+   6,J,G
+  17,G
    4,L,G
    6,G
   12,R,G
@@ -427,145 +378,169 @@ endrepeat
   14,R,U,C
   17,R,G
    1,J,G
-   1,K,G
-   1,R,K,G
-   3,R,G
-   7,R
+   5,R,G
+   1,R
   17,D
-   5,L,D
-  18,L
+   8,R,D
+   8,L
+   3
+   1,L
+   1
+   8,L,U,X
+  12,L,J,G
+   5,K,G
+   5
+   2,K
+   5
+  10,R
+   5,L,G
+   4
    1,J
-  31,R,J
-   3,R,K,G
-  14,R,Z
-   1,R,J
-   5,R,D,X
-  13,R,G
-   6,R,J,G
-   7,R,G
+   1,K,G
    1,R,J,G
-   6,R,G
+   8,R,U,Z
+  21,R,G
   40
+
 #lvl_StarMADWMY_05
-  12,R,G
-   3,R,J,G
+   6,R,G
   29,R,U,X
    1,J,G
-   7,R,J
-   5,R
-   1,R,J
-  10,R
-   8,D
-   8,L,D
-  10,R,D,X
-   6,R,J
-  15,R,K,G
-   6,R,G
+   8,R,J,G
+  18,R,D,G
    1,R
+   6,D
+   5,L,D
+   2,D
+  14,R,D,X
+   4,R,J
   14,R,U,X
-  21,R,G
-   1,R
-  18,R,D
-   5,R,J
-   2,R
-   7,R,Z
+  28,R,G
+   1,L
+   4,R
    1,R,J
-   6,R
-   1,R,J
-   7,R,D,X
+  12,R,D,X
   40
 #lvl_StarMADWMY_06
-   7
-   4,R,J
+   2
+   1,R,J
   14,R,D,X
    1,R,J
-  15,L,D,X
-  24
-  14,L,D,X
-   1,R,J
   10,R,D,X
-  19,R,G
-   1,R,J,G
-  68,R,U,X
-   1,J,G
-   1,R
-  15,L,X
-  12,L,J
-   4,K,G
-  22,J,G
-  15,D
-stunpause
-   1,D
-skipinput,3,1
-   5,L,X
-   1,L,J,G
-   1,L,K,G
-  16,D
-endstunpause
-stunpause
-   1,L,D
-skipinput,3,0
-   5,D
-   1,L,D
-   1,D
-   1,L,D
-skipinput,3,3
-   7,D
-   4,R,D
-   4,L,D
-   1,D
-  12,G
-endstunpause
-   1,G
-   1,S,N
+  13,G
    3
-  10,O
-   2,G
-stunpause
-   3,D,G
-   2,G
-   1,D,G
-   1,G
-   3
+   6,D
+  33,X
+   6,R,Z
+   5,R,J
    1,R
-endstunpause
-   2
+   4,R,J
+   1,K,G
+   1,R
+   1
+   1,R
+   1
+   1,R
+   1
+   1,R
    1,L
+   9,L,J
+   5,L
+   1,L,J
+   3,L
+  24,L,U,Z
+   5,L,J
+   5,L
+   2,L,J
+  13,L
+   3,L,D
+  25,D
+  21,X
+   1,R,J,G
+   2,R
+   3
+  25,L
+   2,L,D
+   9,R,D
+   3,L
+   5,L,Z
+   1,L,K,G
+  19,L,D
+  31,D,X
+   5,R,D
+   1,R
+   1,R,D
+   4,R,X
+  13,R,J
+   1,J
+   1,R,J
+   2,J
+  14,U,X
+   1,L,J
+   1,L,K,G
+  15,R,D,X
+   3,R,J
+   6,R
+   6,R,J
+   3,R
+  15,R,Z
+  35,L,D
+  10,L,D,X
+  17,R,J
+  15,R,X
+   1,J
+  13,R,J
+  15,R
+   3
+   8,G
+   7,D,G
    1,J,G
    1,K,G
-   4
-  18,R,G
-  10,R,K,G
-  11,R,J,G
-   1,R,G
-   4,R,G
-  13,R,J,G
-   1,R
-  58,L,U,Z
-   4,R,J
-   5,R,X
-  10,R,J
-   2,R
-   1,R,K,G
-   1,L,K
-   1,L
-   6,R
-  10,R,J
-  15,U,X
-  40
-#lvl_StarMADWMY_07
-   8,R
-   6,R,J,G
+   1,J,G
+  15,L,D,X
+   1,L,J
+   8,L
+   3,L,J
+   8,L
    1
+  10,L,U,Z
+   1,L,J,G
+   1,R
+   7,L
+   1
+   2,J
+   1
+   1,L
+  11,L,Z
+   6,R,J
+   2,L,J
+  18,L,K,G
+  44,X
+   8,U,C
+  33,G
+   5,R
+   8,R,D,X
+   1,R,J
+   7,R
+  13,R,J
+  14,U,Z
+  11,R,J
+  40
+
+#lvl_StarMADWMY_07
+  16,R
+   1,R,J,G
    5,R,Z
    1,R,J
-   7,R
-   7,R,J
+   5,R
+   2,R,K
+   5,R,J
+   2,R
   10,R,Z
    1,R,J
-   7,R
+   6,R
    1,R,J
-   8,R,D,X
+   9,R,D,X
   17,R,K,G
    8,R,J,G
    1,L
@@ -576,32 +551,28 @@ endstunpause
   11,R,Z
   24,G
   48,R,D,X
-  17,L,Z
+  11,L,Z
+  14,R,J,G
    1,R,J
-   1,D
-   2
-   1,J
-   4
-  12,L,Z
-   1,R,J
-  13,R,G
-  15,R,J,G
+  19,R,D
+   2,R
+   1,R,D
+  17,R,J
+   1,K
+   1
+   5,R,X
+  26,R,G
+   4,R,J,G
+   1,R,K,G
+   3,R,G
+   6,R
+   8,R,U,Z
+  21,R,G
    1,R
-  15,R,D,X
-  13,R
-  15,U,Z
-   3,L,J
-  11,R,J
-  10,R,X
-   2,R,J,G
-  15,R,J,G
-   5,R,G
-  21,R,J,G
-  16,R,U,X
-  14,R,C
-  33,R,G
+  12,R,U,X
+  45,R,G
    1,R
-  15,U,X
+  14,U,X
   50,R,U,C
    1,J
    9,L,J
@@ -628,17 +599,21 @@ endstunpause
    1,R,J,G
   44,R,G
    1,G
-   1,R,J,G
-   7,R,G
-  40,G
-#lvl_StarMADWMY_08
+   8,R,J,G
+  43
 
-  10,R,G
-   6,R,J,G
-   5,L,G
-   3,R,G
+#lvl_StarMADWMY_08
+  12,R,J,G
+   2,R,G
+   1,R,J,G
+   4,R,G
+   1,R
+   3,L
   10,U,X
-   1,R,G
-   1,G
- 168
-ChapterTime: 1:32.531(5443)
+  13,G
+   7,L,G
+   3,G
+   1,L,G
+   5,L
+ 135
+ChapterTime: 1:19.390(4670)
