@@ -1,15 +1,10 @@
-# CatfishCollab
-# https://gamebanana.com/mods/502777
-
-RecordCount: 879
+RecordCount: 1041
 
 console load CatCollab/1-LivingRoom/Kitty_Jail
    1
 
 #Start
  190
-
-#lvl_Paul-Intro
    6,R,Z
    1,R,J
    7,R
@@ -28,17 +23,15 @@ console load CatCollab/1-LivingRoom/Kitty_Jail
    4,L,J
   12,L,K
   10,L,X
-  11,R,J
-  11,R
-   2,R,K,G
-   4,R
-   3,R,J,G
+   7,R,J
+  14,R
+  11,R,U,X
+   4,R,J
+   1,R,K
    2,R
-  37,R,K,G
-   3,R,J,G
-   9,R
-  26,D,X
-
+  31,R,J,G
+   3
+  25,D,X
   10,R,D,C
    1,R,J
    5
@@ -61,7 +54,6 @@ console load CatCollab/1-LivingRoom/Kitty_Jail
    7,R
   13,R,J
   11,R,X
-
    3,R,J
    1,K
    8,L,K
@@ -69,18 +61,17 @@ console load CatCollab/1-LivingRoom/Kitty_Jail
    1,J,G
    1,L,J
    7,R,K,G
-  25,R,Z
-   1,R,J
-  13,R,D
-   3,R
+  24,R,Z
+   3,R,J
+  15,R,D
   10,R,J,G
-   1,R
-  24,R,J
-   1,R,K
-  14,R,D
-  13,R,X
-  18,R,J,G
-  10,R
+   7,R
+  15,R,J
+   6,R,D
+  14,R,Z
+   4,R,J,G
+  11,R,K,G
+  14,R
    6,R,Z
    1,R,J
    7,R
@@ -91,7 +82,6 @@ console load CatCollab/1-LivingRoom/Kitty_Jail
   40
 
 #lvl_Paul-3
-
    6,R
   12,R,J
   22,R,X
@@ -106,24 +96,20 @@ console load CatCollab/1-LivingRoom/Kitty_Jail
   15,L,J,G
   30,R,U,X
    8,R,J
-
    9,R,K
   18,U,X
   16,J
    2,L,J
   15,U,X
    8,L,J
-  13,L,K,G
-  24,L,D,X
-   4,L,J
-   9,L,K
-
-  37,U,X
-   5,R
-  12,R,X
+   2,L,K,G
+  28,L,Z
+  10,L,D,J
+  28,U,X
+   4,R
+  13,R,X
    4,R,J
-   2,R,K
-   3,R
+   5,R,K
    7,R,J,G
    3,R,K,G
    7,R,D,Z
@@ -146,22 +132,19 @@ console load CatCollab/1-LivingRoom/Kitty_Jail
   10,L,Z
   17,R,J
   31,R,U,X
-
-#This can probably be optimised
    4,R,J
-   1,L,K
-   5,R,K
-  18,R,X
+   5,R,Z
+   5,R,J
+   1,R,K,G
+   8,R
   15,D,C
   18,L,U,X
   23,R,D,C
-
    4,R,Z
    1,R,J
   12,R,D
   20,R,J
   13,U,X
-
    3,J
   11,R,J
    1,R,K,G
@@ -185,8 +168,7 @@ console load CatCollab/1-LivingRoom/Kitty_Jail
    8,R,J
    7,R,K,G
    1,L,J,G
-   1,J
-   7,J
+   8,J
   17,R,K,G
    7,J,G
    5,L,J
@@ -208,36 +190,31 @@ console load CatCollab/1-LivingRoom/Kitty_Jail
   12,R,D
   12,D
    1,R,D
-   7,L,D
-   5,L
-   9,L,J,G
-  17,L,K,G
-   6,J,G
-
-  13,L,K,G
-  12,L,X
-   1,L,J
-   4,L,D
-  22,L,Z
-   4,L,J
+   6,L,D
+   3,L
+   2,D
+   1
+   1,J,G
+   6,K,G
    6,L,K
-   1,L
-   3,L,K
-   1,R,J,G
+  14,L,U,X
+  12,L,K,G
+   7,L
+  27,L,Z
    4,L,J
-  16,L
-  16,U,X
-  18,D
-  14,D
-  17,R,D
-   1,D
-  33,R,X
-  19,R,C
+   9,L,K
+  14,L
+  15,U,Z
+   1,L
+   1,J
+  22,D
+  28,R,D
+  22,R,X
+  29,R,C
    4,L,G
-   3,D
-   2,R,D
-  15,R,Z
-   4,R
+   2
+   7,R,D
+  18,R,Z
   16,D,X
    2,R,D
   10,R,C
@@ -304,5 +281,4 @@ console load CatCollab/1-LivingRoom/Kitty_Jail
   10,R,J
  152,R,U,X
 
-ChapterTime: 0:42.058(2474)
-
+ChapterTime: 0:40.936(2408)
