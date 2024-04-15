@@ -1,4 +1,4 @@
-RecordCount: 1041
+RecordCount: 1042
 
 console load CatCollab/1-LivingRoom/Kitty_Jail
    1
@@ -171,18 +171,10 @@ console load CatCollab/1-LivingRoom/Kitty_Jail
    8,J
   17,R,K,G
    7,J,G
-   5,L,J
-   2,K,G
-   1,R,K
-   1,L,K
-   1,J,G
-   5,R,J
-   5,J
-   1
-  31,R,X
-  20,D,C
-   6,R,D
-  25,U,X
+  22,R,U,X
+  24,R,C
+  26,D,X
+  25,U,C
    8,R
   26,R,X
    4,R,J
@@ -281,4 +273,4 @@ console load CatCollab/1-LivingRoom/Kitty_Jail
   10,R,J
  152,R,U,X
 
-ChapterTime: 0:40.936(2408)
+ChapterTime: 0:40.732(2396)
