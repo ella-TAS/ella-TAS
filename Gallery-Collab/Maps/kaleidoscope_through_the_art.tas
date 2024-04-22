@@ -1,4 +1,4 @@
-RecordCount: 15733
+RecordCount: 16996
 
 console load ChineseNewYear2024/1-Maps/ZZ-HeartSide
    1
@@ -173,7 +173,6 @@ console load ChineseNewYear2024/1-Maps/ZZ-HeartSide
    5,R
   40
 #lvl_GCHeartSide_a2
-
    9,R
    1,R,J
   24,R,X
@@ -305,27 +304,35 @@ console load ChineseNewYear2024/1-Maps/ZZ-HeartSide
    2,R
    6,R,J
   17,R,D,X
-   2,L,D
+   2,L
    1,N
    1,L,J
    2,J
-  14,L,K
-   8,L,Z
-   1,L,J
-   6
-  15,R,J
+  13,L,K
+  11,X
+   6,L,J
+   2,R,J
+   1,K,G
+   1,L,K
+   6,R,K
   18,U,X
-   4,R
+   1,R
   15,R,U,C
-  30
-   5,R
-   6,R,J
-   3,J
+   4
+  21
+   3,R
+   4
+   3,R
+   9,R,J
   25,R,K
    3,R
    6,U,G
-   4,J,G
-  12
+   3,J,G
+   5
+   2,J
+   3
+   1,J
+   1
    3,G
    1,L,J
   25,L,K
@@ -333,11 +340,13 @@ console load ChineseNewYear2024/1-Maps/ZZ-HeartSide
    1,L,K
   10,R
    1,R,J
-  18,R,K
+  19,R,K
   31,R,X
   30
-   5,R,D
-  20,R,J
+   3,D
+   2,R,D
+  17,R,J
+   3,J
   11,K,G
    1,L,K
    1,R,J,G
@@ -588,6 +597,7 @@ console load ChineseNewYear2024/1-Maps/ZZ-HeartSide
   14,R,D,X
    1,R,J
    5,R,D,X
+#1:22.263(4839)
   43
 #lvl_GCHeartSide_a5
    5,R
@@ -829,6 +839,7 @@ console load ChineseNewYear2024/1-Maps/ZZ-HeartSide
    1,R,J
   45,R
  295
+
 #lvl_GCHeartSide_b2
    1,R
   10,R,D,X
@@ -1012,38 +1023,11 @@ console load ChineseNewYear2024/1-Maps/ZZ-HeartSide
    4,R,J
   15,R,D,X
 #main route
-#  19,R
-#   1,R,D
-#   4,D
-#   1,R,D
-#   1,D
-#  15,L
-#  20,L,X
-#   1,J
-#  25,L
-#   8,G
-#   1,U,G
-#   3,G
-#   1,U,G
-#  10,G
-#   6,L
-#   1,J
-#   1,K,G
-#   6,R,D,X
-#   1,R,J,G
-#  11,R
-#   1,R,J
-#  19,R
-#  17,D,X
-#  12,L,D
-#   9,L,X
-#------
-#if spinner cycle of main route is 2, choose second route
-#second route (+1f)
-  20,R
-   4
-   1,R
-   1
+  19,R
+   1,R,D
+   4,D
+   1,R,D
+   1,D
   15,L
   20,L,X
    1,J
@@ -1058,16 +1042,43 @@ console load ChineseNewYear2024/1-Maps/ZZ-HeartSide
    1,K,G
    6,R,D,X
    1,R,J,G
-   6,R
+  11,R
    1,R,J
-   5,R
-   1,R,J
-   5,R
-  13
+  19,R
   17,D,X
-   6,L,D
-   7,L
+  12,L,D
    9,L,X
+#------
+#if spinner cycle of main route is 2, choose second route
+#second route (+1f)
+#  20,R
+#   4
+#   1,R
+#   1
+#  15,L
+#  20,L,X
+#   1,J
+#  25,L
+#   8,G
+#   1,U,G
+#   3,G
+#   1,U,G
+#  10,G
+#   6,L
+#   1,J
+#   1,K,G
+#   6,R,D,X
+#   1,R,J,G
+#   6,R
+#   1,R,J
+#   5,R
+#   1,R,J
+#   5,R
+#  13
+#  17,D,X
+#   6,L,D
+#   7,L
+#   9,L,X
 #------
    1,J
    8,R
@@ -1102,7 +1113,6 @@ console load ChineseNewYear2024/1-Maps/ZZ-HeartSide
   40
 
 #lvl_GCHeartSide_b4
-
    1,R,J
   15,R,D,X
    1,R,J
@@ -1266,6 +1276,7 @@ console load ChineseNewYear2024/1-Maps/ZZ-HeartSide
    1,R,J
   11,R,D,X
   40
+
 #lvl_GCHeartSide_b5
    4,R,J
   16,R,D,X
@@ -1285,66 +1296,53 @@ console load ChineseNewYear2024/1-Maps/ZZ-HeartSide
   16,R
    2,R
    2,L,X
- 316,R,X
-   1,R,G
-  33,R,D,X
-  12,R,J
+ 362,R,X
+   1,R,J,G
   15,R,D,X
   12,R,J
   15,R,D,X
-   1,R,J
-  14,R
    8,R,J
-   2,R
-  16,R,D,X
-   9,R,J
-  16,R,D,X
+   5,R
+  17,R,D,X
+   7,R,J
+  15,R,D,X
   12,R,J
   15,R,D,X
-   9,R,D,J
-  16,R,D,X
+   6,R,J
+   1,J
+  15,R,D,X
    1,R,J
-  14,R
-   1,R,J
+   1,J
+   3,R,J
    7,R
-   2,R,J
-   7,R
+   3,R,J
+   9,R
   14,R,U,X
-   1,J,G
-   6,R
-   3,R
-   8,R,J
-  16,R,D,X
-  12,R,J
+   1,R,K,G
+  10,R
+   7,R,J
   15,R,D,X
-   7,R,D,J
-  14,R,U,Z
-   4,R,J,G
-   1
-  12,R
-   4,R,J
-   2,R
-  16,R,D,X
+   7,R,J
+  16,R
+  14,R,U,X
+   1,R,J,G
+  10,R
+   6,R,J
    1,R
-   1,R,J
-   4,R
   15,R,D,X
-   1,R,J
-  11,R,U,X
-   5,R,J,G
-  14,R
+   3,R,J
+  15,R,D,X
+  12,R,J
+  18,R,D,X
+   3,R,J
   40
+
 #lvl_GCHeartSide_c0
-
-  15,R,D,X
-   1,R,J
-   3,R
-  10,R,D,X
+   6,R,J
+  13,R
   40
-
 #lvl_GCHeartSide_c1
-   5
-   2,R,J
+   8,R
   15,U,X
    2,R
   14,R,Z
@@ -1454,6 +1452,8 @@ console load ChineseNewYear2024/1-Maps/ZZ-HeartSide
    5,R
    1,R,J
   49,L,D
+#3:36.325(12725)
+
    1,L,J
   20,L,D
   29,R,D
@@ -1464,37 +1464,30 @@ console load ChineseNewYear2024/1-Maps/ZZ-HeartSide
   12,R
    4,Z
    1,R,J
-   3,R
-   1,R,J
-   3,R
-   3,R,J
-  21,R,D,X
-   5,R,J
-  10,K,G
-   7,R,K
-  18,R,U,X
-   4,Z
-  11,L,J
-   2,L
-  18,L,K,G
-   7,L,J
-   1,L
-   3,L,K,G
-   4,L
-   1,J,G
-   4,L,J
-   7,R,J
-   4,R,Z
+   8,R
+  17,R,D
+   2,R,J
+   9,R
+   7,R,J,G
+   1,J
+   6
+  15,U,C
+   5,L,Z
+   2,L,J
+  21,L,K,G
+  15,L,J,G
+   1,K,G
+   1,R,K
+   5,K
+   6,R,Z
    1,R,J
    9,R,K
    2,R,J,G
-  10,R,K,G
-   3,R,J
-   5,R
-   9,R,J
+   7,R,K,G
+  17,R
+   5,R,J
    1,R
   15,U,X
-   1,R
    7,R,Z
    1,R,J
    6,R
@@ -2200,7 +2193,6 @@ console load ChineseNewYear2024/1-Maps/ZZ-HeartSide
   40
 
 #lvl_GCHeartSide_d2
-
    1
    1,R,J
   11,R,D,X
@@ -2507,47 +2499,72 @@ console load ChineseNewYear2024/1-Maps/ZZ-HeartSide
   21,R
   14,R,U,X
    1,R,J,G
-   7
+   6
+   1,R
   16,U,G
-   1
    7,J,G
-  17,K,G
-  15,L,U,X
-   7,L
-   2,R
+   1
+   7,K,G
+   3,L,K
+   1,K
+   1,L,K
+   6,K
+   1,L,K
+  15,L,U,Z
+   6
   15,U,C
-  10,R
-  12,R,Z
+   3,J,G
+   4,L,J
+   4,L
+   1
+   2,L
+  13,L,Z
    1,R,J
    6,R
-   1,R,J
-  11,R,U,X
-   1,R,J,G
-   1,R,K,G
-  13,R
-   1,R,J
-  14,R,D,X
-   1,R,J
-  14,R,D,X
-   1,R,J
-  14,R,D,X
-   1,R,J
-  14,R,D,X
-   1,R,J
-  14,R,D,X
-   1,R,J
-  12,R,D,X
-   1,R,J
-   8,R
-  15,R,J
+   2,R,J
   15,R,D,X
+   8,R,D,J
+   2,R
+   1,R,K,G
+   6,R,J,G
+   5,R
+   6,R,D,X
+   1,R,J,G
+   7,R,K,G
+   6,R
+   1,R,J
+   2,R
+   1,R,J
+   1,R
+   7,R,D,X
    1,R,J,G
    1,R,K,G
-  11,R
+   3
+   2,R
    1,R,J
-  44,R,D
-   4,D
- 154,R,X
+   7,R
+   3,R,J
+  15,R,D,X
+   2,R,J
+   6,R
+   1,R,J
+   1,R
+   2,R,J
+   2,R
+   5,L
+   1,J,G
+   7
+   1,R
+  12,D
+   3,L,D
+   4,R,D
+   1,D
+   1,R,D
+   1,D
+   1,R,D
+   1,D
+  15,R,D
+ 161,R,Z
 
 #lvl_GCHeartSide_d5
 # go left is 1px (in total) shorter than right
@@ -2970,7 +2987,6 @@ console load ChineseNewYear2024/1-Maps/ZZ-HeartSide
    1,S
 
 #lvl_GCHeartSide_e0
-
    1,D,J
   69,O
    4,L,Z
@@ -3056,28 +3072,53 @@ console load ChineseNewYear2024/1-Maps/ZZ-HeartSide
   15,R
   21,D
   11,R,D
-   3,L,J
-   5,R,D,X
-   5,J,G
-   6
-  40
-
-#  15,R,C
-#  15,R,D,X
-#  15,R
-#  19,D
-#   7,R,D
-#   6,D
 #   3,L,J
 #   5,R,D,X
 #   5,J,G
 #   6
 #  40
-
+#  11,R,U,C
+(
+   1,L,J
+   2,R,J
+   5,R,D,X
+   3,J,G
+   4,R
+   1,R,J,G
+   3,R
+  40
 
 #lvl_GCHeartSide_e2
-
   11,R,U,C
+   7,R,J,G
+   5,R
+   2,R,J
+  16,R,D
+   2,R
+  11,R,D
+   8,L,D
+  16,R,D
+   4,D
+   1,G
+   1,L,J
+   5,L
+  16,L,J
+   8,R,D,X
+  18,R,U,C
+  15,R,D,X
+   1,R,D,J
+   3,R
+   1,K,G
+   3
+  36,L,D
+  35,R,D,C
+  19,D
+ 100,L,D
+
+ 100,R,K,G
+
+
+(
    1,J,G
    5,K,G
    5,R,K
@@ -3102,7 +3143,9 @@ console load ChineseNewYear2024/1-Maps/ZZ-HeartSide
   17,R,X
    9,R,C
    1,R,J,G
-   6,R
+   1
+   4,R
+   1
   19,R,D,X
    1,R,J
    8,R,D,X
@@ -3110,7 +3153,7 @@ console load ChineseNewYear2024/1-Maps/ZZ-HeartSide
   14,L,D,X
 #lightning cycle for next room
 #0-2
-   0
+   1
 #------
   15,R,D,C
   10,R,D
@@ -3151,47 +3194,44 @@ console load ChineseNewYear2024/1-Maps/ZZ-HeartSide
   10,L,D
    2,L
    7,R
-   3,R,D
-   6,G
+   9,G
    1
    1,R,J,G
    1,R,K,G
-   2,R,J,G
+   1,R,J,G
    6,R,D,X
-   2,L,J,G
-   5,R,J
+   1,L,J,G
+   6,R,J
   12,R
    6,R,J
   15,R,D,X
   15,R,D,C
   32,R
-   1,R,J
-   9,J
-  29
-  14,R,D,X
-   1,R,J
-   1
-   2,R
-   1,R,J,G
-   2
-  15,R,D,X
-   1,R,J
-   1,J
-   2,R,J
-  14,R,U,X
-   1,L,J,G
+  12,R,J
+   5,R
+   5,R,J
   29,R,D
-   3,R
-   1,R,D
-  11,R,Z
+   5,R,D,X
+   2,R,J,G
+   1,L,J
+   1,L
+   1,K,G
+   2,R,K
+  27,R
+#7:35.787(26811)
+
+   5,R,D
+   7,R,Z
    1,R,J
    5,R
+   2
+   1,R,J
+  13,R,D,X
   40
 
 #lvl_GCHeartSide_e3
-
    1,R
-   1,R,D,J
+   1,R,J
   14,R,D,X
    1,R,J
    7,R,U,X
@@ -3241,35 +3281,6 @@ skipinput,3,1
   14,L,U,X
 EndStunPause
    3
-#  15,L,D,C
-#  11,R,X
-#   6,L,Z
-#  10,R,J
-#  17,R,D,X
-#  11,R,J
-#   9,R
-#   1,R,J
-#  17,R,U
-#  14,R,U,X
-#   3,R,J
-#  15,R,U,X
-#   1,R
-#  24,R,J
-#   1,R
-#   1,R,J
-#  17,R,D,X
-#  15,L,D,C
-#  11,R,X
-#   6,L,C
-#  18,R,J
-#  14,R,Z
-#  12,R,J
-#   7,R
-#  13,R,U,X
-#  14,R,C
-#  12,R,D,X
-#  12,R,U,C
-#  11,D,X
   12,L,U,X
   11,L,Z
    4,X
@@ -3539,4 +3550,4 @@ EndRepeat
   15,R,U,X
  135
 
-ChapterTime: 8:56.384(31552)
+ChapterTime: 8:54.905(31465)
