@@ -195,11 +195,11 @@ console load ChineseNewYear2024/1-Maps/StarSapphireMADWMY
   21,R,K,G
    1,R,D
   14,U,X
-  21,R,G
-   1,R,D
-   8,U,X
-  28,R,G
-   5,R
+  23,R,G
+   2,D
+   7,U,X
+  21,G
+  12,R
   30,R,X
    1,R,D
    6,R,Z
@@ -214,13 +214,12 @@ console load ChineseNewYear2024/1-Maps/StarSapphireMADWMY
   16,R,D,X
    1,R,J
    5,R,D,X
-  17,R,G
-  15,R,D,G
+  33,R,G
+   3,G
    1,D
-   9,D,X
-  29,R,G
-  10,D
-  18
+   6,D,X
+   5,L
+  52
    5,L,Z
    1,R,J
   13,G
@@ -249,7 +248,7 @@ console load ChineseNewYear2024/1-Maps/StarSapphireMADWMY
    2
   18,D,X
    2,L
-  55
+  54
   13,J
   10,L,J
    8,L,X
@@ -421,6 +420,7 @@ console load ChineseNewYear2024/1-Maps/StarSapphireMADWMY
    1,R,J
   12,R,D,X
   40
+
 #lvl_StarMADWMY_06
    2
    1,R,J
@@ -430,6 +430,8 @@ console load ChineseNewYear2024/1-Maps/StarSapphireMADWMY
   13,G
    3
    6,D
+#0:53.720(3160)
+
   33,X
    6,R,Z
    5,R,J
@@ -616,4 +618,4 @@ console load ChineseNewYear2024/1-Maps/StarSapphireMADWMY
    1,L,G
    5,L
  135
-ChapterTime: 1:19.390(4670)
+ChapterTime: 1:19.373(4669)
