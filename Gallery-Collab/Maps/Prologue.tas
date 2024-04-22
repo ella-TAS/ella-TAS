@@ -1,4 +1,4 @@
-RecordCount: 413
+RecordCount: 480
    
 console load ChineseNewYear2024/0-Lobbies/0-Prologue 
    1
@@ -26,13 +26,14 @@ console load ChineseNewYear2024/0-Lobbies/0-Prologue
   40
 
 #lvl_a_intro2
-   7,R,J
-   4,R,K,G
+   1,R,J
+   3,R
+   7,R,U,X
+   3,R,K,G
    1,R
    6,R,K
    4,R
-   1,R,J
-   2,R
+   2,R,J
   19,R,D,X
    3,R,J
   14,R,D,X
@@ -42,4 +43,4 @@ console load ChineseNewYear2024/0-Lobbies/0-Prologue
  135
 
 
-ChapterTime: 0:05.967(351)
+ChapterTime: 0:05.950(350)
