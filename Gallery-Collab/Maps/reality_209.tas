@@ -1,7 +1,7 @@
 # ChineseNewYear2024Collab
 # https://gamebanana.com/mods/494348
 
-RecordCount: 2826
+RecordCount: 2927
 
 console load ChineseNewYear2024/1-Maps/DLK
    1
@@ -380,21 +380,21 @@ console load ChineseNewYear2024/1-Maps/DLK
    1,R
   43
 #lvl_dx08
-
    6,R
    1,R,J
-  14,R,D,X
-   3,L,J
-  11,L,D,X
+  15,R,D,X
+  14,L,C
+   1,L,J
+   9,L,D,X
    1,R,J
-  12,R
-   9,R,J
+   7,R
+   4,R,D,J
    5,R
-   1,R,J
-  27,R,D
+   3,R,J
+  24,R,D
    1,G
-  16,D
-   8,R,Z
+  17,D
+   9,R,Z
    1,R,J
    7,R
    1,J
@@ -405,7 +405,10 @@ console load ChineseNewYear2024/1-Maps/DLK
   24,L,G
    3,L
    1
-  15,G
+   1,G
+   1
+   1,L
+  11,G
   13,U,X
    1,J
    1,L,K,G
@@ -413,13 +416,13 @@ console load ChineseNewYear2024/1-Maps/DLK
   11,R,D
   15,L
    2,L
-   5
+   4
    1,L,J
    6,L
    1,L,J
-   1
+   1,L
    3,J
-   5
+   5,L
   13,R,Z
    1,R,J
    1,L,K,G
@@ -461,6 +464,7 @@ console load ChineseNewYear2024/1-Maps/DLK
    1,R,J
    2,R
   40
+
 #lvl_dx09
    5,R
    1,R,J
@@ -593,4 +597,4 @@ console load ChineseNewYear2024/1-Maps/DLK
   15,R,J
   70,R,D
   31,R,J,G
-ChapterTime: 1:05.739(3867)
+ChapterTime: 1:05.688(3864)
