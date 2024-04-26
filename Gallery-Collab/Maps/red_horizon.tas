@@ -1,7 +1,7 @@
 # ChineseNewYear2024Collab
 # https://gamebanana.com/mods/494348
 
-RecordCount: 5134
+RecordCount: 5217
 # + whatever draft record count was
 
 console load ChineseNewYear2024/1-Maps/DX3906I
@@ -358,7 +358,6 @@ console load ChineseNewYear2024/1-Maps/DX3906I
    1,R,J
    2,R
   40
-
 #lvl_car7
   12,R
    1,R,J
@@ -387,32 +386,31 @@ console load ChineseNewYear2024/1-Maps/DX3906I
   14,R,U,Z
    1,R,J,G
   22,R,D
-  12,R
-   1,R,K
-   3,K
-   4,R,K
+   6,R
+   1
+   5,R
+   8,R,K
    5,R,D,X
    1,L,J,G
    8,R,J
   10,R
    1,R,J
   40
-
 #lvl_car8
    7,R,J
   15,R,D,X
-  12,R,J
-   9,R
-  15,R,D,X
+   1,R,J
+  14,R
    6,R,J
-  15,R,D,X
-   1,R,D,J
-  16,R
-   2,R,J
-  11,R
-  43,R,J
-  21,R,D,X
-  41,R,D
+   3,R
+  18,R,D,X
+   1,R,J
+  14,R
+   3,R,J
+  18,R
+  28,R,J
+  18,R,D
+  55,R,D,X
    4,L,Z
    1,L,J
   20,L
@@ -422,4 +420,4 @@ console load ChineseNewYear2024/1-Maps/DX3906I
    1,R,J
    2,R
 
-ChapterTime: 0:48.297(2841)
+ChapterTime: 0:48.246(2838)
