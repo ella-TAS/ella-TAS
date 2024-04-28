@@ -1,0 +1,31 @@
+RecordCount: 33
+
+console load ChineseNewYear2024/0-Lobbies/1-Maps 3688 -64
+   1
+
+#Start
+  36
+   5,L,Z
+   1,L,J
+   7,L
+   1,L,J
+   5,L
+   1,L,J
+  10,L,K,G
+   2,L
+  19,L,D,X
+  15,D
+  10,R,D
+  12,L,D,X
+   1,R,J
+   2,R
+  22,R,D,X
+   3,R,J
+   3,R
+  15,R,D,X
+   2,R
+   1,R,D
+   8,R,Z
+   1,R,J
+   1,N
+#0:02.193(129)
