@@ -1,7 +1,7 @@
 # SecretSanta2022
 # https://gamebanana.com/mods/361029
 
-RecordCount: 1689
+RecordCount: 1719
 
 console load SecretSanta2022/1-Main/phant
    1
@@ -87,7 +87,6 @@ console load SecretSanta2022/1-Main/phant
    1,R,J
    4,R
   40
-
 #lvl_room01
    3,R
    1,R,J
@@ -102,22 +101,24 @@ console load SecretSanta2022/1-Main/phant
    8,R,J
   16,R
   15,R,Z
-  18,R,D
-   4,Z
+  10,R,D
+   1,L,D
+   3,R,D
+   4,L,D
+   9,R,Z
    1,R,J
    7,R
    1,R,J
-  55,R
-  42,R,D
+  86,R,D
 stunpause
-   3,R,D
+   2,R,D
 skipinput,3,1
   15,R,Z
    7,R,J,G
 endstunpause
    2,L,J
-stunpause
    1,R,J
+stunpause
    9,R,K,G
 endstunpause
    2,R,K,G
@@ -137,9 +138,9 @@ endstunpause
    2,R,J
 #demo thru pillar
   15,R,Z
-  61,R,D
+  62,R,D
    #6,D
-   6,L,Z
+   6,L,D,X
    1,R,J
    6,R
 stunpause
@@ -425,4 +426,4 @@ endstunpause
   21,L,D,X
   77,L,J
 
-ChapterTime: 1:30.355(5315)
+ChapterTime: 1:30.253(5309)
