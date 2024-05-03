@@ -1,7 +1,7 @@
 # SecretSanta2022
 # https://gamebanana.com/mods/361029
 
-RecordCount: 1653
+RecordCount: 1689
 
 console load SecretSanta2022/1-Main/phant
    1
@@ -114,13 +114,13 @@ stunpause
 skipinput,3,1
   15,R,Z
    7,R,J,G
-   1,L,J
 endstunpause
+   2,L,J
 stunpause
-   1,L,J
    1,R,J
-  11,R,K,G
+   9,R,K,G
 endstunpause
+   2,R,K,G
   18,R
   18,R,G
   24,R,D
@@ -425,4 +425,4 @@ endstunpause
   21,L,D,X
   77,L,J
 
-ChapterTime: 1:30.916(5348)
+ChapterTime: 1:30.355(5315)
