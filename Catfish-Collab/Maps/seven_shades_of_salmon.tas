@@ -1,7 +1,4 @@
-# CatfishCollab
-# https://gamebanana.com/mods/502777
-
-RecordCount: 1331
+RecordCount: 1697
 
 console load CatCollab/1-LivingRoom/sevenshades
    1
@@ -25,7 +22,6 @@ console load CatCollab/1-LivingRoom/sevenshades
   14,R,Z
    4,R,J
    5,L,J
-   0,R,J
   22,L,D
   14,L,D,X
    3,K,G
@@ -36,7 +32,6 @@ console load CatCollab/1-LivingRoom/sevenshades
    1,K
    5,R,K
   24,R,D
-
    7,R,D,J
    1,R
   10,R,J
@@ -44,7 +39,6 @@ console load CatCollab/1-LivingRoom/sevenshades
   12,R,D,X
    1,R,J
    2,R
-
    5,R,U,X
    1,R,J,G
   10,R
@@ -65,7 +59,6 @@ console load CatCollab/1-LivingRoom/sevenshades
   23,L,X
   11,L,Z
    8,L,J
-
    5,L
   10,L,D,X
   14,R,J
@@ -93,7 +86,6 @@ console load CatCollab/1-LivingRoom/sevenshades
   12,R
   14,R,Z
    1,R,J
-
   57,R,D
   15,R,D,X
    7,R,J
@@ -104,26 +96,31 @@ console load CatCollab/1-LivingRoom/sevenshades
 
 #lvl_04-yellow1
    2,R,J
-  14,R,X
-  22,R
-   1
-  16,R
-  18,R,U
-   1,R,U
-   1,F,38.647
-   1,F,38.652
-  11,F,99
-  36,F,98.725
-  33,R,D,X
-
-   6
-   2,D
-   6,R,D
-   9,L,D,X
-  20,R
-  18,R,U,X
-  50,R,U,C
-
+  20,R,X
+  12,R
+  15,R,U,X
+  28,R,U
+  11,F,105
+  11,F,108.338
+  14,F,105.844
+   1,F,105.907
+   1,F,113
+   1,F,249.569
+  12,R,D,X
+  23,R
+   3
+   5,D
+   1,R,D
+   1,D
+   1,R,D
+   1,D
+   1,R,D
+   1,L,D
+   6,L,D,X
+  23,R
+  16,R,U,X
+   2,R,J,G
+  50,R,U,X
    1
   11,F,85.274
   11,F,25
@@ -132,10 +129,8 @@ console load CatCollab/1-LivingRoom/sevenshades
   11,F,310
   16,F,272.652
    1,F,270.04
-
   11,F,209
   34,F,170
-
   11,R,D,X
    1,R,J
    7,R
@@ -156,9 +151,7 @@ console load CatCollab/1-LivingRoom/sevenshades
   20,L
   15,D,X
   13,L,D
-
-  12,L
-   1,L
+  13,L
   14,F,262.866
    1,F,265.679
   11,F,326
@@ -183,7 +176,6 @@ console load CatCollab/1-LivingRoom/sevenshades
    7,R,J,G
    1,K
   10,R,K
-
   17
    1,R,U
    5,F,43.448
@@ -197,7 +189,6 @@ console load CatCollab/1-LivingRoom/sevenshades
   43,F,259
   40,L,Z
   21,R,D,C
-
   31,R
   16,F,90.577
    1,F,90.772
@@ -218,7 +209,6 @@ console load CatCollab/1-LivingRoom/sevenshades
   12,D
   11,R,D
   23,R,D,X
-
   14,R
    1,D
    6,R
@@ -227,10 +217,8 @@ console load CatCollab/1-LivingRoom/sevenshades
    5,L
   33,U
    6,L,U
-
   27,R
   22,U,X
-
   12,R,U
    5,F,11
    1,F,7.667
@@ -283,7 +271,6 @@ console load CatCollab/1-LivingRoom/sevenshades
    3,L,D
    7,L,X
    7,L,C
-
   24,R,D,X
    1,L,J,G
    5,R,J
@@ -292,7 +279,6 @@ console load CatCollab/1-LivingRoom/sevenshades
   23,R
    9,R,U,Z
    3,R,J,G
-
   16,R,D
    4,R,J
   40
@@ -307,30 +293,29 @@ console load CatCollab/1-LivingRoom/sevenshades
   15,U,X
   10,D
   15,U,X
-  40,U,C
-  12,R,Z
+   8,R
+  10,L,U,Z
+  11,L,J,G
   15,D,X
-   9,U,C
-  13,R
+  12,U,C
+  10,R
   17,R,J
-
    7,R,U,Z
-   1,J
    1,R,J
-   7,L,J
-  17,R,D
-  15,R,D,X
-  28,R,U
+   6,R,K
+   1,K
+  21,L,D
+  14,R,X
+  26
    1,R,U
-   7,F,27.392
-   1,F,22.725
-   4,F,359.63
-  33,F,0.001
-   9,F,320
+  11,F,345
+  21,F,336.999
+  11,F,336.862
+   1,L
    5,L,X
-   3,L,J,G
-   6,L,D
-   5,L,K,G
+   2,L,J,G
+   7,L
+   3,L,J
   14,L,U,X
    1,L,J
    7,L
@@ -339,42 +324,39 @@ console load CatCollab/1-LivingRoom/sevenshades
   12,L,U,Z
    7,L,X
    7,L,C
-
    7,L,X
    6,R,D,C
   21,R
-   5,U,X
-  11,R,J
-   6,R
-   5,R,J,G
+   5,U,Z
+  12,R,J
+   8,R
+   1,R,J
+   6,R,K,G
    9,R,X
    9,L,C
    9,L,Z
   13,U,C
   14,D
   30,D,X
-   5,R,D
+   6,R,D
    8,R,J
+   1,R
    5,R,X
   17,R,J,G
   15,L,X
   21,R,D
-
-Repeat 74
+Repeat 76
    2,L,D
    2,R,D
 EndRepeat 
-
-   2,R,D
+   3
   14,R,Z
    1,R,J
-  14,R,D,X
-   1,R,J
-   7,R,D,X
+   5,R,D,X
   40
 
 #lvl_09-blue1
-   2,R
+   2,R,D,X
    3,J
   21,D
   10,D,G
@@ -388,12 +370,10 @@ EndRepeat
    1,R,J,G
    8,R,D
   27,D
-
   17,R,D
   23,R,X
    4,L
   42,L,G
-   0,L,D,G
   56,R,D,G
    1,R
    8,D
@@ -428,7 +408,6 @@ EndRepeat
   14,L,D
   13,L,J
   14,L,U,X
-
   32,L,U,G
    1,D
   12,J,G
@@ -445,7 +424,6 @@ EndRepeat
    7,D,C
    7,U,X
   18,L,C
-
   15,L,X
   36,R,D
    9,F,145.845
@@ -454,7 +432,6 @@ EndRepeat
    7,F,95.546
    1,F,91.474
   11,F,31
-
   11,F,331
   23,F,299.146
   16,U
@@ -463,7 +440,6 @@ EndRepeat
   34,R,D,G
   32,R,J,G
    2,R
-
   15,L,D,X
   24,D,C
   14,L,D,X
@@ -494,14 +470,12 @@ EndRepeat
   27,R,D
   37,U,X
   26,R,Z
-
 Repeat 15
    2,L,D
    2,R,D
    2,L
    2,R,D
 EndRepeat 
-
   10,L
   11,R,Z
    1,R,J
@@ -528,7 +502,6 @@ EndRepeat
   37,D
   15,U,X
    9,L,D,C
-
   14,L,X
   37,R,U,G
    1,R
@@ -547,17 +520,14 @@ EndRepeat
   15,U,C
    6,L,J,G
    6,L,K,G
-
   24,L,D
   30,F,276
   14,L,Z
-  13,R,J
-   4,R,J
+  17,R,J
    2,R
    9
    1,R,J,G
   20,R,D
-
   38,D,X
    1,R
    6,R,D,C
@@ -569,40 +539,42 @@ EndRepeat
    1,L
   58,R,X
    4,R,J
-   4,R,K
-  10,R,X
-   6,R,J,G
+   3,R,K
+  14,R,Z
+   1,R,J
+   6,R,D,X
   40
 
 #lvl_14-Final
-  12,R,J
-   9,U,X
+   9,R,D,X
+   1,N
    1,R,J
-  45
+  15,U,X
+  44
   11,R,J
-   6,R,D
+   5,R
+   1,R,J
   21,R,U,X
-  18,R,D
-  23
-  19,L,J
+  16,R
+   2,R,D
+  24
+  18,L,J
   33
   21,R
   11,L,D,X
   23,L,J
    9,U,X
    9,R,J
-
   25,R
   10,L
   13,L,U,X
   33,R
   20,R,X
-  50
+  55
   15,L,U,Z
    1,J
   18,R,J
   19,L,U
-
   16,F,10
   10,F,0.00001
   14,F,322.3
@@ -613,7 +585,6 @@ EndRepeat
   30,L,X
   12,L,J,G
   29,L,U,X
-
   40
    1,R,X
   15,D,X
@@ -639,7 +610,6 @@ EndRepeat
   11,L,U,X
   17,R
   32,R,D,X
-
   37,F,183
    7,F,200
   15,R,X
@@ -652,13 +622,11 @@ EndRepeat
    6,R,J
    4,R
    8,R,U,X
-  19,L
-   1,L
+  20,L
   30,U,X
   11,L,U
   30,U
   14,U,X
-
   37
   70,L,U,G
    7,L
@@ -666,7 +634,6 @@ EndRepeat
   41,L,G
   44,R,U,G
    5,R,D,G
-
    1,L
    3
    1,R
@@ -684,7 +651,6 @@ EndRepeat
    1,R
    3,L
   36,U,X
-
   16,L,U
   29,F,343.118
    1,F,340.969
@@ -695,7 +661,6 @@ EndRepeat
    1,F,117.058
   14,F,177
    9,F,240
-
   13,F,260
    1
    1,F,260
@@ -714,25 +679,20 @@ EndRepeat
    9,L
   30
   18,L
-
    7,L,U
    6,L
   11,L,X
    1,L,J,G
   16,L,U
-
   23,R,U
   20,F,23
   46,F,84.9
-
   25,F,89.99999
   19,D
   18,U
    7,L,X
   50,L,U,G
    1,L
-   2,R
-
   35,U,X
   69
   28,L
@@ -747,13 +707,12 @@ EndRepeat
   40
 
 #lvl_15-HeartRoom
-  71
-  19,U,X
-Repeat 32
-   2,L,D
-   2,R,D
+  11
+  13,U,X
+Repeat 65
+   1,R
+   1,L
 EndRepeat
-   2,L,D
-   1,R,D
+   5
 
-ChapterTime: 2:27.169(8657)
+ChapterTime: 2:25.588(8564)
