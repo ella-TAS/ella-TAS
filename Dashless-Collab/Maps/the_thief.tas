@@ -1,4 +1,4 @@
-RecordCount: 4714
+RecordCount: 5005
 
 console load DashlessCollab/1-lobby/04_ema
    1
@@ -69,7 +69,7 @@ Repeat 3
   14,R
 endRepeat
    5,R,K
-  18,R,D
+  18,R
  120,D
   40
 
@@ -77,94 +77,74 @@ endRepeat
    1,S
    1,D,J
   69,O
+#Cycle wait
+Repeat 6
+   1,D
+   1
+endRepeat
+##
    5,R
    1,R,J
   14,R
    1,R,J
   14,R
-#9f landing +
-#faster climbjump
-#   1,R,J
-#  14,R
-#  10,R,J
-#   7,R
-#   3,R,J
-#   1,R
-#   1,R,J
-#  13,R
-#   1,R,J,G
-#   1,R,K,G
-#   9,R
-#Repeat 4
-#   1,R,J
-#  14,R
-#endRepeat
-#   1,R,J
-#   1
-#  13,R
-#   3,R,D,J
-#   2,J
-#   3,R,J
-#   4,J
-#   4,K,G
-#   1,L,K
-#   1,R,K
-#   1,J,G
-#  19,L,J
-#   1,R,J
-#   1,K
-#   1,R,K
-#   6,R,J,G
-#   6,R
-#   1,J,G
-#   9,R,J
-#  18,R
-#   2
-##
-   5,R,J
-  18,R
-   7,R,J
-  20,R
+   1,R,J
+  14,R
+  10,R,J
+   7,R
+   3,R,J
+   1,R
+   1,R,J
+  13,R
    1,R,J,G
    1,R,K,G
-  11,R
-Repeat 5
+   9,R
+Repeat 4
    1,R,J
   14,R
 endRepeat
-   4,R,D,J
-   8,J
-   6,K,G
+   1,R,J
+   1
+  13,R
+   3,R,D,J
+   2,J
+   3,R,J
+   4,J
+   4,K,G
+   1,L,K
+   1,R,K
    1,J,G
-  25,L,J
+  19,L,J
    1,R,J
    1,K
-  10,R,K
-  10,R
-   4,J,G
-   6,R,J
-  20,R
-   1,R,J
-  14,R
-   1,R,J
-  14,R
-   1,R,J
-  18,R
-  10,R,J
-   1,R,K,G
-  10,R,J,G
-   1
+   1,R,K
+   2,R,J,G
+   3,R,K,G
    1,R
-   1
-   3,R
-   1
-   1,R,K,G
    1,R,J,G
-  80,R
-   4,L
+   1,R,K,G
+   9,R
+   1,R,K
+  14,R
+  27,R,K
+  12,R
+   1,R,K
+  14,R
+   1,K
+  10,R,K
+   1,R,J,G
+  15,R,K,G
+   1,R,J,G
+  75,R
+   5
+   5,R
+   2,L
+   1,R
+   1,L
    1,J,G
    1,L,K,G
-  28,R,D
+   3
+  25,R,D
   13,R
    1,R,K
    9,R
@@ -175,16 +155,19 @@ endRepeat
    1,R,K
   15,R
    1,R,K
-  16,R
+   1
+  15,R
   10,L
    1,R,K
   13,R
-  20,L
+  18,L
+   1
+   1,L
 Repeat 36
    1,D
    1
 endRepeat
-   1
+   1,R
   19,L,K
    2,K
    1,L,K
@@ -193,7 +176,7 @@ endRepeat
   10
    5,R
    1,R,K
-  31,R
+  30,R
    5,R,D,J
    1,R
   13,R,J
@@ -217,9 +200,9 @@ endRepeat
   23,R,D
    1,R,K
    1,R
-   7,R,K
+   5,R,K
    1,K
-   2,R,K
+   4,R,K
    7,R
    1,R,J,G
   13,R
@@ -317,65 +300,83 @@ endRepeat
    1,R,K
   14,R
    7,R,K
-   2
-  27,R
+   1
+  28,R
+   1,R,K,G
+   3,L
    1,R,J,G
-   3,L,J
+   1,R,K,G
+   1,R,J,G
+  10,R
+  12,R,K
+  16,R
+   1,R,D,K
+   1,L,D,K
+   2,R,K
+   1,L,K
+   9,J,G
+   2,R,J
+   1,J
+   1
    1,R,K,G
    1,R,J,G
   10,R
    1,R,K
-  14,R
-   7,R,K
    8,R
-   3,L,J
-   8,K,G
-   4,R,K
-   4,R
-   1,R,J,G
-   1,R,K,G
-  11,R
-   1,R,K
-   7,R
   40
 
 #lvl_07 (0)
-   7,R
+   6,R
 Repeat 3
    1,R,K
   14,R
 endRepeat
    1
-  10,R
+   9,R
+   3
    6,J
-  12,L,J
-  24,J
+  10,L,J
+  19,J
+   1,R,J
+   3,J
+   1,R,J
+   1,J
    2,L,J
    2,K,G
   19,R,K
    3,R
    3,R,J,G
-  17,R
+  11,R
    1,R,D,J
    1,R
-   6,R,J
+   5,R,J
    1,R
    1,R,J
    4,R
-   3,L,J
-   1,L,K,G
-  14
-   1,J
-   5,L,J
-  10,L
+   5,L
+   7,R,K
+   8,R
+   1,R,K
+   1,R
+   5,R,K
+   1,G
+   1
+   1,K
+   1,J,G
+  10,R,J
+   1,R
+   6,R,J
    6,R
-   2,L
-  43,R,D
+   1,R,K,G
+   1,R,J,G
+  15,R
+   1
+   1,R
    1,R,K
    1,R,J,G
    1,R,K,G
   11,R
-  14,R,J
+  14,R,K
   40
 
 #lvl_08
@@ -494,4 +495,4 @@ endRepeat
    8,L,K
  157,U,X
 
-ChapterTime: 1:14.885(4405)
+ChapterTime: 1:14.426(4378)
