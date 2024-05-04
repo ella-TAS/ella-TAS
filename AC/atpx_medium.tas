@@ -1,4 +1,4 @@
-RecordCount: 257
+RecordCount: 284
 
 console load AnarchyCollab2022/1-Submissions/19_atpx
    1
@@ -72,3 +72,23 @@ console load AnarchyCollab2022/1-Submissions/19_atpx
 
 #lvl_2
   10,R
+   1,R,J
+  14,R
+   1,R,J
+  11,R
+   1
+   2,R
+   3,R,J
+   1,R,K,G
+   5,R,J,G
+  10,U,X
+  39,R
+   1,K
+   7,R,J,G
+   2,R
+   1
+   2,R
+   5,R,K
+   1,R,J,G
+  90,R,K,G
+
