@@ -1,7 +1,7 @@
 # ChineseNewYear2024Collab
 # https://gamebanana.com/mods/494348
 
-RecordCount: 2455
+RecordCount: 2721
 
 console load ChineseNewYear2024/1-Maps/StarSapphireFR
   62
@@ -19,7 +19,7 @@ console load ChineseNewYear2024/1-Maps/StarSapphireFR
   34
 #lvl_Star_00
 #lightning cycle 0-2
-   0
+   2
 #-------------------
    8,R,Z
    1,R,J
@@ -451,15 +451,16 @@ console load ChineseNewYear2024/1-Maps/StarSapphireFR
   25,R,G
   36,R,J,G
    1,R,D
-  30,R,U,X
+  29,R,U,X
   14,R,G
    1,R
   10,R,D,X
    1,L
    1,J,G
-  55,R,K,G
-  12,R,J,G
-   5,R,K,G
+  54,R,K,G
+  10,R,J,G
+   2,R
+   4,R,K,G
    7,R
    6,R,Z
    1,R,J
@@ -489,31 +490,34 @@ console load ChineseNewYear2024/1-Maps/StarSapphireFR
 //
   13,U,X
    1,R
-  18,R
+  17,R
   19,R,G
    1,R
   15,R,D,X
    3,R,J
-   9,R
-   1,R,J
+   2,R
+   7
+   1,J
    ,R
-   9
+   8
+   2,R
   16,U,X
-  15,R,Z
-   9,L,V
+  15,R,C
+   8,L,D,X
    1,R,J
-   7,R
-   9,R,J
+   6,R
+   8,R,J
    5,R
    1,R,J
-  11,R
-  25,R,J
-   2,R,K
-  14,R,J
+  16,R
+  18,R,J
+   1,L,J
+   1,K,G
+   3,J,G
+   9,R,J
   14,R,U,X
-  11,L,D
-  12,D
-   4,L,D
+  10,D
+  17,L,D
   42,R,D
   11,R,Z
   20,R,J
@@ -533,53 +537,46 @@ console load ChineseNewYear2024/1-Maps/StarSapphireFR
    8,L,J
    1,L,K,G
    3,L,J,G
-  16,L,K,G
+  15,L,K,G
+   =,K
   15,U,X
-  13,U,C
-  18,R
-  36,R,G
+  14,U,C
+  14,R
+  37,R,G
    1,R
-  19,D
-   8,R,X
-  19,R,G
-   1,R,J,G
-   8,R
-   2
-   1
-   2
+   9,R,D
+   8,D
+   1,L,D
+   6,R,X
+  34,R,G
   15,U,X
    3
-   1,R
-  16,R
-  15,R,G
-   1,R
-  13,R,D,X
-   2,R,J
-   9,R,G
+  18,R
+  10,R,G
+   4,R,G
+   ,R,G
    3,R
+  11,R,D,X
+   3,R,J
+  11,R,G
+   1,R
   15,R,D,X
-   1,R
-   8,R,J
-   4,R
-   1,R
-   1,R
-   1,R
-   1,R
-   1,R,J
-   1,R
+   2,R
+   8,R,D,J
    5,R
-   2
-   1,R
+   2,R,J
+   2,R
+   1,R,J
+   7,R
   14,R,U,X
    1,R,J,G
-   1,R,K,G
-   9,R
-   3,R,J
+   8,R,K,G
+   2,R
   40
 #lvl_Star_07
-   3,R,J
-  12,R,D,X
-  16,R,C
+   1,R
+  14,R,D,X
+  17,R,C
   13,U,X
    2,R,D
    5,D
@@ -614,11 +611,16 @@ console load ChineseNewYear2024/1-Maps/StarSapphireFR
   17,R,U,X
   13,R,G
    9,R
-  14,L,D,X
-  24,L,G
-   6,L,D
-  22,R,D
+  13,L,D,X
+   9,L,G
+   4,L,J,G
+  14,L,D
+  13,R,D
+   2,D
+   1,R
   11,R
+   4,R,D
+   3,R
    1,R,D
    6,L,Z
    1,R,J
@@ -638,19 +640,20 @@ console load ChineseNewYear2024/1-Maps/StarSapphireFR
   12,R,J,G
    6,K,G
   11,L,K
-   
   15,R,U,X
-  21,R
+  19,R
   13,R,G
    1,R
   13,R,D,X
-   1,R,J,G
+   1,R,J
    1,R
   15,R,D,J,X
    8,R,J
-  68,R,K
-  15,R,U,X
-  12,R,J,G
+  67,R,K
+  14,R,U,X
+   9,R,J,G
+   2,R
+   1,R,J,G
    7,R
    6,R,Z
    1,R,J
@@ -979,6 +982,6 @@ endstunpause
    7,R,J
   14,R,U,X
  135,R
-ChapterTime: 2:27.900(8700)
+ChapterTime: 2:27.543(8679)
 
 
