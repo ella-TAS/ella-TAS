@@ -1,7 +1,4 @@
-# CatfishCollab
-# https://gamebanana.com/mods/502777
-
-RecordCount: 1186
+RecordCount: 1233
 
 console load CatCollab/1-LivingRoom/Cat_level
    1
@@ -56,8 +53,6 @@ console load CatCollab/1-LivingRoom/Cat_level
   10,L,X
    7,L,J
    6,L,Z
-
-
    8,L
    1,L,J
    9,L,D,X
@@ -109,7 +104,6 @@ console load CatCollab/1-LivingRoom/Cat_level
   13,L
   25,L,G
    1,L,D
-
   19,L
   18,L,D,X
    6,L,J
@@ -122,19 +116,13 @@ console load CatCollab/1-LivingRoom/Cat_level
   40
 
 #lvl_1G
-  11,R
-   5,J
-  10,R,X
-  13,R,J
-  24,R,U,X
-   3,R,D,J
-  15,R,D,X
-  11,D
+   1,S
+   1,D,J
+  72,O
   14,L,Z
    1,R,J
   12,R,D,X
   13,R,G
-
   22,R,J,G
    1,R,D
   33,R
@@ -154,7 +142,6 @@ console load CatCollab/1-LivingRoom/Cat_level
    1,R,J
    5,R,D,X
   13,R,G
-
   16,R,J,G
    1,R,D
   23,R
@@ -197,7 +184,6 @@ console load CatCollab/1-LivingRoom/Cat_level
    4,R,J
   16,R,D,X
    5,R,J
-
   16,R,D,X
    6,R,D,C
   13,R,G
@@ -218,7 +204,6 @@ console load CatCollab/1-LivingRoom/Cat_level
   35,R
   15,R,D,X
    6,R
-
   14,R,J
   19,R,D,X
    4,R
@@ -227,20 +212,17 @@ console load CatCollab/1-LivingRoom/Cat_level
   40
 
 #lvl_1F
-  24,D
-  10,R,D
-  14,R,D,X
-  21,R,D
-  14,R,D,X
+   1,S
+   1,D,J
+  72,O
+   6,L,Z
    1,R,J
-  14,R,D,X
-   1,R,J
-  11,R,D,X
+   1,R
   40
 
 #lvl_1H
-   3,R
-   3,R,J
+   6,R
+   2,R,J
   13,R,D,X
   13,R,G
   18,R,J,G
@@ -259,7 +241,6 @@ console load CatCollab/1-LivingRoom/Cat_level
   14,R,Z
    1,R,J
   12,R,D,X
-
   13,R,G
   10,R,J,G
   14,R,G
@@ -268,10 +249,8 @@ console load CatCollab/1-LivingRoom/Cat_level
   10,R,U,X
   24,R,G
    1,D
-
   36,L,J
   18,U,X
-
   11,L
    6,J
   14,L,Z
@@ -292,7 +271,6 @@ console load CatCollab/1-LivingRoom/Cat_level
   28,L,J,G
    1,D
    1,J
-
   29,R,D,X
   38,R,D,G
    1,R,G
@@ -302,7 +280,6 @@ console load CatCollab/1-LivingRoom/Cat_level
    1,R,D
   39,R,U,X
   14,U,C
-
    9,J
   15,L,Z
   73
@@ -317,7 +294,6 @@ console load CatCollab/1-LivingRoom/Cat_level
    1,L
   51,R,U,X
   31,R,U,Z
-
    2,J
   14,R,Z
    1,R,J
@@ -336,7 +312,6 @@ console load CatCollab/1-LivingRoom/Cat_level
    2,L,J
   35,L
   14,L,Z
-
    1,L,J
   14,L,D,X
    1,L,J
@@ -348,7 +323,6 @@ console load CatCollab/1-LivingRoom/Cat_level
   66,L
   14,L,Z
    1,L,J
-
   14,L,D,X
    1,L,J
    6,L,D,X
@@ -375,7 +349,6 @@ console load CatCollab/1-LivingRoom/Cat_level
   31,R,U,X
   10,U,C
   18,L,J
-
   14,L,D,X
    1,L,J
   12,L,D,X
@@ -393,7 +366,6 @@ console load CatCollab/1-LivingRoom/Cat_level
    8,R,D,X
   13,R,G
   17,R,J,G
-
    1,K,G
    1,R,D
   34,L,U,X
@@ -403,7 +375,6 @@ console load CatCollab/1-LivingRoom/Cat_level
    1,R
    8,R,J
    3,R
-########
   80
    2,L
    1
@@ -420,7 +391,6 @@ console load CatCollab/1-LivingRoom/Cat_level
    7,J
   14,R,Z
    1,R,J
-
    5,R,D,X
   13,R,G
   20,R,J,G
@@ -447,7 +417,6 @@ console load CatCollab/1-LivingRoom/Cat_level
   39,R
   14,R,Z
    1,R,J
-
   14,R,D,X
    3,R,J
   13,R,J,G
@@ -457,7 +426,6 @@ console load CatCollab/1-LivingRoom/Cat_level
   12,R,U,X
   28,R,G
    1,D
-
   40,L,J
   14,L,D,X
    1,L,J
@@ -485,7 +453,6 @@ console load CatCollab/1-LivingRoom/Cat_level
   10,R,Z
    8,L,J
    4,L
-
    2,L,J
   14,L,D,X
   13,L,G
@@ -504,7 +471,6 @@ console load CatCollab/1-LivingRoom/Cat_level
    7,R
    2,R,J
    8,R
-
   21,R,J
   11,R,D
   14,R,Z
@@ -524,7 +490,6 @@ console load CatCollab/1-LivingRoom/Cat_level
   20,R,J,G
    1,R,D
   30,R,X
-
   14,R,D,C
    1,R,J
   14,R,D,X
@@ -540,7 +505,6 @@ console load CatCollab/1-LivingRoom/Cat_level
   14,L,D,X
    1,L,J
    7,L,D,X
-
   13,L,G
   18,L,J,G
   10,L,G
@@ -561,13 +525,11 @@ console load CatCollab/1-LivingRoom/Cat_level
   15,R,D,X
    3,R,J
   15,R,D,X
-
    4,R,J
    4,R
   10,R,U,X
   22,R,D,G
-   1,R,D
-  15,R,D
+  16,R,D
    5,L
    5,L,J
   19,L,J,G
@@ -582,7 +544,6 @@ console load CatCollab/1-LivingRoom/Cat_level
    1,D
    8,L
   14,L,Z
-
    1,R,J
    5,R,D,X
   13,R,G
@@ -595,7 +556,6 @@ console load CatCollab/1-LivingRoom/Cat_level
   13,L,G
   15,L,J,G
    1,L,D
-
   28,L
   14,L,D,X
    5,L,J
@@ -606,7 +566,6 @@ console load CatCollab/1-LivingRoom/Cat_level
   10,L,J
   26,L,J,G
    1,L,D,J
-
    3,L,J
   11,L,U,Z
    6,R,J,G
@@ -639,7 +598,6 @@ console load CatCollab/1-LivingRoom/Cat_level
   15,R,D,X
    1,R,J
   12,R,U,X
-
   22,R,G
    1,L
   16,R
@@ -656,7 +614,6 @@ console load CatCollab/1-LivingRoom/Cat_level
    1,R
   32,L,J
    6,L,U,X
-
   26,L,G
    1,L,D
   42,R,J
@@ -687,7 +644,6 @@ console load CatCollab/1-LivingRoom/Cat_level
    5,L
    1,L,D,J
    3,L
-
   11,L,D,X
   13,L,G
   10,L,J,G
@@ -696,7 +652,6 @@ console load CatCollab/1-LivingRoom/Cat_level
   14,L,D,C
    1,L,J
    7,L
-
    3,L,J
   15,L,D,X
    1,L,J
@@ -710,7 +665,6 @@ console load CatCollab/1-LivingRoom/Cat_level
   43,L,X
   11,R,U,C
    8,R,J,G
-
    7,R
    6,R,Z
    1,R,J
@@ -731,7 +685,6 @@ console load CatCollab/1-LivingRoom/Cat_level
    4,R
    8,R,K
   14,R,Z
-
    1,R,J
   11,R,D,X
    1,R,J
@@ -797,4 +750,4 @@ console load CatCollab/1-LivingRoom/Cat_level
   13,R,D
  148,R,X
 
-ChapterTime: 2:10.560(7680)
+ChapterTime: 2:10.067(7651)
