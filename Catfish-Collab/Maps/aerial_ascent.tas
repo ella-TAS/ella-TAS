@@ -1,4 +1,4 @@
-RecordCount: 816
+RecordCount: 949
 
 console load CatCollab/1-LivingRoom/aerialascent
    1
@@ -21,11 +21,9 @@ console load CatCollab/1-LivingRoom/aerialascent
   10,R,X
    7,R,J
    5,R,K
-
   13,R,K,G
    1,R,J,G
-   7,R
-   1,R
+   8,R
    7,R,D,X
    1,R,J
   27,R,D
@@ -73,7 +71,6 @@ console load CatCollab/1-LivingRoom/aerialascent
    2,R
    1,R,J,G
    3,R
-
    2,R,J
    1,R,K,G
    4,R
@@ -100,7 +97,6 @@ console load CatCollab/1-LivingRoom/aerialascent
    1,R,D
   11,U,X
   17,G
-
    1,L
    3
   17,U,X
@@ -109,7 +105,6 @@ console load CatCollab/1-LivingRoom/aerialascent
   14,R,C
    1,R,J
   20,R,J,G
-
   16,R,J
    6,J
   15,R,Z
@@ -159,14 +154,12 @@ console load CatCollab/1-LivingRoom/aerialascent
    6,R
    2,R,J
   30,R,D,G
-
   15,L,D,X
    1,R,J
    7,R,D,X
    1,R,J
    4,R,K,G
   28,R,D,G
-
    1,R,J,G
   14,R,D,G
    2,R,G
@@ -231,7 +224,6 @@ console load CatCollab/1-LivingRoom/aerialascent
   12,R,K,G
   23,R,J,G
    1,K,G
-
   22,L,K,G
    7,L,J,G
    5,J,G
@@ -244,8 +236,7 @@ console load CatCollab/1-LivingRoom/aerialascent
   10,R,K,G
    2,K,G
    7,R,J,G
-   3,J,G
-   2,J,G
+   5,J,G
    1,L,J,G
    1,J,G
    1,L,J,G
@@ -253,7 +244,6 @@ console load CatCollab/1-LivingRoom/aerialascent
    9,L,J,G
    1,L,D,J
   55,L,J,G
-
   17,L,D,G
    8,R,D,G
   36,R,G
@@ -287,18 +277,15 @@ console load CatCollab/1-LivingRoom/aerialascent
    2,R,J
   10,R,K,G
    7,R,D,X
-
   14,R,G
    6,R,J,G
   39,R,X
-
    8,R,D,C
    1,R,J
    7,R
    7,R,J
    5,R
   40
-
 #lvl_a-05
    9,R,D,X
    1,R,J,G
@@ -325,7 +312,6 @@ console load CatCollab/1-LivingRoom/aerialascent
   17,U,X
   22,G
    1,R
-
   10,L,U,X
   10,L,D,C
   34,R,J
@@ -334,21 +320,106 @@ console load CatCollab/1-LivingRoom/aerialascent
    2,R,G
   12,R
   17,R,Z
-
    2,R,J
    9,R,U,X
   36,R,G
   12,R,J,G
   10,R,G
-  14,U,X
-  20,G
-   2,R
-  38,L,U,X
-  10,L,C
+  12,U,X
+  21,G
+   1,R
+  15,L,U,X
+  18,L
+  11,L,C
   20,L,J
   10,L,K,G
-   6,K
-  19,L,Z
-   7,L,V
+   1,K
+   6,L,K
+  15,L,Z
+   4,L
+   4,L,V
+   4,L,J
+  15,U,X
+   9,U,C
+  45,G
+  20,D,G
+  15,L,X,G
+   2,L
+  14,L,U,X
+  21,L,G
+   1,L
+  18
+  17,D
+  14,R,D
+   8,L,D,X
+  18,L,J
+   8,L,K
+  45,L,K,G
+   6,L,J,G
+  11,L,G
+  11,L,J,G
+  20,L,G
+  12,L,J,G
+  13,L,G
+   4,L,J,G
+   2,L
+  15,L,Z
+   8,L
+  15,L,J
+   3,L,K
+  19,L,K,G
+  18,L,G
+  10,L,D,G
+   1,L
+  10,L,Z
+   9,L,J
+  13,U,X
+   1,R,J
+  26,R,J,G
+   3,L,J,G
+   1,R,J,G
+   1,K,G
+  19,L,K,G
+   1,R
+  15,L,J,G
+   7,R,K
+   6,L
+  10,L,Z
+   6,R,J
+   4,R
+  15,L,X
+   1,L
+   8,R
+  15,D,X
+   4,L,Z
+   1,L,J
+   7,L
    2,L,J
-  50,U,X
+  14,L,D,X
+   1,L,J
+  40
+
+#lvl_a-06
+   7,L
+   2,L,J
+  10,L,D,X
+   9,L,J
+  10,L,X
+   1,L,J,G
+   1,L,K,G
+   1,L,J,G
+   1,L,K,G
+   9,L
+   1,L,J
+  10,L,U,X
+   3,L,J,G
+   1,L,K,G
+   1,L,J,G
+   1,L,K,G
+   7,L
+  12,L,J
+   3,L,K,G
+  14,U,X
+ 136,L
+
+ChapterTime: 1:11.417(4201)
