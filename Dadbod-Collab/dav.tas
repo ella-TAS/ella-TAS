@@ -92,58 +92,32 @@ console load DadCollab2018/1-DadCollab2018/Dav
   10,R,J,G
    2
    5,R,J,G
-   5,R
-   8
-   5,L,Z
-  11,L,J
-  20,L
-   9,L,D
-  21,U,X
-  18,R,U,Z
-  18,L,U,X
-  14,U,C
-  34,R,X
-  10,U,Z
-  26,R,J
-  17,R
-  17,L
- 145,G
-   8
-   9,L,X
-   4,K
-   1,L,J,G
-  10,R,J
-   5,R
-   2,R,K
+   6,R
+   7
+  10,R,D,X
+  14,L,J
+StunPause
+  12,L,J
+SkipInput 3 1
   15,U,X
-   7,U,C
-  32,R,X
-  18,D,C
-  15,L,X
-  18,D
+   4,L
+  18,J
+   6,L,K,G
    3,L
-  10
-  64,R,G
-  20,R,D
-   6,R,X
-   1,J
-   1,R,K,G
-  25,L,D
- 126,G
-   5,L,X
-   1,K
-   1,L,J,G
-   3,R,J
-   5,R
-  13,R,K
-   8,K
-  15,D,X
-   4,R
+   3,R
+SkipInput 3
+  15,L,D
+SkipInput 3 1
+  15,L,D,X
    5,R,D
-   7,D
-  15,R,D
-  29,R,X
-   7,R,Z
+EndStunPause
+  41,R,D
+   5,R,Z
+  10,R,J
+  13,R
+   1,R,J
+   2,R
+   8,R,D,X
   40
 
 #lvl_Dav-3
@@ -211,7 +185,7 @@ console load DadCollab2018/1-DadCollab2018/Dav
    4,R,J,G
    5,R,K,G
    9,R,J,G
-   5,R
+   5,R,G
    3,R,K
    5,R
    6,L,Z
@@ -221,6 +195,8 @@ console load DadCollab2018/1-DadCollab2018/Dav
   17,R
    1,R,J
   12,R,D,X
+#0:39.304(2312)
+
   31,D,C
   16,R,D,X
   31,D
@@ -260,4 +236,4 @@ console load DadCollab2018/1-DadCollab2018/Dav
   45
    6,D
 
-ChapterTime: 0:55.369(3257)
+ChapterTime: 0:52.802(3106)

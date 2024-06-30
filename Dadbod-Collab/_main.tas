@@ -1,0 +1,66 @@
+read _start
+EnforeLegal
+read Lobby/start-radley Start
+read radley Start
+  33,O
+read Lobby/lobby-xaphan Start
+read xaphan Start
+  33,O
+read Lobby/lobby-dav Start
+read dav Start
+  33,O
+read Lobby/lobby-flipking Start
+read flipking Start
+  33,O
+read Lobby/lobby-bissy Start
+read bissy Start
+  33,O
+read Lobby/lobby-percussive Start
+read percussive Start
+  33,O
+read Lobby/lobby-rocketguy Start
+read rocketguy Start
+  33,O
+read Lobby/lobby-isa Start
+read isa Start
+  33,O
+read Lobby/lobby-snas Start
+read snas Start
+  33,O
+read Lobby/lobby-ghajestis Start
+read ghajestis Start
+  33,O
+read Lobby/lobby-kayden Start
+read kayden Start
+  33,O
+read Lobby/lobby-kube Start
+read kube Start
+  33,O
+read Lobby/lobby-dartheline Start
+read dartheline Start
+  33,O
+read Lobby/lobby-pupperino Start
+read pupperino Start
+  33,O
+read Lobby/lobby-triggerchoco Start
+read triggerchoco Start
+  33,O
+read Lobby/lobby-deskilln Start
+read deskilln Start
+  33,O
+read Lobby/lobby-aridai Start
+read aridai Start
+  33,O
+read Lobby/lobby-iamdadbod Start
+read iamdadbod Start
+  59
+   1,J
+ 196
+MidwayFileTime: 14:49.304(52312)
+ 300
+   1,J
+  83
+   1,S
+   1,J
+  46
+read Lobby/Journal Start

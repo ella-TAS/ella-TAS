@@ -1,4 +1,4 @@
-RecordCount: 1455
+RecordCount: 1456
 
 console load DadCollab2018/1-DadCollab2018/RocketGuy
    1
@@ -251,6 +251,6 @@ console load DadCollab2018/1-DadCollab2018/RocketGuy
    5
    4,X
   83,L,D
-  52,L,J
+  52,L,D,J
 
 ChapterTime: 0:33.813(1989)
