@@ -1,7 +1,7 @@
 # CatfishCollab
 # https://gamebanana.com/mods/502777
 
-RecordCount: 2448
+RecordCount: 2522
 
 console load CatCollab/1-LivingRoom/cass
    1
@@ -346,25 +346,25 @@ console load CatCollab/1-LivingRoom/cass
    8,R,U,X
   15,R,U,C
   27,R,D
-  14,R,C
-  12,U,X
-   3
-  25,D
-   8,R,D
+  10,R,C
+  18,R,U,Z
+   1,J
+  24,D
    5,R,Z
   19,L,D
   10,L,D,X
   14,L,D,C
   20,R,J
-  14,R,Z
-   7,R,J
-  12,U,X
-  16,R,C
-  12,U,X
-   7,R
-  39,R,X
-  10,L,D,C
-  20,L,J
+  14,R,X
+   9,R,J
+   9,U,X
+  13,R,U,C
+  12,R,X
+   8,R
+  24,R,U,X
+   6,L,D
+  14,L,D,C
+  19,L,J
   14,U,X
   20,L,C
   15,L,U,X
@@ -457,4 +457,4 @@ console load CatCollab/1-LivingRoom/cass
    4,R,K,G
   99,L,J
 
-ChapterTime: 0:44.302(2606)
+ChapterTime: 0:43.996(2588)
