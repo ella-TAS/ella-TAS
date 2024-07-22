@@ -1,27 +1,30 @@
-RecordCount: 6391
+RecordCount: 6715
 
 console load CatCollab/1-LivingRoom/ZZ-CatfishHeartside
    1
 Set, CommunalHelper.DeployElytra, A
-
 #Start
   36
-
 #lvl_a00-start
-   4,R,Z
+   4,Z
    5,R,J
-   1,R,K,G
-  14,R
-  75
+   4,R,K,G
+   7,R
+   2,R,J
+  37
+  40
 
 #lvl_a01-falling
- 143,D
-   8,L,D
+ 140,D
+   9,L,D
   40
 
 #lvl_a02-hub(0)
-  14,L,D
-  13,R,D
+  13,L,D
+   9,D
+   3,R,D
+   1,D
+   1,R
   15,R,D,X
   17,L,D
   14,L,D,X
@@ -30,107 +33,106 @@ Set, CommunalHelper.DeployElytra, A
    3,L,D
    8,L
    1,L,J
-   5,L,K,G
+   4,L,K,G
+   1,L
    1,L,J,G
    7,L
   40
 
 #lvl_a04-prologue(0)
-   3,L
+   2,L
    5,L,J
-   8,L
-  14,R,D,X
+   9
+   9,R,D,X
    1,R,J
-  14,R,D,X
+   7,R
    1,R,J
-   5,R,D,X
+  11,R,D,X
   40
 
 #lvl_a02-hub(1)
-   5,R,D,X
+   3,R,D,X
    5,R,J
   15,R,D,X
    1,R,J
-   3,R
+   5,R
    8,R,D,X
    1,R,J,G
-   9,R
-   1,R,J
-   5,R
-   2,R,J
-   1,R
-   1,R,K
-   4,R,J,G
-   1,R
-   1,R,K,G
+  12,R
+   4,R,J
+   5,R,D,X
+   3,R,J,G
+   5,R,K,G
+   1,R,J,G
    6,R
   40
 
 #lvl_b00a_temp_transition
+   5,R
+   1,R,D,J
+   2,R,J
+  18
+
+#lvl_b01a_temp_transition
    3,R
-   1,R,J
-  29,R
+   1,R
+   1,R
   40
 
 #lvl_b00_SevenShadesOfSalmon_Fischboy
-   4,R
-   2,J
-   3,R,J
-  11,R,U,Z
-   3,L,J,G
    2,R,J
-   1,R
-   5,R,K,G
-  10,R
-   6
-  11,L
-  15,U,Z
-  28
-   1,L,U
-  12,F,335.854
-   1,F,339.819
-   7,F,11.514
-   1,F,15.6
-  11,F,76
-   9,F,115.595
-   1,F,116.866
-  11,F,177
-  31,F,208.636
-   1,F,213.437
-  14,F,215.378
-   2,F,180
-   7,D,X
-  11,R,U,C
+   6,R
+  14,R,U,Z
+   1,R,J,G
+  16,R
+  13,L
+   8,U,X
+   4,J
+   3,R,J
+  26
+##unoptimized
+   4,F,45
+  17,F,0
+   8,F,315
+  11,F,269
+   8,F,225
+  10,F,180
+  15,F,152.5
+  16,F,180
+  15,L,D,X
+   4,D
+  11,R,U,X
   29,R,J
   12,R,U,Z
    1,L
-   1,J,G
-   2
+  10,L,J,G
   15,U,X
-  25,G
-  30,R,G
-  19,R
-  12,R,D
-   3,D
-  29,R,X
-  14,L,U
-   6,U
-   9,L,U
-   2,G
-   1
-   1,R,J
-  27,R,G
-  27,R,D,G
-   1,R,G
+  15,L
+   3,R
+  43,R,D,G
    1,R
-  18,D,X
-  35
-  27,F,72.325
-  39,F,15
-  34,R,U,X,G
+  20,R,D
+   4,R
+  20,R,X
+  21,U,C
+   4,L,U
+   1,R,J
+  43,R,D,G
+   8,R,U,G
+   1,R
+  21,D,X
+   3,R,D
+  30,R,U
+  12,F,90
+  10,F,45
+  34,F,14.3
+  10,R,U,X
+  24,R,U,G
    1,L
-  48,L,D
-   9,L,U,X
+  12,R
+  15,D,X
+   5,L,D
+  19,D
   12,D,C
   21,R
   14,U,Z
@@ -138,307 +140,264 @@ Set, CommunalHelper.DeployElytra, A
   10,R,J
    6,R,K
    5,R
-   8,R,K
-   3
-  14,R,U,X,G
-  19,R,G
-   9,R
-   5,L,U,X
-  27,L
-  64,R,J
- 105,R,U,X,G
-   3,R
- 175
+  11,R,K
+  13,R,U,X
+  21,R,G
+   8,R
+  30,L,U,X
+   9,D
+   2,R,D
+   8,R,J
+  29,R,D
+   1
+   4,R
+   2,R,D
+   1,R,J,G
+   6,R,K,G
+   4,R
+  14,R,U,X
+  57,R,D,G
+   3,R,J,G
+  17,R,G
+   1,R,J,G
+   4,R,G
+   1,R
+  14,L,D,X
+   1,R,J
+   8,R,D
+ 140
    7,J
    2
-   8,K,G
-   8
-   5,L
-   5
-   5,D
-   3,L,D
-   1,D
-  12,R,D
-  13,R,D,X
-   4,R,J
-  40
-
-#lvl_b01b_temp_transition
-   1,R,J
-   2,R
-   2,R,J
-   3,K,G
-   5,R,Z
-   1,R,J
-   6,R
-   1,R,J
-   3,R
-  18
+  13,K,G
+   6,L,K
+  23,D
+  14,R,D
   14,R,D,X
    1,R,J
-   6,R,D,X
+   5,R,U,X
+  40
+
+#lvl_b01b_temp_transition(0)
+   4,R,U,X
+   1,R,K,G
+   5,R
+   9,R,D,X
+  18
+
+#lvl_b01b_temp_transition(1)
+   5,R,D,X
    1,R,J
+  11,R,D,X
   40
 
 #lvl_b03_FreshwaterInhibitor_ThySirSlime
-   7,R
-  18,R,J
-   7,U,X
-   3
-   7,U,X
-  39,L,D
-  14,L,Z
-   1,R,J
-   1,R
-  12,R,D,X
-   1,R,J,G
-   6,R
-   2
-   2,R
-  16,R,J
-  14,R,X
-  18,R
-   2,R,D
-   1,R
-   8,L,Z
-   1,R,J
-   6,R
-   2,R,J
-  14,R,D,X
-  18,R,J
-  14,U,X
-   2
-  14,R,U,X
-   1,L
-   1,L,J,G
-   3,L,K,G
-   5,K
-   2,L,K
-   1,L,J,G
-   1,L,K,G
-  10,L
-   9,L,Z
+   2,R,D,X
    1,R,J
    5,R
-   1,R,D,J
-   9,R
-  18,R,J
-  12,U,X
-  12,R,J
-   8,R
-   1,R,K,G
-   1,R,K
-   1,K
-   2,L,K
-   1,K
-   1,L,K
-   1,K
-   1,L,K
-   1,K
-   1,L,K
-  30,L,J
-  14,U,X
-   6,L
-  12,R,J
-   8,R
-   9,R,J
-   9,R
-  14,R,Z
-   1,L,J
-   7,L
-  18,L,J
-  14,U,X
-  14,R,J
-   3
-  18,R,X
-  14,R,C
+   1,R,J
    1,R
-  15,R,X
-   1,G
-   8,U,X
-  40,G
-   9,L,J
-   4,R,J
-  12,R,K,G
-   2,R,J,G
- 160,R,U,G
-   1,J,G
-   5,U,X
+  12,R,J
+   6,R
+   1,K
+  28,L,U,X
+  15,D,C
+   3,L,D
+   1,L
+   1,L,D
+   5,L,Z
+   1,R,J
+   1,R,K,G
+   9,R
+  13,R,J
    3,J
+  15,R,X
+  13,D
+   1,R,D
+   4,R,J
+  14,R,D,X
+   1,R,J
+  14,R,D,X
+  17,R,J
+  20,R,D,X
+   6,R
+  13,R,U,C
+   1,R,J,G
+  14,R
+  14
+  14,R
+  12,R,J
+  14,U,X
+  30,L,J
+  15,U,X
+   3,L
+   1,J
+   3,L,J
+  23,R,J
+   1,R,K,G
+  15,R
+  10,L,X
+  25,L,J
+  14,U,X
+  17,R,J
+  18,R,X
+  18,R,C
+  15,R,X
+   2,R,G
+   8,U,Z
+  29,R,G
+   1,J,G
+   2,L,J
+   1,K
+   3,L,K
+  10,R,K
+  12,R,J,G
+   2,R,K,G
+   7,R
+   1,R,J
+ 140,R,G
+   1,J,G
+   9,U,X
+  10,J
+   4,R,J
   40
 
 #lvl_b04_KittyJail_PaulTNT
-  11,R
- 106,U,X
-   3
+  11,R,J
+ 109,U,X
    6,R,Z
    1,R,J
    7,R
    1,R,J
   14,R,D,X
-  18,R,J
-  14,R,U,Z
-   8,R,J
+  16,R,J
+  16,R,U,Z
+   7,R,J
   23,R,K
    1,R,J,G
-  13,R
-   4
-   1,R
+  11,R
+   8,D
   30,R,Z
-   1,R,J
-   3
    4,R,J
+   4,R,K
+   6,R
+   2,R,J
+  16,R,D
+  15,D,X
    5,R
-   1,L
-   2,J,G
-  13,R,U,X
-   3
-   1,R,U,X
-   1,R
-  10,U,X
-  17,J
-  14,U,X
-  15,J
-  48,D
-   2,R,D
-   2,D
-   1,R,D
-  19,D
-  17,R,D
-   4,D
-   3
   27,R,X
-   3
-  33,L,D,X
-   1,L,J
-   3
-   1,L,J
-   5,L
-   3,L,J
-  11,L,U,X
-   1,R,J
-   3
-   3,L
-  37,L,X
-   3
-  48,D,X
-   2,R,D
-   6,D
+   4,L,J
+  34,L,D,C
+   4,L,J
+  18,L,U,X
+   4,L,J
+   1,L,K
+  43,L,X
+  52,D,C
+   4,D
+   3,R,D
   39,R,D,X
   25,R,D,C
   15,L,U,X
    4,L,J
    3,L,K
-  24,U,C
+  24,U,X
   51,L,Z
   30,D,X
-  21,R,C
+  21,R,Z
    4,R,J
    3,R,K
-  21,U,X
-  51,R,C
-   7,R,J
-  26,R,K
-  11,J,G
-   1,L,J
-  14,R,K,G
-   1,R,J,G
-   4,R,K,G
-   8,R
-   3,R,J
-   5,R
-  12,R,J
-   5,R
-   2,R,J
-  13,R
-  10,R,Z
+  16,U,X
+   4,R,J
+   3,R
+  50,R,X
+   8,R,J
+  20,R,K
+   6,K
+  12,J,G
+   6,K,G
+   3,L,K
+   5,R,Z
+  12,R,J,G
+  19,R
+   6,R,Z
    1,R,J
-   6,R
+   7,R
    1,R,J
-   8,R,D,X
+   6,R,D,X
   40
 
 #lvl_b05_CatCollabMap_lirachonyr
-   7
+   8,R,D,X
    1,R,J
-  11,R
-  14,D,X
-   4,D
-   3,L,D
-   7,D
-   2
-   1,D
+   9,R
+  15,D,X
+   3,R,D
+  13,D
   15,L,X
-  19
+  19,D
   15,U,X
-  15,U,C
-  26
-  16,G
-  17,R,G
-   1,G
-   3,R,G
-   1,R,D,G
-  10,R,G
-  19,R,D,G
-  13,R,G
-   1,R,D,G
-  14,R,U,G
-   4,D
-   5,R,D
-  35,U,X,G
-  11,L,U,G
-   1,L,D
-  28,L
-   3
-   1,L
-  17,R,U,X
-  14,R,G
-  12,L,G
-   6,D
-   4,L,D
-   3,D
-  23,U,X,G
-  51,R,G
-  21,R,D,G
-   3,R,G
-  27,L,G
-   4,L,D,G
-  26,L,G
+  39,U,C
+   2,D
+  14,G
   17,R,D,G
-  25,R,G
-  15,L
-   2,R
-  14,L,U,Z
-   6,L
-  18,D
-  23,D,G
-   3,L,D,G
-  15,D,G
-  11,L,D,G
-   2,L,G
-  30,R,G
+  29,R,U,G
+   1,R
+  13,R,D
+   6
+   1,R
+  15,R,Z
+  12,U,X
+  15,G
+   6,L,G
+   4,L,G
+   1,R
+  20,L,D
+  10,D
+   6
+  27,R,U,X
+   9,U,C
+  80,R,G
+   2,R,D,G
+   7,L,D,G
+   9,L,D,G
+  38,L,G
+  15,R,D,G
+  19,R,G
    1,R,D,G
    1,R,G
-   2,R,D,G
-  22,R,U,G
-  29,L,U,G
+   1,R,D,G
+   1,R,G
+   1,L
+  12,R
+   5
+  24,L,U,Z
+  41,D,G
+   5,L,D,G
   17,D,G
-  12,L,G
-   6,L,D,G
-   3,L,G
-   7,L,D,G
-   7,L,G
+   7,R,D,G
+  36,R,U,G
+  17,L,U,G
+   1,R,U,G
+  11,L,U,G
    3,L,D,G
-  22,G
-  10,L,D,G
-  20,L,U,G
+   9,D,G
+  15,L,D,G
+  17,L,G
+  14,D,G
+   1,G
+  31,L,U,G
    1,R
-   3,L
-  14,L,X
-  16,L,D
-  58,R,D
-  40,D
- 139
+  15,L,X
+  17,L,D
+  55,R,D
+  30,D
+  12,R,D
+   7,R,D
+   4,Z
+  11,R,J
+  77
+  10
+  32,O
 
 #lvl_a04-prologue(1)
   32
@@ -1457,9 +1416,9 @@ EndStunPause
   40
 
 #lvl_a03-passageway
- 122,D
+ 126,D
   15,D,X
- 117,D
+ 116,D
   15,D,X
    6,R
    1
@@ -2191,4 +2150,4 @@ EndRepeat
    1,R,J
   57,R,D,X
 
-ChapterTime: 6:24.880(22640)
+ChapterTime: 6:18.403(22259)
