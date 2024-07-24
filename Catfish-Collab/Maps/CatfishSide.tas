@@ -1,4 +1,4 @@
-RecordCount: 7889
+RecordCount: 7903
 
 console load CatCollab/1-LivingRoom/ZZ-CatfishHeartside
    1
@@ -89,16 +89,18 @@ Set, CommunalHelper.DeployElytra, A
    8,U,X
    4,J
    3,R,J
-  26
-##unoptimized
-   4,F,45
-  17,F,0
-   8,F,315
-  11,F,269
-   8,F,225
-  10,F,180
-  15,F,152.5
-  16,F,180
+  27,R,U
+  11,F,1.095
+   1,F,359.96
+  11,F,300
+   7,F,279.926
+   1,F,274.612
+  11,F,215
+  11,F,155
+  12,F,156.088
+   1,F,156.755
+  14,F,179.4
+   1
   15,L,D,X
    4,D
   11,R,U,X
@@ -402,6 +404,10 @@ Set, CommunalHelper.DeployElytra, A
    1,S
    1,D,J
   69,O
+#stun cycle in c03_PaperCrane_CrispyTNT
+##
+   1
+##
    6,R,Z
    1,R,J
    7,R
@@ -598,8 +604,9 @@ Set, CommunalHelper.DeployElytra, A
    8,F,0
    8,F,45
    3,F,90
+#adjust stun timer in a04-prologue(1)
 StunPause
-  12,F,78.5
+  14,F,78.5
 EndStunPause
 ##
 #because of red->blue hazard drift need to do 1f stun
@@ -609,7 +616,7 @@ StunPause
 EndStunPause
 ##
 StunPause
-  24,F,78.5
+  22,F,78.5
    2,F,30
 SkipAutoInput,3,1
    7,U,X
@@ -1970,4 +1977,4 @@ EndRepeat
    1,R,J
   57,R,D,X
 
-ChapterTime: 6:00.145(21185)
+ChapterTime: 6:00.043(21179)
