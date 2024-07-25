@@ -1,10 +1,12 @@
-RecordCount: 8235
+RecordCount: 8288
 
 console load CatCollab/1-LivingRoom/ZZ-CatfishHeartside
    1
 Set, CommunalHelper.DeployElytra, A
+
 #Start
   36
+
 #lvl_a00-start
    4,Z
    5,R,J
@@ -74,9 +76,7 @@ Set, CommunalHelper.DeployElytra, A
   18
 
 #lvl_b01a_temp_transition(0)
-   3,R
-   1,R
-   1,R
+   5,R
   40
 
 #lvl_b00_SevenShadesOfSalmon_Fischboy(0)
@@ -353,8 +353,7 @@ Set, CommunalHelper.DeployElytra, A
   15,R,Z
   12,U,X
   15,G
-   6,L,G
-   4,L,G
+  10,L,G
    1,R
   20,L,D
   10,D
@@ -363,8 +362,7 @@ Set, CommunalHelper.DeployElytra, A
    9,U,C
   80,R,G
    2,R,D,G
-   7,L,D,G
-   9,L,D,G
+  16,L,D,G
   38,L,G
   15,R,D,G
   19,R,G
@@ -396,12 +394,10 @@ Set, CommunalHelper.DeployElytra, A
   17,L,D
   55,R,D
   30,D
-  12,R,D
-   7,R,D
+  19,R,D
    4,Z
   11,R,J
-  77
-  10
+  87
   32,O
 
 #lvl_a04-prologue(1)
@@ -818,8 +814,7 @@ EndStunPause
   11,R,J
   27,R,G
    8,L,D
-   7,D
-   4,D
+  11,D
    2
    2,L
  197,R,Z
@@ -921,86 +916,20 @@ EndStunPause
    1,R,J
   14,R
    1,R,J
-  19,R
-   1,R,J
-   7,R
-   1,R,J,G
-   1,R,K,G
-  13,R
-   1,R,J
-  14,R
-   1,R,J
-  14,R
-   2,R,J
-  11,R
-   1,R,J
-   7,R,K,G
-   1,R,J,G
-   9,R
+  15,R
+  10,D,X
   40
 
-#lvl_b00a_temp_transition(1)
-   4,R
-   1,R,J
-  14,R
-   1,R,J
-  16,R
-
-#lvl_b01a_temp_transition(1)
-  16,R
-   1,R,J
-  14,R
-   1,R,J
-   5,R
-  40
-
-#lvl_b00_SevenShadesOfSalmon_Fischboy(1)
-   5,R
-  26,D,X
-  40
-
-#lvl_f02_Magma_Sevna
- 261,O
-  36
-   4,Z
-   1,R,J
-  17,R,D
+#lvl_a03-passageway
+  45,D,X
    1,D
-   1,R,J
-  14,R,D,X
-   1,L,J
-   6,L,D,X
-   1,L,J,G
-  12,L
-   1,L,J
-   9,L,U,X
-   3,L,J,G
-  15,L
-   3,L,J
-  50,L,D
-  14,L,Z
-   1,L,J
-  12,L,U,X
-  18,L,J,G
-   4,L
-   1,L,J
-  14,L,D,X
-   1,L,J
-  14,L,D,X
-  10,L,J
-  43
 
 #lvl_e00-hub
-   7,L,U,X
-  31
-   1,L,K
-  10,L,D,X
-   1,L,J
-   4,L
+  99,D
+   1,L,D
+ 116,D
   15,D,X
-  15,D
- 132,L,D
-  54,D
+  62,D
   12,J
   10,K,G
   12,J,G
@@ -1016,4 +945,4 @@ EndStunPause
    1,R,J
   81,R,D
 
-ChapterTime: 3:17.642(11626)
+ChapterTime: 3:05.878(10934)
