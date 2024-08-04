@@ -1,13 +1,9 @@
-# CatfishCollab
-# https://gamebanana.com/mods/502777
-
-RecordCount: 1170
+RecordCount: 1182
 
 console load CatCollab/1-LivingRoom/CatCanopy
    1
 
 #Start
-
 Repeat 36
    1,J
    1,O
@@ -21,7 +17,7 @@ EndRepeat
   22,R,U,X
   20,R,C
   18,R,U,X
-  18,R,D
+  18,R
   40
 
 #lvl_R-2
@@ -40,20 +36,23 @@ EndRepeat
    8,R,K
    6,R
   10,D
-
    1,R,D
    3,D
    1,L,D
    5,L
-   3,L,D
+   2,L,D
    1,L,J
-  19
-   3,R,D
-  21,L,D,X
-   1,L,D,J
-  16,L,D
-   2,D
+  12
+   8,L,D
+   3,L
+   1,L,D
+   6,L
    6,L,D
+  12,L
+   5,D
+   1,L,D
+   1,L,J,G
+   3,L
   15,R,D,X
    2,R,J
    8,R
@@ -66,7 +65,6 @@ EndRepeat
    1,R
    5,R,K
    1,L,K
-
   12,L,J
   14,L,U,X
    1,J,G
@@ -77,7 +75,6 @@ EndRepeat
    6,L,J
   10,L
   14,L,Z
-
    2,J,G
   10,R,J
   12,K
@@ -86,7 +83,6 @@ EndRepeat
    2,J,G
    6,L,J
   11,K,G
-
    1,R,K
    1,L,J,G
    3,L,K,G
@@ -135,7 +131,6 @@ EndRepeat
    3,L,J
   11,R,J
   12,R,U,Z
-
   12,R,J,G
    7,K
    2,R,K
@@ -157,7 +152,6 @@ EndRepeat
    1,K,G
    1,L,K
    1,R,K
-
    2,J,G
    5,L,J
    1,K
@@ -200,12 +194,16 @@ EndRepeat
    2,J
   10,R,X
   24,L,J
-  23,L,U,Z
+   3,L,J
+  15,L,U,X
+   1,L
    1,J
   12,L,J
    1,K
    6,L,K
-  28,L,Z
+  15,L,Z
+  10,L
+   4
    7,L,V
   40
 
@@ -250,7 +248,6 @@ EndRepeat
   15,U,X
    4,L,J,G
    6,L
-
    6,L,Z
    1,L,J
    2,L
@@ -264,6 +261,6 @@ EndRepeat
   14,U,X
  136,L
 
-ChapterTime: 0:27.659(1627)
+ChapterTime: 0:27.472(1616)
 
 
