@@ -1,4 +1,4 @@
-RecordCount: 2794
+RecordCount: 3087
 
 console load SecretSanta2022/1-Main/potatolucy
    1
@@ -86,27 +86,27 @@ Endrepeat
    7,L
   10,L,X
   10,R,J
-   5,R
-   1
-   1,J
-   1,R
-   1,J
-   1
+   8,R
   15,R,X
-   6
-  26
-   1,L,U
-  36,F,268.017
-   4,F,270
-  25,F,96.822
-   7,F,135
-  22,F,181.8
-   6,F,135
-  12,F,110
-   3,R,J
-   3,J
+   2,R
    2
-  14,U,Z
+   1,R
+   3
+  30,X
+   1,L,U
+  34,F,267.652
+   4,F,270
+  25,F,96.168
+   7,F,135
+  22,F,182.474
+   6,F,135
+  10,F,110
+   1,G
+   1,R,J,G
+   5,R,K,G
+   4,K
+   1
+  13,U,Z
   29,R,J
   15,D,X
    8,R,D
@@ -287,36 +287,42 @@ Endrepeat
    1,R,J
   10,R
   26,R,U,G
-   4,R,D,G
-   2,R,G
+   2,R,D,G
+   3,R,G
    1,R
-  22,R,X
-   1,R,J,G
-   1,R
-   1,L
-   2
-   2,R
-   1
-  15,U,X
-   4
-  15,R
-   1
+  24,R,X
+   1,G
+   1,J,G
    3,R
+   3
+   1,L
+  15,U,X
+   1
+  17,R
+   1
+   1,R
   14,R,G
-  23,R,D,G
-  13,R,U,G
+  26,R,D,G
+   5,R,U,G
    1,R,D,G
-   3,R,U,G
+   8,R,U,G
+   0,R,D,G
    7,R
   14,R,U,X
-  24,R,U,G
-   1,L
-  16,R
-  15,R,U,X
-   9,L
+  21,R,U,J,G
+   1,L,J
+   6,R,J
+   1,R
+   1,R,J
+   1,R
+   2,R,J
+   7,R
+  15,R,U,Z
+   7,L
+   2,R
    7,L,D,X
    1,R,J
-   5,R
+   4,R
   40
 
 #lvl_finalroomofthismasterpiece
@@ -332,13 +338,13 @@ Endrepeat
   11,R
    5,R,D
    2,R,J
-   3,R
+   2,R
   15,R,X
    8,R,D,C
   11,R,J
    9,R
    1,R,J
-   8,R,G
+   9,R,G
   12,K,G
    3,J,G
    1,K
@@ -359,4 +365,4 @@ Endrepeat
   16,R,D,X
  135
 
-ChapterTime: 0:44.438(2614)
+ChapterTime: 0:44.387(2611)
