@@ -1,0 +1,50 @@
+read Start
+EnforceLegal
+
+read prologue Start
+read LoadANo
+
+read lobby_easy/0-1 Start
+read LoadEnter
+read ellatas_easy Start
+  33,X,C
+
+read lobby_easy/1-2 Start
+read LoadEnter
+read little_easy Start
+  33,X,C
+
+read lobby_easy/2-7 Start
+read LoadEnter short
+read microlith_easy Start
+  33,X,C
+
+read lobby_easy/7-6 Start
+read LoadEnter
+read adenator_easy Start
+  33,X,C
+
+read lobby_easy/6-5 Start
+read LoadEnter short
+read lyra_easy Start
+  33,X,C
+
+read lobby_easy/5-4 Start
+read LoadEnter
+read the_easy Start
+  33,X,C
+
+read lobby_easy/4-3 Start
+read lilberry_easy Start
+  33,X,C
+
+read lobby_easy/3-3 Start
+read LoadEnter
+read noele_easy Start
+  33,X,C
+
+  36
+   1,Q
+   1,J
+  31
+read LoadJournal Start
