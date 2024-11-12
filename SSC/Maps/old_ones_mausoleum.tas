@@ -1,4 +1,4 @@
-RecordCount: 5761
+RecordCount: 5835
 
 console load SecretSanta2022/1-Main/appels
    1
@@ -552,29 +552,22 @@ EndStunPause
    1,L,G
   13,R,D
    2,R,D
-  10,L,D
-   1,L
-   8,L,D
-  17,R,D
-   2,R
-  14,L,D
-   6,R,D
-   2,D
-   1,R,D
-  15,U,Z
-   2,R
+  10,D
    1
+   8,D
+  18,R,D,X
+   7,R
+  24,L
+  35
    1,R
-   1
-  10,L,J
+   1,K
+  11,L,K
+   9,L
+   1,L,J
    1,L
-  21,L,J
-  10,R
+   2
    1,J
-  22,L,J
-   4,L
-   1,L,K,G
-   5
+   4
    1,K
    1,J,G
    1,R,J
@@ -589,11 +582,10 @@ EndStunPause
    1,L
    1,L,J,G
    1,L,K,G
-   2,L,J,G
-   1,L
+   1,L,J,G
+   2,L
    1,L,K,G
-   2,K
-   1
+   3,K
    1,R
   15,R,D,X
   12,R,D
@@ -619,4 +611,4 @@ EndStunPause
    4,X
  135,L,D
 
-ChapterTime: 1:08.714(4042)
+ChapterTime: 1:08.340(4020)
