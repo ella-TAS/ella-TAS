@@ -1,4 +1,4 @@
-RecordCount: 284
+RecordCount: 679
 
 console load AnarchyCollab2022/1-Submissions/19_atpx
    1
@@ -83,12 +83,98 @@ console load AnarchyCollab2022/1-Submissions/19_atpx
    5,R,J,G
   10,U,X
   39,R
+  57,U,G
+  16,J,G
+  15,R,U,X
+  20
+  14
+   7,L,D
+   6,D
+  16,D
    1,K
-   7,R,J,G
-   2,R
+  13,D
+   5,R,D
+   2
+   1,D
+   4,Z
+   1,R,J
+   8,R
+   6,R,J
+   5,R
+   9,R,K
+   5,R
+  15,R,D,X
+   1,R
+  14,R,Z
+   1,R,J
+   5,R
    1
-   2,R
-   5,R,K
-   1,R,J,G
-  90,R,K,G
+   9,R,J
+  40
 
+#lvl_3
+   6,R,J
+   1,L,K,G
+  21,R,K
+  15,R,U,X
+  16,U,C
+   1,L
+   1
+   1,L
+   4,L,J
+  19,R,J
+   3,R
+  74,U,G
+   5,J,G
+  21
+  12,L,J
+  26,J
+   7,R
+  10,R,J
+   4,R
+   5,L
+   2,L,K
+   4,L
+  15,L,J
+  24,L,U,X
+  10,L,J
+  37,J
+   4,L,J
+  24,L
+  10,L,J
+   7,R,J
+  15,U,X
+  10,R,J
+   8,R
+  12,R,K
+   1,R,J,G
+   1,R,K,G
+  13,R
+Repeat 6
+   1,R,J
+  14,R
+Endrepeat
+   5,R
+   3,R,J
+  40
+
+#lvl_end
+   2,R,J
+   6,R
+  28,R,J
+  29,R,U,X
+  15,U,C
+  15,R,G
+  73,U,G
+  39,J,G
+  12,R,J
+   8,J
+  21
+   7
+   8,K
+   1
+  15,U,X
+  14,U,C
+ 135,L,D
+
+ChapterTime: 0:39.253(2309)
