@@ -1,4 +1,4 @@
-RecordCount: 2994
+RecordCount: 3284
 console load SecretSanta2022/1-Main/pansear
    1
 
@@ -93,7 +93,8 @@ console load SecretSanta2022/1-Main/pansear
   15,R,C
    6,R
   15,R,U,X
-  25,R
+  23,R
+   1,R,D
   14,U,C
   12,L
    4,R,U,X
@@ -102,8 +103,8 @@ console load SecretSanta2022/1-Main/pansear
   19,D
    9,R,D
    1,D
-   9,R,D
-   3,R
+  10,R,D
+   2,R
   15,R,Z
   11,R
   15,R,Z
@@ -406,4 +407,4 @@ console load SecretSanta2022/1-Main/pansear
   21,R,U,X
  135
 
-ChapterTime: 1:09.734(4102)
+ChapterTime: 1:09.717(4101)
