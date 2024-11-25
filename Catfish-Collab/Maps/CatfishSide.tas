@@ -1,4 +1,4 @@
-RecordCount: 8288
+RecordCount: 8421
 
 console load CatCollab/1-LivingRoom/ZZ-CatfishHeartside
    1
@@ -733,43 +733,48 @@ EndStunPause
    1,R
   15,R,D,X
    1,J
-  12,R,U,X
-  34,R
-   6
-   4,D
-   6,R,D
-  13,R,U,Z
-   1,L,J,G
-   1,L,K,G
-  17,L
-  45,G
+   6,R,U,X
+  32,J
+  14,R,U,X
+   1,R,J,G
+  29,R
    1
-   1,J
-   1,L,K,G
-   3,R,K
-  17,R
+   1,R,J,G
+   2,L,J
    1,R,J
-   3,R
+   7,R
+   4,Z
+   6,R,J
   40
 
 #lvl_c06_Cathunt_qtpi
-   7,R
-   6,R,G
-  21,R,U,G
-  16,R,J,G
-  37,R,Z
-   4,R,J
-   2,R,K
-  15,R,D,X
    1,R,J
-   9,R,G
-  15,R,U,G
+   1,R
+   1,R,K
+   5,R
+  22,R,U,G
+   1,J,G
+   1,L,J
+   1,R,K,G
+   2,R,J,G
+   1,R,K,G
+   6,R,J,G
+   3,R
+  35,R,Z
+   4,R,J
+   1,R,K
+  14,R,D,X
+   1,R,J
+   7,R
+   2,R,J
+  17,R,G
+   7,R,U,G
    1,R,J,G
   15,R,Z
    4,R,J
    2,R,K
    1,R,D
-  18,R,J
+  17,R,J
    6,K,G
    2,L,K
   28,R,J,G
@@ -945,4 +950,4 @@ EndStunPause
    1,R,J
   81,R,D
 
-ChapterTime: 3:05.878(10934)
+ChapterTime: 3:04.756(10868)
