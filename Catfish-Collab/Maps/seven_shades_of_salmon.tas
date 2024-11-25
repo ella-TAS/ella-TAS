@@ -1,4 +1,4 @@
-RecordCount: 1697
+RecordCount: 1772
 
 console load CatCollab/1-LivingRoom/sevenshades
    1
@@ -348,7 +348,7 @@ console load CatCollab/1-LivingRoom/sevenshades
 Repeat 76
    2,L,D
    2,R,D
-EndRepeat 
+EndRepeat
    3
   14,R,Z
    1,R,J
@@ -475,7 +475,7 @@ Repeat 15
    2,R,D
    2,L
    2,R,D
-EndRepeat 
+EndRepeat
   10,L
   11,R,Z
    1,R,J
@@ -695,14 +695,20 @@ EndRepeat
    1,L
   35,U,X
   69
-  28,L
-Repeat 39
+  22,L
+   6
+Repeat 31
    2,L,D
    2,R,D
 EndRepeat
+   1,D
    1,R
-  14,R,J
-  10,U,X
+   1,R,D
+   5,L,G
+   4,U,G
+  12,J,G
+   6,R
+  16,U,X
  185
   40
 
@@ -713,6 +719,6 @@ Repeat 65
    1,R
    1,L
 EndRepeat
-   5
+   4
 
-ChapterTime: 2:25.588(8564)
+ChapterTime: 2:25.384(8552)
