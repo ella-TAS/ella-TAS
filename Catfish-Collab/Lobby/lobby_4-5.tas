@@ -1,14 +1,14 @@
-console load CatCollab/0-Lobbies/1-LivingRoom 2264 -80
+console load CatCollab/0-Lobbies/1-LivingRoom 2320 -104
    1
 
 #Start
   36
-  13,L,J
-   3,L,K,G
-   5,L,Z
+   4,Z
+   9,L,J
+   7,L
    1,L,J
-   9,L
-  66
+  12,L,U,Z
+  63
    1,L,J
    7,L,K
    1,L
@@ -17,4 +17,4 @@ console load CatCollab/0-Lobbies/1-LivingRoom 2264 -80
    5,L,Z
    1,L,J
    1,L,N
-#0:01.887(111)
+#0:01.819(107)

@@ -6,9 +6,11 @@ console load CatCollab/0-Lobbies/1-LivingRoom 2472 -72
    4,Z
    1,L,J
    7,L
-  16,L,J
-   8,L,Z
-   2,L,J,G
-  11
-   1,L,N
-#0:00.748(44)
+   2,L,J
+  11,L
+  11,L,U,X
+   1,L,J,G
+   4,L
+   5
+   1,N
+#0:00.697(41)
