@@ -1,7 +1,4 @@
-# CatfishCollab
-# https://gamebanana.com/mods/502777
-
-RecordCount: 1125
+RecordCount: 1126
 
 console load CatCollab/1-LivingRoom/CLAMITY
    1
@@ -205,7 +202,7 @@ console load CatCollab/1-LivingRoom/CLAMITY
   18,D
   12,R,D
   44,D
-   1,X
- 138,R,D
+   4,X
+ 135,R,D
 
 ChapterTime: 0:29.631(1743)

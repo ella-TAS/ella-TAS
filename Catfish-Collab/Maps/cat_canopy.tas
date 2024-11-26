@@ -1,4 +1,4 @@
-RecordCount: 1182
+RecordCount: 1184
 
 console load CatCollab/1-LivingRoom/CatCanopy
    1
@@ -7,7 +7,7 @@ console load CatCollab/1-LivingRoom/CatCanopy
 Repeat 36
    1,J
    1,O
-EndRepeat 
+EndRepeat
   11
 
 #lvl_R-1
@@ -259,8 +259,6 @@ EndRepeat
   12,L,K
    3,L,J,G
   14,U,X
- 136,L
+ 135,L
 
 ChapterTime: 0:27.472(1616)
-
-
