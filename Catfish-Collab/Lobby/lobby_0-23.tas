@@ -1,0 +1,21 @@
+console hearts 0
+console load CatCollab/0-Lobbies/1-LivingRoom
+console hearts 14
+   1
+
+#Start
+ 190
+   4,Z
+   4,R,J
+  14,R
+   1,R,J
+ 223,R,D,X
+   1,R,J
+  14,R,D,X
+   1,S
+   1,D,J
+  34,O
+   5,R,J
+  14,R
+   1,N
+#0:05.236(308)

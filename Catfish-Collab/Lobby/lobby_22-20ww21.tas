@@ -1,0 +1,40 @@
+console load CatCollab/0-Lobbies/1-LivingRoom 4752 -112
+   1
+
+#Start
+  36
+  11,U,C
+  51
+   1,L,J
+   5,L,K
+   1,L
+  11,L,Z
+   1,L,J
+   6,L
+  15,D,X
+  11,L
+   3
+   9,D
+   1,L,J,G
+   2,R,J
+   1,L,J
+   5,L,X
+  15,L,G
+   6,L,J,G
+   2,L
+  15,L,X
+   1,N
+#0:02.686(158)
+
+#EnterLevel_22-20ww21
+   3
+  14,R,D,X
+   1,R,J
+   8,R,D,X
+  10,R,D,J
+  21,R,K,G
+   1,J
+  46
+#0f lost to reach next entrance
+#16f lost to a pathing
+#1f to enter ww21

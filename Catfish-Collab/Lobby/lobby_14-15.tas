@@ -1,0 +1,23 @@
+console load CatCollab/0-Lobbies/1-LivingRoom 3912 -536
+   1
+
+#Start
+  36
+   4,Z
+   1,R,J
+   7,R,D
+   3,R,J
+  15,R,D,X
+   5,R,J
+  15,R,D,X
+  25,L,D
+  34
+   1,R,J
+   1,R,K
+  41,D,X
+   6,R,D
+   6,L,X
+  16
+  18,L,X
+   1,N
+#0:02.975(175)
