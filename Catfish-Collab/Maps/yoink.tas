@@ -1,24 +1,18 @@
-# CatfishCollab
-# https://gamebanana.com/mods/502777
-
-RecordCount: 1007
+RecordCount: 1031
 
 console load CatCollab/1-LivingRoom/YOINK
    1
 
 #Start
- 110
-   1,S
-   1,D,J
-  34
-#Spinner Cycle
-   0
-#
-
 #lvl_YoinkIntro
+Repeat 32
+   1,J
+   1,O
+Endrepeat
+   1
    6,L,X
-   7,R,J
-  10,R
+   5,R,J
+  18,R
   10,L,D,X
    7,R,J
    7,R,D,X
@@ -33,7 +27,9 @@ console load CatCollab/1-LivingRoom/YOINK
    1,R,J
   13,R,K,G
    1,R,J,G
-   7,R
+#spinner cycle
+   3,R
+   9
    6,R,Z
    1,R,J
    7,R
@@ -370,6 +366,6 @@ EndStunPause
    5,R,K,G
   12,R
   30,R,K
-  41,U,Z
+  40,U,Z
 
-ChapterTime: 1:08.238(4014)
+ChapterTime: 1:08.323(4019)
