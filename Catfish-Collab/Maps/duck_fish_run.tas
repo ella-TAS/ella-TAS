@@ -1,4 +1,4 @@
-RecordCount: 3945
+RecordCount: 4022
 
 console load CatCollab/1-LivingRoom/DuckFishRun
    1
@@ -366,56 +366,51 @@ EndStunPause
    6,R
   12,U,X
   15,R,J
-  62,R
+  61,R
   15,R,D,X
- 117,R,D
-  40,J
-  24,K
-   1,R,K
-  10,R
-   3
-   1,J
-  15
+  11,R,D
+StunPause
+  10,R,D
+  22,L,D
+EndStunPause
+   1,R,J
+   9,J
    1,K
-  30,L,K
-   1,J
-  20,L
-   1,K
-  40,L,K
-   1,J
-  10,L,J
-  25,L
-   3,R,J
-  12,R
+  19,L,K
+  14,D
+   7
+  11,R
+   1,R,J
+   1,R,K,G
    1,R,J,G
-  31,R,D
-   4,R,Z
+   1,R,K,G
+   8,R,J,G
+  24,R,D
+  14,R,Z
+  23,R,D
+  15,U,X
+  21,R,D
+   5,R,Z
    1,R,J
-   7,R
-   7,R,J
-  10,U,X
-  26,R,D
-   4,R,Z
-   1,R,J
-   3,R
+   4,R
   40
 
 #lvl_8
-   4,R
+   3,R
   15,R,J
   15,R,U,X
   17,R
   15,R,X
-  30,R
+  28,R
   15,R,U,X
    6,R,D
   18,D
-  17,L,D
-  15,L,X
-  20,R
+  14,L,D
+  16,L,X
+  19,R
    5,R,U,X
-   3,R,J,G
-  15,R
+   1,R,J
+  14,R
   10,R,Z
   20
    5,R
@@ -845,4 +840,4 @@ EndRepeat
   49,D,X
   38,D
 
-ChapterTime: 2:23.446(8438)
+ChapterTime: 2:22.426(8378)
