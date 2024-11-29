@@ -1,4 +1,4 @@
-RecordCount: 1083
+RecordCount: 1169
 
 console load CatCollab/1-LivingRoom/YOINK
    1
@@ -161,7 +161,6 @@ EndStunPause
   16,L,D
   10,L,D,X
   11,L,J
-   0,J
   19,U,X
   17,L
    3
@@ -261,27 +260,22 @@ EndStunPause
    5,L,K
   15,L,D,X
   13,L
+  61,L,G
+   1
    1,J
-  15,L,D
-  18,D
+  32,D
    4,R,D
-  10,R
-StunPause
-   2,R
-   7,R,D
-   2,R
-   1,R,D
-SkipAutoInput,3,1
-   6,R,U,X
-  16,R
-SkipAutoInput,3,1
-  15,R,Z
-  13,L
-EndStunPause
-   8,L,J
-  29,L,Z
-  13,R,D
-   8,L,D
+  13,L,D
+  28,R,U,Z
+   6,D
+   6,R
+  25,R,Z
+  15,D,X
+   1,J
+   7,L,J
+  15,L,Z
+  18,L,D
+  17,R,D
   14,R,Z
    1,R,J
   11,R,D,X
@@ -371,4 +365,4 @@ EndStunPause
   30,R,K
   40,U,Z
 
-ChapterTime: 1:08.102(4006)
+ChapterTime: 1:04.158(3774)
