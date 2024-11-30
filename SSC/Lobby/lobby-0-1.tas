@@ -3,18 +3,20 @@ console load SecretSanta2022/0-Lobbies/1-Main
 
 #Start
  190
-   7,R,J
   15,R,D,X
-  14,L,D
-   4,D,X
+  15,D,C
+   6,L,D
+   4,R,Z
    1,R,J
-  10,R,D
-  22,R,D,X
-   2,R,J
-   8,R,U,X
-   2,R,J,G
-   4,R
    1
-   2,R
+   9,R
+  23,R,D,X
+   3,R,J
+   2,R,K,G
+   1,R
+   5,J,G
+   1
+   6,R,Z
+   1,R,J
    1,X
-#0:01.377(81)
+#0:01.343(79)
