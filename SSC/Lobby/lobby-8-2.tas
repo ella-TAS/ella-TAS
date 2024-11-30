@@ -1,0 +1,29 @@
+console load SecretSanta2022/0-Lobbies/1-Main lvl_1 32
+   1
+
+#Start
+  36
+   2,R,J
+  10,R,X
+   5,R,J
+  15,U,X
+  11,L,J,G
+   1,L
+   5,K,G
+   1
+   1,J,G
+   2,L
+   3
+   1,L
+   1,R
+   8,R,J
+  15,U,X
+  12,L,J,G
+   5,L,K,G
+   7,L
+   4,X
+   5,L,J
+   6,L,K,G
+  16,L
+   1,L,N
+#0:02.125(125)
