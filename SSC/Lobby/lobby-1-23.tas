@@ -1,4 +1,5 @@
-console hearts 1 SecretSanta2022/1-Main
+console wipedebug
+console hearts 100 SecretSanta2022/1-Main
 console load SecretSanta2022/0-Lobbies/1-Main lvl_1 38
    1
 
@@ -43,7 +44,88 @@ console load SecretSanta2022/0-Lobbies/1-Main lvl_1 38
   14,U,X
    2,L,J
   12,L
-   4,Z
-   1,L,J
-  90,L
-#0:05.015(295)
+   4,X
+   2,L,J
+#comment if it desyncs
+#uncomment for upload
+   1,S,N
+   1,D,J
+  34
+#-----
+   9,L,J
+   1,K,G
+   1,R,K
+   1,L,J,G
+   3,L,K,G
+   1,L
+   1,L,J,G
+   1,L,K,G
+   7,L
+  10,L,X
+  12,L,J
+  15,U,X
+  18,R,J
+   7,R,K,G
+   4,L,K
+   1,R
+   1,R,J,G
+   1,J
+   1,R,J
+   1,R
+   1,R,J,G
+   7,R
+   9,R,J
+   1,R,K,G
+   3,R,J,G
+   2,K,G
+   6,R,K
+   1,K
+   3,L,K
+  15,U,X
+  29,R,J
+   2,R,K,G
+   4,L,K
+   6,R,K
+   1,R,J,G
+   7,R
+   9,R,J
+  14,U,Z
+   1,L
+   1,J,G
+   1,R
+   1,L,K,G
+   1,L,J,G
+   1,L
+   1,L,K,G
+   7,L
+   9,L,J
+  15,L,U,X
+ 329
+
+#lvl_3
+  65
+  12,R,J
+  16,U,X
+  15,L,J
+   1,L,K,G
+   7
+   1,R,J
+  11,J
+  15,U,X
+  17,R,J
+   1,R,K,G
+   7
+  12,J
+  14,U,X
+   8,J
+  11
+  15,U,X
+Repeat 27
+   3,L,D
+   2,R,D
+Endrepeat
+
+#without cutscene skip
+#0:20.332(1196)
+#with cutscene skip
+#0:20.944(1232)
