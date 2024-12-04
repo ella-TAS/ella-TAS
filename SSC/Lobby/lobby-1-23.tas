@@ -8,22 +8,26 @@ console load SecretSanta2022/0-Lobbies/1-Main lvl_1 38
   11,L,Z
    7,L,J
    1,R,K,G
-  10,L,K
+   7,L,K
    2,L
+   3,J,G
+   1,R,J
+   1,L,K,G
    1,L,J,G
-   2,R,J
-   1,L,J
-   8,L
-  13,L,J
-  14,U,Z
-  25,R,J
-  10,R,K,G
-   2
-   7,R,J,G
-   1,R,K,G
+   1,L,K,G
+   7,L
+  12,L,J
+   1,J
+  10,U,X
+   2,L,J
    5,L
+   1,R
+   3,L
    2
-   6,J
+  14,U,X
+  15,R,J
+  11,R
+   6,R,J
   15,U,X
   18,L,J
   40
@@ -32,100 +36,112 @@ console load SecretSanta2022/0-Lobbies/1-Main lvl_1 38
    7,L
    4
   10,R,D,X
-  10,R,J
-   2,J
-  13,U,X
   12,R,J
-   8,R
-   2,R,K
-   7,R
-   2,R,J
-   4,J
-  14,U,X
-   2,L,J
-  12,L
+   2,J
+  15,U,X
+  18,L,J
+  12,K
+   4,L,J,G
+   1,L,K,G
+   1,R,K
+   2,K
+   3,R,K
+   2,K
+   1,R,K
+   1,K
+   1,L,J,G
+   7,L
    4,X
-   2,L,J
+   4,L,J
 #comment if it desyncs
 #uncomment for upload
    1,S,N
    1,D,J
   34
 #-----
-   9,L,J
-   1,K,G
-   1,R,K
-   1,L,J,G
-   3,L,K,G
-   1,L
-   1,L,J,G
+  10,L,J
    1,L,K,G
+   4,R,K
+   1,L,J,G
    7,L
-  10,L,X
-  12,L,J
+   4,L,Z
+   1,L,J
+   5,L
+   1
+   1,L,J
+   6,J
+   1,L
+   1
   15,U,X
-  18,R,J
-   7,R,K,G
-   4,L,K
+   1,J,G
+   3,L
+   3
    1,R
-   1,R,J,G
    1,J
-   1,R,J
+   6,R,J
+   3,J
+  16,U,X
+  11,R,J
+  11,R
+   1,J
+   4,R,J
+   5,J
    1,R
-   1,R,J,G
-   7,R
-   9,R,J
-   1,R,K,G
-   3,R,J,G
-   2,K,G
-   6,R,K
-   1,K
-   3,L,K
-  15,U,X
+  16,U,X
   29,R,J
    2,R,K,G
-   4,L,K
-   6,R,K
+   3,L,K
+   2,K
+   1,L,K
+   2,K
+   1
    1,R,J,G
+   1,R,K,G
    7,R
-   9,R,J
+   6,R,J
+   3,J
   14,U,Z
    1,L
    1,J,G
    1,R
-   1,L,K,G
    1,L,J,G
-   1,L
    1,L,K,G
+   1,L
+   1,L,J,G
    7,L
-   9,L,J
-  15,L,U,X
+  10,L,J
+  14,L,U,X
  329
 
 #lvl_3
   65
-  12,R,J
-  16,U,X
-  15,L,J
+  11,R,J
+  15,U,X
+   1,R
+  16,L,J
    1,L,K,G
    7
-   1,R,J
-  11,J
+   3,L,J
   15,U,X
   17,R,J
-   1,R,K,G
-   7
-  12,J
+   8,K,G
+   1
+   1,K,G
+   4
+   3,L
   14,U,X
    8,J
   11
-  15,U,X
-Repeat 27
+   9,R,J
+  14,U,X
+   1
+Repeat 26
    3,L,D
    2,R,D
 Endrepeat
-
+   5
+   
 #without cutscene skip
-#0:20.332(1196)
+#0:20.043(1179)
 #with cutscene skip
-#0:20.944(1232)
+#0:20.655(1215)
