@@ -1,0 +1,22 @@
+console load SecretSanta2022/0-Lobbies/1-Main
+   1
+
+#Start
+ 190
+   7,R,Z
+   1,L,J
+  14,D
+  15,R,D,X
+   5,D
+   7,R,D
+  16,L,D
+repeat 12
+   2,L,D
+   2,R,D
+endrepeat
+   1,N
+#0:01.836(108)
+  29
+   1,R
+ 180
+   1,R

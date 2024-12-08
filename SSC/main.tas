@@ -1,0 +1,127 @@
+read start
+EnforceLegal
+
+read Maps/prologue Start
+read LoadANo Prologue
+
+read Lobby/lobby-0-22 Start
+read LoadEnter
+read Maps/100_ridgs Start
+  33,X,C
+
+read Lobby/lobby-22-21 Start
+read LoadEnter
+read Maps/breaking_point Start
+  33,X,C
+
+read Lobby/lobby-21-20 Start
+read LoadEnter
+read Maps/fallacious_realm Start
+  33,X,C
+
+read Lobby/lobby-20-19 Start
+read LoadEnter
+read Maps/timeless_crest Start
+  33,X,C
+
+read Lobby/lobby-19-18 Start
+read LoadEnter
+read Maps/stygophilia Start
+  33,X,C
+
+read Lobby/lobby-18-17 Start
+read LoadEnter
+read Maps/old_ones_mausoleum Start
+  33,X,C
+
+read Lobby/lobby-17-16 Start
+read LoadEnter
+read Maps/gusty_proposition Start
+  33,X,C
+
+read Lobby/lobby-16-15 Start
+read LoadEnter
+read Maps/one_star_review Start
+  33,X,C
+
+read Lobby/lobby-15-14 Start
+read LoadEnter
+read Maps/celestial_medley Start
+  33,X,C
+
+read Lobby/lobby-14-13 Start
+read LoadEnter
+read Maps/blue_moon Start
+  33,X,C
+
+read Lobby/lobby-13-12 Start
+read LoadEnter
+read Maps/wrappin_jellies Start
+  33,X,C
+
+read Lobby/lobby-12-10 Start
+read LoadEnter
+read Maps/pls_speedtech Start
+  33,X,C
+
+read Lobby/lobby-10-11 Start
+read LoadEnter
+read Maps/cephstellation Start
+  33,X,C
+
+read Lobby/lobby-11-9 Start
+read LoadEnter
+read Maps/supposed_to_be Start
+  33,X,C
+
+read Lobby/lobby-9-8 Start
+read LoadEnter
+read Maps/frozen_machinery Start
+  33,X,C
+
+read Lobby/lobby-8-7 Start
+read LoadEnter
+read Maps/push_blocks_cliffs Start
+  33,X,C
+
+read Lobby/lobby-7-6 Start
+read LoadEnter
+read Maps/sapphire_spire Start
+  33,X,C
+
+read Lobby/lobby-6-5 Start
+read LoadEnter
+read Maps/secret_cliffside_florest Start
+  33,X,C
+
+read Lobby/lobby-5-4 Start
+read LoadEnter
+read Maps/purple_factory Start
+  33,X,C
+
+read Lobby/lobby-4-3 Start
+read LoadEnter
+read Maps/crystal_caverns Start
+  33,X,C
+
+read Lobby/lobby-3-2 Start
+read LoadEnter
+read Maps/good_map Start
+  33,X,C
+
+read Lobby/lobby-2-1 Start
+read LoadEnter
+read Maps/resecration Start
+  33,X,C
+
+read Lobby/lobby-1-23 Start
+  59
+   1,J
+ 196
+ 300
+   1,J
+  83
+   1,S
+   1,J
+  46
+read LoadJournal Start
