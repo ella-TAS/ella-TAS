@@ -1,4 +1,4 @@
-RecordCount: 8851
+RecordCount: 9114
 
 console load SecretSanta2022/1-Main/zucchini
    1
@@ -154,7 +154,7 @@ console load SecretSanta2022/1-Main/zucchini
   15,D,C
   15,D,X
   15,D,C
-   3
+   1
   12,R,Z
    1,L,J
   13,D
@@ -162,24 +162,33 @@ console load SecretSanta2022/1-Main/zucchini
    8,L
   10,L,D,J
    5,L
-   5,L,K
-   8,L,J
-   6,L
-   1,L,K
+   1,L,J
+   6,R,J
+   1,K
+   2,J,G
+   6,L,J
+   5,L
+   1,L,J
    1,L
-   1,L,K
-   6,L
-  15,U,X
+   4,L,J
+   3,L
+  15,U,Z
    1,R
-  20,L,J
+  14,L,J
+   4,L
   15,U,X
   10,L
-Repeat 2
   15,D,X
   15,D,C
-Endrepeat
-   8
-   6,L,Z
+  15,D,X
+   1
+  11,R,D,C
+   1,L,J
+   3,L
+  10,L,D,X
+   1,R,J
+   4,R
+   4,L,Z
    4,L,J
    2,L
    1,L,J
@@ -187,17 +196,23 @@ Endrepeat
   40
 
 #lvl_ABuffZucchini_03
-   4,L
-  10
-  25,L
+   2,L
+   6
+   9,L,D
+  17,L
    1,L,G
    1
   30,J
-   9,R,D
-  33,G
+   8,R,D
+   1,D
+   2
+  25,G
+   6,D,G
   10,L,J
   17,L
-  18
+  16
+   1,R
+   1
    6,R
   12,J
    5
@@ -419,7 +434,7 @@ Endrepeat
    1,K
    6,R
    1
-   2
+   3
   15,R,X
   15,L,C
    7,R,D,X
@@ -523,9 +538,8 @@ Endrepeat
   15,U,X
   14,R
    1
-   6,L
-   1,L,J
-   4,Z
+   5,L
+   5,L,Z
    1,R,J
    1
    5,R
@@ -534,7 +548,6 @@ Endrepeat
 #lvl_ABuffZucchini_07
    7,R
   15,D,X
-   3
   14,R
    1,R,D
    6,R
@@ -549,6 +562,7 @@ repeat 20
    1
 endrepeat
    5,G
+   4,G
    7,K,G
    1,R,K
    1,J
@@ -700,9 +714,8 @@ endstunpause
    1,R,J,G
    5,R
    9,R,J
-  16,R
-   2
-   1,R
+  16,R,D
+   2,D
    8,J,G
    1,L,J
    1,K
@@ -1200,4 +1213,4 @@ endstunpause
   15,D,X
  135,L,U
 
-ChapterTime: 2:02.859(7227)
+ChapterTime: 2:02.791(7223)
