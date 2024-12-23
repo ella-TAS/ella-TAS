@@ -16,6 +16,7 @@ ZMC: Zip Mover Contest 2021 (https://gamebanana.com/mods/327347)
 
 Anarchy Mapping Event (https://gamebanana.com/mods/453770)  
 Backward Bubble (https://gamebanana.com/mods/409768)  
+Bubble Mountain (https://gamebanana.com/mods/563501)  
 Conqueror's Peak (https://gamebanana.com/mods/348793)  
 One Thousand Meters (Contest #2) (https://gamebanana.com/mods/346606)  
 The mines (Contest #1) (https://gamebanana.com/mods/321582)  
