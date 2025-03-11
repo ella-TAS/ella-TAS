@@ -14,6 +14,7 @@ SSC: Secret Santa Collab 2022 (https://gamebanana.com/mods/361029)
 STC: Startup Contest 2021 (https://gamebanana.com/mods/329903)  
 ZMC: Zip Mover Contest 2021 (https://gamebanana.com/mods/327347)  
 
+Aesthetica (https://gamebanana.com/mods/577435)
 Anarchy Mapping Event (https://gamebanana.com/mods/453770)  
 Backward Bubble (https://gamebanana.com/mods/409768)  
 Bubble Mountain (https://gamebanana.com/mods/563501)  
