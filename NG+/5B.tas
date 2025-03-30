@@ -1,6 +1,10 @@
+console clrsav
 console hard 5
    1
 console p_twodashes
+set AssistMode true
+set Everest.ShowModOptionsInGame false
+
 
 #Start
  190
@@ -373,7 +377,13 @@ EndRepeat
   18
 
 #lvl_c-00
- 206
+ 110
+   1,S
+   1,D
+   1,F,180
+   1,D,J
+SaveAndQuitReenter
+  36
    7,L,Z
    1,R,J
    8
@@ -682,40 +692,30 @@ EndRepeat
    3
    6,R,X
   13,R,G
-  37,R,D,G
-   3,R,G
-   1,R,D,G
-   1,R,G
-   9,G
-   1
-   8,R,U,X
-  18,L,G
-   3,R,J,G
-  10,R,J
-   5,R,Z
-   1,R,J
-   8,L
-  25,L,D
-   2,D
-   6,R,U,X
-  21,R,G
+   9,D,G
+  20,R
+   8
+   5,L
+  15,R,X
+  11,R,C
+  39,R,J,G
+   1,R,U
+  14,R,U,X
+  37,R,G
    1,R
-  13,R,Z
-   1,R,J
-   1,R
-  10,L,Z
-   1,R,J
+   4,R,J,G
    7,R
+  14,R,D,X
    1,R,J
-   8,R,D,X
-  14,R,G
-   4,R,K,G
-   5,R,G
+  12,R,D,X
+   4,R,G
+  17,R,D,G
   40
 
 #lvl_d-04
-  11,R,G
-   1,G
+   4,R,G
+   6,G
+   2,R,G
    1,R,J
   11,L,D,X
    1,R,J
@@ -768,4 +768,4 @@ EndRepeat
   14,R,U,X
  135
 
-ChapterTime: 1:36.645(5685)
+ChapterTime: 1:35.557(5621)
