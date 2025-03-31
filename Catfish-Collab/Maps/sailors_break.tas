@@ -1,110 +1,119 @@
-RecordCount: 192
+RecordCount: 726
 
 console load CatCollab/1-LivingRoom/TwistsAndTurns
 
 #Start
-#a00_Entry_1
  191
+
+#lvl_a00_Entry_1 (0)
    5,J
    7,L,X
   23,L,D,G
   40
 
-#a01_Reset
+#lvl_a01_Reset
    4,R,D
   10,L,D,X
    2,R,J
-  20,R,U,X,G
+   3,R
+   5,R,U,X
+  12,R,G
   40
 
-#a00_Entry_1
-  13,R,D,G
-   1,R
-  27,R,G
+#lvl_a00_Entry_1 (1)
+  12,R,G
    1,R
    5,U,X
-  22,R,G
+  13,G
+  53,R,G
    1,R
-  10,R,D
-  25,D
-  39,R,D,G
-   1,D
-   2,L
-  12,L,Z
-   2,R,J
-   5,R
-  26,R,J,G
-  10,K,G
-  11,D
-   5,U,X
-  40,R,D,G
-  20,D,G
-  33,R,D,G
-  40
-
-#a02_Hub
-  15,R,D,G
-   1,R
-   1
-   1,L,J
-   5,L
-  10,L,D,X
-   2,R,J
-   9,R,K,G
-   1,R
-stunpause
-   5,R
-   2,R,G
-  25,L,G
-   1,R
-   9,R
-SkipInput,3,1
-  13,U,X
-  10,G
+  23
+  15,D
+  14,L,D,X
+   1,R,J
+  10,R,D,X
   13,R,G
-   8,G
-
-   1,D
-   1,J
-
-   3,J,G
-endstunpause
-  20,R,J,G
-  21,J,G
+   5,R,J,G
+   3,R,G
+   1,L
+   1,R
+   3
+  12,J
+   5,U,X
+  17,G
+  33,R,G
+  22,R,D,G
   40
 
-#a06_Heart
-   3,R,G
+#lvl_a02_Hub
+  21,R,D,G
    1,R
-  70,L
+  10,L,D,X
+  13,R,J
+  13,R,G
+   8,R,J,G
+   1,R
+  13,R,U,X
+   7,J
+  24,G
+   1,R
+   8
+  18,R
+  20,R,D
+   5,R,Z
+   8,R,J
+   2,R
+   2
+  10,R,Z
+   1,L,J
+   7,L
+  14,L,J
+  15,U,X
+   1
+   2,R
+   6,J
+  35,G
+  40
+
+#lvl_a06_Heart (0)
+   4,R,G
+   1,R
+   6,L
+  15,L,D,X
+  63
    4,R,J
   11,R,D,X
    2,L,J
    2,L,K,G
-  11,L
-   2,L,J
+   2,L
+  10,L,D,X
+   4,L,J
    6,L,K,G
-   5,L,J,G
-   1,L,K,G
-   1,L
-  14,U,X
+   1,L,J,G
+  15,U,X
+   7,R,J,G
+   1
+   2,R,J,G
+   7,R
    1,R,J
-  12,R
-   3,R,J
-  12,R,X
-  10,R,J
-   8,R,K,G
-  14,U,X
+   1,R
+   7,R,Z
+   1,R,J
+   6,R
+   4,R,J
+   4,R,K,G
+   7,R,J,G
+  15,U,X
   40
 
-#a07_GetOwned
-  11,D
+#lvl_a07_GetOwned
+  11
   11,D,X
   40
 
-#a06_Heart
-   7,D
-  10,D,X
- 137
+#lvl_a06_Heart (1)
+   4,D
+  14,D,X
+ 135
 
-ChapterTime: 0:27.166(1598)
+ChapterTime: 0:19.584(1152)
