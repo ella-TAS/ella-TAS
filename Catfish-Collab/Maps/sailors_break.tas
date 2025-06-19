@@ -1,4 +1,4 @@
-RecordCount: 727
+RecordCount: 852
 
 console load CatCollab/1-LivingRoom/TwistsAndTurns
    1
@@ -72,38 +72,43 @@ console load CatCollab/1-LivingRoom/TwistsAndTurns
    1
    2,R
    6,J
-  35,G
+  29,G
+   6,L,G
   40
 
 #lvl_a06_Heart (0)
-   4,R,G
-   1,R
-   6,L
-  15,L,D,X
-  63
-   4,R,J
-  11,R,D,X
-   2,L,J
-   2,L,K,G
-   2,L
-  10,L,D,X
-   4,L,J
-   6,L,K,G
-   1,L,J,G
-  15,U,X
-   7,R,J,G
-   1
-   2,R,J,G
-   7,R
-   1,R,J
-   1,R
-   7,R,Z
-   1,R,J
-   6,R
-   4,R,J
+   6,L,G
    4,R,K,G
-   7,R,J,G
+  17,R,G
+   1,R,J,G
+   1,R,G
+   1,R
+  15,D,X
+  15,D,C
+   4
+   5,L
+  15,L,J
+  14,R,D,X
+   1,L,J
+  15,L,D,X
+   2,D
+  10,L,D,J
   15,U,X
+   3,L
+   1,R,J,G
+   3,L,J
+   2,R,K,G
+   2,R
+   1
+   4,R
+   1,R,J
+   1,R
+  12,R,X
+   6,R,J
+   3,R,K,G
+   6,R,J,G
+  14,U,X
+   1,J
   40
 
 #lvl_a07_GetOwned
@@ -114,6 +119,14 @@ console load CatCollab/1-LivingRoom/TwistsAndTurns
 #lvl_a06_Heart (1)
    4,D
   14,D,X
- 135
+  12
+   6,R
+   4,Z
+   1,L,J
+  15,L
+   6,L,J
+   1,L,K,G
+  14,L,J,G
+  82,L,D,X
 
-ChapterTime: 0:19.584(1152)
+ChapterTime: 0:19.397(1141)
