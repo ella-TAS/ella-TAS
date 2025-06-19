@@ -1,4 +1,4 @@
-RecordCount: 5861
+RecordCount: 6377
 
 console load CatCollab/1-LivingRoom/Aronh
    1
@@ -660,126 +660,89 @@ Set, CommunalHelper.DeployElytra, Q
    5,L,K
    9,R,J,G
   10,R,K,G
-   9,R,J,G
-   7,R,Z
+  12,R,J,G
+  14,R,Z
+   1,L,J
+  14,L,Z
    1,R,J
-   6,R
-   1,R,J
-   7,R,D,X
-   1,R,J
-   1,R,K,G
-
-#_h-elytra-00
-  15,R
-   1,R,J
-  77,PQ,F,100.5
-  18,PQ,F,97
-   3,PQ,F,115
-  20,R,D,X
-   1,R,J
-   2,R,K,G
+   6,R,D,X
+   1,R,J,G
+   1
   11,R
    1,R,J
-   4,U,PQ
-   4,PQ
-   4,U,PQ
-   4,PQ
-   5,U,PQ
-  12,PQ
+   6,R,D,X
+   1,R,J
+
+#lvl_h-elytra-00
+   9,R
+   1,R,J
+  50,PQ,F,114.93
+  20,PQ,F,102.90
   15,R,D,X
    1,R,J
-   4,R
+   5,R,K,G
+  21,PQ,F,76.37
+  14,R,X
+   4,R,J,G
+   2,J
+   1,R
   40
 
 #lvl_h-elytra-01
-   8,U,PQ
+  11,R,U,X
+   1,R,J,G
+   1,R,J,PQ
+  26,PQ,F,5.20
+   4,R,PQ
    1,R
-   3,R,J,G
-   8,R,U,X
    1,R,J,G
-  12,R
-   1,R,J
-  22,U,PQ
-   9,PQ
-   8,D,PQ
-   2,L
-   7,R,U,X
-   1,R,J,G
-  12,R
-   1,R,J
-  12,R,D,X
+  10,R
+   5,R,J
+   1,R
   40
 
 #lvl_h-elytra-02
-   2
-   1,R,J
-  10,R,D,X
-   1,R,J
-   4,PQ
+   3,R
   14,R,D,X
-  10,D,PQ
-  41,U,PQ
-  20,PQ
-  24,D,PQ
-  10,U,PQ
-   3,PQ
-  41,PQ,F,100.26390244
-  16,U,PQ
-  45,PQ,F,90.5
-  15,PQ,F,99.695
-   7,D,PQ
-  41,PQ
-   2,PQ,F,90
-   1,R,J
-  11,R,D,X
+  17,PQ,F,93.80
+  23,PQ,F,88.92
+  44,PQ,F,110.08
+  35,PQ,F,85.54
+  22,PQ,F,94.82
+  44,PQ,F,90.2
   40
 
 #lvl_h-elytra-03
-   3
+   4,PQ,F,90.2
+   1,R
    1,R,J
+   1
   14,R,D,X
-   1,R,J
-  31,D,PQ
-  17,PQ,F,108.872
-   3,D,PQ
-  26,U,PQ
-   8,PQ
-   6,R
-   6,R,D,X
-   3,R,J,G
-   4,R
-   1,R,J,G
-  10,R
-   1,R,J
-   8,R,D,X
+  14,D,PQ
+  36,PQ,F,83.65
   40
 
 #lvl_h-elytra-04
-   4
-   1,R,J
-   2,L
-  14,R,D,X
-   1,R,J
-  14,R,D,X
-  77,PQ,F,94.8
-  23,PQ,F,95.77345
-  61,PQ,F,95.2
-  20,PQ,F,286.31
-  50,PQ,F,299
+   3,R,PQ
    1,R
-   2,R,J,G
+   2,R,J
+  14,R,D,X
+  48,PQ,F,97.22
+  19,PQ,F,95.71
+  11
+   1,PQ
+  53,PQ,F,28.42
+   1,R
+   1,R,J,G
   12,R
-   1,R,J
-   3,R
   40
 
 #lvl_i-heartroom-00
-  14,R,D,X
    1,R,J
-   1,PQ,F,350
-  20,PQ,F,308
-   1,R
-  14,R,U,X
- 135,R
+  11,R,PQ
+  18,PQ,F,60
+   7,PQ,F,0
+   8,U,X
+ 135
 
-ChapterTime: 1:38.583(5799)
+ChapterTime: 1:32.344(5432)
