@@ -1,4 +1,4 @@
-RecordCount: 5328
+RecordCount: 5449
 
 console load CatCollab/1-LivingRoom/10wtn
    1
@@ -432,23 +432,25 @@ EndStunPause
   28,R,J
    1,K,G
    1
-   5,K,G
-   7,R
-  14,R,Z
-   1,R,J
-  15,D,X
+   4,K,G
+   1,J,G
    5,R
-   1,R,J
-  14,R
-   1,R,J
-  14,R
-   1,R,J
-  14,R
+   1
+   1,L
+   1,J
+   7,L
+   6
+  14,R,X
+   2,R,J
+  20,R,D,X
+   5,R
+   3,D
+   5
   40
 
 #lvl_paul-Outro
    1,R
-   6,R,Z
+   6,R,D,X
    1,R,J
    7,R
    1,R,J
@@ -469,4 +471,4 @@ EndStunPause
    5,L
  135,R
 
-ChapterTime: 1:01.132(3596)
+ChapterTime: 1:00.843(3579)
