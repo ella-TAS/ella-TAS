@@ -4,9 +4,8 @@ console load CatCollab/1-LivingRoom/MOD
    1
 
 #Start
- 190
-
 #lvl_intro
+ 190
   15,R,Z
    1,R,J
    5,R

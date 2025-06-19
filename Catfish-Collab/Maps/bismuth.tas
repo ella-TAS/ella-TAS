@@ -3,12 +3,12 @@ RecordCount: 712
 console load CatCollab/1-LivingRoom/Bismuth
    1
 #Start
+#lvl_00Stone
  190
 #Spinner Cycle lvl_06Enor Pearl
    1
 #Theo bounces at end are cycle dependent
 
-#lvl_00Stone
    9,L,Z
    1,R,J
    7,R

@@ -1,4 +1,4 @@
-RecordCount: 1914
+RecordCount: 1969
 
 console load CatCollab/1-LivingRoom/Paper_Crane
    1
@@ -514,12 +514,18 @@ AnalogMode Ignore
    1,R,J
   39,R,D,X
    6,R
-  11,R,D,J
-   6,L,K,G
-  15,U,X
-  18,R,J
-   6,K
-   4,X
- 135,D,X
+  10,R,D,J
+   1,L,J
+   3,K,G
+  14,U,Z
+  10,R,J
+   1,R,K,G
+   7,R
+  12,U,X
+ 100,R,D
+   1,Z
+   2,L,J
+   1,R,J
+  31,K,G
 
-ChapterTime: 1:18.795(4635)
+ChapterTime: 1:18.761(4633)

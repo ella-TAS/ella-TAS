@@ -4,13 +4,13 @@ console load CatCollab/1-LivingRoom/CatCanopy
    1
 
 #Start
+#lvl_R-1
 Repeat 36
    1,J
    1,O
 EndRepeat
   11
 
-#lvl_R-1
    2,L,J
   14,R,D,X
   20,R,J
