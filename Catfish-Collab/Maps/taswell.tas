@@ -1,4 +1,4 @@
-RecordCount: 6377
+RecordCount: 7572
 
 console load CatCollab/1-LivingRoom/Aronh
    1
@@ -178,8 +178,8 @@ Set, CommunalHelper.DeployElytra, Q
   14,L,D,X
    2,R
    2,R,J
-  28,R,X
-  10,J,G
+  28,R,Z
+   3,J,G
    7,R
   15,L,Z
    5,R
@@ -217,6 +217,7 @@ Set, CommunalHelper.DeployElytra, Q
    4,R
    3,R,J
    2,R
+
   14,U,X
   13,L,J
    5,R,J
@@ -224,6 +225,7 @@ Set, CommunalHelper.DeployElytra, Q
    7,R
    1,R,J
   14,R
+
    5,R,Z
    1,R,J
    7,R
@@ -283,16 +285,21 @@ Set, CommunalHelper.DeployElytra, Q
   16,R,D,X
    5,R
    1,R,J
-  14,R
-   3,R,J
+   5,R
+   2,R,J
+   7,R
+   1
+   1,R,J
+   1,J
   15,R,D,X
-   3,J
-   8,R,J
+   1,R,J
+   8,J
+   2,R,J
   29,R,D,X
    7,R,J
   15,R,D,X
-   1,R,J
-   7,R,D,X
+   1,R
+   3,R,D
   40
 
 #lvl_d-ice-03
@@ -388,6 +395,7 @@ Set, CommunalHelper.DeployElytra, Q
   17,R,D
    3,R
    2,R,D
+
    4,R,Z
    1,R,J
   12,R,D
@@ -603,12 +611,12 @@ Set, CommunalHelper.DeployElytra, Q
    4,R
    1,R,J
    4,R
+   1,R,J
   40
 
 #lvl_f-lamp-04
 #close to being able to cornerboost off of the block (idk if it would save time)
-   1,R,J
-  13,R,D,X
+  12,R,D,X
    1,R,J
    7,R
   12,R,J
@@ -675,74 +683,176 @@ Set, CommunalHelper.DeployElytra, Q
 
 #lvl_h-elytra-00
    9,R
-   1,R,J
-  50,PQ,F,114.93
-  20,PQ,F,102.90
+   5,R,J
   15,R,D,X
-   1,R,J
-   5,R,K,G
-  21,PQ,F,76.37
-  14,R,X
-   4,R,J,G
-   2,J
+  28,PQ,F,103.5
+   5,PQ,F,180
+  20,PQ,F,90
    1,R
+   3,R,J
+   5,R,D,X
+   2,R,J,G
+   1,R
+   1,R,J,G
+   1
+   1,R,K,G
+   3,R
+   1
+   7,R
+   1,R,J
+   1,J,PQ,F,90
+   1,PQ,F,69.9714
+   1,PQ,F,69.3557
+   1,PQ,F,68.7365
+   1,PQ,F,68.1136
+   1,PQ,F,67.4869
+   1,PQ,F,66.8562
+   1,PQ,F,66.2214
+   1,PQ,F,65.5823
+   1,PQ,F,64.9386
+   1,PQ,F,64.2903
+   1,PQ,F,63.6371
+   1,PQ,F,62.9788
+   1,PQ,F,62.3152
+   1,PQ,F,61.6461
+   1,PQ,F,60.9712
+   1,PQ,F,60.2903
+   1,PQ,F,59.6031
+   1,PQ,F,58.9094
+   1,PQ,F,58.2088
   40
 
 #lvl_h-elytra-01
-  11,R,U,X
-   1,R,J,G
-   1,R,J,PQ
-  26,PQ,F,5.20
-   4,R,PQ
-   1,R
-   1,R,J,G
-  10,R
-   5,R,J
-   1,R
+   1,PQ,F,57.4522
+   1,PQ,F,56.7364
+   1,PQ,F,56.0127
+   1,PQ,F,55.2808
+   1,PQ,F,54.5404
+   1,PQ,F,53.7909
+   1,PQ,F,53.032
+   1,PQ,F,52.2632
+  11,PQ,F,90
+   4,PQ,F,0
+  12
+   9,R,D,X
   40
 
 #lvl_h-elytra-02
-   3,R
-  14,R,D,X
-  17,PQ,F,93.80
-  23,PQ,F,88.92
-  44,PQ,F,110.08
-  35,PQ,F,85.54
-  22,PQ,F,94.82
-  44,PQ,F,90.2
+   6,R,D,X
+   1,MD,PQ,F,90
+  12,PQ,F,97
+  16,PQ,F,0
+  37,PQ,F,180
+  31,PQ,F,0
+   1,PQ,F,88.5814
+   1,PQ,F,87.7336
+   1,PQ,F,86.8857
+   1,PQ,F,86.0374
+   1,PQ,F,85.1887
+   1,PQ,F,84.3396
+   1,PQ,F,83.4898
+   1,PQ,F,82.6395
+Repeat, 3
+   1,PQ,F,81.7883
+   1,PQ,F,90
+EndRepeat
+   1,R
+  15,R,D,X
+   1,MD,PQ,F,90
+   8,PQ,F,180
+  20,PQ,F,90
+   1,PQ,F,89.1074
+   1,PQ,F,88.2147
+   1,PQ,F,87.3218
+   1,PQ,F,86.4286
+   1,PQ,F,85.535
+   1,PQ,F,84.6409
+   1,R
+   6,R,J
   40
 
 #lvl_h-elytra-03
-   4,PQ,F,90.2
+   2,R,J
+  15,R,D,X
+   1,R,D
+  14,PQ,F,180
+  25,PQ,F,90
    1,R
-   1,R,J
-   1
-  14,R,D,X
-  14,D,PQ
-  36,PQ,F,83.65
+   2,R,J
+   3,R
   40
 
 #lvl_h-elytra-04
-   3,R,PQ
-   1,R
-   2,R,J
-  14,R,D,X
-  48,PQ,F,97.22
-  19,PQ,F,95.71
-  11
-   1,PQ
-  53,PQ,F,28.42
-   1,R
-   1,R,J,G
-  12,R
+   3
+  15,R,D,X
+  17,PQ,F,180
+  15,PQ,F,90
+   1,PQ,F,92
+  10,PQ,F,180
+   7,PQ,F,0
+   6,PQ,F,180
+   1,PQ,F,97.2
+   1,PQ,F,0
+  12,L
+   4,L,D
+   1,PQ,F,90
+  17,PQ,F,0
+   1,PQ,F,81.8117
+   1,PQ,F,80.9243
+   1,PQ,F,80.0358
+   1,PQ,F,79.1463
+   1,PQ,F,78.2556
+   1,PQ,F,77.3429
+   1,PQ,F,76.4256
+   1,PQ,F,75.5031
+   1,PQ,F,74.5751
+   1,PQ,F,73.6412
+   1,PQ,F,72.7009
+   1,PQ,F,71.7537
+   1,PQ,F,70.7991
+   1,PQ,F,69.8367
+   1,PQ,F,68.8658
+   1,PQ,F,67.886
+   1,PQ,F,66.8966
+   1,PQ,F,65.897
+   1,PQ,F,64.8865
+   1,PQ,F,63.8644
+   1,PQ,F,62.8298
+   1,PQ,F,61.782
+   1,PQ,F,60.7201
+   1,PQ,F,59.6431
+   1,PQ,F,58.55
+   1,PQ,F,57.4395
+   1,PQ,F,56.3106
+   1,PQ,F,55.1617
+   1,PQ,F,53.9915
+   1,PQ,F,52.7983
+   1,PQ,F,51.5802
+   1,PQ,F,52
+  20,ML,PQ,F,90
   40
 
 #lvl_i-heartroom-00
-   1,R,J
-  11,R,PQ
-  18,PQ,F,60
-   7,PQ,F,0
-   8,U,X
+   2,PQ,F,90
+   1,PQ,F,74.9564
+   1,PQ,F,73.9459
+   1,PQ,F,72.928
+   1,PQ,F,71.9021
+   1,PQ,F,70.8677
+   1,PQ,F,69.8241
+   1,PQ,F,68.7705
+   1,PQ,F,67.7064
+   1,PQ,F,66.6308
+   1,PQ,F,65.543
+   1,PQ,F,64.4421
+   1,PQ,F,63.3272
+   1,PQ,F,62.1971
+   1,PQ,F,61.0508
+   1,PQ,F,59.8871
+   1,PQ,F,58.7048
+   1,PQ,F,57.5022
+   1,PQ,F,56.278
+  15,R,U,X
  135
 
-ChapterTime: 1:32.344(5432)
+ChapterTime: 1:30.831(5343)
