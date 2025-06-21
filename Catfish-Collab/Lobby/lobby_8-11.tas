@@ -8,13 +8,15 @@ console load CatCollab/0-Lobbies/1-LivingRoom 2344 -624
    1,R,J
    4,R,K,G
   12,R,U,X
-  19,R,J,G
-   3,K,G
-   2
-   1,K,G
+  17,R,J,G
+   1,R
+   1,R,K
+   1,R,K,G
+   3,L,K
+   1,R
+   1,R,J,G
    7,R
-  11,U,X
-  36
+  46,U,X
    1,R,J
    1,R,K
   16,R
@@ -76,4 +78,4 @@ console load CatCollab/0-Lobbies/1-LivingRoom 2344 -624
    1,L,J
   15,L,D
    1,N
-#0:07.310(430)
+#0:07.293(429)
