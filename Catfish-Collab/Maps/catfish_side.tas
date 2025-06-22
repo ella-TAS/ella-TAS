@@ -1,8 +1,7 @@
-RecordCount: 8421
+RecordCount: 8422
 
 console load CatCollab/1-LivingRoom/ZZ-CatfishHeartside
    1
-Set, CommunalHelper.DeployElytra, A
 
 #Start
   36

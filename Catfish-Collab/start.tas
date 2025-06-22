@@ -16,7 +16,7 @@ Set,DisableFlashes,true
 Set,CrouchDashMode,Press
 Set,GrabMode,Hold
 
-Set,CommunalHelper.DeployElytra,A
+Set,CommunalHelper.DeployElytra,Q
 
 #start on begin
 #   1,D
@@ -29,7 +29,7 @@ console overworld
   94
    1,J
   56
-Repeat 15
+Repeat 60
    1,D
    1,F,180
 Endrepeat
@@ -76,17 +76,43 @@ Endrepeat
 #choose the file name
 #and input S
 #-----
-   1,D
-   1,R
+Repeat 3
+   1,L
+   1,F,270
+EndRepeat
    1,D
    1,J
+   1,R
    1,U
+   1,J
+   1,D
+   1,R
+   1,J
    1,L
+   1,D
+   1,J
+   1,D
+   1,F,180
+   1,D
+   1,L
+   1,F,270
+   1,J
+   1,R
+   1,U
+   1,R
    1,U
    1,J
    1,D
    1,F,180
+   1,L
+   1,F,270
+   1,U
+   1,R
+   1,U
+Repeat 3
    1,J
+   1,O
+EndRepeat
    1,S
 #-----
 

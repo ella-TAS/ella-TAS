@@ -1,0 +1,138 @@
+read start
+EnforceLegal
+
+read Maps/prologue Start
+read LoadANo
+
+read Lobby/lobby_0-1 Start
+read LoadEnter
+read Maps/paper_crane Start
+  33,X,C
+
+read Lobby/lobby_1-3 Start
+read LoadEnter
+read Maps/cathunt Start
+  33,X,C
+
+read Lobby/lobby_3-4 Start
+read LoadEnter
+read Maps/cat_city_roofs Start
+  33,X,C
+
+read Lobby/lobby_4-5 Start
+read LoadEnter
+read Maps/cat_canopy Start
+  33,X,C
+
+read Lobby/lobby_5-2 Start
+read LoadEnter
+read Maps/taswell Start
+  33,X,C
+
+read Lobby/lobby_2-6 Start
+read LoadEnter
+read Maps/lake Start
+  33,X,C
+
+read Lobby/lobby_6-7 Start
+read LoadEnter
+read Maps/kitty_jail Start
+  33,X,C
+
+read Lobby/lobby_7-9 Start
+read LoadEnter
+read Maps/celestial_traverse Start
+  33,X,C
+
+read Lobby/lobby_9-8 Start
+read LoadEnter
+read Maps/cat_collab_map Start
+  33,X,C
+
+read Lobby/lobby_8-11 Start
+read LoadEnter
+read Maps/ailurophobia Start
+  33,X,C
+
+read Lobby/lobby_11-10 Start
+read LoadEnter
+read Maps/10_ways_to_nyoom Start
+   1,X
+  64
+   1,Q
+   1,J
+  31
+
+read Lobby/lobby_0-12 Start
+read LoadEnter
+read Maps/yoink Start
+  33,X,C
+
+read Lobby/lobby_12-14 Start
+read LoadEnter
+read Maps/duck_fish_run Start
+  33,X,C
+
+read Lobby/lobby_14-13 Start
+read LoadEnter
+read Maps/magma_cavern Start
+  33,X,C
+
+read Lobby/lobby_13-17 Start
+read LoadEnter
+read Maps/aerial_ascent Start
+  33,X,C
+
+read Lobby/lobby_17-21 Start
+read LoadEnter
+read Maps/clamity Start
+  33,X,C
+
+read Lobby/lobby_21-20ww22 Start
+read Maps/sailors_break Start
+  33,X,C
+
+  36
+   1,N
+read LoadEnter
+read Maps/bismuth Start
+  33,X,C
+
+read Lobby/lobby_22-19 Start
+read LoadEnter
+read Maps/puffer_not_found Start
+  33,X,C
+
+read Lobby/lobby_19-16 Start
+read LoadEnter
+read Maps/seven_shades_of_salmon Start
+  33,X,C
+
+read Lobby/lobby_16-15 Start
+read LoadEnter
+read Maps/puffer_lactose Start
+  33,X,C
+
+read Lobby/lobby_15-18 Start
+read LoadEnter
+read Maps/freshwater_inhibitor Start
+   1,X
+  64
+   1,Q
+   1,J
+  31
+
+read Lobby/lobby_0-23 Start
+read LoadEnter
+read Maps/catfish_side Start
+
+  59
+   1,J
+ 196
+ 300
+   1,J
+  83
+   1,S
+   1,J
+  46
+read LoadJournal Start
