@@ -1,4 +1,4 @@
-RecordCount: 1605
+RecordCount: 3189
 
 console load CatCollab/1-LivingRoom/cathunt
    1
@@ -6,93 +6,99 @@ console load CatCollab/1-LivingRoom/cathunt
 #Start
 #lvl_a-01
   76
-  12
-  11,L,Z
+   1,J
+   8,L
+   2,L,J
+   3,L
+   2
+   7,L,D,Z
    1,R,J
-   7,R
-   1,R,J
-   8,R,D,X
-   1,S
-   1,D,J
-  34
+   6,R
    1,R,D,J
-  14,R
-   1,R,J
-   6,R,D,X
-   1,R,J
+   9,R,D,X
+   1,S
+   1,D,O
+  34
    1,R
-   1,R,J,G
+   1,R,D,J
+   3,R
+   1
+  15,R,D,X
+   1,R,D,J
+   1,R,K,G
   13,R
    1,R,J
-   5,R,D,X
   40
 
 #lvl_a-02
-   9,R,D,X
-   4,R,J
-  10,R,D,X
-   4,L,J
-   8,R,K
-  15,L,U,C
-   4,R,G
-   1,R,J,G
+  14,R
+   9,U,G
+   3,G
+   8,R,J,G
   14,R,X
    4,R,J
-   3,R,K
-  18,R,X
-  24,U,C
+   5,R,K
+   3,R
+  18,R,U,X
+  19,U,C
    7,R,D,X
    1,R,J
    7,R
    1,R,J
-  12,R,D,X
+   6,R,D,X
    1,R,J
+   3,R
   40
 
 #lvl_a-03
-   7,R
+   3,R
    1,R,N
    1,R,J
    2
    6,R,D,X
    1,R,J
    7,R
-   1,R,J
-  16,R,U,X
-   4,L,G
-  10,L,X
-   4,R,G
-   4,R,J,G
-   1
+   3,R,J
+   7,R
+   1,R,G
+  12,R,J,G
+   7,R,K,G
   11,R,Z
    4,R,J
    1,R,K
-  15,R
-  15,U,X
+   1,K
+   1
    1,R
-  18
-   8,R
-   5,R,D
+  15,R,U,Z
+  16
+   1,L
+   1
    2,R
-   1,R,D
-   1,R
-   1,R,D
+   2
+   5,R
+   4,R,D
+   2,R
    1,R,J,G
    5,R
-   1,R,J
-   8,R
-  29,R,J
-  11,R,K,G
-   7,R,J,G
-   1
-  31,R,Z
+   3,R,J
+   7,R
+  27,R,J
+   2,R,K,G
+   2,L,K
+   3,R,K
+   1,R,J,G
+   8,R,K,G
+   8,R,Z
+  23
    4,R,J
-   7,R,K
+   4,R,K
+   3,R
   15,R,D,X
-   5,R
+   4,R
    6,R,J
   12,R
-  23,R,Z
+  14,R,Z
+   9
    4,R,J
    1,R,K
    3,R
@@ -117,88 +123,105 @@ console load CatCollab/1-LivingRoom/cathunt
   25
    9,L
    8,L,D
-  14,L,X
-   4,L,J
-   4,L
-  28,R,X
-   2,L,K
-  14,L,U,X
+  18,L,X
+  15,R,C
+   5,R,K
+   5,R
+   3,R,K
+   3,R
+  17,L,U,X
    4,R,J
    4,R,Z
    2,R,K
-  15,R
+  10,R
+   1,R,K
+   4,R
    1,R,J
    8,R
   40
 
 #lvl_a-05
-  11,R
-  18,R,Z
-   4,R,J
-   8,R,K
-  10,L,K
-  14,L,U,X
-   3,L,J,G
+  10,R
+   5,R,Z
+  13
+   8,R,J
+   1,K
+   5,R,K
+  10,K
+  12,L,U,X
+   1,L,J,G
    5,L
-   2,L,J
+   1,L,J
    1,L
    1,L,J
-   4,L
+   5,L
    2
    4,L
-  16,R,K
-  43,R,U,Z
+  13,R,K
+  16,R,U,Z
+  29
    4,R,J
-   5,R,D,X
+   6,R,D,X
    1,R,J
    7,R
-   2,R,J
+   1,R,J
   40
 
 #lvl_a-06
-  12,R,J
-  14,R,X
-  31,R,J
-  22,R,Z
-   4,R,J
-   4,R
-  23,R,J
-   2,R,K,G
-   2,L
+   6,R,Z
+   1,R,J
+   3,R
+   1,R,J
+   3,R
+  10,R,J
+   3,R,K,G
+   9,R,J,G
+   6,R
+   2,R,J
+   5,R
+  23,R,Z
+   7,R,J
+   1,R
+  17,R,K
+   5,K
+   1,R,K
+   4,R,J,G
+   4,R,K,G
+   4,K
+   1,R
+  14,R,U,X
    1,R,J,G
-   8,R,K,G
-  15,R,U,X
-   1,R,J,G
-   7,R
-   9,R,Z
+   9,R
+   5,R,Z
    1,R,J
    7,R
-   4,R,J
+   3,R,J
   40
 
 #lvl_a-07
-   2,J
+   1,R,J
   21,R,U,X
-   4,R,J
-  12,R,K
-   5,R
-   5,R,K
-  11,R
-   3,R,D
-   1,K
+   7,R,J
+  11,R,K
+   7,R
+   2,R,K
+   1,R
+   1,R,K
+  12,R,D
+   1,J
   14,R
-   4
-   6,D
+   8,D
+   1,R,D
+   1,L,G
+   1,L
   14,L,X
-  12,R,G
-   1,R,D,G
-   1,R,J,G
-   2,R
+  10,R,G
+   3,R,J,G
   15,R,X
-   4,J
-   2,R,J
+   5,R,J
    7,R,K
   18,U,X
+   1,R
   14,R,C
    4,R,J
    1,R,K
@@ -219,4 +242,4 @@ console load CatCollab/1-LivingRoom/cathunt
   46,L,D,X
   29,L,J
 
-ChapterTime: 0:28.237(1661)
+ChapterTime: 0:27.285(1605)
