@@ -1,4 +1,4 @@
-RecordCount: 7572
+RecordCount: 7825
 
 console load CatCollab/1-LivingRoom/Aronh
    1
@@ -38,35 +38,39 @@ Set, CommunalHelper.DeployElytra, Q
   42,R,D,X
    6,R,Z
    1,R,J
-   7,R
-  40
+   6,R
+  41
 
 #lvl_a-start-04
    1,R,J
-   8,R,D,X
+  11,R,D,X
    1,R,J
-   7,R
-   3,R,J
-   3,J
-   2
-   5,R,D,X
+   4,R
+   1,R,K
+   2,R
+   1,R,J
+   7,R,U,X
+   1,R,J,G
+   1,R,K,G
+   2,R
+   1
+   6,R
+   1,R,J
+  15,R,D,X
+   1,R,J,G
+   3,R,K,G
+   0,R
    1,R,J,G
   11,R
    1,R,J
-  17,R,D,X
-   1,R,J
-   3,R,K,G
-   3,R
-   1,R,J,G
-  10,R
-   1,R,J
-  14,R
-   2,R,J
+  13,R
   40
 
+
 #lvl_b-slime-00
-   5,R,J
-  13,R
+   1,R
+   7,R,J
+   8,R
   14,D,Z
    6,R
   15,R,X
@@ -111,25 +115,28 @@ Set, CommunalHelper.DeployElytra, Q
    1,R,K
    8,R,D,X
    1,R,J,G
-  13,R
-   9,R,U,Z
+   6,R
+   2
+   4,R
+   1,R,J
+   8,R,U,Z
    1,R,J,G
-  13,R
-   7,R,J
-   2,R
+   1,R,K,G
+  12,R
+   5,R,J
+   3,R
   43
+
 #lvl_b-slime-02
   16,R
-   9,R,D
-  18,L,D
+   4,R,D
+  22,L,D
    1,L,N
-   7,L,J
-  14,U,X
-  15,R,J
-   1,K,G
-   1,L,K
-   1,R,J,G
-   5,R,K,G
+   4,L,J
+  15,U,X
+  14,R,J
+   4,R
+   7,R,K,G
    7,R
    5,L,D,X
    1,R,J
@@ -157,14 +164,17 @@ Set, CommunalHelper.DeployElytra, Q
 
 #lvl_b-slime-03
    2,R
-   7,R,J
+   3,R,J
+   1,J
+   2,R,J
    2,R
+   1,R,K,G
    1,R,J,G
   14,R,D,X
+   2,R,J
+   9,R
    1,R,J
-  14,R,Z
-   1,R,J
-   2,R
+   1,R
    4,X
   16,D,X
    4,L
@@ -180,18 +190,21 @@ Set, CommunalHelper.DeployElytra, Q
    2,R,J
   28,R,Z
    3,J,G
-   7,R
-  15,L,Z
+   5,R
+   1
+   1,L
+   1,L,J
+  14,L,Z
    5,R
    4,R,J
-   2,R,K
+   1,R,K
   32,R,D,X
-   3,R
+   1,R,J
+   2,R
   43
 
 #lvl_c-catcastle-00
-   2,R
-   1,R,J
+   3,R
   14,R,D,X
    1,S
    1,D,J
@@ -199,17 +212,18 @@ Set, CommunalHelper.DeployElytra, Q
    7,R,J
    9,R,K,G
   15,R,D,X
-   4,R,J
-   8,R,D,X
-   1,R,J,G
-  10,R
-  43
+   1,R,J
+   3,R
+   7,R,D,X
+   1,R,K,G
+   8,R
+  44
 
 #lvl_d-ice-00
-   3,R
-   1,R,J
+   4,R
   14,R,U,X
-   2,R,J,G
+   1,R,J,G
+   1,R,K,G
    5,R
    1,R,J
    1,R
@@ -217,7 +231,6 @@ Set, CommunalHelper.DeployElytra, Q
    4,R
    3,R,J
    2,R
-
   14,U,X
   13,L,J
    5,R,J
@@ -225,7 +238,6 @@ Set, CommunalHelper.DeployElytra, Q
    7,R
    1,R,J
   14,R
-
    5,R,Z
    1,R,J
    7,R
@@ -855,4 +867,4 @@ EndRepeat
   15,R,U,X
  135
 
-ChapterTime: 1:30.831(5343)
+ChapterTime: 1:30.491(5323)
