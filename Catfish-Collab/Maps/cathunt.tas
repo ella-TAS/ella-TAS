@@ -1,4 +1,4 @@
-RecordCount: 3189
+RecordCount: 3206
 
 console load CatCollab/1-LivingRoom/cathunt
    1
@@ -168,18 +168,21 @@ console load CatCollab/1-LivingRoom/cathunt
   40
 
 #lvl_a-06
-   6,R,Z
+   4,R,D,Z
    1,R,J
    3,R
    1,R,J
    3,R
-  10,R,J
-   3,R,K,G
+  12,R,J
+   1,R,K,G
    9,R,J,G
-   6,R
-   2,R,J
    5,R
-  23,R,Z
+   1,R,J
+   1,R
+   3,R,J
+   4,R
+  14,R,Z
+   9
    7,R,J
    1,R
   17,R,K
@@ -242,4 +245,4 @@ console load CatCollab/1-LivingRoom/cathunt
   46,L,D,X
   29,L,J
 
-ChapterTime: 0:27.285(1605)
+ChapterTime: 0:27.268(1604)
