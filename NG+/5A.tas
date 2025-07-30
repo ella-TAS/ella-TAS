@@ -103,18 +103,18 @@ Read, 5AC, Start, lvl_b-02
 #   14,R
 # 2488
   51,R,X
-  11,R,U,Z
-   1,L,J,G
-  13,R,J
-  15,R,X
-  29,R,D
-  15,R,D,X
-   4,R
-  14,U,Z
-  13,J
-   1,R,K,G
+   8
+  10,R,U,X
    1,R,J,G
-  17,R
+   4,J
+  15,R,J,G
+  15,R,D,X
+  13,R,D
+   4,L,D
+  15,R,U,Z
+  14,U,X
+   1,R,J
+  21,R,D
   48,R,X
   11,R,U,C
    1,R,J,G
@@ -155,7 +155,6 @@ Read, 5AC, Start, lvl_b-02
    8,J,G
   11,L,D,X
    4,R,J
-   0,R
    8,R,U,X
    1,R,J,G
    6,R
@@ -164,11 +163,16 @@ Read, 5AC, Start, lvl_b-02
   14,R,D,X
    1,R,J
   10,R,D,X
-   5,L,J
-   6,L,U,X
-   1,L,J,G
-   5,L
-  38
+   7,L,J
+   3,L,K,G
+   8,L
+   1,L,J
+  14,L
+   1,L,J
+  14,L
+   1,L,J
+   3,L
+
    1,S
    1,D,J
   18
@@ -280,7 +284,6 @@ SaveAndQuitReenter
   40
 # lvl_c-01c
    8,R
-
   15,D,X
    8,R,D
   29,R,U,X
@@ -357,6 +360,7 @@ SaveAndQuitReenter
   13,U,X
   12,R,J
    9,R,Z
+# 5782
    5,R,J
    2,R
   40
@@ -619,8 +623,6 @@ SaveAndQuitReenter
    3,D
    9,L,D
    5,L,D
-   0,L,D
-   0,L,D
    8,L
   15,L,Z
    5,L
@@ -654,7 +656,6 @@ SaveAndQuitReenter
    3,J
   16,U,X
   13,R,J
-
    2,R
    1,R,J,G
    7,R
@@ -669,49 +670,53 @@ SaveAndQuitReenter
 # lvl_d-10
    2,R
    1,R,J
-   5,R
+   2,R
+   3
   13,R,U,Z
    1,L
    1,J,G
-   3,L
-  14,R,D,X
-  20,R,J
-  20,R,U,X
-   4,R,J
-  15,U,X
-  15,U,C
+   2,J
+   6,R,D,X
+   1,R,J,G
+  11,R
+  12,R,J
+  15,R,U,X
+  15,U,Z
+   6,J
+   5,R,J
+   1,R,K,G
   40
 
-
 # lvl_d-20
-   5,J
-  10,J
-   2,J
-   3,R,K
-   9,R,X
-   6,R,J
-  10,U,X
-   5,R,J
-   9,L,J
-   3,L,K,G
-  15
-  41,G
+   2
+  12,R,K,G
+  11,U,Z
+   8,R,J
+   3,R
+  16,U,X
+
+   1,L,K,G
+   3,R
+   4,L
+   7
+  47,G
    5,J,G
    1,K,G
    2,R,K
    6,K
-  14
+  13
   10,L
-   1,R,J
-   8,R
-  14,R,D,X
-   5,R,J,G
+   1,J
+   7,R,J
+   1,J
+  15,R,D,X
+   1,D,K
+   1,R
   25,R,D,X
    1,R,J
    5,R,D,X
-   1,R,J
-   5,R
-# 8455 409
+   1,R,K
+   6,R
   40
 
 # lvl_e-00
@@ -881,15 +886,9 @@ SaveAndQuitReenter
    9
   11,R,D,X
    1,L,J
-
-   3,R
+   2,L
+   2,R
   15,D,X
-   5,L,D
-# Should save 1f but somehow desync in e-07
-#    3,L
-#   15,D,X
-#    4,L,D
-
   14,L,D,C
    1,R,J
    5,R,D,X
@@ -1036,4 +1035,4 @@ EndStunPause
    1,S
    1,D,J
   18
-ChapterTime: 2:58.993(10529)
+ChapterTime: 2:58.517(10501)
