@@ -28,7 +28,7 @@ EnforceMaingame
   94
    1,J
   56
-Repeat 15
+Repeat 4
    1,D
    1,F,180
 Endrepeat
@@ -37,7 +37,6 @@ Endrepeat
 #StartOnBegin
    1,D
    1,F,180
-
 #enable assist mode
    1,J
   27
