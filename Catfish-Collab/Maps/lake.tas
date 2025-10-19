@@ -1,4 +1,4 @@
-RecordCount: 4501
+RecordCount: 4565
 
 console load CatCollab/1-LivingRoom/cass
    1
@@ -105,28 +105,35 @@ console load CatCollab/1-LivingRoom/cass
   16,R,D,X
    1,R,J
    1,R,K
-  16,R,D
-   1,D
+   4,R,D
+   5,R
+   4,L
+   1,R,U
+   3,D
+   1,R,D
    2
-   1,D
-  15,R,Z
+   3,R
    2,R
+
+  15,R,Z
+   3,R,U
    1,R,J
    1,R,K
    1,R,J
    1,R,K
    1,R,J
    1,R,K
-   1,J
-   1,R,J
+   1,R,K
+   3,R,J
   14,R,U,X
    1,L
    6,R,U,C
    9,R
-  15,R,U,X
+
+  16,R,U,X
    1,J,G
-   7,R
-   4,L
+   6,R
+   5,L
    4,R,Z
    1,R,J
    5,R
@@ -351,4 +358,6 @@ console load CatCollab/1-LivingRoom/cass
    9,R,J
    4,R,K,G
   99,L,J
-ChapterTime: 0:42.704(2512)
+  60
+   1,J
+ChapterTime: 0:42.857(2521)
