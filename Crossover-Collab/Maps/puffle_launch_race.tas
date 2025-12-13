@@ -1,4 +1,4 @@
-RecordCount: 3375
+RecordCount: 4075
 
 console load CrossoverCollab/2-Extras/puffleLaunchRace
    1
@@ -22,7 +22,7 @@ console load CrossoverCollab/2-Extras/puffleLaunchRace
   13
    3,J
   24
-# this saves 1f and I do not know why
+# this saves 1f and I don't know why
    1,J
   12,L
    6
@@ -39,13 +39,12 @@ console load CrossoverCollab/2-Extras/puffleLaunchRace
    1,J
   31,R
   20,L
-  17
-   1,J
-  10
-  75,D
+  21
+   6,R,J
+  29,L
 
 #lvl_a02
-   4,D
+  10,D
   34
    1,J
   11,R
@@ -70,12 +69,16 @@ console load CrossoverCollab/2-Extras/puffleLaunchRace
    4
    4,R,D
    2,R
+   4,R,D
+   2,R
    1,R,D
-   6,R
    1,J
   27,R
    9
-  77,D
+  75,D
+
+#lvl_a03
+   2,D
   12,R
   19
   22,L
@@ -91,32 +94,24 @@ console load CrossoverCollab/2-Extras/puffleLaunchRace
    9
    1,J
   51,R,J
-  17
-   1,J
-  11,R
-  75,D
+  10,J
+   6
+   1,R,K
+  14,R
 
 #lvl_a04
-# zzzzzzz
-   7,D
-  15,R,D
-  52,R,J
-  88
+# nyoooom
+   7,R,D
+  30,D
+  23,D,J
+  58
    1,J
-   9,R
-  10,R,J
-   8,R,K
-  28
+  27
    1,J
-  70,R
-  64,J
-   8,R,K
-  39
-   1,J
-  29
-   1,J
-  10,R
-  19
+  38
+  11,R,J
+   1,R,J
+  18
    3,R
    1,J
    7,R
@@ -128,22 +123,24 @@ console load CrossoverCollab/2-Extras/puffleLaunchRace
   58,R
   28,D
    1,L,D
-  24,L
-  59,D
-  28,R,D
-   1
+  22,L
+   1,K
+  56,D
+   4,K
+  26,R
+   3
    1,J
    4,R
    6
    7,L
-  29,R
-   1,J
-   8
-  75,D
+   9
+  20,R
+   6
+   2,R,J
+  37,L,D
 
 #lvl_b00
-   4
-   1,D
+   9
    1,J
    7
    1,J
@@ -165,30 +162,32 @@ console load CrossoverCollab/2-Extras/puffleLaunchRace
    2
    5,R
   10,L
-  17
+   2
+   1,K
+  14
    1,J
   26,R
-  57,L
+  56,L
    1
-   2,L
-  96
-   1,D
-   1
-   1,D
+   3,L
+  91
+   5,K
+   2,D,K
 
 #lvl_b01
+# subpixel hell
+# lost 2f to resync
+   3,K
   13
-   1,L
-   1
-   1,L
    1,J
    6,R
    6,L,J
    4,J
    3,R
-  28,L,D
+   1
+  26,L,D
    1,D
-  17,L,D
+  20,L,D
   34
   25,L
    9
@@ -209,21 +208,20 @@ console load CrossoverCollab/2-Extras/puffleLaunchRace
    1,J
   10
    1,J
-  11
-  11,L
-   1
-   1,J
-   4,L
-   4,R
-   1,L
-   8,R
-   1,J
-  62
-  76,D
+# can ring skip but slower
+  22
+   2,L
+   1,L,J
+  35,L
+   3
+  21,R
+  74,D
    1,D,J
 
 #lvl_b02
-  18,D
+  10,D
+   3,L,D
+   5,D
   37,R,D
    1,D
    1,R,D
@@ -236,19 +234,19 @@ console load CrossoverCollab/2-Extras/puffleLaunchRace
    1,J
    8
    1,J
-  52,L,D
+  52,L,D,O
   17
    4,R
    1,J
- 116
-   1,J
-  11,L
-  74
-   1,J
+ 115
+   1,L
+   9,R,J
+  26,L
+   1,K
 
 #lvl_b03
   24
-   1,J
+   1,R,J
    9,R
    1,R,J
    7,R
@@ -300,12 +298,11 @@ console load CrossoverCollab/2-Extras/puffleLaunchRace
    1,R
    6
    8,L
-   1,J
-  11
-   1,J
-  26
-  13,L,K
-  75
+  10
+  18,L
+   5,J
+  32,L
+  37,D
 
 #lvl_b04
    1,J
@@ -315,15 +312,21 @@ console load CrossoverCollab/2-Extras/puffleLaunchRace
    5,R,D
    1,R
   23
-  21,L
-   2
-  34,R,J
-  23,R
-   2,R,J
-   2,R
-   1,R,J
-  18,R
-  44
+  18,L
+   1
+   2,L
+   1
+   1,J
+  32,R,J
+   1,R
+   1,R,K
+  26,R
+   1,R,K
+  19,R
+   4,L,K
+   7
+   1,L
+  32
    5,R,J
    1,R
    1
@@ -346,22 +349,28 @@ console load CrossoverCollab/2-Extras/puffleLaunchRace
    9
    2,L
   12,R
-  16
-  24,R
-  13,L,D
-  20,L
-   1,L,J
-  47,L
-   4,L,J
-  24,L
-   2,L,D
-  39,R
-   8,R,D
+   1,L,K
+   2
+  12,R
+   2
+  10,L,D
    3,D
+   1
+  22,R
+  12,L,D
+  16
+  25,R
+   9,D
+   1,L,D
+   1,D
+   1,L,D
+  28,R,J
+  12,R
+   3,R,D
+   4,L,D
    1,L
-   5
-   4,J
-   5,R,D
+   4,L,D
+  14
  135
 
-ChapterTime: 1:22.433(4849)
+ChapterTime: 1:13.542(4326)
