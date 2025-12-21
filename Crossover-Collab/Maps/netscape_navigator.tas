@@ -1,7 +1,7 @@
 # CrossoverCollab
 # https://gamebanana.com/mods/637482
 
-RecordCount: 2662
+RecordCount: 3665
 
 console load CrossoverCollab/1-Submissions/NetscapeNavigator
 Set,CrossoverCollab.FluteButton,F
@@ -9,7 +9,7 @@ Set,FlaglinesAndSuch.NailHit,N
 
    1
 
-# Segments besides Undertale (Easy) and Sonic aer not optimized
+# Segments besides Pizza Tower, Undertale (Easy), and Sonic aer not optimized
 # Didn't look at any of the other hard berries, just assumed that Undertale (Hard) would be faster than Hollow Knight because... just look at it! Could be wrong though, it's just a rough draft rn
 # Make sure to change comments as things are optimized
 
@@ -22,139 +22,122 @@ Set,FlaglinesAndSuch.NailHit,N
 #lvl_Netscape_00 (0)
   12,U,X
    4,L,J
-   2
-   2,J,G
-   5
-   2,L
+  11,L
    4,Z
    1,R,J
 
 # Pizza Tower
-# Currently not optimized
-# Beware the green spring of doom
+# Quitely Optimized
 #lvl_Netscape_03b
-   4
-   7,R
-   1,R,J
-   5,R,D,X
-  11,R
-  14,R,X
-  31,R,J,G
-   1,R,K
-  20,K
-  15,U,X
-  12,J,G
-  12,K,G
-  10,J,G
-   1,R,K,G
-   7,R
-  10,Z
-   1,R,J
-   6,R
-   1,R,D,J
-  15,R,D,X
-   2
-  27,D
-   5,R,X
-  18,R
-   6
-  14,R
-   8,R,X
+  12,R
+   6,R,D,X
+  13,J,G
+   4,R,J,G
+  10,R,K,G
+   8,R,G
+   8,R,J,G
+   8,R,G
    1,R,J,G
-  14,R
-   5,R,J
-  10,R,D,X
-   3,R,J,G
-   5,R
-   1,R,J
+   4,R,G
+
+   5,R,J,G
+   8,R,G
+   2,R,J,G
+   1,R,J,H
+   1,R,G
+   5,G
+   1
+  22,R,D,X
+  14,R,U,C
+  19
    3,R
+   6,R,D,X
+   3,R,J,G
+  16,R
    2,R,D,J
-   5,R
+   3,R
+   2,R,J
+   3,R
    1,R,J
-   8,R,D,X
-  13,G
-   1,R,D,J
-  18,R,D,X
-  15,R,D,C
-   2,R,J
   15,R,D,X
-   2,R
+  15,R,D,C
+   2,R,D
+   6,D
   27,R,D
-  19,R,J
-  19,R,D,X
-   2,R
-   2,R,J
-   4,R
-  12,R,U,Z
+   6,R
+  11,R,J
+   6,R
+  18,R,D,X
+  11,R,U,Z
    1,R,J,G
-  18,R
-   5,X
+  16,R
+   5,R,X
    1,S
    1,D,J
   34
   57,R
   28,U,X
-  10,R,Z
-   1,R,J
-   4,R
-   6,R,D,X
+   5,Z
    1,R,J
    7,R
    1,R,J
-  11,R,U,X
-   4,L
-  17,L,D,X
-   1,L,J
-  10,L
-  13,L,D,X
-   2,L
-  35,L,D,X
-   5,L
-  11,L,D,J
-  18,L
-  24,L,X
-  15,L,D,C
-   8,L
-   3,L,D
-  12,L,J
-  12,L
-   6,L,D,J
-   5,L
-   4,L,J
-   1,L,K
-   3,K
-   2,L
-  15,U,X
-   2,L
-   8,R,U,X
-   4,L
-   4,R
-   6,L,U,X
-  12,R
-  13,R,Z
-   1,L,J
-   2,J
-  15,L,U,Z
-   1,L
-   8,L,C
-   8,L
-  29,L,D,X
-   5,L,D,C
-  13,G
-   1,L,G
-  12,L,D,J
-   5,L
-   2,L,J
+   5,R
+   2,R,J
+   8,R
+   2,R,J
+   5,R,D,X
    1,L
    1,L,J
-  11,L
+  14,L
+   1,L,J
+   3,L
+  14,L,D,X
+   1,L
+  28,L,D,X
+   4,D
+   6
+  12,R,D,J
+   5
+   5,J
+   6
+   1,L
+   1
+   2,L
+   6
+   5,L,X
+  16
+  15,L,D,X
+   3,D
+   5
+   1,L,D
   12,L,U,X
-   1,L,J,G
-  53,L,D
-  11,R,J
+  15,L
+   6,L,U,Z
+   1,R,J,G
+  17,L,J
+   4,K
+   3
+   2,R,J,G
+   7
+   2,R,J
+   6,R,Z
+   1,L,J
+   7,L
+   1,L,J
+  11,L,U,X
+  25,L
+  15,L,D,X
+   5,L,J
+  37,L,D,X
+  11,L
+   4,L,J
+  15,L,D,X
+  17,L,D
+  17
+  10,R,J
 
 #lvl_Netscape_00 (1)
-   7,L,J
+   6,L,J
    9,U,X
    7,L,J
    1,L,K,G
@@ -786,4 +769,4 @@ Set,FlaglinesAndSuch.NailHit,N
   10,L
   95
 
-ChapterTime: 1:35.030(5590)
+ChapterTime: 1:31.477(5381)
