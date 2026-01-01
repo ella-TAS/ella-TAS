@@ -1,4 +1,4 @@
-RecordCount: 3794
+RecordCount: 3892
 
 console load CrossoverCollab/1-Submissions/Echo
    1
@@ -67,7 +67,9 @@ console load CrossoverCollab/1-Submissions/Echo
   27,R,D
    3,R
    1,R,D
-  17,D
+   8,L,D
+   1,R,D
+   8,D
   31,R,D
   31,R
   15,U,X
@@ -150,14 +152,18 @@ console load CrossoverCollab/1-Submissions/Echo
    4,R,J
    7,R
    1,R,K
-  13,R
-  29,D
-  82,R,D
+  11,R
+  25
+   1,R
+   1
+   1,R,D
+   1,D
+  83,R,D
   40
 
 #lvl_S4
-   2,R,D
-  10,R,D,X
+   4,R,D
+   9,R,D,X
    1,R,J
   10,R
   10,R,J
@@ -167,34 +173,33 @@ console load CrossoverCollab/1-Submissions/Echo
   14,R,U,X
   15,L,U,C
   14,L,D,X
-  32,L,J
-  40,D
-   5,R,Z
-  22,R,J
-  13,R,X
-  11,R,Z
-  14,R,U,X
-  13,R,C
+   1,R,J
+  14,R
+  34,G
+  11
+   7,R,Z
+   1,R,J
+   4,R
   11,R,X
   11,R,C
   11,R,D,X
-  21,R,J
-  19,U,X
-  16,U,C
-  14,L,D,X
-  10,L,J
-   6,L
-   1,L,K
-  48,D
-  13,R,D
-   1,D
-  49,R
    1,R,J
-   8,R
+   1,J
+   5,R,J
+  20,R,U,X
+  12,U,C
+  12,L,J
+  11,L,D,X
+  15,L,J
+  22,L,D
+  32,D
+  58,R,D
+   1,R,J
+  12,R
   40
 
 #lvl_S5
-  10,R,D,X
+  11,R,D,X
    8,R,J
    1,R
   18,R,U,Z
@@ -207,9 +212,11 @@ console load CrossoverCollab/1-Submissions/Echo
   25,L
   22,L,X
   15,L,C
-  15,L,D,X
-  17,R,D
+  18,L,D,X
+   1,G
+  20,R,D
   40
+
 
 #lvl_S6
   34,R,D
@@ -924,4 +931,4 @@ EndStunPause
   14,R,D,X
  125
 
-ChapterTime: 2:12.753(7809)
+ChapterTime: 2:11.733(7749)
