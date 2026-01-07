@@ -1,4 +1,4 @@
-RecordCount: 4924
+RecordCount: 5592
 
 console load CrossoverCollab/1-Submissions/Echo
    1
@@ -11,7 +11,7 @@ console load CrossoverCollab/1-Submissions/Echo
   18
 
 #lvl_S1
-# Spinner Cycle [SP7]
+# Spinner Cycle [S8]
    1
 #
   15
@@ -165,7 +165,7 @@ console load CrossoverCollab/1-Submissions/Echo
    1,R,J
   10,R
   10,R,J
-   9,R
+   8,R
   13,R,X
   11,R,Z
   14,R,U,X
@@ -284,8 +284,9 @@ console load CrossoverCollab/1-Submissions/Echo
    7,R
    7,R,J
   15,R
-# puffer cycle wait
+# puffer cycle wait (please remove and resync)
    1
+#
   11,R,Z
   10,R,J
   14,R,D,J
@@ -312,13 +313,9 @@ console load CrossoverCollab/1-Submissions/Echo
   11,U,C
   29,R,J
   10,R
-   6,L,D,X
-   1,R,J
-   3,R
-   1,R,J
-   3,R
-   5,R,J
-  45,R,D
+  14,R,Z
+   9,R,J
+  39,R,D
   15,R,U,X
   13,U,C
   20,R,J
@@ -339,85 +336,60 @@ console load CrossoverCollab/1-Submissions/Echo
   10,R
   12,R,J,G
   30,R
-  29,R,X
-   9,R,J
-  36,R,D
-  14,R,Z
-   5,R,J
-  27,R
-   3,R,D
-   1,D
-   1,R,D
-   1,D
-   1,R
-   2,R,D
-   1,R,J,G
-   1,R,K,G
-   9,R
-   3,R,J
-   8,R,K,G
-   1,R,J,G
-   5,R
-  40
-
-#lvl_S8 (0)
-  12,R,D,X
-   1,R,J
-  21,R,D
-  42,R,D,J
-  11,R,D,X
-  16,R,J
-   4,R
-  12,U,Z
-  31,R
-   2
-  12,J
-  12,L,K,G
-   5,L,J,G
+  11,L,D,X
+   1,K,G
+   1,R,K
+   4,L,J,G
+  10,L
+   1,L,J,G
+   8,L,K,G
+  16,L
+  14,L,D,X
+  15,L,C
+  21,L,D
+  14,R,D,X
+  19,R,J
+  29,R,D
+  30,R
    1,K
-  29,R,K
-  13,D,C
-  12,R,D,X
-  14,R,Z
-   5,R,J
-   3,R
-   1,R,J
-   1,R
-   1
-  84,R
-   1,R,J,G
-   4,R,K,G
-   9,R
-  40
-
-#lvl_S9 (0)
-   2,R
-   6,L,Z
-  40
-
-# better setup possible?
-#lvl_S8 (1)
-   8,L,Z
-   1,R,J
-   6,R,D,X
-   1,R,J,G
-   4,R
-  41
-
-#lvl_S9 (1)
-  14,R
-   1,R,D,J
-  11,R,K,G
-  15,R,D,X
-  11,R,D,J
-  10,R
-   2,R,J,G
+  16,R,J,G
    2,R,K,G
-  16,R
-   1,R,J
-   7,R
-   1,R,J
+   1,J,G
+   7
+   1,L
+  10
+  44,R,G
+  11,D,G
    1
+   3,R,J,G
+   2,R,K,G
+   2,R,J,G
+   7,R,K,G
+   8,R,D,X
+  40
+
+#lvl_S8
+   9,R,D,X
+   3,R,J
+   1,R
+   2,R,J,G
+   7,R
+   1,R,D,J
+   9,R
+   1,R,J
+  13,R
+  14,R,U,Z
+   1,R,J,G
+  12,R
+
+#lvl_S9
+  40
+   1,R
+   6,R,J
+   7,R
+   8,R
+   7,R,J
+  16,R
    1,S
    1,D,J
   33
@@ -431,23 +403,21 @@ console load CrossoverCollab/1-Submissions/Echo
    6,R,J
    8,R
    1,R,J
-   3,R
+   2,R
    2,R,J,G
   20,R
    8,R,J
-   5,R
+   4,R
    1,J,G
-   5,R
+   3
+   2,R
    2
    1,R
    2,L
    4,L,J
    9,L
    1,L,J
-  15,L
-   1,L,D
-   1,L
-   2,L,D
+  19,L
    1,L,J
    1,L,K,G
    2,L,J,G
@@ -604,7 +574,12 @@ console load CrossoverCollab/1-Submissions/Echo
   15,R,X
   12,L,J
   15,U,X
-  10,R
+   8,R
+   1
+# combined spinner cycle/drift [SP7]. replace with stun in SP7 when this gets sufficiently high
+   7
+#
+
    4,Z
    2,R,J
    9,R,D
@@ -899,35 +874,87 @@ EndStunPause
    6,U
    1,R,U
    5,U
-  23,R,X
+
+# finish in normal gravity, +2f, improvable
+#    5,R,X
+#    2,R,U
+#    2,R,D
+#   14,R
+#    1,R,U
+#    5,R
+#    6,R,D,X
+#   13,R,U
+#    4
+#    4,R
+#    1
+#    1,R
+#    1,R
+#    1,R
+#    1,J,G
+#    2,R,J
+#    1,L,J
+#    6
+#    4,R,Z
+#    1,R,J
+#    6,R
+#    8,R,J
+#   15,R,D,X
+#    9,R
+#    1,R,J
+#    6,R,D,X
+#   40
+#    3,R,D,X
+#    1,S
+#    1,D,J
+#   34
+#    8,R,J
+#   27,R,U,X
+#  122
+
+   5,R,X
+   2,R,U
+   2,R,D
+  12,R
+   1,R,U
+   1,R,D
    1,R,U
    5,R
    5,R,D,X
   13,R,U
-   5
-   4,R
+   1,R
+   4
+   3,R
+   1
    1
    1,R
    1
    1,R
-  12,R,J,G
-  13,L,Z
+   1,K,G
+   2,R,K
+   5,L,D
+   1,D
+   1,L
+   5,L,Z
    1,R,J
-  10,R
-   5,R,J
+   2,R,K,G
+   2,R
+   6,R
+   6,R,J
    5,R
-   3,R,J
-   5,R,K,G
-  16,R,U,X
+   2,R
+   1,R,J
+   2,R,J
+  14,R,U,X
   40
 
 #lvl_SP13
-   1,R,J
-   6,R,U,X
+   1,R,U,X
+   6,R,U,C
    1,S
    1,D,J
-  54,R,J
-  14,R,D,X
- 125
+  34
+  16,R,J
+  27,L,D,X
+ 112
 
-ChapterTime: 2:09.234(7602)
+ChapterTime: 2:04.644(7332)
