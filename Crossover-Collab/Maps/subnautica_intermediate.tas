@@ -1,4 +1,4 @@
-RecordCount: 5592
+RecordCount: 6115
 
 console load CrossoverCollab/1-Submissions/Echo
    1
@@ -11,8 +11,8 @@ console load CrossoverCollab/1-Submissions/Echo
   18
 
 #lvl_S1
-# Spinner Cycle [S8]
-   1
+# Spinner Cycle [S8] (works on 2 frames)
+   0
 #
   15
    1,L,J
@@ -339,10 +339,11 @@ console load CrossoverCollab/1-Submissions/Echo
   11,L,D,X
    1,K,G
    1,R,K
+   1,L,K
    4,L,J,G
   10,L
    1,L,J,G
-   8,L,K,G
+   5,L,K,G
   16,L
   14,L,D,X
   15,L,C
@@ -386,38 +387,74 @@ console load CrossoverCollab/1-Submissions/Echo
   40
    1,R
    6,R,J
-   7,R
-   8,R
-   7,R,J
-  16,R
+  12,R
+   2
+   1,R
+   1,R,J
+   3,R
+   1
+   1,R
+   2,R
+   1,R
+   2
+   6,R,D,X
+  10
    1,S
    1,D,J
   33
+
+# +2f, landing dultra on way to door
+#    1,L,J
+#    9,R,J
+#    2,R,K,G
+#    1
+#   10,R
+#    1,R,J
+#    1
+#   25,R,D
+#    1,R,J
+#    1,R,J
+#    4,R,J
+#    7,R
+#    2,R,J
+#   10,R,K,G
+#    8,R
+#    2,R,J
+#    1,R,J
+#    1
+#    7,R
+#    1,J,G
+#    7,R
+#    2,L
+
+# close to the max speed you can get here
    1,L,J
    9,R,J
    2,R,K,G
    1
   10,R
    1,R,J
-  26,R,D
+  21,R
+   4,R,D
+   1,R
    6,R,J
-   8,R
-   1,R,J
+   7,R
+   2,R,J
    2,R
-   2,R,J,G
+   1,R,J,G
   20,R
    8,R,J
    4,R
    1,J,G
-   3
-   2,R
+   4,R
    2
    1,R
    2,L
    4,L,J
    9,L
    1,L,J
-  19,L
+  18,L
+   1,L,D
    1,L,J
    1,L,K,G
    2,L,J,G
@@ -426,23 +463,29 @@ console load CrossoverCollab/1-Submissions/Echo
    6,L
    3,L,J,G
    1,L,K,G
-  22,L,D
-   6,L,J
-  22,L
-   1
-   1,L,J
-   1,L,K,G
-   1,L,J,G
-   9,L
-   2,L,K
-   6,L,J
-   3,L
-   1
-   6,L,K
-   1,L,J,G
-   1,K,G
+  18,L
    5,L
-   2
+   2,L,J
+   5,L
+   1,L,J
+   5,L
+   1
+   4,L
+   1,L,J
+   3,L
+   1,L,J,G
+   1,L,K,G
+   5,L
+   2,L,J
+   8,L
+   1,L,J
+   1,J
+   6,L,J
+   2,L
+   1,L,K,G
+   1,J,G
+   6
+   1,L
    5,R,N
    2,L
   16,L,D
@@ -494,34 +537,91 @@ console load CrossoverCollab/1-Submissions/Echo
    1,R,J
    4,R
    2,R,J
-  17,R,D
-   7,D
-   6,R,D
-   1,R
-   1,R,D
-   2
-   1,R,D
-  14,R,Z
-   1,R,J
-  11,R,D,X
-  37,R,J
-   1,G
-   8,R,J
-   8,R
-  10,R,D,X
-   1,R,J
-   1,R
-   1,R,J
+
+# don't use the move block, +1f
+#   17,R,D
+#    7,D
+#    6,R,D
+#    1,R
+#    1,R,D
+#    2
+#    1,R,D
+#   14,R,Z
+#    1,R,J
+#   11,R,D,X
+#   37,R,J
+#    1,G
+#    8,R,J
+#    8,R
+#   10,R,D,X
+#    1,R,J
+#    1,R
+#    1,R,J
+#   10,R
+#   18,R,U,Z
+#    4,J
+#   26,U,X
+#   16,R,U,C
+#    4,R
+#    1,R,U
+#    1,R
+#    1,R,U
+#    6,R
+
+   4,R,J
+   9,R
+   2,R,J
   10,R
-  18,R,U,Z
+   1,G
+   1,J,G
+   1,R
+   1
+   1,R
+   1
+   1,R
+   2
+   1,L
+   1,R,J
+  10
+   5,J
+  16,R,D,J
+   1,J,G
+   1,J
+   1,J,G
+   1,J
+   1,J,G
+   1,J
+   1,J,G
+   5,J
+   1,R,J
+   1,J,G
+  10,G
+   1,U,G
+   1
+   1,R,J,G
+   1,R,K,G
+   1,R,J,G
+   1,R,K,G
+   1,R,J,G
+   7,R
+   1,R,D,J
+   5,R
+   1,R,J
+   1,R
+   1,R,J
+   2,R
+   1,R,J
+  11,R
+   1,R,J
+  17,R,U,Z
    4,J
   26,U,X
-  16,R,U,C
+  17,R,U,C
    4,R
    1,R,U
    1,R
    1,R,U
-   6,R
+   5,R
   28,D,X
   16,R,D
   10,R,D,X
@@ -574,12 +674,10 @@ console load CrossoverCollab/1-Submissions/Echo
   15,R,X
   12,L,J
   15,U,X
-   8,R
+  10,R
+# spinner cycle [SP4]
    1
-# combined spinner cycle/drift [SP7]. replace with stun in SP7 when this gets sufficiently high
-   7
 #
-
    4,Z
    2,R,J
    9,R,D
@@ -662,10 +760,10 @@ console load CrossoverCollab/1-Submissions/Echo
    1,K,G
    1,J,G
    1,L,K,G
-  22,R,K
-   3,R
+  21,R,K
+   4,R
    4
-   5,R,U,X
+   5,R,U,Z
   11,R,D
    2
    1,R,D
@@ -727,9 +825,8 @@ console load CrossoverCollab/1-Submissions/Echo
 #   40
 
 #lvl_SP7
-   1
+   2
 StunPause
-   1
    4,R,D
 EndStunPause
    3
@@ -957,4 +1054,4 @@ EndStunPause
   27,L,D,X
  112
 
-ChapterTime: 2:04.644(7332)
+ChapterTime: 2:04.134(7302)
