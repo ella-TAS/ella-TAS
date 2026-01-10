@@ -1,4 +1,4 @@
-RecordCount: 5612
+RecordCount: 6791
 
 console load CrossoverCollab/1-Submissions/Dadish
    1
@@ -932,220 +932,226 @@ EndRepeat
 
 # lvl_c01
   60
-   5,R
    1,R,J
-   1,R
-   1,R,J
-  28,R
-   1,R,J
-   1,R
-   1,R,J
-  23,R
-Repeat, 2
-   1,R,J
-   1,R
-   1,R,J
-  16,R
-EndRepeat
-  11,R,D,J
-   3,R,D
-  11,R,D,J
-   8,R
-   7,R,D,J
-   2,R,D
-   7,R,D,J
-   8,R,D
-  10,R,D,J
-   1,R,D
-   9,R,D,J
-   8,R,D
-   1,R,J
-   1,R
-   1,R,J
-  16,R
-   1,R,J
-   1,R
-   1,R,J
-  40
-# lvl_c02
-# another bad cycle bruv, but liftboosting nyooom
-   1,R,J
-  25,R
-   1,R,D,J
-   1,R,D
-   1,R,D,J
-  45,R,D
-   7,R
- 111
-  18,J
-   2
-  18,J
-   2
-  12,R,J
-   1,R
-  12,R,J
-  10,R
-   1,R,J
-   1,R
-   1,R,J
-  49,R
-# lvl_c03
-# here comes the waiting challendge!!!
-   1,R,J
-  25,R
-   2,R,J
-   3,R
-   2,R,J
-  19,R
-   1,R,J
-   1,R
-   1,R,J
-  16,R
-   2,R,J
-   1,R
-   3,R,J
-  17,R
-   6,L
-   1,L,J
-   1,L
-   1,L,J
-  19,L
-   2,L,J
-   1,L
-   3,L,J
-  30,L
-  25,R,D
-   3,R,J
-  23,R
-  40
-   6,R
-  20,R,J
-  18,R
-  14,L,J
-   1,R
-  70
-   9,R
-  18,R,D,J
-   1,R
-  10,R,D,J
-  11,R
-   1,R,J
-   8,R
-   1,R,J
-   1,R
-   1,R,J
-  16,R
-   1,R,D,J
-   1,R,D
-   1,R,D,J
-   3,R,D
-  40
-# lvl_c04
-# i hate timing
-   1,R,D,J
-   3,D
-  16,R,D
-   1,R,J
-   1,R
-   1,R,J
-  27,R
-  10,R,J
   14,R
-   6,R,J
-   6,R
-   5,L
-   1,L,D,J
-   1,L
-   1,L,D,J
-  26,L,D
-  23,R,D
-   1,R,D,J
-   1,R,D
-   1,R,D,J
-  16,R
-   7,R,D,J
-   2,L
-   7,R,D,J
-  10,R,D
-   1,R,D,J
-   1,R
-   1,R,D,J
-  42,R
    1,R,J
-   9,R
-Repeat, 2
+   1,R,K
+  15,R
    1,R,J
-   1,R
+   3,R,K
+  22,R,D
    1,R,J
-  16,R
-EndRepeat
+   1,R,K
+  15,R
    1,R,J
-   1,R
-   1,R,J
+  14,R
+  11,R,J
    2,R
+  12,R,K
+   7,R
+  12,J
+   3,R,K
+   7,R
+  12,J
+   1,K
+   7,R,K
+   7,R
+# go asap bc next room is cycle-locked
+   1,R,J
+   1,R,K
+  15,R
   40
 
-# lvl_c05
-# not optimizing this bc i hate guessing the perfect spot for boxes
+#lvl_c02
    1,R,J
-  13,R
-   1,R,D,J
-   1,R,D
-   1,R,D,J
-  29,R,D
-   6,R,J
-   6,R
-   6,R,J
-  25,R
-   5,L
-   4,L,J
-   2,L
-   4,L,J
-   9,L
-   6,R
-   5,R,J
-   3,R
-   5,R,J
-  19,R
-  12,R,J
-   2,R
-  12,R,J
+  22,R,K
   20,R
-   5,L
-   1,L,D,J
-   1,L,D
-   1,L,D,J
-  23,L,D
-  24,R,D
-  36,R
-   7,R,D,J
-   2,R,D
-   7,R,D,J
-   8,R,D
+   1
    1,R
-   7,R,D,J
-   2,R,D
-   7,R,D,J
-   8,R,D
-  39,R
-   5,L,D,J
-   1,L
-   1,L,D,J
-  19,L
-  14,L,J
-   1,L
-  14,L,J
-  19,R
-  10,R,J
+   1,R,J
+   7,R,K
+   8,R
+   1,L,J
+  21,R,D
+  16,D
+   1,R,D
+   6,D
+  29
+  13,L
+  24,L,J
+  22,L,K
+   2,L,J
+   7,R,J
+   7,R,K
+   5,R
+   3,R,J
+   3,J
+   4,L,K
+   4,R,J
+  12,R
+   1,R,J
+   1,R,K
+  40
+
+#lvl_c03
+   1,R,J
+  16,R
+   1,R,J
+   1,R,K
   15,R
-  10,R,J
-  26,R
-  20,R,D
+   1,R,J
+   3,R,K
+  11,R
+   6,L
+   1,L,J
+   1,L,K
+  18,L
+   1,L,J
+   1,L,K
+  15,L
+   2,L,J
+  18,L
+  10,R,D
+  10,R
+   1
+  16,R
+   1
+   6,L,J
+   1,R,J
+   9,R
+  34,R,J
+   8,L
+   1,R
+  23,L,J
+   1,L
+   9,R
+   3
+   6,R
+   1,R,J
+   8,R,K
+   5,R
+   4,R,J
+  12,R
+   1,R,D
+  20,R,J
+   1,R,K
+   9,R
+   3,L
+   2
+   6,R
+   2,R,J
+   8,R
+   1,R,J
+   1,R,K
+  15,R
+   1,R,J
+   1,R,K
+  40
+
+#lvl_c04
+   1,R,J
+  19,R
+  37,R,J
+  16,R,K
+   6,L,K
+   1,L,J
+  25,L,D
+  16,R,D
+   3,R
+   1
+   1,R,J
+  10,R
+   7,R,D,J
+   6,R
+   7,R,J
+   7,R
+   1
+   1,R,J
+   1,R,K
+  35,R
+   2
+   2,R
+   2,R,J
+   1,J
+  34,R,J
+   1,R,K
+   1,R,J
+  15,R
    1,R,D,J
+   1,R,K
+  40
+
+#lvl_c05
+# Extremely unoptimized, just a proof of concept
+   4,R,J
+   5,R
+   7,R,J
+  10,R
+  12,R,D
+   1,R,J
+  10,R,K
+  36,R
+   6,L
+  10,L,D,J
+   2,R
+   5,R,K
    7,R
    1,R,J
+   5,R,K
+  18,R
+   5,R,J
+   1,R,K
+   9,R
+   1,R,J
+   4,R,D
+   5,L,D
+   1,R,D
+  27,L,D
+  12,L,J
+   7,L
+   2,L,J
+  10,J
+   1,L,J
+   3,L,K
+   9,L
+   8,L,J
+   1,L,K
+   9,L
+   1,L,J
+   9,L
+   1,L,D
+  14,R
+   1,R,J
+   2,R,K
    1,R
    1,R,J
+   1,R
+   5,R,J
+   1,R,K
+   2,R,J
+   6,R
+   1,R,J
+   1,R,K
+   9,R
+   1,R,J
+   3,R,K
+   6,R
+   1,R,J
+   2,R
+   6,R,D,J
+   6,R
+   1,R,K
+   5,R
+   3,R,K
+   4,R
+   6,L
+   1,J
+   1,L,J
+  12,R,J
+   3,R,K,G
+  11,R
+   1,R,J
+   3,R,K
   40
 
 # lvl_c06
@@ -1194,224 +1200,213 @@ EndRepeat
   27
   10,D,J
   42
-  32,L
-  12,L,D,J
-   2,L,D
-  12,R,D,J
-   7,R
-  10,R,J
-   1,R
-   5,R,J
-  41
-
-# lvl_c07
-# cool liftboost but meh, more waiting. nyoooooooom
-   5,R,J
-  10,R
-   1,R,J
-   1,R
-   1,R,J
-  74,R
-  12,R,D,J
-   1,R,D
-  12,R,D,J
-   9,R,D
-   1,R,J
-   1,R
-   1,R,J
-  24,R
-  18,R,J
-   4,R
-  16,R,J
-  14,R
-  21,R,D
-Repeat, 2
-   1,R,J
-   1,R
-   1,R,J
-  16,R
-EndRepeat
-   7,R,D,J
-  11,R,D
-   7,R,D,J
-  11,R,D
-   3,R,J
-   6,R
-   3,R,J
-  20,R
-   1,R,J
-   1,R
-   1,R,J
-  34,R
-   5,L,J
-  13,L
-  10,L,J
-   1,L
-  10,L,J
-  16,L
-Repeat, 146
-   1,L,D
-   1,R,D
-EndRepeat
-   7,R
-  10,R,J
-   1,L
-   1,L,J
-  29,L
-   1,L,J
-   1,L
-   1,L,J
-  25,L
-  10,L,J
-   1,L
-   7,L,J
-   7,R
-  11,R,J
+  31,L
+  11,L,D,J
+   3
+  12,R,K
+   7
+  12,L,J
+   5,K
   40
 
-# lvl_c09
-# oh no, the sun
-   3,R,J
+#lvl_c07
+   5,R,J
    9,R
-   4,R,D,J
-   8,R,D
-   3,R,D,J
-   4,L,D,J
-   8,L
-   8,D,J
-   1,R,D
-   8,R,D,J
-  11,R
-  11,D,J
-  10,L
-Repeat, 4
-   1,L,D,J
-   1,L,D
-   1,L,D,J
-   3,L
-EndRepeat
-  57,D
-  11,D,J
-   1,R,D
-  12,R,D,J
-   2,R,D
-   1,R,D,J
-   1,R,D
-   1,R,D,J
-  13,R
-   6,R,J
-  11,R
-   5,R,J
-  36,R,D
-   6,R
-   6,R,J
-   6,R
-  12,R,J
-  11,R
-   5,R,D,J
-   1,R,D
-   5,R,D,J
-   8,R
    1,R,J
-   1,R
+   1,R,K
+  19,R
    1,R,J
-  16,R
-   1,R,J
-  40
-
-# lvl_c10
-   1,R,J
+   1,R,K
   15,R
-   1,R,D,J
-   1,R,D
-   1,R,D,J
-  42,R,D
+   1,R,J
+   1,R,K
+  15,R
    1,R,J
    1,R
-   1,R,J
-  22,R
-Repeat, 4
-   1,R,J
-   1,R
-   1,R,J
+   1,R,K
   16,R
+  15,R,J
+  10,R,K
+   7,R
+   1,R,J
+   1,R,K
+  15,R
+  18,R,J
+  25,R,K
+  14,R,D
+   5,D
+  12,R,D
+   1,R,J
+   1,R,K
+  15,R
+   1,R,J
+   6,R,K
+  15,R
+   2
+   2,R
+   1,R,J
+   1,R,K
+  15,R
+   1,R,J
+   1,R,K
+  15,R
+   1,R,J
+   3,R,K
+  23,R
+   8
+   6,J
+   7
+  10,J
+   5,L,K
+  11,L
+ 340
+  15,R,J
+   5,R
+   9,L
+   1,L,J
+  10,L
+   1,L,D,J
+   5,L,K
+   5,L
+   5,L,J
+  18,L
+   8,L,J
+   2
+   5,K
+   7
+  11,J
+  40
+
+#lvl_c09
+   1,R
+   2,R,J
+  10,R
+  16,R,D,J
+   7,K
+   5,R,K
+   7,R
+   4,R,D,J
+   5,L,J
+   6,L,K
+   1
+   6,L
+   1,L,J
+   1,L,K
+   1
+   1,L
+   2
+  47,D
+   1,J
+   1,R
+  36
+   3,J
+   1,L,J
+   1,J
+   1,L,J
+   1,J
+   1,L,J
+   1,J
+   1,L,J
+   2,R,J
+   1,K
+   8,R,K
+   3,R
+   1,R,J
+   1,R,K
+   3,R
+   1,R,J
+   8,R,K
+  14,R
+   3,R,D
+   5,L,D
+  16,R,D
+  17,R,D,J
+  11,R,K
+   7,R
+   3,L,J
+   5,R,J
+   1,R
+   1,L
+   1,R,J
+   7,R
+   1,R,J
+   1,R,K
+  15,R
+   1,R,J
+   1,R,K
+  40
+
+#lvl_c10
+   6,R,J
+   5,R
+  19,R,J
+  23,R
+# starting back as far as possible for chain
+# idk if actually optimal
+  13,R,D
+   1,R
+Repeat, 5
+   1,R,J
+   1,R,K
+  15,R
 EndRepeat
    1,R,J
-   1,R
-   1,R,J
-   9,R
+   1,R,K
+   8,R
    1,S
    1,D,J
-   1,O
-  33
+  34
    7,R
 Repeat, 3
    1,R,J
-   1,R
-   1,R,J
-  16,R
+   1,R,K
+  15,R
 EndRepeat
    1,R,J
-   1,R
+   1,R,K
+  40
+
+#lvl_d01
    1,R,J
+  16,R
+Repeat, 6
+   1,R,J
+   1,R,K
+  15,R
+EndRepeat
+   1,R,J
+   1,R,K
    9,R
-  40
+  12,R,J
+   9,R,K
+   2,R
+   1,R,J
+  34,R,D
+  11,R,D,J
+   1,R,K
+  40,K
 
-# lvl_d01
-# caste
-   1,R,J
-  18,R
-Repeat, 11
-   1,R,J
-   1,R
-   1,R,J
-  16,R
-EndRepeat
-   1,R,J
-  32,R
-   1,R,J
-  81,R,D
+#lvl_d02
+  12,R,K
+  21,R,J
+   3,R
+   2
    1,R,D,J
-  14,R
-Repeat, 2
+   1,R,K
+  16,R,D
    1,R,J
-   1,R
+   1,R,K
+  34,R,D
    1,R,J
-  16,R
-EndRepeat
+   1,R,K
+  15,R
    1,R,J
-   1,R
-   1,R,J
-  13,R
+   1,R,K
   40
 
-# lvl_d02
-# free
-   1,R,J
-  17,R
-   1,R,J
-   1,R
-   1,R,J
-  34,R
-  11,R,J
-  55,R
-   1,R,J
-   2,R
-   1,R,J
-  36,R,D
-   1,R,J
-   1,R
-   1,R,J
-  16,R
-   1,R,J
-   2,R
-   1,R,J
-   1,R
-  40
-
-# lvl_d03
-   1
-  60,R
+#lvl_d03
+   4
+  57,R
   12,R,J
   67,R
   10,R,J
@@ -1815,4 +1810,4 @@ EndRepeat
    1,L,C
  138
 
-ChapterTime: 5:03.943(17879)
+ChapterTime: 4:51.720(17160)
