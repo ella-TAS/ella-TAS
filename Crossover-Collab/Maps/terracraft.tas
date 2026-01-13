@@ -1,4 +1,4 @@
-RecordCount: 2201
+RecordCount: 2640
 
 console load CrossoverCollab/1-Submissions/Terracraft
    1
@@ -7,6 +7,9 @@ console load CrossoverCollab/1-Submissions/Terracraft
  190
 
 #lvl_00_Intro
+# spinner cycle
+   0
+#
    7,L,Z
    1,R,J
    1,R
@@ -55,55 +58,38 @@ console load CrossoverCollab/1-Submissions/Terracraft
    8,R,K
    5,R,D,X
 StunPause
-   6,R,D,X
+   6,R,D
 EndStunPause
-   9,R
+   1,R
+   8,R
    5,R,J,G
-  17,R
-  13,R,D,X
-   9,R
-  15,R,U,X
-  35,R
-  19
-   3,R
-   1,J
-  10,L,X
-   7,R,J
    5,R
-   1
-  13,R
-  15,R,Z
-  21,L,D
-
-   4,L
-   2,L,D
-  10,L
-  17,R,D
-  25,G
-   5,R,Z
-   1,R,J,G
-   1,R,K,G
-   1,R,J,G
-   1,R,K,G
+   2,R,J
    6,R
-   1
-   1,R,J
-   9
-   1,J
-   1
-   1,D
-   9,D
-   1,D
-   1
-   1,D
-  15,R,Z
    4
-  11,L,U,X
-  17,L
-  17,R
-  12,L,D,X
-  43,R
-   4,R,D
+   1,L,J
+  11,J
+   1,R,J
+  14,R,U,Z
+   2,R,K,G
+   5,R
+  16,R
+   6,R
+   7,R,D
+   7,R
+   9,U,Z
+   6
+  12,L,X
+   1,L,K,G
+   6,L,J,G
+   7,L,G
+  25,G
+   1,U,G
+   1,L,J,G
+   2,R,J
+   6,L,U,X
+  44,R
+   3,R,D
    1,R,J,G
   42,R,K,G
   15,R,X
@@ -157,47 +143,47 @@ EndStunPause
    1,R,J
   22,L,J
    6,G
-   2,J,G
-   1,K
+   2,U,G
+   3,J,G
+   1,K,G
    1,J,G
-  13,R,U,X
-  51,R,D,G
-   2,D,G
-   6
-   1,L,J
-   1,L,K
-  10,R,K
-   5,R,J
-  23,R
-   3,R,D
-  16,L,D
-  11,L
-   1,L,D
-   1,L
-   1,L,J
-   1,L,K
-   7,L
-   5,L,J,G
-   5,L
-   1,L,J
-  18,L
-   2
-   4,L
-   8,L,J,G
-   5,L
-  20,D
-  10,R,D
-  14,R,X
-  26,R,G
-   9,R,J,G
-   1,L,J
-  22,R,K
+  12,R,U,X
+  21,R,U,G
+  24,R,D,G
+   1,R
+   9,R,D
+  12,R,J
    9,R
-  12,U,X
-  26,R,J
-   2,R
+  28,R,G
+  17,R,D
+  18,L,D
+   5,L
+   1,L,J
+   1,L,K
+   1,L,J
+   1,L,K
+   4,L,J,G
+  16,L
+  18,R,D
+   7,R
+  14,R,X
+  27,R,G
+  12,R,J,G
+   1,R,K,G
+   1,L,K
   12,R,K
-  27,R,D
+   5,R
+  14,R,J
+   1,K
+   1,J
+   2,L,J
+   9,R,J
+  15,U,Z
+  11,R
+  12,R,J
+   5,R
+   1,R,J
+  18,R,D
    4,R,Z
    1,R,J
    7,R
@@ -553,4 +539,4 @@ EndStunPause
   24,R
  140,L,X
 
-ChapterTime: 1:09.190(4070)
+ChapterTime: 1:05.739(3867)
