@@ -1,7 +1,7 @@
 # CrossoverCollab
 # https://gamebanana.com/mods/637482
 
-RecordCount: 13972
+RecordCount: 14020
 
 console load CrossoverCollab/1-Submissions/ashleybl
    1
@@ -1514,17 +1514,18 @@ EndStunPause
    1,S
    1,D,J
   69,O
-   5,R,Z
-   8,R,J
-   9,R,K,G
-  12,R,U,X
+
+   6,R,Z
+   7,R,J
+   5,R,K,G
+  14,R,U,Z
+   1,L,K,G
+   1,R,K
   40
 
 #lvl_c-hubD (2)
-   3,R
-   9,U,C
-  11,R
-  16,R,X
+  21,R,K
+  15,R,U,X
 # dream block route - close to frametie, honestly not sure what is faster
 #   14,R,Z
 #    1,R,J
@@ -1545,7 +1546,7 @@ EndStunPause
 #   17,U,X
 #   99,U,C
 ##
-  14,R,Z
+  13,R,Z
    1,R,J
    6,R
   22,R,D,J
@@ -1713,7 +1714,7 @@ EndRepeat
    3,R,J
    1,R,J
    1,R,K,G
-   3,G
+   4,G
   12,U,Z
    3,J
   10,R,Z
