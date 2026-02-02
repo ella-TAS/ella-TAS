@@ -1,4 +1,4 @@
-RecordCount: 6754
+]RecordCount: 6565
 
 console load CrossoverCollab/1-Submissions/Echo
    1
@@ -11,10 +11,10 @@ console load CrossoverCollab/1-Submissions/Echo
   18
 
 #lvl_S1
-# Spinner Cycle [S8]
+  15
+# spinner cycle [SP4]
    0
 #
-  15
    1,L,J
    1,J
    2,L,J
@@ -35,23 +35,27 @@ console load CrossoverCollab/1-Submissions/Echo
    1,R,J
    5,R,K,G
    8,R,J,G
-   9,R
-  11,R,J
-  21,R
+   7,R
+  12,R,J
+   7,R
+  15,R,D,J,X
+   1
    3,R,D
-  14,R,Z
-   1,R,J
-   2,R
+   3,D
+   6,R,K,G
+   3,R,J,G
+   5,R
   40
 
 #lvl_S2
-   4,R
-   7,R,J
+   7,R
+   5,R,J
    5,R
-  15,R,J
+  11,R,J
   14,R,Z
    6,R,J
-  22,R,D
+  20,R,D
+   2,L,D
    4,X
    8,L,D,X
   39,R
@@ -65,9 +69,7 @@ console load CrossoverCollab/1-Submissions/Echo
   27,R,D
    3,R
    1,R,D
-   8,L,D
-   1,R,D
-   8,D
+  18,D
   31,R,D
   31,R
   15,U,X
@@ -85,13 +87,13 @@ console load CrossoverCollab/1-Submissions/Echo
    3,R,D
    1,R,J
    3,R,K,G
-   3,R
-   1
-   5,R
+   9,R
    6,R,J
    5,L,J
    7,L
-  28,L,D
+  24,L,D
+   4,L
+   1,R
   23,R
   15,R,D,X
   42,R
@@ -359,75 +361,50 @@ console load CrossoverCollab/1-Submissions/Echo
    7
    1,L
   10
-  44,R,G
-  11,D,G
+  36,R,G
+  19,D,G
    1
-   3,R,J,G
-   2,R,K,G
-   2,R,J,G
-   7,R,K,G
-   8,R,D,X
+   1,R,J,G
+   2,R
+   1,R,K,G
+   1,R
+   1,R,J,G
+   1,R
+   1,R,K,G
+   6,R
+   1
+   4,R,J
+   1,R
+   2
+   5,R,D,X
   40
 
 #lvl_S8
-   9,R,D,X
-   3,R,J
+   8,R,D,X
+   1,R,K,G
    1,R
    2,R,J,G
-   7,R
-   1,R,D,J
-   9,R
+   5,R
    1,R,J
-  13,R
-  14,R,U,Z
-   1,R,J,G
-  12,R
+   4,R
+   3,R,J
+   3,R
+  12,R,J
+  12,R,U,Z
+  11,R,K,G
+  40
 
 #lvl_S9
-  40
-   1,R
-   6,R,J
-  12,R
-   2
-   1,R
+  17,R
    1,R,J
-   3,R
+  10,R,D,X
+   1,R,J
    1
-   1,R
-   2,R
-   1,R
-   2
-   6,R,D,X
-  10
+   3,R
    1,S
    1,D,J
   33
-
-# +2f, landing dultra on way to door
-#    1,L,J
-#    9,R,J
-#    2,R,K,G
-#    1
-#   10,R
-#    1,R,J
-#    1
-#   25,R,D
-#    1,R,J
-#    1,R,J
-#    4,R,J
-#    7,R
-#    2,R,J
-#   10,R,K,G
-#    8,R
-#    2,R,J
-#    1,R,J
-#    1
-#    7,R
-#    1,J,G
-#    7,R
-#    2,L
-
-   1,L,J
+   1,R,J
    9,R,J
    2,R,K,G
    1
@@ -437,13 +414,18 @@ console load CrossoverCollab/1-Submissions/Echo
    4,R,D
    1,R
    6,R,J
-   7,R
+   8,R
    2,R,J
-   2,R
+   1,R
    1,R,J,G
-  20,R
-   8,R,J
-   4,R
+   8,R
+   1,R,J
+   1,R
+   1,R,J
+   9,R
+   7,R,J
+   5,R
+   1,R,J
    1,J,G
    4,R
    2
@@ -462,29 +444,23 @@ console load CrossoverCollab/1-Submissions/Echo
    6,L
    3,L,J,G
    1,L,K,G
-  18,L
-   5,L
-   2,L,J
-   5,L
-   1,L,J
-   5,L
-   1
-   4,L
-   1,L,J
-   3,L
-   1,L,J,G
-   1,L,K,G
-   5,L
-   2,L,J
-   8,L
-   1,L,J
-   1,J
+  22,L,D
    6,L,J
-   2,L
+  22,L
+   1
+   1,L,J
    1,L,K,G
-   1,J,G
-   6
-   1,L
+   1,L,J,G
+   9,L
+   2,L,K
+   6,L,J
+   3,L
+   1
+   6,L,K
+   1,L,J,G
+   1,K,G
+   5,L
+   2
    5,R,N
    2,L
   16,L,D
@@ -683,9 +659,6 @@ console load CrossoverCollab/1-Submissions/Echo
   12,L,J
   15,U,X
   10,R
-# spinner cycle [SP4]
-   1
-#
    4,Z
    2,R,J
    9,R,D
@@ -1049,4 +1022,4 @@ EndStunPause
   27,L,D,X
  112
 
-ChapterTime: 2:03.777(7281)
+ChapterTime: 2:03.573(7269)
