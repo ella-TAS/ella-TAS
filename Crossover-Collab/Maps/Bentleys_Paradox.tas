@@ -1,7 +1,7 @@
 # CrossoverCollab
 # https://gamebanana.com/mods/637482
 
-RecordCount: 2749
+RecordCount: 2914
 
 console load CrossoverCollab/1-Submissions/vvvvvv
    1
@@ -31,24 +31,20 @@ EndRepeat
   20,R,D
    3,R
   34,R,J
-   1,R,K
-  12,R,U
+  12,R,U,K
   22,U
   20,L,U
   20,L
   21,L,J
   21,L,K
   21,L,J
-  23,L,K
-   1,L,J
-  14,L,D
-   3,L,U
-  11,U
-  46,R
-  28,R,J
-  61,R,K
-   1,R,J
-  36,R,U
+  30,L,K
+   3,L,J
+   5,L,K
+  82,R
+  58,R,J
+  35,R,U,K
+   2,U
    2,R
   16,R,J
    1,R,K
@@ -73,59 +69,61 @@ EndRepeat
    8,R
   15,R,J
    9,R,K
-   1,R,J
-   8,R,U
-   8,U
-   9,R,U
+   5,R,U,J
+   6,L,U
+   1,U
+   5,R,U
+   1,U
+  13,R,U
+  36,R
+  10,R,J
   42,R
-  34,R,J
- 119,R
-   7,R,D
-   2,D
-   9,R,U
-  71,R
-  19,R,J
-  51,R,K
+  22,R,J
+  10,R,D,K
+  78,R
+   5,R,U
+  24,R
+   1,R,J
+   5,R,U,K
+  47,R
+  16,R,J
+  54,R,K
   21,R,J
-  36,R,K
-  26,R,J
-  17,R,U
-   1,R,D
-  21,D
-   1
-  29,L
-  14,L,U
-   9,L,D
-  10,L
-  23,L,J
-  18,L,K
-   1,L,J
-  14,L,U
-   2,L,D
-  50,L
-  12,L,J
-   4,L,K
-
-   7,L,U
-  16,L,D
-  32,L
-  16,L,J
-   5,L,U
-   5,L,D
-   1,L
-  11,L,D
-  14,L
-   1,L,J
-  12,L,U
+  16,R,U,K
+   5,R
+  15,R,D,J
+  14,R,U
+  20,R
+   7,R,D
+  10,L,D
+  30,L
+  13,L,U
+  15,L,D
    4,L
-   1,L,J
-   8,L,D
-   5,R,D
-  11,R,D
-   2,D
-   3,R
-  51,R,J
-  37,R,K
+  20,L,J
+  14,L,D,K
+   7,L
+  13,L,U,J
+  51,L
+  14,L,J
+  10,L,U,K
+  10,L,D
+   4,L
+   3,L,D
+  32,L
+  17,L,U,J
+   4,L,D
+   5,L
+   9,L,D
+  17,L
+  14,L,U,J
+   3,L
+   8,L,D,J
+  21,R,D
+  54,R,J
+  20,R,K
+   4
+  11,R
 
 #lvl_hub (0)
   10,R
@@ -1286,4 +1284,4 @@ EndRepeat
   33,R,U
  165
 
-ChapterTime: 6:57.758(24574)
+ChapterTime: 6:57.333(24549)
