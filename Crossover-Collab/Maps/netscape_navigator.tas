@@ -1,6 +1,3 @@
-# CrossoverCollab
-# https://gamebanana.com/mods/637482
-
 RecordCount: 4229
 
 console load CrossoverCollab/1-Submissions/NetscapeNavigator
@@ -142,6 +139,7 @@ Set,FlaglinesAndSuch.NailHit,N
   38,L,D,X
    7,L
   12,R,J
+
 #lvl_Netscape_00 (1)
    3,R,J
    9,U,X
@@ -710,6 +708,7 @@ Set,FlaglinesAndSuch.NailHit,N
    7,R
    1,N
  139
+
 #lvl_Netscape_00 (5)
    4,Z
    1,L,J
@@ -725,6 +724,6 @@ Set,FlaglinesAndSuch.NailHit,N
   10,L,Z
    5,L,J
   10,L
-  95
+   4
 
 ChapterTime: 1:24.609(4977)
