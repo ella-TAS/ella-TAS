@@ -1,4 +1,4 @@
-RecordCount: 4645
+RecordCount: 4771
 console load CrossoverCollab/1-Submissions/Inferno_
    1
 
@@ -275,6 +275,7 @@ console load CrossoverCollab/1-Submissions/Inferno_
    1,R,J
    7,R,D,X
   40
+
 #lvl_transition
    5,R,D,X
    1,S
@@ -290,8 +291,8 @@ console load CrossoverCollab/1-Submissions/Inferno_
    1,R,J
    2
   40
-#lvl_a-00
 
+#lvl_a-00
   12,R
   12,R,J
   16,R,D,G
@@ -496,8 +497,8 @@ console load CrossoverCollab/1-Submissions/Inferno_
    2,L,K,G
   10,L
   40
-#lvl_a-07
 
+#lvl_a-07
    1,L
   12,L,J
    8,L
@@ -529,8 +530,8 @@ console load CrossoverCollab/1-Submissions/Inferno_
   17,R,D
   13,D,X
   40
-#lvl_a-04 (1)
 
+#lvl_a-04 (1)
    2,D
   15,L,D,X
    4,L,D
@@ -544,6 +545,7 @@ console load CrossoverCollab/1-Submissions/Inferno_
    1,L,J
   11,L
   40
+
 #lvl_a-03 (1)
    1
    2,L
@@ -559,11 +561,11 @@ console load CrossoverCollab/1-Submissions/Inferno_
    1,L,J,G
    8,L
   40
+
 #lvl_a-02 (1)
    3,L
    1,L,J
    6,L,D,X
-
    1,S
    1,D,J
   34,L
@@ -574,10 +576,10 @@ console load CrossoverCollab/1-Submissions/Inferno_
    6
   12,L,U,X
   40
-# lvl_a-08
+
+#lvl_a-08
    2,R
    1,J,G
-
    1,X
   10,L,X
    4,L,J
@@ -588,9 +590,9 @@ console load CrossoverCollab/1-Submissions/Inferno_
    5,L,D
   15,L,J
   40
-# lvl_a-09
-  20,L,J
 
+#lvl_a-09
+  20,L,J
   14,L,X
    8,L,J
    4,L
@@ -598,7 +600,8 @@ console load CrossoverCollab/1-Submissions/Inferno_
    1,L,J,G
    8,L
   40
-# lvl_a-10
+
+#lvl_a-10
    4,L
   31,L,J
   15,L,U,X
@@ -611,6 +614,7 @@ console load CrossoverCollab/1-Submissions/Inferno_
    1,L,J
   13,L,Z
   40
+
 #lvl_a-11
    1,L,J
    7,L
@@ -880,14 +884,15 @@ console load CrossoverCollab/1-Submissions/Inferno_
    1,S
    1,D,J
   33
+
 #lvl_d-00 (0)
-# Pandora Palace
+#Pandora Palace
    1,R,J
   14,R
    7,R,J
   40
-#lvl_d-02
 
+#lvl_d-02
    7,R
    1,R,J
    1,L,J
@@ -911,8 +916,8 @@ console load CrossoverCollab/1-Submissions/Inferno_
    1,L,J
    5,L,D,X
   40
-#lvl_d-00 (1)
 
+#lvl_d-00 (1)
    9,L,D,X
    1,L,J
    5,L,D,X
@@ -1122,12 +1127,10 @@ console load CrossoverCollab/1-Submissions/Inferno_
   10
    9,J
   40
+
 #lvl_d-12
-
-
   11
    5,R,D,X
-
    1
   17,L,J
    2,L
@@ -1157,16 +1160,13 @@ console load CrossoverCollab/1-Submissions/Inferno_
    2,R
   11,R,J
   16,R
-   4,R,Z
-   1,R,J
-   7,R
-   1,J
-  10
-   5,D,X
-  65,R,D
+  10,R,Z
+  10,R,J
+  56,D,X
+  15,R,D
   40
-#lvl_d-11 (1)
 
+#lvl_d-11 (1)
   12,R,D
    5,R,D,X
   30,R
@@ -1217,7 +1217,7 @@ console load CrossoverCollab/1-Submissions/Inferno_
   27,R,D
    3,D
   15,R,D,C
-  46,D,X
+  47,D,X
   19,D,J,H
    4,K,G
    1,J,H
@@ -1233,33 +1233,34 @@ console load CrossoverCollab/1-Submissions/Inferno_
   14,U,Z
    6,R,J
   40
-#lvl_e-00
 
+#lvl_e-00
   11,R
    5,R,D,X
    7,R
    4,R,J
-   5,U,X
-   5,L
-   2,R,J
-   2,L,K
-   1,L,J,H
-   1,L,K,H
-  13,L
+   9,U,X
+   1,R,J
+   2,R
+   1,K
+   2
+   1,L,J,G
+   1,L,K,G
+  11,L
    5,L,J
-  12,K
-   5,R,Z
-   6,R
+  11,K
+  10,R,Z
    1,R,J
   22,R,D
-   5,R,Z
-   8,R
+  13,R,Z
    8,J,H
    4,L,J
-   4,K,H
-   4,R,K
+   2,K,H
+   2,R,K
+   2,K
    1,R,J,H
-  13,R
+   1,R,K,G
+  10,R
    5,U,X
   18,L
    5,L,X
@@ -1268,22 +1269,24 @@ console load CrossoverCollab/1-Submissions/Inferno_
    3,K
    3,J
    7,K
-   5,L,U,X
-   1,L
-   1,L,J,H
-  22,L,D
-   7,L
+   3,J
+   1,L,K,G
+   1,L,J,G
+   5,L
+  15,L,D,X
+   8,L
    6,L,D,J
    5,R,K,H
-  12,J
-   9,R,K
+  11,J
+   1
+   6,R,K
+   1
    5,R,Z
-   1,R
    1,R,J
-   5,R
-  12,R,D
-   5,D,X
-  10
+   6,R
+   1,R,J
+   9,R
+  15,D,X
    4,R,Z
    1,R,J
   10,R
@@ -1311,8 +1314,8 @@ console load CrossoverCollab/1-Submissions/Inferno_
    5,R,D,X
    8,R
   40
-#lvl_e-01
 
+#lvl_e-01
    1,R,J
    7,R
    7,R,D
@@ -1448,8 +1451,8 @@ console load CrossoverCollab/1-Submissions/Inferno_
    1,R,J
    1,R
   40
-#lvl_e-05
 
+#lvl_e-05
    6,R
    1,R,J
    2,R
@@ -1549,8 +1552,8 @@ console load CrossoverCollab/1-Submissions/Inferno_
    5,R,D,X
    3,R
   40
-#lvl_e-06
 
+#lvl_e-06
    6,R
    1,R,J
    5,R,D,X
@@ -1610,4 +1613,5 @@ console load CrossoverCollab/1-Submissions/Inferno_
    5,L
    5,R
    4,L
-ChapterTime: 3:44.400(13200)
+
+ChapterTime: 3:44.145(13185)
