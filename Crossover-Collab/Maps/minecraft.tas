@@ -1,4 +1,4 @@
-RecordCount: 333
+RecordCount: 1119
 
 console load CrossoverCollab/1-Submissions/CatAndComparator
    1
@@ -101,6 +101,424 @@ console load CrossoverCollab/1-Submissions/CatAndComparator
   40,R,D
   15,R,X
   19,R,D
+   4,Z
+   2,R,J
+   3,R
+   1,R,J,G
+   8,R
+  40
 
+#lvl_05 - Red Ascent
+   3,R
+   2,R,J
+  11,R
+  14,R,X
+  12,R,J
+  20,U,X
+   7,L
+  29,L,D,C
+  15,U,X
+  18,L,J,G
+   2,K,G
+   4,L,K
+   1,R,K
+   1,R,J,G
+  12,R,K,G
+   5,R
+   3,R,J
+   7,R
+   3,R,J
+  22,R,D
+  18,R,J
+   5,U,X
+  15,L,J,G
+  15,L
+  30,L,D,X
+  18,U,C
+  12,U,X
+  43
 
-1000
+#lvl_06 - Corruption
+  11,R
+  11,R,Z
+   3,R,J
+   1,R
+   2,R,K,G
+   8,R
+  27,R,Z
+   5,R,V
+   1,R,J
+   6,R
+  12,R,J
+   7,R
+  12,R,J
+   7,R
+   2,R,J
+   9,R
+  13,R,Z
+  45,R,D
+   8,D
+   2
+  10,L,Z
+  10,R,J
+  12,R,U,X
+   1,L,J,G
+  33,R,J
+  12,R
+  36,R,X
+   4,Z
+   1,R,J
+   4,R
+  40
+
+#lvl_07 - Loop
+   3,R
+   3,R,J
+  23,R,X
+   8,R,J
+  15,R,K
+  10,R,Z
+  13,L,J
+   2,L,K,G
+  18,L,X
+   4,L,J
+   4,L,K
+  20,R,X
+   4,R,J
+   3,R,K
+  16,R,D,X
+   4,R,J
+  11,L,Z
+   4,R,J
+   8,R,U,X
+   2,R,J,G
+   1,R
+   1,R,J
+   4,R
+  40
+
+#lvl_08 - Leap of Faith
+   7,R
+  22,U,G
+   1,R
+  11,R,X
+   4,R,J
+   3,R,K
+StunPause
+   6,R,K
+   2,K
+SkipInput,3,1
+   5,R,D,X
+EndStunPause
+   7,R,D,X
+   1,L,J,G
+   5,R,J
+   8,R
+StunPause
+   2,R
+SkipInput,3,1
+   5,R,D,X
+EndStunPause
+  16,R,D,X
+   1,J
+   1,R,J
+   8,R,K,G
+   5,R,X
+  43
+
+#lvl_09 - Precision
+  24,R,X
+   4,R,J
+  28,R,K
+  16,U,X
+   7,J
+  16,R,Z
+   7,L,G
+  22,U,G
+   1,L,J,G
+   1,K,G
+   1,L,J,G
+  10,R,J
+   5,R
+   6,R,J
+  15,R,D,X
+   8,R
+  40
+
+#lvl_10 - Collection
+   1,R
+  27,R,Z
+   1,R,J
+   4,R
+   4,R,J,G
+  55,U,X
+  13,R,J
+  60,U,X
+  18,R,D
+  18,R,X
+  32,U,C
+   7,R
+   9,D
+   3,L,D
+   3,R,D
+Repeat,4
+   1,R,D
+   1,L,D
+EndRepeat
+   1,R
+  15,L
+  29,L,U,Z
+   4,L,J
+   3,L
+   3,L,K
+   6,L
+   1,L,J
+   1,L
+  20,L,X
+  10,R,D
+   9,D
+  19,R,D,X
+   5,R
+   1,G
+  13,L
+  17,L,D,X
+  11,R,D
+  13,R,Z
+   4,R,J
+   1,R,K
+   8,R
+  23,R,Z
+   4,R,J
+  22,R,K
+  40,G
+   5,J
+  23,K,G
+  20,U,X
+  17,L,J
+  40
+
+#lvl_11 - Scrapped Technology
+   3,J
+   1,R,K,G
+   1,R,J,G
+   6,R
+  10,R,Z
+   6,R,J
+   2,R,K,G
+   9,R,X
+   1,J
+  15,R
+  10
+   9,L,Z
+   1,R,J
+  14,R,D
+  19,R,U,Z
+   1
+   7,J
+   1,G
+  15,R,J,G
+  26,U,X
+   2,L,J,G
+   7,L
+  12,L,Z
+   3,R,J
+   6,R,D,X
+   1,L,J,G
+  10,R,J
+   5,R
+   1,R,J
+   8,R
+   1,R,J
+   1,R
+  40
+
+#lvl_12 - Chase
+  10,R
+StunPause
+   1,R
+SkipInput,3,1
+   9,R,D,X
+EndStunPause
+   5,R,D,X
+  11,S,Q,N
+   2,R,D,X
+  11,S,Q,N
+   1,R,D,X
+  11,S,Q,N
+   2,R,D,X
+  11,S,Q,N
+   9,R,D,X
+  11,S,Q,N
+   5,R,D
+   1,R
+   3,R,J
+   6
+   2,R
+   7,R,Z
+  40
+
+#lvl_12b - Abyss
+   3,R,Z
+   6,R,J,G
+  28,R
+  13,R,U,X
+   3,J
+   1,K
+   4,L
+   1,J
+   8,R,K,G
+   5,K
+   3,J,G
+   3,L,J
+  10,R,K,G
+   3,K
+   6,J,G
+   1,L
+   1,K
+   1,R,K
+   1,R
+  18,R,J,G
+   3,R
+   2
+   4,Z
+   1,R,J
+   6,R
+   7,R,J
+  40
+
+#lvl_13 - Collapse
+   4,R,J
+  15,R,D,X
+   3,R,J
+   9,R
+  63,D,X
+  10,R,Z
+   1,L,J
+   4,L
+  20,L,D,X
+  25,D
+  21,R,D
+   8,R,X
+  18,L,J
+   2,L,K,G
+  32,L
+   6,D
+   8,R,D
+   4,R
+  14,R,D,X
+  16,R,J
+  46,R,D,X
+  91,G
+  12,L,J
+   5,L
+   8,L,J
+   9,L
+   1,L,K,G
+   1,L,J,G
+   9,L
+   8,R,Z
+  11,L,J
+  20,L
+   1
+   2,L
+  41,R
+   1,J,G
+   1,L,J
+  14,R,K,G
+   5,R,J,G
+  18,R
+  16,R,J
+  40,R,X
+   5,J,G
+   1,L,J
+   1,R,K,G
+  12,R,J,G
+   5,R
+   1,R,J
+  12,R
+   1,R,J
+  30,R,D
+   4,Z
+   1,R,J
+   2,R
+  40
+
+#lvl_14 - Above (0)
+   8,R,D
+  10,D,X
+  40
+
+#lvl_14b - Below
+   7,D,X
+   1,G
+   1,R,J
+  41,R,D
+   1,J
+   2,R,J
+   3,L,J
+   1,R,J
+   3,L,J
+   2,J
+   1,R,J
+   1,L,J
+   4,R,J
+   1,L,J
+   8,K,G
+   1,L,K
+   1,R,K
+   2,L,K
+   1,L,J,G
+   1,L,K,G
+Repeat, 3
+   1,R,K
+   1,L,K
+EndRepeat
+   1,R,K
+   1,J
+  20,L,J
+  15,U,X
+   5,L
+   1,R,J,G
+   1,L,J
+   1,R,J
+   7,K
+  40
+
+#lvl_14 - Above (1)
+  11
+  15,U,X
+  39,R,J
+   9,R,U,X
+  13,L
+  18,L,U,X
+  10,R
+  23
+   7,L,G
+   1
+   1,L,J,G
+   1,L,K,G
+  24,R,K
+  18
+  15,U,X
+  30,D
+  15,L,D
+  13,L,Z
+  15,R
+  18,U,X
+  15,U,C
+  26,L
+  22,L,X
+   1,L,J
+   5,L
+  24
+   6,L
+  41,L,X
+  14,U,C
+  14,R,J
+  31,R
+   4,Z
+   1,R,J
+   7,R
+   2,R,J
+   1,R
+  40
