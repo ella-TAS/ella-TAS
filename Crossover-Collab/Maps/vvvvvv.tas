@@ -1,7 +1,7 @@
 # CrossoverCollab
 # https://gamebanana.com/mods/637482
 
-RecordCount: 2961
+RecordCount: 3496
 
 console load CrossoverCollab/1-Submissions/vvvvvv
    1
@@ -191,70 +191,75 @@ EndRepeat
    1,R,J
    7,R,U
    1,R
-  23,R,J
-   1,R,K
-  13,R,U
-  14,U
-  14,L,U
-   1,L
-   1,L,J
-   5,L,D
-   4,L
-   1,L,J
-  11,L,U
-  20,R,U
-  20,R
-  92,R
-   1,R,J
-  17,R,D
-   5,D
-  13,R,D
-  20,R
-   1,R,J
-   5,R,U
+  20,R,J
+  14,R,U,K
+  12,U
+  13,L,U,J
    1,U
-  14,L,U
-  15,R,U
- 185,R
-   1,R,J
-   3,R,D
-   5,D
-   2,L
-   1,J
-   7,U
-   2
-   1,J
-   9,D
+   1,L,U
    1
-   1,J
-   9,U
-   1
-   1,J
-  11,D
-   1
-   1,J
-  11,U
-   3
-   3,L
-   2
-   1,J
+   1,L
+   6,L,D,J
+   1,L
+  13,L,U,K
+  19,R,U
+  20,R
+  90,R
+   2,R
+   6,R,D,J
+Repeat, 4
+   1,D
+   2,R,D
+EndRepeat
    3,D
-   3,L
+   2,R,D
    1,D
-   4,R,D
-   9,L,D
+   2,R,D
+   1,D
+   8,R,D
+  18,R
+   7,R,U,J
+   1,U
+  13,L,U
+  15,R,U
+  84,R
+  95,R
+   5,R
+   5,R,D,J
+   5,D
+   1,L
+   8,L,U,J
+   8
+   7,D,J
+   3,R,D,J
+   1
+  10,U,J
+   1
+   8,D,J
+   4,R,D,J
+  12,R
+   8,L
+   1,R
+   1,R,J
+  11,L,D,K
    2,L
    1,L,J
-   5,L,U
-  41
+   2,L,U
+   3,U
+  35
+   1,L
+   2
+   1,L
+   4
    1,L,J
-   4,L,D
-   1,D
+   3,L,D
+   2,D
    1,L,D
    1,D
-   5,L,D
-   9,D
-  16,R,D
+   1,L,D
+   2,D
+   6,L,D
+  21,R,D
    6,R
    1,R,J
   15,R,U
@@ -268,118 +273,140 @@ EndRepeat
    2,R,J
    4,R,K
   34,R,U
-  22,R
-   1,R,J
-   3,R,D
+  20,R
+   2,R
+   4,R,D,J
    6,D
   28,L,D
    1,L
-   5,L,J
+   4,L,J
+   1,L
    1,R,K
   15,R,D
    1,R
-  28,R,J
+  20,R,J
+   8,R,J
   36,R
   22,R,U
    3,L,U
    1,L
    1,L,J
    5,L,D
-  20,R,D
-   1
-   3,R,D
-   1,R,J
-  11,R,U
-   7,L,U
-   2,L
-  21,R,D
-  33,R,U
+  19,R,D
+   2,R
+  20,R,J
+   4,R,U
+   9,R
+  16,R,D
+  23,R,U
+   3,U
+   5,R,U
   25,R,D
-  26,R,U
-  24,R,D
-   3,R
-  52,R,J
-   1,R,K
-   7,R,D
-  65,D
-  11,R,D
+  25,R,U
+  25,R,D
+   1,R
+  26,R,U,J
+  20,R
+   2,R
+   8,R,D,J
+  63,D
+   1,L,D
+  12,R,D
   28,R
    1,R,J
    8,R,U
   56,R
   23,R,J
   22,R,K
-  20,R,J
-  11,L,U
-  12,U
-   9,R,U
-  15,L,U
-   2,R,U
-   8,R
-  12,L
-  26,U
+  22,R,J
+   1,L,K
+  11,L,U,J
+  10,R,U
+  13,L,U
    8,R,U
-  14,L,U
-  17,L
-   1,L,J
-   8,L,D
-  32,D
+   4,R
+   6
+  10,L
+   1,J
+  13,U,K
+   8,R,U
+   7,L,U
+   3,U
+  10,L,U
+  14,L
+   8,L,D,J
    6,R,D
-  11,R
-   8,L
-   1,R
-   6,R,D
-  16,D
+  23,D
+   4,R,D
+   2,D
+  12
+   2,R
+  10,L
+   1,J
+   5,R,D,K
+  10,D
   12,L,D
   20,L
    1,R,J
   14,R,U
   17,L,U
-   1,L
-   1,R,J
-   2,R,D
-   8,D
-   2,R,U
-  27,U
-   3,R,U
-   5,R,D
+   8,R
+   2
    3,R
-   2,R,D
-   2,L,D
-  31,L,U
-  46,L
-   1,L,J
-   8,L,D
-  14,D
-   2,L,D
-   7,D
-   6,R,D
-  15,R
-   1,R,J
-  11,L,U
-   4,U
-   8,R,U
-  10,R
-   1,R,J
-   4,R,D
-   4,L,D
-  16,D
-  10,L,D
-  35,L
+   9,L
+   4,R
+   1,J
+  10,U,K
+   6,R,U
+   1,L
+   1,L,U
+   1,L
+  23,L,U
+  42,L
+   9,L,D,J
    8,R,D
-  16,L,D
+   2,L,D
+  12,D
+   7,R,D
+  14,R
+   2,R,U,J
+  11,L,U
+  11,R,U
+   9,R
+   5,R,D,J
+   6,L,D
+   3,D
+   2,R,D
+   2,D
+   1,R,D
+   4,D
+  12,L,D
+  34,L
+   1,J
+   3,D,K
+  14,L,D
   26,L
-  29,L,J
-  23,L,K
-  22,L,J
-  21,L,U
-   3,R,U
-   6,R,D
-  35,L,D
+  30,L,J
+  11,L
+   1,L,J
+   2,L,U,K
+   1,L
+  31,L,J
+  22,L,K
+   6,L,U
+  11,U
+   7,L,U
+  40,L,D
   20,L
-  15,L,J
-  31,L,K
-  40,L,J
+  17,L,J
+  29,L,K
+  30,L,J
+   1
+   3,L
+   1
+   2,L
+   1
+   4,L
   26,L,K
   12,L,J
   16,L,K
@@ -426,7 +453,8 @@ EndRepeat
 
 #lvl_hub (1)
   23,L,D
-  46,L
+  26,L
+  20,L
   46,R,D
    1,R
    1,R,J
@@ -899,14 +927,30 @@ EndRepeat
   60,L
   20,J
   18,R
-  40
+   6
+  10,L
+   6
+   5,R
+   1
+   1,R
+   3
+   3,U
+   5
   23,R
    9,R,J
   10,R,K
   40
    8,R
    7,R,J
-  36
+   6
+   4,L
+   2
+   1,L
+   3
+   2,R
+   2
+   1,L
+  15
   77,R
   31,R,J
   15,R,K
@@ -926,18 +970,32 @@ EndRepeat
    2,R
   18,R,U,J
    1,R
-  11,R,D,J
+  10,R,D,J
   10,L,D
-   9,R,D
-  19,R
+  10,R,D
+  18,R
    2,R,U,J
-  12,L
-  64,R
+   3,L
+   2,L,U
+   7,L
+  42,R
+  22,R
    3,R,D
    1,R
   20,L
    6,L,D
-  24,D
+   6,D
+   5
+   1,R,D
+   1,D
+   1,R,D
+   1,D
+   1,R,D
+   1,D
+   2,R,D
+   2
+   2,D
+   1
   14,L,D
    4,L
    8,L,U,J
@@ -954,7 +1012,7 @@ EndRepeat
    3,R,D,J
   21,L,D
   35,L
-  14,L,D,J
+  14,L,J
    1,L
   20,D,J
   26,R,D
@@ -1028,7 +1086,10 @@ EndRepeat
   99,R
  105,R,J
   99,R,K
-  48,R,J
+  29,R,J
+   3,R
+   2
+  15,R
 
 #lvl_f
    1,R
@@ -1294,4 +1355,4 @@ EndRepeat
   33,R,U
  165
 
-ChapterTime: 6:57.316(24548)
+ChapterTime: 6:56.636(24508)
