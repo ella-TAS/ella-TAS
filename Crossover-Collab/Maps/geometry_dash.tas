@@ -6,6 +6,7 @@ RecordCount: 2707
 #console wipedebug
 
 console load CrossoverCollab/1-Submissions/GeometryDash
+   1
 
 #IMPORTANT NOTES: For normal (cube) mode, robot mode, and UFO mode, ground friction is slightly bigger than Air Friction, so much so that you get ~3.15 px per frame in air at base speed, and ~3.06 per frame on the ground at base speed. Other gamemodes like ship, ball, and wave all get ~3.33 px per frame at base speed, possibly due to even lower friction. The actual values depends on the base speed applied, but the given numbers are for the normal speed.
 #For every jump in the levels in cube mode, you only jump for one frame, but the high jump height compensates for that, so that the jumps are more or less consistent regardless of how long you hold the jump button. However, importantly, using the jump button for half-gravity still works just as it normally does, and so we can still somewhat manip height, with a lot of limitations obviously. On flat ground, holding the jump button to use half-gravity for as long as possible is the best strategy, but different obstacles could change that.
@@ -14,7 +15,7 @@ console load CrossoverCollab/1-Submissions/GeometryDash
 
 #Start
 #lvl_intro
- 150
+ 149
    1,J
 
 #lvl_menu1 (0)
