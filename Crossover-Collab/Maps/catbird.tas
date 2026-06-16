@@ -1,4 +1,4 @@
-RecordCount: 1629
+RecordCount: 1648
 
 console load CrossoverCollab/1-Submissions/Catbird
    1
@@ -308,19 +308,18 @@ EndRepeat
    2,R
 
 #lvl_a-11
-  27,R
-  10,R,D
-  58,R
-  33,L
-   8,R
+   1,R
   15,R,X
-  11,R
-   3,L
+  54,R
+  30,L
+  33,R
+  32
   15,R,U,X
-  10,R
-  20,L
-  22
+  15,L
+   7
    1,L
+# 5569
+#Pos:   302.18297660, -5184.00000000
   15,R,U,X
   13,R
   15,R,U,X
@@ -361,4 +360,4 @@ EndRepeat
   14,R,D,X
  242
 
-ChapterTime: 1:37.988(5764)
+ChapterTime: 1:37.478(5734)
