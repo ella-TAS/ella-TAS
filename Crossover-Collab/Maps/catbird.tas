@@ -1,7 +1,7 @@
 # CrossoverCollab
 # https://gamebanana.com/mods/637482
 
-RecordCount: 1370
+RecordCount: 1484
 
 console load CrossoverCollab/1-Submissions/Catbird
    1
@@ -72,7 +72,8 @@ EndRepeat
 
 #lvl_a-02
    2,R
-  28,R
+  18
+  10,R
   15,R,U,X
   53,R
   15,R,U,X
@@ -106,10 +107,10 @@ EndRepeat
    2,D
   13,R,D
    1
-   4,R
+   3,R
 
 #lvl_a-04
-  32,R
+  33,R
    3,L
    4,D
    5,R
@@ -194,12 +195,22 @@ EndRepeat
   15,L,U,X
   13,L
  340,R
+#   18,R
+#   15,R,X
+#   15,R,U,C
+#   99,R,J
   15,R,U,X
   27,L
    3,L
   15,R,X
   15,R,U,C
  137,R
+# 3689
+#Pos:   712.44725049, -1928.00000000
+#Speed: 90.00, 0.00
+#Vel:   90.00, 0.00
+#Stamina: 110.00 StNormal
+#Coyote(5)
    2,R
    1,D
    1,R
@@ -236,7 +247,8 @@ EndRepeat
    8,R,D
    1,D
    3,R,D
-  91,R
+  88,R
+   3,R
 
 #lvl_a-08
   15,R,U,X
@@ -321,15 +333,16 @@ EndRepeat
   27,R
   10,R,D
   58,R
-  47,L
+  33,L
+   8,R
   15,R,X
-   6,R
-  12,L
-   7
+  11,R
+   3,L
   15,R,U,X
   10,R
   20,L
-   8
+  22
+   1,L
   15,R,U,X
   13,R
   15,R,U,X
@@ -340,7 +353,7 @@ EndRepeat
   27
    1,X
    1,C
-  27
+  26
   15,R
   22,R,J
   15,U,X
@@ -352,7 +365,6 @@ EndRepeat
   17,R
    7,R,Z
   40
-
 #lvl_c-01
    2,R,Z
    1,R,J
@@ -373,4 +385,4 @@ EndRepeat
    1,R,J
  242,R
 
-ChapterTime: 1:46.607(6271)
+ChapterTime: 1:46.556(6268)
