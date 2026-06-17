@@ -1,7 +1,7 @@
 # CrossoverCollab
 # https://gamebanana.com/mods/637482
 
-RecordCount: 3556
+RecordCount: 3818
 
 console load CrossoverCollab/1-Submissions/vvvvvv
    1
@@ -532,16 +532,14 @@ EndRepeat
   14,L
    1,L
    5,L,J
-   1,L,K
-  11,L,D
+  12,L,D,K
   55,L
    7,R
   20,L
   25,L,J
   57,R
-   1,R,J
-  25,R,U
-  25,L
+  24,R,U,J
+  26,L
    7,R
   26,L
   18,L,J
@@ -558,27 +556,30 @@ EndRepeat
   73,L,D
   16,L
   70,L,D
- 192,L
-  13,L,D
-   1
-   1,J
-  17,U
-   6
-  10,L
+ 182,L
+   1,L,J
+  17,L,D,K
+   1,L
+   8,L,U,J
+  10,U
+  16,L
 
 #I did not test the other route but I played through it and it is very likely slower
 #lvl_e3a
-  16,L,U
+   1,L,U
    1,L,J
-  15,L,D
-   1,D
-  33,R,D
+  10,L,U,K
+   3,L
+  14,L,D,J
+  23,R,D
+  10,R,D
    1,R
-  53,R,J
+  52,R,J
+   1,R,U
   18,L,U
    7,R,U
   21,U
-   3,L,U
+   1,L,U
    8,L,D
   16,L
   15,L,J
@@ -587,41 +588,44 @@ EndRepeat
    1,L,K
    9,L,D
    2,L
-   1,L,J
-  25,L,U
-  20,L
+  10,L,J
+  26,L,U
+  10,L
    1,L,J
    4,L,D
+   3,L
+   5,L,J
+  20,L,U
    1,L
-   1,L,J
-  25,L,U
   28,L
-  11,L,J
-  34,L,D
-  51,L,U
-  35,L,D
-  20,R,D
+  41,L,D,J
+   1,L
+  50,L,U,J
+  14,L,D
+   6,L
+  16,L,D
+  19,R,D
   14,R
   27,R,D
   33,U
    8,R,U
   39,R,D
   15,R
-  66,R,J
-   1,R,K
-   3,R,D
-   7,L,D
+  67,R,J
+   2,R,D,K
+   8,L,D
    9,R,D
   14,R
   16,R,J
   37,R,K
-   5,L
-  12
-   5,R
-  17,R,J
-  12,R,K
-   1,R,J
-   2,R,U
+   1,L
+  16
+  11,R
+  10,R,U,J
+   1,R
+  10,R,K
+   1,R
+   3,R,U,J
    8,U
   11,L,U
   22,L
@@ -629,10 +633,11 @@ EndRepeat
   11,L,K
   34,L,J
   16,R
-   4,R,J
-  20,R,K
+   3,R,J
 
 #lvl_e4
+   1,R
+  20,R,K
   50,R,J
    5,L
   13
@@ -658,15 +663,19 @@ EndRepeat
   24,R,K
   19,R,J
   17,R,K
-  17,R,J
-   7,R
-   4,L
-  29,L,U
+  16,R,J
+   2,R
+   1,R,J
+   3,R,U,K
+  31,L,U
    1,L
   16,L,D,J
-  10,L
+   7,L
   18,L,U,J
-  14,R
+   3,L
+   7,R
+   1
+   5,R
 
 #lvl_e5
   21,R,J
@@ -731,35 +740,35 @@ EndRepeat
    4,L,U
    8,R,D,J
    9,R
-   6,L
-   2,R
-   3,L
-   6,R,D
    1,R
-  11,R,U,J
-  20,R
-   7
-  14,R,U
+   1,R,J
+   3,R,D,K
+   6,L,D
+   2,R,D
+   1,R
+  13,R,J
+  15,R
+   1,R,J
+   3,R,U,K
+   3,U
+  13,R,U
   24,R
   10,R,J
-   3,R,U,K
+   2,R,U,K
   18,L,U
-   4,L,J
-   8,L,U,K
+   1,L
+   2,L,D,K
+   1,L
+   8,L,U,J
    8,L
   37,L,J
   13,L,U,K
   13,R,U
   40,R
-   2,R,D,J
-   1,R
-   7,L,U,K
-   9,L
-   4,R
-  10,R,J
-  40,R,K
-  20,R,J
-  16,R,K
+  14,R,J
+  39,R,K
+  17,R,J
+  17,R,K
   17,R,J
    5,R,U,K
    7,L,U
@@ -768,30 +777,28 @@ EndRepeat
    2,R,D,J
    3,R
    5,L
-  26
+   5
    8,U,J
   10,L,U
- 128,L
+ 127,L
   10,R,D,J
   57,R
   19,R,J
   10,L,D,K
   83,L
-   7,L,J
-   4,R
-  14,L
-  11,L,K
-   2,L,U,J
-  29,U
-   5,R,U
-  17,R
-  24,R,J
-  24,R,K
-  30,R,J
-  37,R,K
-  25,R,J
+  20,L,J
+  13,L,K
+   3,L,U,J
+  18,U
+  15,R,U,J
+   8,R
+   2,L
+   5,L,J
+  51,R
+  60,R,J
+  29,R,K
    7,L
-  11,R
+  12,R
 
 #lvl_e8
   30,R
@@ -825,7 +832,7 @@ EndRepeat
   15,R,K
    9,R,J
    6,L
-  95
+  87
   52,R
   10,R,J
   11,R,K
@@ -943,15 +950,7 @@ EndRepeat
   40
    8,R
    7,R,J
-   6
-   4,L
-   2
-   1,L
-   3
-   2,R
-   2
-   1,L
-  15
+  36
   77,R
   31,R,J
   15,R,K
@@ -967,14 +966,20 @@ EndRepeat
   10,R
   11,R,U,J
    1,R
-  13,R,D,J
-   2,R
-  18,R,U,J
-   1,R
-  10,R,D,J
-  10,L,D
-  10,R,D
-  18,R
+  13,R
+  32,R,J
+   2,L
+   1,L,K
+   4,L,D,J
+   1,D
+   5,R,D
+   4,R
+   3,L
+   5,R
+   1,L
+   3,R
+   1,R,D
+   6,R
    2,R,U,J
    3,L
    2,L,U
@@ -1013,10 +1018,14 @@ EndRepeat
    3,R,D,J
   21,L,D
   35,L
-  14,L,J
-   1,L
-  20,D,J
-  26,R,D
+  10,L
+   1,L,J
+   2,L,D,K
+  11,R,D
+   3,R
+   5,R,D
+   1,R
+  16,R,D
   35,R
   15,R,D
   55,R
@@ -1042,14 +1051,14 @@ EndRepeat
   11,L
    5,L,U,J
   18,R,U
-  15,R
+  16,R
    9,R,D,J
   16,R
    8,R,U,J
-  17,U
+  18,U
   16,R,U
   16,R
-  13,R,D
+  12,R,D
    1,R
   15,R,U,J
   60,R
@@ -1083,7 +1092,7 @@ EndRepeat
   21,R
   93,R,J
    6,L
-  96
+ 102
   99,R
  105,R,J
   99,R,K
@@ -1356,4 +1365,4 @@ EndRepeat
   33,R,U
  165
 
-ChapterTime: 6:56.143(24479)
+ChapterTime: 6:54.596(24388)
