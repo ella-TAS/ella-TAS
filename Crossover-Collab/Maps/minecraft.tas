@@ -1,4 +1,4 @@
-RecordCount: 4598
+RecordCount: 4641
 
 console load CrossoverCollab/1-Submissions/CatAndComparator
    1
@@ -566,20 +566,10 @@ EndRepeat
    2,R,J
    3,L,K,G
    7,L
-
-#   31,L,G
-#    8,L,U,J,G
-#    5,L,J,G
-#    1,L,K,G
-#    7,L
   40
 
 #lvl_18 - Deadly Fires
    1,L
-# 5964
-#Pos:   10209.49999702, -1520.24999803
-#Speed: -90.00, 45.00
-#Vel:   -90.00, 45.00
   10,L,X
   21,L,J
   14,U,X
@@ -667,25 +657,24 @@ EndRepeat
    3,R,K
    3,K
    2,R,K
-  50,R,D,G
+  21,R,G
    1,R
-  20,L,D
-  10,L,J,G
-  20,L
-   1,L,J
-  10,L
-   1,R
-   2,L
-   2,R
-   5,L
-  38,L,J
+   2,R,D
+   4,L,D
+   1,D
+  24,L,D
+   8,L
+  37,L,J
    1,G
    2,K,G
-   4
-   4,L
-   1,L,J
-  10,L
+   3
+   1,L
+  13
+   1,L
    1
+   9,L
+   1,L,J
+   2,L
   10,R,D,X
    4,L,J
    3,L
@@ -1087,4 +1076,4 @@ EndRepeat
   37,R,X
  102
 
-ChapterTime: 2:52.363(10139)
+ChapterTime: 2:51.496(10088)
