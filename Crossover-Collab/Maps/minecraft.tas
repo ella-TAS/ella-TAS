@@ -1,4 +1,4 @@
-RecordCount: 4641
+RecordCount: 4657
 
 console load CrossoverCollab/1-Submissions/CatAndComparator
    1
@@ -795,16 +795,14 @@ EndRepeat
   12,J,G
    5,K,G
    7,L
-   1,R
-  10,R,Z
-   2,L,J
-   3,L
-   2,L,J
-   7,L,D,X
-   1,L,J,G
-  10,L
-  35,L,J
-  14,L,D,X
+   2,L
+   4,L,Z
+   1,L,J
+   7,L
+  26,L,J
+  15,L
+   3,L,D
+  14,L,Z
    1,L,J
   12,L,D,X
   40
@@ -1076,4 +1074,4 @@ EndRepeat
   37,R,X
  102
 
-ChapterTime: 2:51.496(10088)
+ChapterTime: 2:51.326(10078)
