@@ -1,16 +1,15 @@
-# CrossoverCollab
+c# CrossoverCollab
 # https://gamebanana.com/mods/637482
 
-RecordCount: 2476
+RecordCount: 2484
 
 console load CrossoverCollab/1-Submissions/CatAndComparator
-   1
 
+   1
 Set, CommunalHelper.DeployElytra, Q
 
 #Start
   36
-
 #lvl_01 - The Beginning (0)
    6,L,Z
    1,R,J
@@ -1046,6 +1045,6 @@ EndRepeat
 #lvl_40 - The End
   25,R,PQ
    9,R,D,X
- 102
+ 135
 
 ChapterTime: 2:15.048(7944)
