@@ -1,12 +1,17 @@
-RecordCount: 5854
+# CrossoverCollab
+# https://gamebanana.com/mods/637482
+
+RecordCount: 2476
 
 console load CrossoverCollab/1-Submissions/CatAndComparator
    1
 
+Set, CommunalHelper.DeployElytra, Q
+
 #Start
   36
 
-#lvl_01 - The Beginning
+#lvl_01 - The Beginning (0)
    6,L,Z
    1,R,J
    7,R
@@ -26,7 +31,7 @@ console load CrossoverCollab/1-Submissions/CatAndComparator
    1,J
   40
 
-#lvl_02 - Discovery
+#lvl_02 - Discovery (0)
    3,R,J
    7,R,D,X
    1,R,K,G
@@ -34,119 +39,228 @@ console load CrossoverCollab/1-Submissions/CatAndComparator
    1,R,J
    8,R
    2,R,J
-   8,R
-  12,R,J
-
-#lvl_03 - Into Fire
-   5,R
-   2,R
-  16,U,X
-   9,R,J,G
-  12,R
-   9,Z
-   1,R,J
-   6,R
-   6,R,J
-   1,R
+  34,R
+   6,L,Z
+   1,L,J
+   4,L
+   2
+   1,L,J
+   2,J
+   5,L,D,X
+   2,L,K,G
+   4,L
+   1,L,J,G
+  12,L
+   7,L,D,J
+  15,L,D,X
+   1,J
+   2,L,J
+   5,L,D,X
+   1,L,K,G
+  11,L
+  11,L,J
+   1,J
+  40
+#lvl_01 - The Beginning (1)
+  17,L,D,X
+   2,L,J
+   7,L,D,X
+   2,L,K,G
+   3,L
+   2,L,J,G
+  20,L
+   1,L,J
+  20
+Repeat 50
+   1,X
+   1
+EndRepeat
+  16,L,D
+  12,L,Z
+   1,L,J
+   3,L
   40
 
-#lvl_03b - Welcome to Hell
-   1,R
-  15,R,D,X
-  12,R,J
-  12,X
-  14,R,J
-  15,R,D,C
-   6,R
-  27,R,D,X
-  15,R,C
-  29,R,D
-   2,R
-   1,R,D
-   2,R
-   2,L
-   1,R
-  10
+#lvl_01 - Elytra Flying Course
+   4,L
+   4,L,J
+  14,L,D,X
+   3,L,K,G
+   1,L,J
+   1,L,K
+   2,L,J,G
    1,L
-   5,L,Z
+   5,PQ,F,280
+   1,L
+   3,L,K,G
+   1
+  11,L
+   2,L,J
+   2,L
+  13,L,D,X
+   2,L,K,G
+   1,L
+   3,PQ,F,270
+   1,MR,PE,F,270
+   3,L
+   1,L,K
+   2,L
+   1,L,J
+   3,PQ,F,270
+  12,L,D,X
+   1,L,K,G
+   2,L
+   5,L,J,G
+  11,L
+   1,L
+   1,L,J
+   2,L
+   7,L,D,X
+   1,L,K,G
+  17,L
+   1,L,J
+  20,J,PQ,F,286
+   1,L
+   6,L,K,G
+   9,J,PQ,F,286
+  15,L,D,X
+   4,L,J
+   1,L,K,G
+  19,J,PQ,F,288
+  17,L,D,X
+   1,L,J
+  21,PQ,F,270
+  10,L,J
+  14,L,Z
    1,R,J
-   4
-   1,R
+   6,R,D,X
+   1,R,J,G
+   3
+   9,R
+   3,R,J
+  15,R,D,X
    1,R,J
-   5,R,K,G
-   3,R,J,G
+   3,R
+   7,R,D,X
+   1,R,J,G
+  20,R
+   1,R,J
+  11,R,K,G
+   4,R,J,G
+  15,R,D,X
+   4,R
+   1,R,J
    5,R,D,X
-   5
-   3,R,J,G
-   1,R,K,G
+   2,R,K,G
+   6,R
+   1,R,K
+   3,R
+   2,R,J
+   1,R
+   5,R,D,X
+   9,R,K,G
+  15,R
+   1,R,J
+  10,K,PQ,F,77
+   5,R,J,G
+  15,R,D,X
+   3,R,J
+  10,R,D,X
+   4,R,J,G
   10,R
    2,R,J
+  17,R,D,X
+   2,R,J
+   6,R,D,X
+   6,R,K,G
+   3,PQ,F,76
+  13,PQ,F,90
+   3,R
+   1,X
+  24,R,J
+   1,S
+   1,D,J
+  35,R
   40
+#lvl_02 - Discovery (1)
+   3
+  13,R
+   6,R,K,G
+  10,K,PQ,F,0
 
-#lvl_04 - Bleeding Passage
-   3,R,J
-  21,R,D,X
-  14,R
+#lvl_03 - Into Fire
+   8,R
+   2,K,PQ,F,270
+   6,L
+   3,R,PQ
+  15,R,D,X
+   1,R,J
+   3,R
+  40
+   7,K,PQ,F,90
+  15,R,X
+  19,R,PQ
+  15,R,D,X
+   2,D
+   9,K,PQ,F,97
+  40
+   8,K,PQ,F,97
+   4,R,D
+   1,R,J
+  13,J,PQ,F,90
+   1,R
+   6,R,K,G
+   1,R,J,G
+   2,R,J,PQ,F,90
+StunPause
+   6,R,J,PQ,F,90
+   1,R,Z
+EndStunPause
+   7,R,Z
    1,R,G
-   4,R,K,G
-   5,R
-   1,R,K
+   1,R,K,G
+   8,R,PQ
+  21,R,D,X
+  40
    2,R
-   1,R,K
+   1,R,D,J
+   6,R
+   1,R,D,J,G
+   6,D,J,G
+   1,D,J,G
+   4,J,PQ,F,270
+   2,PQ,F,180
    8,L
    2
-   8,L,D,K
+   2,R,J,PQ,F,170
+   7,G
+   2,J,PQ,F,270
+   4,L,G
+   1,L,J,G
+   2,L
+   4,PQ,F,90
+   2,PQ,F,145
+   4,R
+  12,R,D,X
    1,L
-   6,R
-   9,R,Z
-   2,R,K,G
-  40,R,D
-  15,R,X
-  19,R,D
-   4,Z
-   2,R,J
-   3,R
-   1,R,J,G
-   8,R
-  40
-
-#lvl_05 - Red Ascent
-   3,R
-   1,R,J
-  11,R,D,X
-   1,R,J
-   7,R
-   2,R,J
-   1,J
-   1,K,G
-  13,J,G
-  20,U,X
+   1,J,G
+   2,J,ML,PQ,F,90
+   8,PJQ,F,90
+   9,R,G
+   8,U,X
+   1,J,G
+  12,K,PQ,F,270
    7,L
-  27,L,D,C
-  15,U,X
-  19,L,J,G
-   2,K,G
-   4,L,K
-   1,R,K
-   1,R,J,G
-  12,R,K,G
-   9,R
-   1,R,J
-   5,R
-   3,R,J
-  22,R,D
-  18,R,J
-   5,U,X
-  15,L,J,G
-  16,L
-   2
-  24,L,D,X
-  18,U,C
-  13,U,X
-  43
-
+Repeat 4
+   1,K,PQ,F,270
+   1,K,PQ,F,0
+EndRepeat
+   5,K,PQ,F,270
+  18,U,X
+  13,U,C
+  40
 #lvl_06 - Corruption
-  11,R
+  14,R
   11,R,Z
    3,R,J
    1,R
@@ -159,45 +273,44 @@ console load CrossoverCollab/1-Submissions/CatAndComparator
    1,J
   10,R,J
    3,J
-   5,L,Z
+  10,L,Z
    1,R,J
    9,R
-   8,R,J
-   7,R
    1,R,J
-   5,R
-  14,R,Z
-  10,R
+   9,PQ,F,69
+   3
+   2,R
+  11,R,Z
+   4
+   5
   15,R,X
-  33,R,D
-  10,L,D,Z
+  15,D
+  10,R,D
+   8,D
+  11,L,D,X
    3,R,J
    2,R
-  14,R,U,X
-   1,L,J,G
-   6,R,J
-   5,R
-   2,R,J
-  12,R
+  13,R,U,X,G
+   1,L,G
+   1,K,G
+   8,R,PQ
+   1,U,PQ
+   1,R,PQ
+   7,R
+  10,R,PQ
   18,R,D,X
-   5,R,C
-  27,R,D
-   1,R
-   1,R,D
-   4,D,X
-   1,R,J
-   4,R
+   4,R,J
   40
 #lvl_07 - Loop
-   3,R
-   3,R,J
-  23,R,X
+   2,R,J
+  25,R,X
    8,R,J
   19,L,U,Z
   14,L,D,X
-   8,R
-  10,R,J
-  23,R,X
+  11,R
+   5,R,J
+   5,J
+  21,R,X
    4,R,J
    1,R,K
   15,R,D,X
@@ -219,43 +332,31 @@ console load CrossoverCollab/1-Submissions/CatAndComparator
    2,R,K
    7,R,U,Z,G
   12,R,K,G
-   6,R
-   8,R,K
-   2,K
+  15,R,PQ
   43
 
 #lvl_09 - Precision
-   1,R,K
-   1,R
-   1
-   7,R
-  14,R,U,X
-   1,R,K,G
-  19,R,D
-   6,D
+  13,R,PQ
+   2,U,PQ
+  15,R,PQ
+   3,D,PQ
+   8,U,PQ
   40
 
 #lvl_10 - Collection
-   7,R,U,X
+   6,R,U,Z
    1,L
-   1,J,G
-  24,R,D,M
-   2,J
-  55,U,X
-  12,J
-  20,L,J
-  12,R,U,Z
-StunPause
-  11
-EndStunPause
-   4,R,J
-StunPause
-  11,R,K
+   2,K,G
+   5
+   2,L,PQ
+   4,R
+   5,L
+   1,R,PQ
+   9,U,PQ
+   7,R
+   2,L,PQ
+   3,MR,PQ
    1,R
-   9,R,K
-EndStunPause
-  15,U,X
-  17,L,J
   40
 
 #lvl_11 - Scrapped Technology
@@ -285,94 +386,89 @@ EndStunPause
   14,L,Z
    1,R,J
    5,R,D,X
-  10,R,K,G
-   6,R
-   2,R,J
-   6,R
+   1,R,K,G
+   2,R,PQ
+Repeat 3
+   1,R,PQ
+   1,U,PQ
+EndRepeat
+  13,R,PQ
+   1,R
    1,R,J
   40
 
 #lvl_12 - Chase
    2,R,J
-   1,S
-  10,J
-   1,R,J
-   1,R
-   1,S
-  10,J
-   5,R,D,X
-StunPause
-   8,R,D
-EndStunPause
-   6,R,D
-StunPause
-   2,R,D
-EndStunPause
-  15,R,D
-   5,J
-   2,R,J
-   8,R,Z
-  40
-#lvl_12b - Abyss
-   3,R,Z
-   2,R,J,G
-   7,R
-  26,R,J
-  19,U,X
-   1,J
-  18,R,J
-   6,J
-   4,R,K,G
-   1,R
-   4,J
+   2,J
    1
-  10,R,K,G
-   2,R
-   1,J,G
-   7
-   4,Z
-   1,R,J
-   6,R
-   7,R,J
+   7,R,D,X
+StunPause
+   4,D
+EndStunPause
+   4,D
+   2,D,PQ
+  12,ML,PQ,F,180
+   1,L
+  10,R
+   1,R,D,J
+   5,U,PQ
+  40
+
+#lvl_12b - Abyss
+  20,U,PQ
+Repeat 4
+   1,R,PQ
+   1,U,PQ
+EndRepeat
+   6,R,PQ
   40
 
 #lvl_13 - Collapse
-   4,R,J
-  15,R,D,X
-   3,R,J
-  10,R
-  13,D,X
-  10,L
-  40,D
+  13,R,D,X
+  18,L
+  38,D
   10,R,Z
    1,L,J
    4,L
-  20,L,D,X
-  25,D
-  21,R,D
-   8,R,X
-  18,L,J
-   2,L,K,G
-  32,L
-   6,D
-   8,R,D
-   4,R
-  14,R,Z
-   8,R,J
-   9,R
-  15,R,X
-  11,J,G
-   6,D
-  18,R,D
-StunPause
-   2,R,D
-   6,D
-   1,R,D
-   3,D
-   5,L,D
-  13,R,D
-EndStunPause
-  36,R
+  18,L,D,X
+   1,L,PQ
+   5,MR,PQ,F,180
+
+
+   1,R
+   3,L
+   1,L,D,G
+   2,L,J,G
+  15,L,PQ
+  16,L,D
+  27,R,PQ
+Repeat 14
+   1,D,PQ
+   1,R,PQ
+EndRepeat
+   6,R,D,PQ
+  11,ML,PQ,F,0
+   3,R
+   5,U,X
+   3,R
+   9,D
+   2,L,D
+  22,L,PQ
+   5,U,PQ
+   3,L,PQ
+Repeat 4
+   1,U,PQ
+   1,L,PQ
+EndRepeat
+   7,L,D,PQ
+  21,PQ,F,315
+  17,L,PQ
+   6,L
+  15,D,X
+   6,R,D
+  34,R,PQ
+  41,PQ,F,76
+   8,R
    4,Z
    1,R,J
    4,R
@@ -422,8 +518,9 @@ EndRepeat
 #lvl_14 - Above (1)
   11
   13,U,X
-  12,R,J
-  18,R
+   5,R,J
+   4,R,U,PQ
+  14,R,PQ
   14,R,U,X
   13,L
   14,L,X
@@ -434,273 +531,275 @@ EndRepeat
    1,L,K,G
    8,R,K,G
    3,R,K
-  10,R,D
-   8,L,D
-   8,L,X
-  15
-  20,L,D
-  18,R,D
+   9,R,D
+   1,R,K
+   6,L
+  13,R,D
   15,U,X
-  18,L,U,Z
-  18,L,U,X
-   5,L
-  24,L,X
-  12,L
-  15,L,U,X
+  15,L,U,Z
+  13,L,U,PQ
+  13,R,X
+   7,L,J
+
+  26,PQ,F,301
+  18,L,X
    1,J
    8,L,J
-  13,L
-   6,J
-   8
+  13,L,J
+   6,K
+   5
+   3,K
    2,R
    5,R,X
-   9,R,J
-  17,R
    1,R,J
-  10,R,U,Z
+   3,R,U,PQ
+Repeat 3
+   1,R,PQ
+   1,U,PQ
+EndRepeat
+  15,R,PQ
+   1,R,U,PQ
+   4,R,PQ
   40
-
 #lvl_15 - Souljelly
-   4,R,U,Z
-   1,L,J,G
-  27,R,J
-  17,R,Z
+
+   1,R,PQ
+   5,R
    2,R,J
+   2,R,PQ
+  17,PQ,F,63
    4,R
-   3,R,J
-  20,R
-   3,R,D
+   5,R,J
+  23,R,D,X
+   1,R,J
+  19,PQ,F,60
+   3,R,PQ
+   1,R
+   4,R,J
+  28,R,D,G
+   5,R,D,PGQ
+   6,R,D,G
+   1,L,D,G
+  20,D,G,PQ
+   3,G
+   1,L
+   8,R,J
+   7,J
+   1,R,K
+   1,R,J
+   1,R,K
+  20,R,U,PQ
+   5,R,PQ
+  15,R,Z
+  13,R,D
+   6,R,D,PQ
+  18,R,PQ
+   3,R,D,PQ
+   1,R
+  14,R,Z
+   1,L,J
   14,L,Z
    1,R,J
-   5,R,D,X
-   1,R,K,G
-   5
-   8,R
-  15,R,J
-  29,R,K
-   4,R,J
-  58,R,D,G
-   1,R
-  13,R
-  20,R,J
-  14,L,J
-   6,L,K
-  62,L,D,G
-   1,L
-   3
-   8,J
-   3,L,J
-  10,L
-   5,R,X
-  13,R,G
-   1,R,J,G
-  50,R,D,G
-   1,R,U,J,G
-   1,R,U,G
-  19,R,U,J,G
-   1,R
-  11,L,D,X
-   1,L,J
-   3,J
-   3,K,G
-  14,L,D,Z
-   1,R,J
    6,R,D,X
-   1,R,K,G
-   3
-   2,R
-   1,R,J
-  11,R
-   1,R,J
-   1,R,K,G
-   3,R,K
-   8,R,D,X
-  13,R,G
+   1,R,J,G
+   3,R
+  13,R,PQ
+   1,R
+   5,R,J
   40
 
 #lvl_16 - Glowing Blue
-   9,R,J,G
-  29,R,D,G
-   8,K,G
-   5,G
-   3,J,G
-   2,R,J,G
-   2,R,D,G
-   2,R,J,G
-   9,R,D,G
-  10,R,U,G
-   7,R
-  15,U,X
-  46,R,G
-   1,R,D
-   1,R
-   4,R,J
-  13,L,D,X
    1,R,J
-   1,R
+   7,R,D,X
+   1,L
+   1,J,G
+   1
+   9,R,PQ
+   4,R
+   1
+   1,R,J
+  13,PQ,F,69
+   9,R,PQ
+  10,U,PQ
+   2,R,PQ
+   3
+  10,R
+  13,R,J
+   2,L,PQ
+   7,R
+   7,R,U,PQ
+  10,R,PQ
+  10,L,Z
+   1,R,J
+   7,R
+   2,R,J
    5,R,D,X
-  13,R,G
-   5,R,J,G
-   6,R,G
-   2,R,U,J,G
-  40
+   4,R,K,G
+   9,PQ
+  40,PQ
 
 #lvl_17 - Carving the Way
-  14,R,U,J,G
-   7,R
-  15,U,X
-  18,G
-  11,L,G
-   5,L,D
-   7,D
-   1,L,D
-   8,U,X
-  18,G
-  25,L,G
-   9,L,U,J,G
-   1,L,U,G
-  18,L,U,J,G
+  14,PQ
    1,R
-   3,L,K,G
+  15,R,J
+   1,R,K
+   2,L,K,PQ
+  24,L,U,PQ
    7,L
+   2,R,U,PQ
+   7,R
+  12,L,PQ
+  10,L,X
+   4,L,J,G
+   1,L,K,G
+   2,L
   40
 
 #lvl_18 - Deadly Fires
-   4,D,X
-   1,L,J
-   7
-  15,L,J
-  15,U,X
-  38,L,U,G
-   7,L,J,G
-   1,R,G
-   1,R
-   5,L
-  18,L,X
-  14,L
-  10,R,D
-   2,R
-  15,R,X
-   4,L
-  10
-   1,D
-  14,U,X
-   2,L,J
-  12,R,J
-  32,J,G
-   1,D
-  10,L,D
-   5,U,X,G
-  38,G
-   1,D
-   4,J
-   1,L,K,G
-   1,R,K
-  10,L,K
-   1,L,J,G
-   3,L,K,G
-   6,L
-  23,L,J,G
-   8,L
-   4,R,D,Z
+   2,L
+  14,L,D,X
    1,L,J
    7,L
-   1,L,J
+   5,L,J
+   2,R,PQ
+  10,R,U,PQ
+  19,R,G
+  16,L,U,PGQ
+  18,L,J,G
+   1,R
+  18,L,X
+  14,L
+   9,R,D
+   2,R
+  15,R,X
+  12
    2,L
-   6,L,D,X
+
+  14,U,X
+   4,R,J
+   1,L,J
+  12,L,J,G
+  15,U,PQ
+   7,L,G
+   1,R,G,PQ
+  23,U,G,PQ
+   6,R,D
+   5,D
+   1,R,D
+   5,U,X,G
+  18,G
+   2,G
+   1,R,G
+   1,G
+   1,R,G
+   1,G
+   1,R,G
+   1,G
+   2,R,G
+   2,G
+  12,L,G
+   1,R
+   1,L,K,G
    2,L,J,G
-   4,L
+   3,L,PQ
+   1,L
+   3,L,K,G
+   3,L
+   1,L,J,G
+   4,PQ
+   8,L
+   1,L,J
+  14,R,D,Z
+   1,L,J
+   5,L,D,X
+   1,L,K,G
+   5,L
+   6,L,PQ
+   6,L
+   1,L,J
   40
 
 #lvl_19 - The Four Gates
-   3,L
-  17,L,J
-   2,L,K
-   9,R,K
-  17,R,J
-   8,R,K
-  10,L,K
-  17,L,J
-   2,L,K
-   8,L
-   3,L,J,G
-   7,L
-  14,L,X
-  12,L
-  12,U,X
-  10,R,J
-  17,R
-  25,R,K
-  11,R,J
-   6,L,J
-  12,L,K
-  46,L,G
-   1,L
-  24,L,D
-  33,D
-  12,U,X
-   8,R,J
-  20,J
-   4,L,J
-  12,L,K
-   6,L
-  28,L,G
-   6,R,G
-   1,L,G
-   4,L,D,G
-   3,L,G
-  60,L,D,G
-   1,L
-  13,L,D
-   1,J
-   3,L,J
-   7,R,J
-   3,R,K
-   3,K
-   2,R,K
-  21,R,G
-   1,R
-   2,R,D
-   4,L,D
-   1,D
-  24,L,D
-   8,L
-  37,L,J
-   1,G
-   2,K,G
-   3
-   1,L
-  13
-   1,L
-   1
-   9,L
-   1,L,J
+  29,U,K,PQ
+  27,L,PQ
+  21,L,X
+  12,U,C
+   1,R,J
+   7,R,J,PQ
+Repeat 17
+   1,U,J,PQ
+   1,R,J,PQ
+EndRepeat
+  10,R
+   1,R,J
+   9,L,PQ
+  18,L,D,G
+  10,L,G,PQ
+  12,L,D,G,PQ
    2,L
-  10,R,D,X
-   4,L,J
-   3,L
-  14,L,D,X
+  16,L,D
+  11,D
+   4
+  21,L
+  13,U,X
+  12,R,J
+   5,R,K
+   3,R,J
+   3,R,K
+  14,L,PQ
+   6,L
+  13,L,G
+  20,L,G,PQ
+  29,L,D,G,PQ
+  23,L,G,PQ
+   2,L
+   6
+   1,J
+   2,L,J
+   4,R,J
+  10,R
+   1,R,J
+   1,R,K
+  13,R,G
+  14,R,G,PQ
+   7,R
+  21,R,PQ
+  13,R,D
+  27,L,PQ
+   1,L
+   1,L,K,G
+   1,L,J
+   1,L,K
+   1,L,J
+   1,L,K,G
    1,L
    1,L,J
-   7,L,D,X
-  40
+   6,L
+  17,L,PQ
+   1,L
+   1,L,J
+   1,L
+  15,L,D,X
+   2,L,PQ
+  40,PQ
 
 #lvl_20 - Pathway
-   7,L,D,X
+   6,L,PQ
    1,L
-  15,L,J
+   7,L,J
+   7,L,PQ
+  15,L,D,X
+   1,L,J
+   1,L
+  10,L,PQ
   14,L,D,X
-   1,L
-   1,L,J
-  14,L
-   1,L,J
-  14,L
-   4,L
   40
 
 #lvl_21- Mr. McFire
-   8,L
-  37
+   1,L,J
+   7,L
+  34
+   3,L
    1,L,J
    8,L
    2,L,J
@@ -744,7 +843,7 @@ EndRepeat
    9,L,J
   40
 
-#lvl_22 - Blazing Inferno
+#lvl_22 - Blazing Inferno (0)
    3,L,J
   15,L,D,X
    4,L,J
@@ -755,64 +854,48 @@ EndRepeat
    5,L,J
    9,L,D,X
    1,R,K,G
-   7,L,K
-  40
-
-#lvl_22b - Endless Corridors
+   1,L,K
+   1,K
    3
-   6,L,K
-  16,L,D,X
-   1,S
-   1,D,J
-  69,O
-   1,L,J
-  14,L
-   1
-   1,L
-  11,R,D,X
-   4,L,J
-   6,L,D,X
-   1,L,K,G
-  15,L
-   2,L,D
-   7,L,D,J
    2,L
-   1,L,K,G
-   7,K
-  15,L,D,X
-   1,R,J
-   1,L,J
   40
 
+#lvl_22b - Endless Corridors (0)
+  20,L
+   2,L,K,G
+   4,L
+  27,R,PQ
+   3,R,D
+  40
+
+#lvl_22 - Blazing Inferno (1)
+  11,R,D
+   1,R,J
+   5,L,PQ
+  16,L,D,X
+  40
+
+#lvl_22b - Endless Corridors (1)
+   5,L,D
+   1,J
+   2,L,J
+   7,L,D,X
+   1,L,J,G
+  13,L
+   9,L,U,X
+   1,L,K,G
+   2,L,PQ
+  11,L,U,PQ
+  40,PQ
 
 #lvl_23 - Ancient City
-  11,L,J
-  14,L,U,X
-  20,L,K,G
-   7,L,D
-   4,J
-   1,K
-  12,R,J
-   4,K,G
-   5,L,K
-  10,R,X
-  27,L,J
-  15,U,X
-   3,L
-   3,R,J
-  15,J
-   1,L,K,G
-   2,L
-   1,J,G
+   3,L,U,PQ
+   2,L,PQ
+  15,L,U,PQ
+   7,L
+   2,R,U,PQ
    7,R
-   6,L,Z
-   1,R,J
-   7,R
-   5,R,J
-   3,R,K,G
-  24,R,J,G
-  14,R,X
-  97
+  95,L,PQ
   14,L,D,X
    2,L
    6,L,Z
@@ -825,26 +908,32 @@ EndRepeat
 #lvl_24 - Fallen Down
   12,L
    1,L,J
-   4,R,J
-  27,R
-   4
-   1,R
-   9
-   5,R,J
-  15,J
+  14,L,D,X
+   1,L,J
+  14,L,D,X
+   2,L
+   1,X
+   1,R,J
+   8,R,D,X
+   1,R,J
+   6,R
+   6
+  20,J
   16,D
    1,R
    6,R,D
   10,R,D
    8,R
   15,R,Z
-  37,L,D
-  11,L,D,X
+  41,L,D
+  10,L,D,X
    1,L,J
-  16,L
-   3,R
-  18,R,D
+  12,L
+   7,R
+  16,R,D
    3,L,D
+   1,D
+   1,L,D
   14,R,Z
   20,L
    1
@@ -853,13 +942,16 @@ EndRepeat
    1,L,J,G
    5,L,K,G
    8,L
-  14,D
+  12,D
+   3
+   1,R
    1
-  15,L
+   2,R
+  11,L
   15,R,D
    6,D
-   2
-   5,L
+   5,L,D
+   1,L
    1,L,J
    2,L
    1
@@ -875,74 +967,46 @@ EndRepeat
   14,R,Z
    1,J
   14,D,X
-   6,D
+   3,D
    1,R,D
    1,D
    1,R,D
    1,D
-  27,R,D
-   4,R,Z
-   2,R,J
-   8,R
+   1,R,D
+   1,D
+  24,R,D
+   2,D
+   1,R,D
+   1,D
+  14,L,D,X
+   1,R,K
+   5,R,D,X
+   1,R,J,G
+  14,R
    1,R,J
   14,R,D,X
   40
 
 #lvl_24b- Nylium
    1,R,J
-  11,R,D,X
-   1,R,J
-   3,R,K,G
-  12,R
-  10,R,J
-   8,L,J
-  14,U,X
-  33,R,J
-   2,J
-   6
-   7,D,X
-  10,L
-  38,D
-   5,R,Z
-  10,R,J
-  30,R
-   6
-   4,R
-   5,R,Z
-  20,R,J
-  10,R
-  14,R,U,X
-   5,R
-   2
-   3,R
-   1,R,K,G
-   6,R,J,G
-   5,R
+  25,PQ,F,63
+Repeat 19
+   1,R,PQ
+   1,PQ,F,63
+EndRepeat
+   1,R,PQ
+   1,R
+   1,R,J,G
    2,R,J
-  14,R,D
-   1,L
-   3,L,D
-   1,L
-   3,L,D
-   9,L,Z
-   1,R,J
-   8,R
-   1,R,D,J
-  20,R,J
-  20,R,D
-  14,R
-   9,R,D
-  14,R,Z
-   1,R,J
-   5,R,D,X
-   1,R,J
-   1
-   6,R
-  11,R,J
+  26,R,D
+  27,R,PQ
+  17,R,D,X
+   9,R,J
   14,R,U,X
-  14,R
+  16,R
    4,R,J
-   7,R,K
+   4,R,K
+   3,R
   15,R,D,X
    9,R
   40
@@ -957,15 +1021,10 @@ EndRepeat
    4,R,J
   13,R,X
    4,R,J
-   3,R,K
-   7,L,K
-  14,R,U,X
-   7,R
-   4,L,J
-   9,L,U,X
-   3,L,J
-  17,L,K
-  25,U,X
+  11,R,K
+   2,L,U,PQ
+   7,L
+  26,R,U,PQ
   14,U,Z
   40
 
@@ -977,33 +1036,16 @@ EndRepeat
    1,L,J
    7,L
    1,L,J
-   3,R,J
-   5,R,D,X
+   3,L
+   3,R,PQ
 
 #lvl_39 - The Vault
-   1,R,D,X
-   1,R,J
-   7,R
-   2,R,J
-  16,R
-  10,R,X
-  11,R,J
-   6,R,U,X
-  40
+  18,R,PQ
+  40,PQ
 
 #lvl_40 - The End
-   3
-  10,R
-  14,R,Z
-   1,R,J
-   8,R
-   1,R,J
-  21,R
-   1,R,J
-  14,R
-   4,R,J
-  10,R
-  37,R,X
+  25,R,PQ
+   9,R,D,X
  102
 
-ChapterTime: 2:31.334(8902)
+ChapterTime: 2:15.048(7944)
