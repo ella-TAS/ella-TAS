@@ -1,7 +1,7 @@
 # CrossoverCollab
 # https://gamebanana.com/mods/637482
 
-RecordCount: 7916
+RecordCount: 8143
 
 console load CrossoverCollab/1-Submissions/Flamecrafter113_B
    1
@@ -42,11 +42,16 @@ console load CrossoverCollab/1-Submissions/Flamecrafter113_B
    3
   15,U,Z
    1,L
-   2,R
+   1
    1,L
+   1
    6,G
    4,U,G
-  25,G
+   6,G
+   4,D,G
+   3,G
+   1,D,G
+  17,G
    1
    1,J,G
    1,K,G
@@ -183,15 +188,22 @@ console load CrossoverCollab/1-Submissions/Flamecrafter113_B
   16,L,X
   12,L
   15,L,D,X
-   2,L
-  16,L,D
+  17,L,D
    3,L
    1
    1,L
 # this may be faster than awkward balloon grab?
 # test both ways
   15,D,X
-  23
+   7
+   2,L
+   2
+   2,L
+   2
+   1,L
+   1
+   1,L
+   5
    8,L,J
    8,J
    1,R,J
@@ -501,6 +513,7 @@ console load CrossoverCollab/1-Submissions/Flamecrafter113_B
   40
 #
   61
+   1,R
    5,L,D,X
    1,R,J
    7,R
@@ -509,8 +522,11 @@ console load CrossoverCollab/1-Submissions/Flamecrafter113_B
    3,R,J
    7,R
   15,U,X
-   6,R
-   4
+   5,R
+   1
+   1,R
+   2
+   1
    1,L,D,J
   10,R,D,X
   10,R,J
@@ -519,7 +535,8 @@ console load CrossoverCollab/1-Submissions/Flamecrafter113_B
   20,R
    9,U,C
    3,R,D
-   8,D
+   7,D
+   1,R,D
   14,R,D,X
    1,R,D,J
   16,R,D,X
@@ -673,13 +690,13 @@ console load CrossoverCollab/1-Submissions/Flamecrafter113_B
   14,L,J
   20,L
    2
-   6,L,D
+   1,L,D
+   1,D
+   4,L,D
    1,G
    1
    1,L
-   1
-   1,L
-   5
+   7
   20,G
    1
    1,L,J,G
@@ -840,12 +857,10 @@ console load CrossoverCollab/1-Submissions/Flamecrafter113_B
    1,J,G
    9
    5,L
-   7
-   1,S
+   8
 
 #lvl_b-06
-   1,D,J
-  69,O
+ 116
    8,L,Z
    1,R,J
    7,R
@@ -854,6 +869,7 @@ console load CrossoverCollab/1-Submissions/Flamecrafter113_B
    2,R
   15,R,D,X
   32,R
+   2,R,J
   15,R,X
   22,R,U,C
   14,R,Z
@@ -990,11 +1006,15 @@ console load CrossoverCollab/1-Submissions/Flamecrafter113_B
    6,L
   13,L,Z
   17,L,J,G
-  15,L,X
-   8
-  14,L,C
-   1,L,J,G
-  14,L
+  15,L,D,X
+  30,L
+  14,L,Z
+   5,L,J
+   2,R,J
+  14,R,K,G
+  14,J,G
+  14,U,X
+   9,R,J
   15,D,X
    8,L,D
    3,L
@@ -1005,12 +1025,11 @@ console load CrossoverCollab/1-Submissions/Flamecrafter113_B
    9,L,D,C
    2,L,J
    4,L
-   7
-   1,S
+   8
 
 #lvl_b-07 (0)
-   1,D,J
-  69,O
+ 108
+   2,R
   14,R,Z
    1,L,J
    3,L
@@ -1114,13 +1133,11 @@ console load CrossoverCollab/1-Submissions/Flamecrafter113_B
    8,R
    5,D,X
    1,J
-   6
-   1,S
+   7
 
 #lvl_b-08
-   1,D,J
-  69,O
-#
+ 131
+  12,R
   10,R,Z
   12,R,J
    4,R
@@ -1351,12 +1368,11 @@ console load CrossoverCollab/1-Submissions/Flamecrafter113_B
    1,R,J
    7,R
   12,R,U,X
-   9,R,J,G
-   1,S
+  10
 
 #lvl_b-09
-   1,D,J
-  69,O
+ 127
+   2,L
    8,L,Z
    1,R,J
    7,R
@@ -1389,27 +1405,26 @@ console load CrossoverCollab/1-Submissions/Flamecrafter113_B
    2,L
    1,L,J,G
    2,L,K,G
-
   32,L
   15,L,Z
   15,U,X
   11,L,C
-  15,R,U,X
-   1,J
-   8,R,J
-  18,U,X
-  12,L,U,C
+  15,L,U,X
+  14,L,J
+   8,U,X
+   9,R
+  15,R,X
+  11,R,J
+  11,L,U,X
    9
   10,U,X
   33,R,J
    2
   20,R,U,X
-   1,J,G
-   1,L,J
-   1,R,J
-   7,R,K,G
+   1,R
+   4,J,G
    1,K
-   6,R,K
+  24,R,K
    1,R,J,G
   13,R,K,G
    5,J,G
@@ -1489,11 +1504,12 @@ console load CrossoverCollab/1-Submissions/Flamecrafter113_B
   33,D
  226,U,X
   10,D,C
-   1,S
+   1
 
 #lvl_b-10
-   1,D,J
-  69,O
+ 104
+   6,L
+   2
   14,R,Z
    1,R,J
   12,R,X
@@ -1710,11 +1726,11 @@ console load CrossoverCollab/1-Submissions/Flamecrafter113_B
    1,L,J
    6,L,D,X
    7
-   1,S
+   1
 
 #lvl_b-rift-00
-   1,D,J
-  69,O
+ 169
+  14,R
    9,L,Z
    1,R,J
    7,R
@@ -1732,19 +1748,22 @@ console load CrossoverCollab/1-Submissions/Flamecrafter113_B
    1,R
    1
    3,R
-   8
+   7
+   2,R
+  10,R,X
+   6,R
+   3
    1,R
-  13,R,X
-  19,R
+   1
+  12,R
   60,R,D,X
   39,R
-   1,R,D
+   2,R,D
   40
 
 #lvl_b-rift-01
-  12,R,D
-   3,R
-  12,R,U,X
+  15,R,D
+  13,R,U,X
   12,R,J,G
    5,K,G
    1,R,K
@@ -2016,6 +2035,6 @@ EndRepeat
   10,R,D
    1
   22,U,X
- 425
+ 420
 
-ChapterTime: 4:47.215(16895)
+ChapterTime: 4:55.460(17380)
