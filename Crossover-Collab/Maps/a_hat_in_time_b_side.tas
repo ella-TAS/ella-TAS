@@ -1,7 +1,7 @@
 # CrossoverCollab
 # https://gamebanana.com/mods/637482
 
-RecordCount: 8143
+RecordCount: 8180
 
 console load CrossoverCollab/1-Submissions/Flamecrafter113_B
    1
@@ -33,9 +33,7 @@ console load CrossoverCollab/1-Submissions/Flamecrafter113_B
    9,R,D,X
 
 #lvl_b-01
-  35
-#
-  61
+  96
   14,R,Z
   11,R,J
    5,R
@@ -132,9 +130,7 @@ console load CrossoverCollab/1-Submissions/Flamecrafter113_B
    1,R,K
 
 #lvl_b-02
-  41
-#
-  61
+ 102
 # no avoiding the long start of this room?
   14,R,X
    7,R,J
@@ -268,9 +264,7 @@ console load CrossoverCollab/1-Submissions/Flamecrafter113_B
    1,R,J
 
 #lvl_b-03
-  41
-#
-  61
+ 102
   14,R,Z
    1,R,J
    7,R,U,X
@@ -510,9 +504,7 @@ console load CrossoverCollab/1-Submissions/Flamecrafter113_B
    7,L
 
 #lvl_b-04
-  40
-#
-  61
+ 101
    1,R
    5,L,D,X
    1,R,J
@@ -671,9 +663,7 @@ console load CrossoverCollab/1-Submissions/Flamecrafter113_B
    2,L
 
 #lvl_b-05
-  39
-#
-  61
+ 100
    7,L,Z
    1,R,J
    7,R
@@ -860,7 +850,7 @@ console load CrossoverCollab/1-Submissions/Flamecrafter113_B
    8
 
 #lvl_b-06
- 116
+ 115
    8,L,Z
    1,R,J
    7,R
@@ -1028,7 +1018,7 @@ console load CrossoverCollab/1-Submissions/Flamecrafter113_B
    8
 
 #lvl_b-07 (0)
- 108
+ 107
    2,R
   14,R,Z
    1,L,J
@@ -1137,8 +1127,8 @@ console load CrossoverCollab/1-Submissions/Flamecrafter113_B
 
 #lvl_b-08
  131
-  12,R
-  10,R,Z
+   4,R
+  13,R,Z
   12,R,J
    4,R
   15,R,U,X
@@ -1255,7 +1245,6 @@ console load CrossoverCollab/1-Submissions/Flamecrafter113_B
   11,L,U,X
    4,L
   14,L,U,X
-
    1,J,G
    5,L,J
    1,R,J
@@ -1313,9 +1302,7 @@ console load CrossoverCollab/1-Submissions/Flamecrafter113_B
    7,L
 
 #lvl_b-07 (1)
-  46
-#
-  61
+ 107
    2,L
    1,L,J
   10,R,X
@@ -1372,7 +1359,6 @@ console load CrossoverCollab/1-Submissions/Flamecrafter113_B
 
 #lvl_b-09
  127
-   2,L
    8,L,Z
    1,R,J
    7,R
@@ -1472,8 +1458,6 @@ console load CrossoverCollab/1-Submissions/Flamecrafter113_B
    7,R
   10
    1,L
-
-
   16,U,X
   40,R,J
   14,R,U,X
@@ -1494,9 +1478,7 @@ console load CrossoverCollab/1-Submissions/Flamecrafter113_B
    7
 
 #lvl_b-07 (2)
-  86
-#
-  61
+ 147
    1,L,J
    8,L
   15,D,X
@@ -1730,8 +1712,8 @@ console load CrossoverCollab/1-Submissions/Flamecrafter113_B
 
 #lvl_b-rift-00
  169
-  14,R
-   9,L,Z
+   6,R
+   6,L,Z
    1,R,J
    7,R
    1,R,J
@@ -2037,4 +2019,4 @@ EndRepeat
   22,U,X
  420
 
-ChapterTime: 4:55.460(17380)
+ChapterTime: 4:55.120(17360)
