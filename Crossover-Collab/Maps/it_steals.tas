@@ -1,4 +1,4 @@
-RecordCount: 1425
+RecordCount: 1533
 
 console load CrossoverCollab/1-Submissions/LastLocationUnknown
    1
@@ -7,40 +7,39 @@ console load CrossoverCollab/1-Submissions/LastLocationUnknown
  190
 
 #lvl_a01 | Abandoned Hope
-   4,R,Z
+   6,R,Z
+   2,R,J
+   8,R
    3,R,J
-   9,R
+  14,R,X
    1,R,J
-   3,R
-   3,L
-   5,R,X
-   1,R
-   4,L
-   1,R,J
-   5,L
-   5,R,U,Z
-  12,L
-   8,D
-   5,R,D
+  14,R,U,Z
+   5,R
+   6,L
+   4,R
+Repeat, 2
    1,R,D,J
    4,R
-Repeat, 3
-   1,R,J
-   4,R
 EndRepeat
-  14,R,D
+   2,R,D,J
+   5,R
+   8
+   4,D
+   2,R,D
 Repeat, 6
    1,R,D,J
    4,R
 EndRepeat
   15,R,J
-   5,R,Z
-  29,R,D
+  15,R,Z
+  14
+   3,D
+   2,R,D
 Repeat, 3
    1,R,D,J
    4,R
 EndRepeat
-  10,R,D
+  10
 Repeat, 4
    1,R,D,J
    4,R
@@ -48,19 +47,22 @@ EndRepeat
   12,L,J
   12,K
    7,J
-   5,R,U,Z
-  27,R,D
+  15,R,U,Z
+   3,R
+  11
+   3,R,D
    1,R,J
    5,R
   40
 
 #lvl_a02 | Into Terror
    1,R
-   5,R,D,X
-   8,R
+  13,R,D,X
    3,R,J
-   5,R,Z
-  28,R,D
+  15,R,Z
+   2,R
+  12
+   4,R,D
    6,R,J
   11,R,K
   19,R
@@ -87,8 +89,7 @@ EndRepeat
   12,R
    1,R,J
    1,R
-   5,R,D,X
-   4,R
+   9,R,D,X
   12,D
    8,R,D
    1,R
@@ -97,13 +98,12 @@ EndRepeat
    3,L,J
    5,L
    8,L,J
-   5,L,D,X
-   9,L
+  14,L,D,X
    6,L,J
   13,L
    5,D
-   5,R,Z
-  75,D
+  15,R,Z
+  65,D
    5,L,Z
    6,L
    1,R,J
@@ -187,33 +187,27 @@ EndRepeat
    6,L,J
   14,L
   75
-   5,U,X
-   7
+  12,U,X
   22,L,J
   16,R,K
   12,L,J
   15,R,K
   12,L,K
    1,H
-   5,U,X
-   6
+  11,U,X
   26,J
-   5,U,X
-  10
-   5,U,X
-  10
+  15,U,X
+  15,U,C
   11,R,H
   42,R,D
    5,R,Z
    9,R
    1,L,J
    6,L
-   5,L,X
-  13,L
-   5,U,X
-  10
-   5,U,X
-  30,L,D
+  18,L,X
+  15,U,C
+  15,U,X
+  20,L
   13,L,D,J
    5,L,D,X
    9,D
@@ -224,15 +218,13 @@ EndRepeat
   10,L
    3,R,D
   10,D
-   5,L,Z
-   9,L
+  14,L,Z
    3,L,J
    5,L,D,X
   15,L
   13,L,D
    1,L,J
-   5,D,X
-   5
+  10,D,X
    1,R,J
   35,D
    5,R,U,Z
@@ -542,4 +534,4 @@ EndRepeat
   14,U,X
  138
 
-ChapterTime: 1:24.014(4942)
+ChapterTime: 1:23.861(4933)
