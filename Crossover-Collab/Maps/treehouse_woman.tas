@@ -1,7 +1,7 @@
 # CrossoverCollab
 # https://gamebanana.com/mods/637482
 
-RecordCount: 1012
+RecordCount: 1016
 
 console load "CrossoverCollab/2-Extras/Adam Korinek"
    1
@@ -25,10 +25,12 @@ console load "CrossoverCollab/2-Extras/Adam Korinek"
 #lvl_Cave
    2,L,D,X
    1,L,J
-  13,L
+   3,L
+   1,L,J
+   9,L
   14,D,X
    3,L,D
-   5,L
+   4,L
    3,R
    1,R,G
    7,R
@@ -322,4 +324,4 @@ Repeat, 4
   14,R
 EndRepeat
  213
-ChapterTime: 2:04.984(7352)
+ChapterTime: 2:04.967(7351)
