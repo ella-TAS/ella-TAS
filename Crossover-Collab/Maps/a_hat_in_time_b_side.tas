@@ -1,7 +1,7 @@
 # CrossoverCollab
 # https://gamebanana.com/mods/637482
 
-RecordCount: 8180
+RecordCount: 8262
 
 console load CrossoverCollab/1-Submissions/Flamecrafter113_B
    1
@@ -847,10 +847,12 @@ console load CrossoverCollab/1-Submissions/Flamecrafter113_B
    1,J,G
    9
    5,L
-   8
+   5,R,Z
+   5,R,J
+   1,R,K
 
 #lvl_b-06
- 115
+ 102
    8,L,Z
    1,R,J
    7,R
@@ -1015,11 +1017,16 @@ console load CrossoverCollab/1-Submissions/Flamecrafter113_B
    9,L,D,C
    2,L,J
    4,L
-   8
+   1,L,J
+   2,L
+   1,L,K,G
+   1,L,J,G
+   1,L,K,G
+   2,L
 
 #lvl_b-07 (0)
- 107
-   2,R
+  99
+   3,R
   14,R,Z
    1,L,J
    3,L
@@ -1121,12 +1128,14 @@ console load CrossoverCollab/1-Submissions/Flamecrafter113_B
    4,X
   10,R,J
    8,R
-   5,D,X
-   1,J
-   7
+   9,R,D,X
+   1,R,J,G
+   1,R,K,G
+   1,R,J,G
+   1,R
 
 #lvl_b-08
- 131
+ 107
    4,R
   13,R,Z
   12,R,J
@@ -1349,16 +1358,16 @@ console load CrossoverCollab/1-Submissions/Flamecrafter113_B
   14,R,U,X
   15,U,C
    2,R
-  10,R,Z
-   3,R,J
-   3,R
+  14,R,X
+   8,R,J
+   5,R
+  14,R,Z
    1,R,J
    7,R
-  12,R,U,X
-  10
+   1,R,J,G
 
 #lvl_b-09
- 127
+ 105
    8,L,Z
    1,R,J
    7,R
@@ -2019,4 +2028,4 @@ EndRepeat
   22,U,X
  420
 
-ChapterTime: 4:55.120(17360)
+ChapterTime: 4:54.066(17298)
