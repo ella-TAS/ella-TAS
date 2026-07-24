@@ -1,4 +1,4 @@
-RecordCount: 12784
+RecordCount: 12852
 
 console wipedebug
 console load CrossoverCollab/1-Submissions/Flamecrafter113
@@ -980,8 +980,11 @@ console load CrossoverCollab/1-Submissions/Flamecrafter113
    4,X
   10,R,J
    8,R
-   5,D,X
-   8
+
+   9,R,D,X
+   1,R,J,G
+   1,R,K,G
+   2,R,J,G
 
 #lvl_a-07
   49
@@ -1325,15 +1328,21 @@ console load CrossoverCollab/1-Submissions/Flamecrafter113
   14,L,U,X
   38,L,J,G
    8,L,D
-  19,D
+  12,D
+   5,L,U,X
+   1,L,J,G
+   1,L,K,G
+   1,L,J,G
+   2,L,K,G
 
 #lvl_a-10_end
- 141
+ 139
    1,J
    8,L,Z
    1,L,J
    7,L
-  18,L,J
+  12,L,J
+   6,J
   15,U,X
    8,J,G
    4,L,J
@@ -1434,4 +1443,4 @@ Repeat 217
 Endrepeat
    1
 
-ChapterTime: 2:34.632(9096)
+ChapterTime: 2:34.598(9094)
