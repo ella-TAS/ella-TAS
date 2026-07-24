@@ -1,7 +1,7 @@
 # CrossoverCollab
 # https://gamebanana.com/mods/637482
 
-RecordCount: 8262
+RecordCount: 8314
 
 console load CrossoverCollab/1-Submissions/Flamecrafter113_B
    1
@@ -33,7 +33,8 @@ console load CrossoverCollab/1-Submissions/Flamecrafter113_B
    9,R,D,X
 
 #lvl_b-01
-  96
+  36
+   1,J
   14,R,Z
   11,R,J
    5,R
@@ -130,7 +131,8 @@ console load CrossoverCollab/1-Submissions/Flamecrafter113_B
    1,R,K
 
 #lvl_b-02
- 102
+  42
+   1,J
 # no avoiding the long start of this room?
   14,R,X
    7,R,J
@@ -264,7 +266,8 @@ console load CrossoverCollab/1-Submissions/Flamecrafter113_B
    1,R,J
 
 #lvl_b-03
- 102
+  42
+   1,J
   14,R,Z
    1,R,J
    7,R,U,X
@@ -504,7 +507,9 @@ console load CrossoverCollab/1-Submissions/Flamecrafter113_B
    7,L
 
 #lvl_b-04
- 101
+  41
+   1,J
+   2
    1,R
    5,L,D,X
    1,R,J
@@ -663,7 +668,9 @@ console load CrossoverCollab/1-Submissions/Flamecrafter113_B
    2,L
 
 #lvl_b-05
- 100
+  40
+   1,J
+   1
    7,L,Z
    1,R,J
    7,R
@@ -852,7 +859,8 @@ console load CrossoverCollab/1-Submissions/Flamecrafter113_B
    1,R,K
 
 #lvl_b-06
- 102
+  42
+   1,J
    8,L,Z
    1,R,J
    7,R
@@ -1025,7 +1033,8 @@ console load CrossoverCollab/1-Submissions/Flamecrafter113_B
    2,L
 
 #lvl_b-07 (0)
-  99
+  39
+   1,J
    3,R
   14,R,Z
    1,L,J
@@ -1135,7 +1144,8 @@ console load CrossoverCollab/1-Submissions/Flamecrafter113_B
    1,R
 
 #lvl_b-08
- 107
+  47
+   1,J
    4,R
   13,R,Z
   12,R,J
@@ -1311,9 +1321,10 @@ console load CrossoverCollab/1-Submissions/Flamecrafter113_B
    7,L
 
 #lvl_b-07 (1)
- 107
-   2,L
-   1,L,J
+  47
+   1,J
+   3,L
+   1
   10,R,X
    1,R,J
    4,R
@@ -1367,7 +1378,8 @@ console load CrossoverCollab/1-Submissions/Flamecrafter113_B
    1,R,J,G
 
 #lvl_b-09
- 105
+  45
+   1,J
    8,L,Z
    1,R,J
    7,R
@@ -1498,7 +1510,8 @@ console load CrossoverCollab/1-Submissions/Flamecrafter113_B
    1
 
 #lvl_b-10
- 104
+  44
+   1,J
    6,L
    2
   14,R,Z
@@ -1720,7 +1733,8 @@ console load CrossoverCollab/1-Submissions/Flamecrafter113_B
    1
 
 #lvl_b-rift-00
- 169
+ 109
+   1,J
    6,R
    6,L,Z
    1,R,J
@@ -2028,4 +2042,4 @@ EndRepeat
   22,U,X
  420
 
-ChapterTime: 4:54.066(17298)
+ChapterTime: 4:42.098(16594)
