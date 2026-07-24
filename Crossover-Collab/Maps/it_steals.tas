@@ -1,4 +1,4 @@
-RecordCount: 1533
+RecordCount: 1632
 
 console load CrossoverCollab/1-Submissions/LastLocationUnknown
    1
@@ -438,22 +438,27 @@ EndRepeat
 StunPause
   24,R
    3,R,D
-   1,R,J
-  13,R
-   1,R,J
-  15,R
-   2
-SkipInput,3,1
-  14,D,X
-EndStunPause
-   4,L,D
+   6,R,J
    5,R
+   2,R,J
+  15,R
+   1,R,D
+   2,D
+   2,R,D
+   1,D
+SkipInput,3,1
+  10,D,X
+EndStunPause
+   3,L,D
+   1,J,G
+   8
+   1,L
+   2,R
   15,L,Z
   14,L,D,C
-   3,L,D
-  15,D
-   3,R,D
-  11,D
+   2,L
+   2,L,D
+  28,D
    4,L,D
   14,L,Z
    5,L,J
@@ -534,4 +539,4 @@ EndRepeat
   14,U,X
  138
 
-ChapterTime: 1:23.861(4933)
+ChapterTime: 1:23.742(4926)
