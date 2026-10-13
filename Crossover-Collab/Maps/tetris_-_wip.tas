@@ -1,4 +1,4 @@
-RecordCount: 1283
+RecordCount: 1342
 
 console load CrossoverCollab/1-Submissions/evaCelestris
    1
@@ -467,6 +467,7 @@ EndRepeat
    1,J,G
 
 #lvl_a-05
+***
   57
   19
    1,X
@@ -482,4 +483,37 @@ EndRepeat
    1,S
    1,D,J
 ***
-  99
+  34
+  15,U,X
+  15,U,C
+  15,U,X
+  15,U,C
+  15,U,X
+  15,R,U,C
+   3,R
+  15,D,X
+  15,U,C
+  11,L
+  15,R,X
+  15,L,C
+  15,L,X
+  15,L,C
+  15,L,X
+  15,L,D,C
+  15,L,X
+   1
+  15,D,C
+  15,R,U,X
+  15,R,U,C
+  15,R,X
+  15,L,U,C
+   9,L,X
+   6,L,J,G
+  15,D,X
+   3
+  15,U,C
+  18,L
+   7
+  15,R,U,X
+  15,R,D,C
+  99,R
