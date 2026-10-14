@@ -1,4 +1,4 @@
-RecordCount: 5656
+RecordCount: 5992
 
 console load CrossoverCollab/1-Submissions/Knight
 Invoke, KelperModule.SwingButton.Binding.Keyboard.Clear
@@ -7,9 +7,8 @@ Invoke, KelperModule.SwingButton.Binding.Keyboard.Add, Q
 
 #Start
 #lvl_HC-01
-
   97
-   1,S
+   1,S,N
    1,D,J
   34
    5,R
@@ -25,7 +24,7 @@ Invoke, KelperModule.SwingButton.Binding.Keyboard.Add, Q
    6,R
    2,R,J
    7,R
-Repeat, 6
+Repeat,6
    1,R,J
   14,R
 EndRepeat
@@ -89,7 +88,7 @@ EndRepeat
   10,R,D
    2
   23,R
-Repeat, 9
+Repeat,9
    1,R,J
   14,R
 EndRepeat
@@ -99,19 +98,19 @@ EndRepeat
 
 #lvl_DM-01 (0)
    8,R
-Repeat, 3
+Repeat,3
    1,R,J
   14,R
 EndRepeat
    1,R,J
  129,R,D
-Repeat, 43
+Repeat,43
    1,R,J
   14,R
 EndRepeat
    1,R,J
   18,R
-Repeat, 4
+Repeat,4
    1,R,J
   14,R
 EndRepeat
@@ -200,7 +199,7 @@ EndRepeat
   21,R,D
    3,D
   15,R,D
-Repeat, 3
+Repeat,3
    1,R,J
   14,R
 EndRepeat
@@ -450,13 +449,13 @@ EndRepeat
 
 #lvl_FCr-06
    6,L
-Repeat, 17
+Repeat,17
    1,L,J
   14,L
 EndRepeat
    1,L,J
    2,L
-   1,S
+   1,S,N
    1,D,J
   34
   15,L
@@ -613,7 +612,7 @@ EndRepeat
 
 #lvl_GP-01
    9,L
-Repeat, 5
+Repeat,5
    1,L,J
   14,L
 EndRepeat
@@ -645,7 +644,7 @@ EndRepeat
    9,L
    1,L,J
   18,L
-Repeat, 4
+Repeat,4
    1,L,J
   14,L
 EndRepeat
@@ -655,13 +654,13 @@ EndRepeat
 
 #lvl_GP-02
   11,L
-Repeat, 4
+Repeat,4
    1,L,J
   14,L
 EndRepeat
    1,L,J
    2,L
-   1,S
+   1,S,N
    1,D,J
   34
   12,L
@@ -756,7 +755,7 @@ EndRepeat
   28,L,D
    1,L,J
    4,L
-   1,S
+   1,S,N
    1,D,J
   34
   10,L
@@ -766,30 +765,29 @@ EndRepeat
   12,L
  194,R
    1,O
- 300
-Repeat, 90
-   1,J
-   1,O
-EndRepeat
-   5
-  15,R,D,X
-  15,R,C
-   2,L,J
-   2
-  24,R,U,X
-   2,R,J
-  15,R,X
-   9,R,J
-  15,U,X
+  30
+# s&q instead of retry for spinner drift
+   1,S
+   1,U
+   1,F,
+   1,U,J
+SaveAndQuitReenter
+  36
+  10,R
+  21,R,J
+  10,K
+  20,R,V
+   1,R,J
+  14,R
+  12,L,X
+   3,R,J
+   4,R,D,J,PQ
+  14,R,J
   27,R
-   8,R,J
-   3,R,J,PQ
-  20,R,D,J
-  12,R,X
-   3,PQ
-   1,D
-  54,R
-   7,R,D
+  26,R,J
+  30,R,X
+  13,R,D
+  10,R
    7,R,J
   23,R,D
   12,R,V
@@ -805,10 +803,10 @@ EndRepeat
   26
 
 #lvl_FCr-04 (1)
-  15,L,X
+  15,L,C
    7,L,J
    5,L
-  20,L,J
+  21,L,J
   19,L,V
   15,L,X
   15,D,C
@@ -1298,7 +1296,7 @@ EndRepeat
   18,R,U,V
    7
    1,R,J
-Repeat, 3
+Repeat,3
    6,R,K
    6,L,J
 EndRepeat
@@ -1322,7 +1320,7 @@ EndRepeat
    1
    1,R,J,G
    7,R
-Repeat, 3
+Repeat,3
   15,R,X
   15,R,C
 EndRepeat
@@ -1344,7 +1342,7 @@ EndRepeat
 
 #lvl_D-04 (1)
    4
-Repeat, 3
+Repeat,3
   15,L,X
   15,L,C
 EndRepeat
@@ -1593,15 +1591,18 @@ EndRepeat
 #lvl_CP-03 (0)
    3,R,J
   12,R,D,X
-stunpause
+StunPause
   14,R,D
-endstunpause
+EndStunPause
    4,R,D,J
   36,R,K,G
   21,R,X
   40
 
 #lvl_CP-05
+# spinner cycle
+   2
+# -------------
    1,S,N
    1,D,J
    1,O
@@ -1796,7 +1797,7 @@ endstunpause
    8,R
   40
 
-#lvl_RG-01
+#lvl_RG-01 (0)
    7,R
   15,D,X
    2,R,D
@@ -1832,27 +1833,36 @@ EndStunPause
    7
    2,L
    1,L,N
-   1,S
+   1,S,N
    1,D,J
   34
-   1,L,J
-  60,L
-Repeat, 120
+   1,S,N
+   1,D,J
+  65,O
+   1,S,N
+   1,D,J
+  34
+  15,R,X
+   2,R,J
+   1,R
+  14,R,U,X
+   1,R,J,G
+   5,R
+   2
+  17,R,X
+  38,L,C
    1,J
+   1
+  34,D,X
+   3,R,J
+ 124,L,X,G
    1,O
-EndRepeat
-  24
-  36,L,V
-   5,L,J
-  14,L,D
-   9,R,D
-   2,R
-  10,R,D
- 125,L,X,G
-   1,O
-  81
-   2,L
-  22,R,D,X
+  32
+  40
+
+#lvl_RG-01 (1)
+   9
+  15,R,D,X
    3,J
   26,L,X,G
   12,J,G
@@ -2067,17 +2077,18 @@ EndStunPause
    3,PQ
    6,D
    5,R
-   2
+   1
+   1,R
   14,U,X
    3,PQ
-   9,R,D
-  25,R,X
+   8,R,D
+  26,R,X
   11,U,C
   12,R,J
    3,R,J,PQ
    3,R,D,J
    9,L
-   5,L
+   4,L
   14,L,X
    3,PQ
   22,L,D
@@ -2129,11 +2140,11 @@ EndStunPause
  214,L,X
    1,O
   31
-   1,S
+   1,S,N
    1,D,J
   33
 # spinner cycle
-   2
+   1
 # -------------
    6,L,V
    1,L,J
@@ -2152,7 +2163,7 @@ EndStunPause
    1,R
   16,R,D,X
    4,R,U,V
-stunpause
+StunPause
    5,R,U
    1,R,J,G
 EndStunPause
@@ -2214,20 +2225,23 @@ EndStunPause
    1,J
   20,L,K
   18,L,V
-  12,L,J,G
+   1,L,J,G
+   1,L
+   9,L,J,G
+   1,L
    1,K
    2,L,J,G
    5,J
    3,J,PQ
    6,L,D,J
-   9
+   8
   14,U,X
    3,PQ
    1,D
    9,R
   11,R,X
    1,R,J,G
-   1,J
+   2,J
    1,R,J
    2,R
    1,J,G
@@ -2236,19 +2250,19 @@ EndStunPause
    1,R,J,G
    1,J
    1,R,J
-   9,R
+   7,R
    1,R,J
-   1,R
+   3,R
    4,V
    1,R,J
    6,R
   11,R,J
    2,R
    8,U,X
-  25,R,J
+  24,R,J
    1,R
-  10,R,K,G
-   1,R,J,G
+   1,R,K
+  11,R,J,G
    1
    1,R,K,G
    7,R
@@ -2397,10 +2411,10 @@ console set_boss_seed 80
    1,R,K
   37,R,J
  175
-repeat 15
+Repeat,15
    3,PQ
   15,U
-endrepeat
+EndRepeat
  235
   10,L,V
    8,L,J
@@ -2418,7 +2432,7 @@ endrepeat
    1,R,J
   34,R,K
  335
-Set Celeste.Mod.BossesHelper.Code.Entities.BossController.Random 1
+Set,Celeste.Mod.BossesHelper.Code.Entities.BossController.Random,1
   10,L,V
    8,L,J
   12,K,G
@@ -2435,10 +2449,10 @@ Set Celeste.Mod.BossesHelper.Code.Entities.BossController.Random 1
    1,R,J
   34,R,K
  171
-repeat 10
+Repeat,10
    3,PQ
   15,U
-endrepeat
+EndRepeat
   15,L
   53,R
  127,G
@@ -2483,7 +2497,7 @@ endrepeat
    1,N
 # need delay somehow
    3
-   1,S
+   1,S,N
    1,D,J
   34
    1
@@ -2492,7 +2506,7 @@ endrepeat
    6,L
    1,L,N
    3
-   1,S
+   1,S,N
    1,D,J
   34
   14,R,V
@@ -2506,10 +2520,10 @@ endrepeat
 
 #lvl_FC-04 (2)
   31,L
-repeat 5
+Repeat,5
    1,L,J
   14,L,D,X
-endrepeat
+EndRepeat
   40
 
 #lvl_FC-02 (2)
@@ -2578,7 +2592,7 @@ endrepeat
 
 #lvl_CoT-07 (1)
 # spinner cycle
-   1
+   0
 # -------------
    8,L,J
    2,L
@@ -2646,12 +2660,12 @@ endrepeat
    1,J
    7,L
    6,L,V
-stunpause
+StunPause
    1,L,J
    7,L
   11,L,J
    5,J
-skipinput 3 1
+SkipInput,3,1
   10,U,X
    1,L,J
 EndStunPause
@@ -2674,10 +2688,10 @@ console set_boss_seed 100
   12,J,G
    9,K,G
   68,R,V,G
-repeat 4
+Repeat,4
    1,L,J
   14,L,D,X
-endrepeat
+EndRepeat
    1,L,J
    2,L
   15,D,X
@@ -2787,10 +2801,10 @@ endrepeat
    3,PQ
    1,L
    7,R
-repeat 3
+Repeat,3
    1,R,J
   14,R,D,X
-endrepeat
+EndRepeat
    1,R,J
   11,R,D,X
    3,R,PQ
@@ -2898,7 +2912,7 @@ endrepeat
    6,R
    1,R,N
    3
-   1,S,O
+   1,S,N
    1,D,J
   34
    4,L,V
@@ -3205,7 +3219,7 @@ console set_boss_seed 2
   11,L
    1,L,N
    3
-   1,S
+   1,S,N
    1,D,J
   34
    6,L,V
@@ -3291,10 +3305,10 @@ console set_boss_seed 2
    6,R,V
    1,R,J
    7,R
-repeat 16
+Repeat,16
    1,R,J
   14,R,D,X
-endrepeat
+EndRepeat
    1,R,J
   12,R,D,X
 console set_boss_seed 5
