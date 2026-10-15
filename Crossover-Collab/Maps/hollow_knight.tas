@@ -1,4 +1,4 @@
-RecordCount: 5992
+RecordCount: 6326
 
 console load CrossoverCollab/1-Submissions/Knight
 Invoke, KelperModule.SwingButton.Binding.Keyboard.Clear
@@ -2680,7 +2680,9 @@ EndStunPause
   12,J,G
    7,K,G
   16,U,X
-console set_boss_seed 100
+# a perfect seed does not exist. in fact, the 2^31 seed space does not contain a 1/6561 where all four middle bosses jump+slash
+# EllaTAS has a bruteforcer
+console set_boss_seed 34883024
   40
 
 #lvl_CoT-08 (0)
@@ -2696,6 +2698,7 @@ EndRepeat
    2,L
   15,D,X
  229
+# knight 1
    3,L,PQ
    4,L,U
   14
@@ -2716,168 +2719,126 @@ EndRepeat
    8,R,J
   11,R,D,X
    3,PQ
-   8,L
-  14,L,V
-   1,L,J
-  14,L,D,X
-   1,L,J
-  14,L,D,X
+  30,L
+  14,R,V
    1,R,J
-   2,R
-  15,D,X
- 580
-   3,PQ
-   1,R
-  15
-   3,R
-   4,L,V
-   6,L,J
-  10,L
-  15,D,X
+  14,R,D,X
+   1,R,J
+  14,R,D,X
+   1,R,J
+  14,R,D,X
+   1,R,J
+  15,R,D,X
+# normalize
+ 200
+ 216,L
+ 190
+# knight 2+3
   13,R
-  15
-   4,L
-  26
-   3,PQ
-   1,U
-   9
-   7,J
-   3,PQ
-   7,D
-   4,R
-   9,D,X
-   3,PQ
-   1,L
-   6,L,D
+  51
+   4,U,PQ
+  14
+   4,U,PQ
+  14
+   4,D,PQ
+   5,J
+   1,R,J
+   8,L,J
+   4,L,D,PQ
+  16,L
+   4,L,U,PQ
+   3
+  14,D,X
+   4,U,PQ
+  30,D
+Repeat, 30
+   2
+   2,D
+EndRepeat
+  14,R,V
+   1,R,J
+  14,R,D,X
+   1,R,J
+  14,R,D,X
+   1,R,J
+  14,R,D,X
+   1,R,J
+  14,R,D,X
+   1,R,J
+  15,R,D,X
+# normalize
+ 100,D,X
+ 216,L
+ 173
+# knight 4+5
+  15,L
+  33
+   4,R,PQ
+  13,R
+   1
+   4,R,PQ
+   2
+  12,R
+   4,R,PQ
+  14,R
+   4,R,PQ
+   3,R
+  30,U,X
+   4,D,PQ
+   7,L
+  10,R
+  36,L,D
+   1,D
+   1,L,D
+   1,D
+   1,L,D
+   2,D
+   4,L,D
+   4,L,U,PQ
+   5,L,D
    1,L,J
    9,L
-   3,L,PQ
-   4,L
-   7,R,J
-   9,L,D,X
-   3,PQ
-   3,L
-   1,L,J
-  13,L
-   3,L,PQ
-   3,L
-   1,L,J
-  13,L
-   3,PQ
-   1,D
-  16
-   3,PQ
-  13,D
-  10,D,X
-   3,PQ
-   1,D
-   7,L
-   9,R
-   3,PQ
-   1,D
-  14,R
- 529
-   3,L,PQ
-   1,L,U
-  16,U
-   1,L
-   7,J
-   9,L,J
-   3,L,PQ
-   2,L,D
-   5
-  13,L,D,X
-   3,PQ
-   1,R
-  11
-   8,R,X
-   3,PQ
-   3,R
-  14,R,J
-   3,R,J,PQ
-   1,R,D,J
-   8,R,J
-  11,R,D,X
-   3,PQ
-   1,L
-   7,R
-Repeat,3
-   1,R,J
-  14,R,D,X
-EndRepeat
-   1,R,J
-  11,R,D,X
-   3,R,PQ
-   3,R
-  14,R,J
-   3,PQ
-   1,R,D
-  15,R,X
-  17,L
-   4,X,PQ
-   5,L
-   1,R,J
-  14,R
-   6,L,V
-   1,R,J
-   7,R
-   1,R,J
-   7,R,D,X
-   1,L,J
-   7,L
-   1,L,J
-  11,L,D,X
-   3,PQ
-   1,L
-   2,R,J
-  15,D,X
-   2,L,J
-   3,PQ
-  11,L
-   9,L,D,X
-   3,PQ
-   1,L
-  19,R
-   6,R,V
-   1,R,J
-   7,R
-   1,R,J
-  14,R,D,X
-   1,R,J
-   3
-  15,D,X
- 388
-   3,PQ
-   3,L,U
-  15
-   7,J
-   9,L,J
-   3,L,PQ
-   3,L,D
-   4
-  13,L,D,X
-   3,PQ
-   8,R
-  12,R,X
-   3,PQ
-   3,R
-  14,R,J
-   3,R,J,PQ
-   1,R,D,J
-   8,R,J
-  11,R,D,X
-   3,PQ
-   7,L
+   4,U,PQ
+  14
+   4,U,PQ
+  14
+   4,U,PQ
+  14
+   4,U,PQ
+ 300
   14,L,V
-   1,L,J
-   6,L
+   6,L,J
+  50,R,X,G
+# normalize
+ 225
+  10,L
+   5
+# knight 6
   15,D,X
- 246
+   4,U,PQ
+  16
+   4,D,PQ
+  10
+   4,J
+   2,L,J
+   4,L,D,J,PQ
+  16,L,J
+   4,L,U,PQ
+   7,L
+  12,D,X
+   4,U,PQ
+  16
+   4,U,PQ
+Repeat, 73
+   2
+   2,D
+EndRepeat
+   2
    1,J
    8
    2,J
    5
-   7,L,V
+  12,L,V
    1,R,J
    6,R
    1,R,J
@@ -3301,14 +3262,23 @@ console set_boss_seed 2
    3,R
    1,R,N
  155
+
 #lvl_BET-01
    6,R,V
    1,R,J
    7,R
-Repeat,16
    1,R,J
+Repeat,15
   14,R,D,X
+   1,R,J
 EndRepeat
+  14,R,D,X
+   1,S,N
+   1,D,J
+  34
+# bad resync
+   5,R
+  14,L,D,X
    1,R,J
   12,R,D,X
 console set_boss_seed 5
@@ -3462,4 +3432,4 @@ console set_boss_seed 5
    1,J
   32
 
-#ChapterTime: 10:31.210(37130)
+ChapterTime: 10:25.617(36801)
