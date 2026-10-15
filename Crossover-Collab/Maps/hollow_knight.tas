@@ -1,4 +1,4 @@
-RecordCount: 6326
+RecordCount: 6333
 
 console load CrossoverCollab/1-Submissions/Knight
 Invoke, KelperModule.SwingButton.Binding.Keyboard.Clear
@@ -2357,7 +2357,7 @@ EndStunPause
   32,L,D
    8,D
   47,L,X,G
-console set_boss_seed 80
+console set_boss_seed 2621
   40
 
 #lvl_TA-03
@@ -2432,7 +2432,6 @@ EndRepeat
    1,R,J
   34,R,K
  335
-Set,Celeste.Mod.BossesHelper.Code.Entities.BossController.Random,1
   10,L,V
    8,L,J
   12,K,G
