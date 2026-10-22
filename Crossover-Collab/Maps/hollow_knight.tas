@@ -1,10 +1,10 @@
-RecordCount: 7646
+RecordCount: 7668
 
 console load CrossoverCollab/1-Submissions/Knight
-Invoke, KelperModule.SwingButton.Binding.Keyboard.Clear
-Invoke, KelperModule.SwingButton.Binding.Keyboard.Add, Q
-Set, Kelper.NailFreezeFrames, true
-Invoke Input.Jump.Binding.Keyboard.Insert 0 X
+Invoke,KelperModule.SwingButton.Binding.Keyboard.Clear
+Invoke,KelperModule.SwingButton.Binding.Keyboard.Add,Q
+Set,Kelper.NailFreezeFrames,true
+Invoke,Input.Jump.Binding.Keyboard.Insert,0,X
    1
 
 #Start
@@ -480,7 +480,6 @@ EndRepeat
   40
 
 #lvl_FCr-07
-
    9,L
    1,L,J
   14,L
@@ -773,8 +772,7 @@ EndRepeat
   13,L
  194,R
    1,O
-  34
-
+  30
 # s&q instead of retry for spinner drift
    1,S
    1,U
@@ -1411,7 +1409,6 @@ EndRepeat
    5,R,J
    3,R,J,PQ
    1,J,AL,MR
-#    1,R
    7,R,U,V
    1,R,J,G
   12,R
@@ -1688,6 +1685,7 @@ EndStunPause
    7,R,J
    5,R,U,V
   40
+
 #lvl_FCr-08
    3,PQ
    1,L
@@ -1729,8 +1727,10 @@ EndStunPause
   34,R,G,PX
   14,R,X
   40
-#lvl_CP-05
+
+#lvl_CP-05 (0)
 # spinner cycle
+   0
 # -------------
    1,S,N
    1,D,J
@@ -1879,6 +1879,8 @@ EndStunPause
 #lvl_CP-03 (1)
    5,R,D,X
   40
+
+#lvl_CP-05 (1)
    1
   72,O
    7,L,J
@@ -1904,7 +1906,7 @@ EndStunPause
   10,R
   10,L,D
   16,R,X,G
-  40,A
+  40
 
 #lvl_FW-01 (1)
   17,R
@@ -1994,7 +1996,7 @@ EndStunPause
   11,G,PX
    1,R,PX
   16,L,J,G
-Repeat 4
+Repeat,4
   11,G,PX
    1,R,PX
    1,J
@@ -2010,6 +2012,8 @@ EndRepeat
   11,R,J
   14,U,X
   40
+
+#lvl_CoT-03
    2,R
    1,L,G,PX
    1,L,J,G
@@ -2098,6 +2102,8 @@ EndRepeat
  213,L,X
    1,O
   31
+# cutscene teleport glitch
+# fixed in future version
    1,S,N
    1,D,J
   33
@@ -2610,7 +2616,6 @@ EndRepeat
    2,L,D
   17,U,X
    8,R
-
    1,R,J,G
    7,R
    6,R,Z
@@ -2762,7 +2767,7 @@ EndRepeat
   14
    4,U,PQ
   14
-Repeat 66
+Repeat,66
    2,L
    1,R,D
    1
@@ -2830,7 +2835,7 @@ EndRepeat
    6,L,V,G
    1,L,J,G
   11,L
-Repeat 3
+Repeat,3
    1,L,J
   14,L
 EndRepeat
@@ -3386,4 +3391,4 @@ console set_boss_seed 5
    1,J
   32
 
-ChapterTime: 10:04.894(35582)
+ChapterTime: 10:04.826(35578)
