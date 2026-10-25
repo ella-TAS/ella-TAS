@@ -1,4 +1,4 @@
-RecordCount: 7668
+RecordCount: 7732
 
 console load CrossoverCollab/1-Submissions/Knight
 Invoke,KelperModule.SwingButton.Binding.Keyboard.Clear
@@ -3235,18 +3235,14 @@ EndRepeat
    1,S,N
    1,D,J
   34
-# bad resync
+   3,R,J
    5,R
-  14,L,D,X
-   1,R,J
-  12,R,D,X
 console set_boss_seed 5
   40
 
 #lvl_BET-02
-   2
-   1,R,J
-  14,R,D,X
+   2,R,K
+  10,R
    1,R,J
   14,R,D,X
    1,R,J
@@ -3384,11 +3380,11 @@ console set_boss_seed 5
   29,U
    3,PQ
    1,U
-   3,L,J
- 522
+   4,L,J
+ 521
    1,J
   32
    1,J
   32
 
-ChapterTime: 10:04.826(35578)
+ChapterTime: 10:04.486(35558)
