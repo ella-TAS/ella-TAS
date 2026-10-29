@@ -985,6 +985,7 @@ EndRepeat
    1,L,J
    6,L,D,X
   40
+
 #lvl_d-01 (0)
    3,L
    1,L,J
@@ -1030,7 +1031,6 @@ EndRepeat
    6,L,X
   14,G
   40
-
 
 #lvl_d-01 (1)
    7
@@ -1084,6 +1084,7 @@ EndRepeat
   14,U,X
    1,J
   40
+
 #lvl_d-03 (0)
    7,R
    1,R,J,G
@@ -1122,9 +1123,6 @@ EndRepeat
    6,J
    2,K
    7,R
-
-
-
    6,R,Z
    1,R,J
    7,R
@@ -1506,7 +1504,7 @@ Repeat,7
    1,R,J
 EndRepeat
    7,R,D,X
-Repeat, 32
+Repeat,32
    1,J
    1,O
 EndRepeat
